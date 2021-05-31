@@ -1,0 +1,10 @@
+id_channel;id_video;ymd_hms_video;tweet
+UCFXPzW7RxP6RfQGpRn7WXNw;YaLS2eqoUXs;2021-05-29T04:10:32Z;New #rstats video: w9: An applied example https://www.youtube.com/watch?v=YaLS2eqoUXs #rstats
+UCTTBgWyJl2HrrhQOOc710kA;bn48fQ8aEDA;2021-05-28T15:16:48Z;New #rstats video: Partial dependence plots for Mario Kart world records https://www.youtube.com/watch?v=bn48fQ8aEDA #rstats
+UCFXPzW7RxP6RfQGpRn7WXNw;sRSwCdN7ZlI;2021-05-26T21:20:05Z;New #rstats video: w9p2: Review https://www.youtube.com/watch?v=sRSwCdN7ZlI #rstats
+UC2-hKemnrmVCH_29duyJ26A;_QPO2I-2tKk;2021-02-08T23:34:09Z;#rstats video:  David Meza - Developing a Knowledge Graph of your Knowledge, Skills, Abilities, Tasks and Training https://www.youtube.com/watch?v=_QPO2I-2tKk
+UCGuktEl5InrcxPfCjmPWxsA;D4ojrF8AeeQ;2020-07-27T16:00:05Z;#rstats video:  Parsing text with sed: Extracting information from paths and filenames in a bash script (CC020) https://www.youtube.com/watch?v=D4ojrF8AeeQ
+UC_R5smHVXRYGhZYDJsnXTwg;lPqofwegy2g;2019-08-03T13:51:50Z;#rstats video:  useR! 2019 Toulouse - Talk Forecasting - Ivan Svetunkov https://www.youtube.com/watch?v=lPqofwegy2g
+UCeiiqmVK07qhY-wvg3IZiZQ;EHqFDXa-sH4;2021-03-02T22:12:19Z;#rstats video:  Tidy Tuesday live screencast: Analyzing Super Bowl ads in R https://www.youtube.com/watch?v=EHqFDXa-sH4
+UCGuktEl5InrcxPfCjmPWxsA;3y7pJYURspA;2021-01-25T17:00:01Z;#rstats video:  Creating publication quality figures in R with ggplot2 (CC066) https://www.youtube.com/watch?v=3y7pJYURspA
+UCYgIy7zeC7v6iZhx0-NywBw;a83ipofRWGY;2019-05-31T13:29:44Z;#rstats video:  Rike Bolam: Introducing R-ladies Newcastle https://www.youtube.com/watch?v=a83ipofRWGY

@@ -1,0 +1,32 @@
+id_channel;name_channel
+UCWI1xyk6Jb4t2OOyP2LS4DQ;John Muschelli
+UCnwYO3Sz_emBTC1sTZ6TlsQ;Andrew Couch
+UCeiiqmVK07qhY-wvg3IZiZQ;David Robinson
+UC_R5smHVXRYGhZYDJsnXTwg;R Consortium
+UCYgIy7zeC7v6iZhx0-NywBw;satRdays
+UCwLy_PYrnCEhCU-Ay2F5Drw;Why R? Foundation
+UCTTBgWyJl2HrrhQOOc710kA;Julia Silge
+UC3xfbCMLCw1Hh4dWop3XtHg;RStudio
+UCT9SgxpakGSH-yfRj_QhzIQ;Thomas Lin Pedersen
+UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats
+UC2-hKemnrmVCH_29duyJ26A;Lander Analytics
+UCwQ7lkY6YWzZjT807Itbvtw;Shiny DeveloperSeries
+UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham
+UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly
+UCFXPzW7RxP6RfQGpRn7WXNw;Daniel Anderson
+UCF9ymC7Dpjwr0lge2QR_A5Q;webin-R
+UCwj8tOO9Go3hA3N6_jQGDlA;finnstats
+UCGuktEl5InrcxPfCjmPWxsA;Riffomonas Project
+UCMdihazndR0f9XBoSXWqnYg;Statistics of DOOM
+UCKFp00-PRnuc1Dx4DaUmJBg;Chad C. Williams
+UCPzO5TjnYnBzfUVj6fI3pdw;Vivian Codes
+UCxdCZGywhd2R5BiOP8vOgqg;R Programming - DDS
+UCC3CCtUrSSQoJkxodRKr89g;Lisa Lendway - Statistics & Data Science
+UCBV194XNr6CIQCCuw1v2rMQ;dataslice
+UC6wfyYnDaebrARFWhWdcItA;R Stats
+UCY98oWVfQEZ_i7R_0JqIRZA;R- Ladies Amsterdam
+UClC5yNEjMoE3MmbK-mrV8Ow;R-Ladies Melbourne
+UCDgj5-mFohWZ5irWSFMFcng;R-Ladies Global
+UCCaChdLMTYMxyawR_Qf-kYA;R4DS Online Learning Community
+
+
