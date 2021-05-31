@@ -17,8 +17,7 @@ source("function/tibble_video_info.R")
 source("function/tweet_videos.R")
 source("function/write_tweet_txt.R")
 
-yt_oauth("254514166834-4gai69ivsgba5cl7il7valh1lkvtv8vl.apps.googleusercontent.com", 
-         "Cb7YSYe8rCcoDxLIcYnwxvC8", token = "")
+
 auth_as("rstatsvideo")
 
 
