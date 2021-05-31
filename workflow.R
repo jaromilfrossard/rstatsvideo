@@ -19,7 +19,7 @@ source("function/write_tweet_txt.R")
 
 
 auth_as("rstatsvideo")
-
+source("youtube_oauth.R")
 
 
 tb_channel <- readr::read_delim("data/list_channel.txt",delim=";",
