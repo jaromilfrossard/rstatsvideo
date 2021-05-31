@@ -7,4 +7,8 @@
 
 <!-- badges: end -->
 
-rstatsvideo is a twitter-bot that share youtube video on R.
+[rstatsvideo](https://twitter.com/rstatsvideo) is a twitter-bot that
+shares youtube videos on R.
+
+rstatsvideo shares the new videos from the youtube channels in the files
+“data/list\_channel.txt”.
