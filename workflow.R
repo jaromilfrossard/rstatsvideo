@@ -32,13 +32,5 @@ walk(tb_channel$id_channel,update_channel_video)
 
 
 ##tweet_new videos
-tweet_videos(tweet_older = F)
-
-
-
-tb_videos <- load_current_video()
-  
-tb_videos%>%
-  filter(ymd_hms_video== max(ymd_hms_video))
-
+tweet_videos(tweet_older = T)
 

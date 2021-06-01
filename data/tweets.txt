@@ -8,3 +8,6 @@ UC_R5smHVXRYGhZYDJsnXTwg;lPqofwegy2g;2019-08-03T13:51:50Z;#rstats video:  useR! 
 UCeiiqmVK07qhY-wvg3IZiZQ;EHqFDXa-sH4;2021-03-02T22:12:19Z;#rstats video:  Tidy Tuesday live screencast: Analyzing Super Bowl ads in R https://www.youtube.com/watch?v=EHqFDXa-sH4
 UCGuktEl5InrcxPfCjmPWxsA;3y7pJYURspA;2021-01-25T17:00:01Z;#rstats video:  Creating publication quality figures in R with ggplot2 (CC066) https://www.youtube.com/watch?v=3y7pJYURspA
 UCYgIy7zeC7v6iZhx0-NywBw;a83ipofRWGY;2019-05-31T13:29:44Z;#rstats video:  Rike Bolam: Introducing R-ladies Newcastle https://www.youtube.com/watch?v=a83ipofRWGY
+UC_R5smHVXRYGhZYDJsnXTwg;VeeQaF0KXAA;2019-08-03T13:51:51Z;#rstats video:  useR! 2019 Toulouse - Talk Models 2 - Wei Jiang https://www.youtube.com/watch?v=VeeQaF0KXAA
+UC3xfbCMLCw1Hh4dWop3XtHg;blJ6KgjwVbw;2017-11-29T15:38:00Z;#rstats video:  Introducing an R interface for Apache Spark | RStudio Webinar - 2017 https://www.youtube.com/watch?v=blJ6KgjwVbw
+UC2-hKemnrmVCH_29duyJ26A;mxIikoVtuaY;2016-08-18T07:09:03Z;#rstats video:  Making Race Cars Go Faster with R https://www.youtube.com/watch?v=mxIikoVtuaY
