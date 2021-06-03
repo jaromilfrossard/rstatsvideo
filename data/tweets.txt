@@ -19,3 +19,6 @@ UCCaChdLMTYMxyawR_Qf-kYA;mVWfEiaiPiQ;2021-06-01T21:20:53Z;New #rstats video: Dat
 UCCaChdLMTYMxyawR_Qf-kYA;kvErHKVvQTI;2021-06-01T21:15:54Z;New #rstats video: Data Science in Education Using R Book Club Ch 16. Teaching Data Science (2021-05-12) (dsieur01) https://www.youtube.com/watch?v=kvErHKVvQTI
 UCU5ZiUm-OLbVGW7NP0e-eFQ;5d3hheaI1v4;2021-06-01T18:11:43Z;New #rstats video: R Tutorial 2021- 6: Element Selection and Summary Statistics in R https://www.youtube.com/watch?v=5d3hheaI1v4
 UCGuktEl5InrcxPfCjmPWxsA;u0yQfr7d0vs;2021-06-01T16:00:34Z;New #rstats video: String manipulation in R with regular expressions using stringr and glue (CC111) https://www.youtube.com/watch?v=u0yQfr7d0vs
+UCwLy_PYrnCEhCU-Ay2F5Drw;ryJst_ICKik;2021-06-03T11:11:07Z;"New #rstats video: R-Ladies Remote Takeover 1 - ""Using {gtsummary} For Public Health Research"" with Afiqah Masrani https://www.youtube.com/watch?v=ryJst_ICKik"
+UCFXPzW7RxP6RfQGpRn7WXNw;85kQBw7um50;2021-06-02T22:27:40Z;New #rstats video: w10p2: R pkg dev https://www.youtube.com/watch?v=85kQBw7um50
+UCDgj5-mFohWZ5irWSFMFcng;Q_r7KKdH38E;2021-06-02T16:11:36Z;New #rstats video: R-Ladies DC (English) - Exploring Our Universe Through Sight & Sound (or Touch!) - Dr Kim Arcand https://www.youtube.com/watch?v=Q_r7KKdH38E

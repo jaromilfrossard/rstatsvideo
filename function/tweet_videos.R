@@ -89,7 +89,10 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",tweet_older = TRUE){
         tb_tweet_new%>%
         select(id_channel,id_video,ymd_hms_video,tweet)
       
-      lapply(tb_tweet_new$tweet, rtweet::post_tweet)
+      lapply(tb_tweet_new$tweet, function(tweeti){
+        rtweet::post_tweet(tweeti)
+        Sys.sleep(15)
+        })
       
       tb_tweet_new <- 
         bind_rows(tb_tweet_old,
