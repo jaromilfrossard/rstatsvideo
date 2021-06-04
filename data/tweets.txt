@@ -22,3 +22,9 @@ UCGuktEl5InrcxPfCjmPWxsA;u0yQfr7d0vs;2021-06-01T16:00:34Z;New #rstats video: Str
 UCwLy_PYrnCEhCU-Ay2F5Drw;ryJst_ICKik;2021-06-03T11:11:07Z;"New #rstats video: R-Ladies Remote Takeover 1 - ""Using {gtsummary} For Public Health Research"" with Afiqah Masrani https://www.youtube.com/watch?v=ryJst_ICKik"
 UCFXPzW7RxP6RfQGpRn7WXNw;85kQBw7um50;2021-06-02T22:27:40Z;New #rstats video: w10p2: R pkg dev https://www.youtube.com/watch?v=85kQBw7um50
 UCDgj5-mFohWZ5irWSFMFcng;Q_r7KKdH38E;2021-06-02T16:11:36Z;New #rstats video: R-Ladies DC (English) - Exploring Our Universe Through Sight & Sound (or Touch!) - Dr Kim Arcand https://www.youtube.com/watch?v=Q_r7KKdH38E
+UCMdihazndR0f9XBoSXWqnYg;EGULjLNAZy8;2021-06-04T16:00:21Z;New #rstats video: R - Behavioral Profiles and Clustering https://www.youtube.com/watch?v=EGULjLNAZy8
+UCwj8tOO9Go3hA3N6_jQGDlA;BaJDOrUsbh0;2021-06-04T11:27:00Z;New #rstats video: Cluster Sampling https://www.youtube.com/watch?v=BaJDOrUsbh0
+UCwLy_PYrnCEhCU-Ay2F5Drw;UGuNPcIfoMw;2021-06-03T21:14:19Z;"New #rstats video: R-Ladies Remote Takeover 3 - ""Using R and text mining for social action"" Beatriz Valdez https://www.youtube.com/watch?v=UGuNPcIfoMw"
+UCGuktEl5InrcxPfCjmPWxsA;lhst1oc9mKQ;2021-06-03T16:00:17Z;New #rstats video: Using the purrr and broom R packages to easily perform thousands of statistical tests (CC112) https://www.youtube.com/watch?v=lhst1oc9mKQ
+UCwLy_PYrnCEhCU-Ay2F5Drw;y32HYb9cJmA;2021-06-03T14:10:00Z;New #rstats video: Why R? World 28 - Erica Tavares (Angola) https://www.youtube.com/watch?v=y32HYb9cJmA
+UCwLy_PYrnCEhCU-Ay2F5Drw;C26apzaSUiM;2021-06-03T14:04:16Z;"New #rstats video: R-Ladies Remote Takeover 2 - ""Natural Language Processing for Survey Text Data"" with Tuli Amutenya https://www.youtube.com/watch?v=C26apzaSUiM"
