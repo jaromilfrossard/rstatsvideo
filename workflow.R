@@ -22,7 +22,7 @@ source("function/write_tweet_txt.R")
 auth_as("rstatsvideo")
 source("youtube_oauth.R")
 
-gert::git_push()
+gert::git_pull()
 
 tb_channel <- readr::read_delim("data/list_channel.txt",delim=";",
                                 col_types = cols(
@@ -37,6 +37,6 @@ walk(tb_channel$id_channel,update_channel_video)
 tweet_videos(tweet_older = T)
 
 
-gert::git_commit_all("gert")
+gert::git_commit_all("gert2")
 
 gert::git_push()
