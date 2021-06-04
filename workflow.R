@@ -37,6 +37,7 @@ walk(tb_channel$id_channel,update_channel_video)
 tweet_videos(tweet_older = T)
 
 
-gert::git_commit_all("gert2")
+commit_message <- paste0("update ",format(Sys.Date()+1, "%Y_%m_%d"))
+gert::git_commit_all(commit_message)
 
 gert::git_push()
