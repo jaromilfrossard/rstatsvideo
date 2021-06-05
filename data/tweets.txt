@@ -28,3 +28,8 @@ UCwLy_PYrnCEhCU-Ay2F5Drw;UGuNPcIfoMw;2021-06-03T21:14:19Z;"New #rstats video: R-
 UCGuktEl5InrcxPfCjmPWxsA;lhst1oc9mKQ;2021-06-03T16:00:17Z;New #rstats video: Using the purrr and broom R packages to easily perform thousands of statistical tests (CC112) https://www.youtube.com/watch?v=lhst1oc9mKQ
 UCwLy_PYrnCEhCU-Ay2F5Drw;y32HYb9cJmA;2021-06-03T14:10:00Z;New #rstats video: Why R? World 28 - Erica Tavares (Angola) https://www.youtube.com/watch?v=y32HYb9cJmA
 UCwLy_PYrnCEhCU-Ay2F5Drw;C26apzaSUiM;2021-06-03T14:04:16Z;"New #rstats video: R-Ladies Remote Takeover 2 - ""Natural Language Processing for Survey Text Data"" with Tuli Amutenya https://www.youtube.com/watch?v=C26apzaSUiM"
+UCCaChdLMTYMxyawR_Qf-kYA;XOurCfeJLGc;2021-06-05T20:22:02Z;New #rstats video: Advanced R Book Club: Ch 11: Function operators (2021-06-01) (advr05) https://www.youtube.com/watch?v=XOurCfeJLGc
+UCCaChdLMTYMxyawR_Qf-kYA;4KpLyFlKAok;2021-06-05T20:13:34Z;New #rstats video: R for Data Science Book Club: Chapter 23: Model basics (2021-06-02) (r4ds04) https://www.youtube.com/watch?v=4KpLyFlKAok
+UCCaChdLMTYMxyawR_Qf-kYA;rn_mMzEnfwo;2021-06-05T19:45:13Z;New #rstats video: R for Data Science Book Club: Chapter 15 continued: Factors (2021-06-01) (r4ds03) https://www.youtube.com/watch?v=rn_mMzEnfwo
+UCCaChdLMTYMxyawR_Qf-kYA;AVtFxxD3eyU;2021-06-05T19:43:29Z;New #rstats video: R for Data Science Book Club: Chapter 18: Pipes (2021-05-25) (r4ds03) https://www.youtube.com/watch?v=AVtFxxD3eyU
+UCCaChdLMTYMxyawR_Qf-kYA;a3G-2B5tohA;2021-06-05T19:40:48Z;New #rstats video: R for Data Science Book Club: Chapter 16 continued: Dates and times (2021-05-18) (r4ds03) https://www.youtube.com/watch?v=a3G-2B5tohA
