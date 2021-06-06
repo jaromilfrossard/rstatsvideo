@@ -33,3 +33,4 @@ UCCaChdLMTYMxyawR_Qf-kYA;4KpLyFlKAok;2021-06-05T20:13:34Z;New #rstats video: R f
 UCCaChdLMTYMxyawR_Qf-kYA;rn_mMzEnfwo;2021-06-05T19:45:13Z;New #rstats video: R for Data Science Book Club: Chapter 15 continued: Factors (2021-06-01) (r4ds03) https://www.youtube.com/watch?v=rn_mMzEnfwo
 UCCaChdLMTYMxyawR_Qf-kYA;AVtFxxD3eyU;2021-06-05T19:43:29Z;New #rstats video: R for Data Science Book Club: Chapter 18: Pipes (2021-05-25) (r4ds03) https://www.youtube.com/watch?v=AVtFxxD3eyU
 UCCaChdLMTYMxyawR_Qf-kYA;a3G-2B5tohA;2021-06-05T19:40:48Z;New #rstats video: R for Data Science Book Club: Chapter 16 continued: Dates and times (2021-05-18) (r4ds03) https://www.youtube.com/watch?v=a3G-2B5tohA
+UCwLy_PYrnCEhCU-Ay2F5Drw;m4k3g0XKs_E;2021-06-06T01:00:08Z;New #rstats video: Why R? World 10: Kevin O'Brien (Ireland) https://www.youtube.com/watch?v=m4k3g0XKs_E
