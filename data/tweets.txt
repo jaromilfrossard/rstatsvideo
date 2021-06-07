@@ -34,3 +34,4 @@ UCCaChdLMTYMxyawR_Qf-kYA;rn_mMzEnfwo;2021-06-05T19:45:13Z;New #rstats video: R f
 UCCaChdLMTYMxyawR_Qf-kYA;AVtFxxD3eyU;2021-06-05T19:43:29Z;New #rstats video: R for Data Science Book Club: Chapter 18: Pipes (2021-05-25) (r4ds03) https://www.youtube.com/watch?v=AVtFxxD3eyU
 UCCaChdLMTYMxyawR_Qf-kYA;a3G-2B5tohA;2021-06-05T19:40:48Z;New #rstats video: R for Data Science Book Club: Chapter 16 continued: Dates and times (2021-05-18) (r4ds03) https://www.youtube.com/watch?v=a3G-2B5tohA
 UCwLy_PYrnCEhCU-Ay2F5Drw;m4k3g0XKs_E;2021-06-06T01:00:08Z;New #rstats video: Why R? World 10: Kevin O'Brien (Ireland) https://www.youtube.com/watch?v=m4k3g0XKs_E
+UCCaChdLMTYMxyawR_Qf-kYA;B2RRopTnwds;2021-06-06T21:00:02Z;New #rstats video: Tidy Modeling with R Book Club: Chapter 14: Iterative Search (2021-05-30) (tmwr02) https://www.youtube.com/watch?v=B2RRopTnwds
