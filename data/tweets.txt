@@ -38,3 +38,27 @@ UCCaChdLMTYMxyawR_Qf-kYA;B2RRopTnwds;2021-06-06T21:00:02Z;New #rstats video: Tid
 UCGuktEl5InrcxPfCjmPWxsA;-DfCitMqdUc;2021-06-08T16:00:00Z;New #rstats video: How to dynamically add significance bars and stars to a figure in ggplot2 (CC113) https://www.youtube.com/watch?v=-DfCitMqdUc
 UCfJyQ3P2k_SuqfxVdqIEQNw;Er-tXfGkL08;2021-06-08T15:30:01Z;New #rstats video: Using ggplot to create bar charts for 2 categorical variables.         R programming for beginners. https://www.youtube.com/watch?v=Er-tXfGkL08
 UCeiiqmVK07qhY-wvg3IZiZQ;HBZyqkVjUgY;2021-06-08T00:19:20Z;New #rstats video: ML Monday live screencast: Predicting board game ratings in R https://www.youtube.com/watch?v=HBZyqkVjUgY
+UCwQ7lkY6YWzZjT807Itbvtw;9TCOkDHj2gE;2021-06-09T12:52:55Z;"New #rstats video: First steps with a Shiny calendar system!
+By Shiny DeveloperSeries
+https://www.youtube.com/watch?v=9TCOkDHj2gE"
+UCFXPzW7RxP6RfQGpRn7WXNw;ezPNfJqKT04;2021-06-09T03:54:44Z;"New #rstats video: w10: Wrapping up
+By Daniel Anderson
+https://www.youtube.com/watch?v=ezPNfJqKT04"
+UCnwYO3Sz_emBTC1sTZ6TlsQ;-U806Yo21lo;2021-06-09T00:00:00Z;"New #rstats video: TidyTuesday: Filtering Basics with R Shiny
+By Andrew Couch
+https://www.youtube.com/watch?v=-U806Yo21lo"
+UCeiiqmVK07qhY-wvg3IZiZQ;1Zj_JJYIk5o;2021-06-08T21:20:55Z;"New #rstats video: Tidy Tuesday live screencast: Analyzing Great Lakes fish in R
+By David Robinson
+https://www.youtube.com/watch?v=1Zj_JJYIk5o"
+UCCaChdLMTYMxyawR_Qf-kYA;kUMRnS-APlc;2021-06-08T17:35:14Z;"New #rstats video: Mastering Shiny Book Club: Chapter 14: The reactive graph (2021-06-01) (mshiny01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=kUMRnS-APlc"
+UCCaChdLMTYMxyawR_Qf-kYA;tXShS1PVKlY;2021-06-08T17:34:50Z;"New #rstats video: Mastering Shiny Book Club: Chapter 13: Why reactivity (2021-05-25) (mshiny01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=tXShS1PVKlY"
+UCCaChdLMTYMxyawR_Qf-kYA;Vq2GKCbfpTI;2021-06-08T17:34:21Z;"New #rstats video: Mastering Shiny Book Club: the golem package (2021-05-18) (mshiny01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=Vq2GKCbfpTI"
+UCCaChdLMTYMxyawR_Qf-kYA;-wG0XrZe00U;2021-06-08T17:25:22Z;"New #rstats video: Tidy Modeling with R Book Club: Chapter 7 (Fitting models with parsnip) (2021-06-07) (tmwr03)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=-wG0XrZe00U"

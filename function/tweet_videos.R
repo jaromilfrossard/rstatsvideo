@@ -1,4 +1,14 @@
-tweet_videos <- function(file_tweet = "data/tweets.txt",tweet_older = TRUE){
+tweet_videos <- function(file_tweet = "data/tweets.txt",
+                         file_channel = "data/list_channel.txt",tweet_older = TRUE){
+  
+  tb_channel <- read_delim(file_channel,delim=";",
+                           col_types = cols(
+                             id_channel = col_character(),
+                             name_channel = col_character()
+                           ))
+  
+  
+  
   if(!file.exists(file_tweet)){
     ## first tweets
     tb_videos <- load_current_video()
@@ -6,10 +16,11 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",tweet_older = TRUE){
     tb_videos%>%
       arrange(desc(ymd_hms_video))%>%
       slice(1:3)%>%
+      left_join(tb_channel,by = "id_channel")%>%
       mutate(info = map(id_video,tibble_video_infos))%>%
       unnest(info)%>%
-      mutate(tweet = pmap_chr(list(id_video,title_video),function(id,title){
-        write_tweet_txt(id,title)
+      mutate(tweet = pmap_chr(list(id_video,title_video,name_channel),function(id,title,ni){
+        write_tweet_txt(id,title,name_channel = ni)
       }))
     
     tb_tweet<- 
@@ -67,10 +78,11 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",tweet_older = TRUE){
         tb_tweet_new%>%
         dplyr::select(-count)%>%
         arrange(desc(ymd_hms_video))%>%
+        left_join(tb_channel,by = "id_channel")%>%
         mutate(info = map(id_video,tibble_video_infos))%>%
         unnest(info)%>%
-        mutate(tweet = pmap_chr(list(id_video,title_video),function(id,title){
-          write_tweet_txt(id,title,header = "#rstats video: ")}))
+        mutate(tweet = pmap_chr(list(id_video,title_video,name_channel),function(id,title,ni){
+          write_tweet_txt(id,title,header = "#rstats video: ", name_channel = ni)}))
 
       
       
@@ -78,10 +90,11 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",tweet_older = TRUE){
       tb_tweet_new<-
         tb_videos_new%>%
         arrange(desc(ymd_hms_video))%>%
+        left_join(tb_channel,by = "id_channel")%>%
         mutate(info = map(id_video,tibble_video_infos))%>%
         unnest(info)%>%
-        mutate(tweet = pmap_chr(list(id_video,title_video),function(id,title){
-          write_tweet_txt(id,title)}))
+        mutate(tweet = pmap_chr(list(id_video,title_video,name_channel),function(id,title,ni){
+          write_tweet_txt(id,title, name_channel = ni)}))
       }
       
     if(!is.null(tb_tweet_new)){
