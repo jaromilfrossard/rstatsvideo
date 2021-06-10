@@ -62,3 +62,18 @@ https://www.youtube.com/watch?v=Vq2GKCbfpTI"
 UCCaChdLMTYMxyawR_Qf-kYA;-wG0XrZe00U;2021-06-08T17:25:22Z;"New #rstats video: Tidy Modeling with R Book Club: Chapter 7 (Fitting models with parsnip) (2021-06-07) (tmwr03)
 By R4DS Online Learning Community
 https://www.youtube.com/watch?v=-wG0XrZe00U"
+UCCaChdLMTYMxyawR_Qf-kYA;HjFakQsuc9Y;2021-06-10T07:22:49Z;"New #rstats video: R para Ciencia de Datos Club de Lectura: Capítulo 23: Modelos - Parte 2 (2021-06-08) (r4ds_es01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=HjFakQsuc9Y"
+UCCaChdLMTYMxyawR_Qf-kYA;EnHoVzJJ02c;2021-06-10T07:15:01Z;"New #rstats video: R para Ciencia de Datos Club de Lectura: Capítulos 22 y 23: Modelos-Parte 1 (2021-06-01) (r4ds_es01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=EnHoVzJJ02c"
+UCCaChdLMTYMxyawR_Qf-kYA;8VSqhkP1z-A;2021-06-10T07:11:22Z;"New #rstats video: R para Ciencia de Datos Club de Lectura: Capítulo 21: Iteración - Parte 2 (2021-05-25) (r4ds_es01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=8VSqhkP1z-A"
+UCCaChdLMTYMxyawR_Qf-kYA;NeHtEGab1Og;2021-06-09T20:40:40Z;"New #rstats video: Advanced R Book Club: Object oriented programming intro (2021-06-08) (advr05)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=NeHtEGab1Og"
+UCCaChdLMTYMxyawR_Qf-kYA;uwawZNrU-5k;2021-06-09T20:34:32Z;"New #rstats video: Mastering Shiny Book Club: Chapter 15: Reactive building blocks (2021-06-08) (mshiny01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=uwawZNrU-5k"
