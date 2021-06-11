@@ -77,3 +77,15 @@ https://www.youtube.com/watch?v=NeHtEGab1Og"
 UCCaChdLMTYMxyawR_Qf-kYA;uwawZNrU-5k;2021-06-09T20:34:32Z;"New #rstats video: Mastering Shiny Book Club: Chapter 15: Reactive building blocks (2021-06-08) (mshiny01)
 By R4DS Online Learning Community
 https://www.youtube.com/watch?v=uwawZNrU-5k"
+UCDgj5-mFohWZ5irWSFMFcng;n83elxi87Es;2021-06-11T11:40:24Z;"New #rstats video: R-Ladies Tbilisi (English) - First steps on Git using R-Studio and GitHub - Elisa Schneider
+By R-Ladies Global
+https://www.youtube.com/watch?v=n83elxi87Es"
+UCwQ7lkY6YWzZjT807Itbvtw;84Vg7HKzd2E;2021-06-11T08:30:03Z;"New #rstats video: Episode 21: Shiny App Stories with Nick Strayer
+By Shiny DeveloperSeries
+https://www.youtube.com/watch?v=84Vg7HKzd2E"
+UCF9ymC7Dpjwr0lge2QR_A5Q;YgoSNYdfTyg;2021-06-10T17:17:35Z;"New #rstats video: webin-R #19 : Trajectoires de soins, un exemple de données longitudinales (3)
+By webin-R
+https://www.youtube.com/watch?v=YgoSNYdfTyg"
+UCGuktEl5InrcxPfCjmPWxsA;ym9biWqrXIY;2021-06-10T16:00:26Z;"New #rstats video: Using the R system function to run another program and create lefse LDA plots (CC114)
+By Riffomonas Project
+https://www.youtube.com/watch?v=ym9biWqrXIY"
