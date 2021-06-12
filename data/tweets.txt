@@ -89,3 +89,9 @@ https://www.youtube.com/watch?v=YgoSNYdfTyg"
 UCGuktEl5InrcxPfCjmPWxsA;ym9biWqrXIY;2021-06-10T16:00:26Z;"New #rstats video: Using the R system function to run another program and create lefse LDA plots (CC114)
 By Riffomonas Project
 https://www.youtube.com/watch?v=ym9biWqrXIY"
+UCwQ7lkY6YWzZjT807Itbvtw;36EBetIVS58;2021-06-11T19:49:44Z;"New #rstats video: More shinycal dev: calendar parsing and bootstrapping {golem}!
+By Shiny DeveloperSeries
+https://www.youtube.com/watch?v=36EBetIVS58"
+UCMdihazndR0f9XBoSXWqnYg;RssT1HryYtI;2021-06-11T16:00:14Z;"New #rstats video: R - Latent Semantic Analysis
+By Statistics of DOOM
+https://www.youtube.com/watch?v=RssT1HryYtI"
