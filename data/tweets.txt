@@ -95,3 +95,12 @@ https://www.youtube.com/watch?v=36EBetIVS58"
 UCMdihazndR0f9XBoSXWqnYg;RssT1HryYtI;2021-06-11T16:00:14Z;"New #rstats video: R - Latent Semantic Analysis
 By Statistics of DOOM
 https://www.youtube.com/watch?v=RssT1HryYtI"
+UCwLy_PYrnCEhCU-Ay2F5Drw;B8COgzAVNmU;2020-12-17T20:25:04Z;"#rstats video:  Why R? Webinar 027 - Paulito Palmes - JuliaR: combining Julia and R
+By Why R? Foundation
+https://www.youtube.com/watch?v=B8COgzAVNmU"
+UC_R5smHVXRYGhZYDJsnXTwg;fQatBdVIzOI;2020-07-08T07:48:14Z;"#rstats video:  useR! 2020: Word Embeddings & Geometric Deep Learning for Network Analysis (M. Ghisletti), lightning
+By R Consortium
+https://www.youtube.com/watch?v=fQatBdVIzOI"
+UCMdihazndR0f9XBoSXWqnYg;kkn7nz_IXJY;2015-11-16T07:07:01Z;"#rstats video:  R - Correlation Lecture 2
+By Statistics of DOOM
+https://www.youtube.com/watch?v=kkn7nz_IXJY"
