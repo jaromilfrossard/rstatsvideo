@@ -113,3 +113,9 @@ https://www.youtube.com/watch?v=IR5gAkp3YF4"
 UCMdihazndR0f9XBoSXWqnYg;XTN6gWWWks4;2016-05-01T06:47:00Z;"#rstats video:  R - Binary Logistic Regression Lecture & Example
 By Statistics of DOOM
 https://www.youtube.com/watch?v=XTN6gWWWks4"
+UCeiiqmVK07qhY-wvg3IZiZQ;VJzdOacghnU;2021-06-15T00:04:43Z;"New #rstats video: ML Monday live screencast: Predicting Chopped ratings in R
+By David Robinson
+https://www.youtube.com/watch?v=VJzdOacghnU"
+UCGuktEl5InrcxPfCjmPWxsA;EgmZuInrnNk;2021-06-14T16:00:10Z;"New #rstats video: Using functions from the ggtext R package to customize the appearance of text in figures (CC115)
+By Riffomonas Project
+https://www.youtube.com/watch?v=EgmZuInrnNk"
