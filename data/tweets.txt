@@ -119,3 +119,12 @@ https://www.youtube.com/watch?v=VJzdOacghnU"
 UCGuktEl5InrcxPfCjmPWxsA;EgmZuInrnNk;2021-06-14T16:00:10Z;"New #rstats video: Using functions from the ggtext R package to customize the appearance of text in figures (CC115)
 By Riffomonas Project
 https://www.youtube.com/watch?v=EgmZuInrnNk"
+UCCaChdLMTYMxyawR_Qf-kYA;TzbrAJfPLKI;2021-06-15T20:51:02Z;"New #rstats video: PS4DS: 3: Statistical Experiments and Significance Testing (2021-06-15) (ps4ds01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=TzbrAJfPLKI"
+UCCaChdLMTYMxyawR_Qf-kYA;FEOUNlB7XYA;2021-06-15T18:02:13Z;"New #rstats video: R for Data Science Book Club: Chapter 25: Many M9dels (2021-06-09) (r4ds04)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=FEOUNlB7XYA"
+UCDgj5-mFohWZ5irWSFMFcng;yzEHzBhrP68;2021-06-15T15:10:40Z;"New #rstats video: R-Ladies Nairobi & #NairobiR (English) - Working with Databases in R - Christopher Maronga
+By R-Ladies Global
+https://www.youtube.com/watch?v=yzEHzBhrP68"
