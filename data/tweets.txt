@@ -128,3 +128,18 @@ https://www.youtube.com/watch?v=FEOUNlB7XYA"
 UCDgj5-mFohWZ5irWSFMFcng;yzEHzBhrP68;2021-06-15T15:10:40Z;"New #rstats video: R-Ladies Nairobi & #NairobiR (English) - Working with Databases in R - Christopher Maronga
 By R-Ladies Global
 https://www.youtube.com/watch?v=yzEHzBhrP68"
+UC3xfbCMLCw1Hh4dWop3XtHg;rzs6aSr4XoU;2021-06-17T13:00:19Z;"New #rstats video: Nicolas Nguyen | R in Supply Chain Management | RStudio
+By RStudio
+https://www.youtube.com/watch?v=rzs6aSr4XoU"
+UC2-hKemnrmVCH_29duyJ26A;kjA7LwaYYfM;2021-06-16T21:26:56Z;"New #rstats video: Emil Hvitfeldt- Text Preprocessing in R
+By Lander Analytics
+https://www.youtube.com/watch?v=kjA7LwaYYfM"
+UCCaChdLMTYMxyawR_Qf-kYA;NXmlqK2LxWw;2021-06-16T18:40:40Z;"New #rstats video: Advanced R Book Club: Chapter 14 (R6) (2021-06-15) (advr05)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=NXmlqK2LxWw"
+UCCaChdLMTYMxyawR_Qf-kYA;J29iQXGmw8w;2021-06-16T18:23:07Z;"New #rstats video: Tidy Modeling with R Book Club: Chapter 8 (A model workflow) (2021-06-14) (tmwr03)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=J29iQXGmw8w"
+UCGuktEl5InrcxPfCjmPWxsA;y6OhR6MW3Mw;2021-06-16T17:45:01Z;"New #rstats video: Juneteenth 2021: a data visualization of lynchings using R's ggplot2 package (CC116)
+By Riffomonas Project
+https://www.youtube.com/watch?v=y6OhR6MW3Mw"
