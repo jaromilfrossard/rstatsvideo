@@ -164,3 +164,21 @@ https://www.youtube.com/watch?v=8l70djhwk2E"
 UCPzO5TjnYnBzfUVj6fI3pdw;NyY3lo6Tc6E;2021-06-18T18:51:37Z;"New #rstats video: How to Import and Export Data in Python using Pandas
 By Vivian Codes
 https://www.youtube.com/watch?v=NyY3lo6Tc6E"
+UCCaChdLMTYMxyawR_Qf-kYA;M71Ey5Ikf4Y;2021-06-19T22:25:35Z;"New #rstats video: Tidy Modeling with R Book Club: Chapter 15: Screening Many Models (2021-06-06) (tmwr02)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=M71Ey5Ikf4Y"
+UCCaChdLMTYMxyawR_Qf-kYA;Pdm9G8nfR1g;2021-06-19T22:11:55Z;"New #rstats video: Tidy Modeling with R Book Club: Stacks Again! (2021-06-01) (tmwr01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=Pdm9G8nfR1g"
+UCCaChdLMTYMxyawR_Qf-kYA;J8rZ1u4PhM8;2021-06-19T21:42:40Z;"New #rstats video: Tidy Modeling with R Book Club: Stacks! (2021-05-25) (tmwr01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=J8rZ1u4PhM8"
+UCCaChdLMTYMxyawR_Qf-kYA;tU_GRVUCbx0;2021-06-19T19:16:15Z;"New #rstats video: R for Data Science Book Club: Chapter 27: R Markdown (2021-06-16) (r4ds04)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=tU_GRVUCbx0"
+UCCaChdLMTYMxyawR_Qf-kYA;Ra3qv4bkYoo;2021-06-19T18:59:29Z;"New #rstats video: R for Data Science Book Club: Chapter 19: Functions (2021-06-15) (r4ds03)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=Ra3qv4bkYoo"
+UCCaChdLMTYMxyawR_Qf-kYA;M4cOIFbBNfQ;2021-06-19T18:56:35Z;"New #rstats video: Mastering Shiny Book Club: Chapter 16: Escaping the graph (2021-06-15) (mshiny01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=M4cOIFbBNfQ"
