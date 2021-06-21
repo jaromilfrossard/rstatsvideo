@@ -27,6 +27,13 @@ UC6wfyYnDaebrARFWhWdcItA;R Stats
 UCY98oWVfQEZ_i7R_0JqIRZA;R- Ladies Amsterdam
 UClC5yNEjMoE3MmbK-mrV8Ow;R-Ladies Melbourne
 UCDgj5-mFohWZ5irWSFMFcng;R-Ladies Global
+UCIbS1KNK7jbcbQVNt7lF62A;R-Ladies Irvine
+UCoL2FUq0Yo3RcjGG0Vf2qmg;R-Ladies Perth
+UCQ7DcXWJm3es06U7lGmBDkw;R Ladies ST
+UCOFcXLjW9atcEuCa5kbOPSw;RLadies Santa Fe
+UCkrf5iL8ef1QHe--zstechA;RLadies Sydney
+UCgmESmRO796bbzOxFNPtXWw;R-Ladies Lausanne
+UCJlLo_WBovtoVUNXQvr3UiA;R-Ladies Lisboa
 UCCaChdLMTYMxyawR_Qf-kYA;R4DS Online Learning Community
 UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen
 UCfJyQ3P2k_SuqfxVdqIEQNw;R Programming 101
