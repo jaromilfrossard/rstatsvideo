@@ -182,3 +182,15 @@ https://www.youtube.com/watch?v=Ra3qv4bkYoo"
 UCCaChdLMTYMxyawR_Qf-kYA;M4cOIFbBNfQ;2021-06-19T18:56:35Z;"New #rstats video: Mastering Shiny Book Club: Chapter 16: Escaping the graph (2021-06-15) (mshiny01)
 By R4DS Online Learning Community
 https://www.youtube.com/watch?v=M4cOIFbBNfQ"
+UCCaChdLMTYMxyawR_Qf-kYA;lg9G1R2H-f0;2021-06-20T22:04:09Z;"New #rstats video: R Packages Book Club: How do I include things like data, etc? (2021-05-22) (rpkgs02)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=lg9G1R2H-f0"
+UCCaChdLMTYMxyawR_Qf-kYA;PvL6GZOJ4OY;2021-06-20T20:49:46Z;"New #rstats video: Regression and Other Stories Book Club: Chapter 3: Basic Methods in Math & Prob (2021-06-01) (ros01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=PvL6GZOJ4OY"
+UCCaChdLMTYMxyawR_Qf-kYA;8hdHckbQ5X8;2021-06-20T20:49:36Z;"New #rstats video: Regression and Other Stories Book Club: Chapter 4: Statistical inference (2021-06-15) (ros01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=8hdHckbQ5X8"
+UCCaChdLMTYMxyawR_Qf-kYA;2sgUrbUoGW0;2021-06-20T20:23:04Z;"New #rstats video: Regression and Other Stories Book Club: Chapter 2: Data and Measurement (2021-05-25) (ros01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=2sgUrbUoGW0"
