@@ -194,3 +194,18 @@ https://www.youtube.com/watch?v=8hdHckbQ5X8"
 UCCaChdLMTYMxyawR_Qf-kYA;2sgUrbUoGW0;2021-06-20T20:23:04Z;"New #rstats video: Regression and Other Stories Book Club: Chapter 2: Data and Measurement (2021-05-25) (ros01)
 By R4DS Online Learning Community
 https://www.youtube.com/watch?v=2sgUrbUoGW0"
+UCBV194XNr6CIQCCuw1v2rMQ;DiY8EqZDwoI;2021-06-22T17:50:42Z;"New #rstats video: Dplyr Advanced Guide: data cleaning, reshaping, and merging with lubridate, stringr, tidyr, ggplot2
+By dataslice
+https://www.youtube.com/watch?v=DiY8EqZDwoI"
+UCeiiqmVK07qhY-wvg3IZiZQ;IkTfKnUoYf0;2021-06-22T02:14:47Z;"New #rstats video: ML Monday live screencast: Predicting box office performance with R
+By David Robinson
+https://www.youtube.com/watch?v=IkTfKnUoYf0"
+UCTTBgWyJl2HrrhQOOc710kA;7qIg-40rNbo;2021-06-21T16:58:33Z;"New #rstats video: Class imbalance and classification metrics with aircraft wildlife strikes
+By Julia Silge
+https://www.youtube.com/watch?v=7qIg-40rNbo"
+UCGuktEl5InrcxPfCjmPWxsA;Xg7Els_N8_c;2021-06-21T16:00:14Z;"New #rstats video: A history of lynching in the United States (1877-1950) that provides the names of Black victims
+By Riffomonas Project
+https://www.youtube.com/watch?v=Xg7Els_N8_c"
+UCGuktEl5InrcxPfCjmPWxsA;OOpci_5BaE8;2021-06-21T16:00:10Z;"New #rstats video: Juneteenth 2021: Creating a data based movie in R with gganimate of lynchings (CC118)
+By Riffomonas Project
+https://www.youtube.com/watch?v=OOpci_5BaE8"
