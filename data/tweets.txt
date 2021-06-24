@@ -209,3 +209,21 @@ https://www.youtube.com/watch?v=Xg7Els_N8_c"
 UCGuktEl5InrcxPfCjmPWxsA;OOpci_5BaE8;2021-06-21T16:00:10Z;"New #rstats video: Juneteenth 2021: Creating a data based movie in R with gganimate of lynchings (CC118)
 By Riffomonas Project
 https://www.youtube.com/watch?v=OOpci_5BaE8"
+UCwQ7lkY6YWzZjT807Itbvtw;Pzet7NaOG_Y;2021-06-24T18:30:46Z;"New #rstats video: Attempting to link custom JavaScript with {shinycal}!
+By Shiny DeveloperSeries
+https://www.youtube.com/watch?v=Pzet7NaOG_Y"
+UCF9ymC7Dpjwr0lge2QR_A5Q;Ul1oOwiRkAM;2021-06-24T16:38:17Z;"New #rstats video: webin-R #21 : Trajectoires de soins, un exemple de données longitudinales (5)
+By webin-R
+https://www.youtube.com/watch?v=Ul1oOwiRkAM"
+UCGuktEl5InrcxPfCjmPWxsA;ev9h_JyZ_o8;2021-06-24T16:00:14Z;"New #rstats video: How to respond to peer review and prepare to resubmit a manuscript (CC119)
+By Riffomonas Project
+https://www.youtube.com/watch?v=ev9h_JyZ_o8"
+UCY98oWVfQEZ_i7R_0JqIRZA;_AwiOWysBdA;2021-06-23T07:11:00Z;"New #rstats video: R-Ladies Amsterdam: R in production by Veerle van Leemput
+By R- Ladies Amsterdam
+https://www.youtube.com/watch?v=_AwiOWysBdA"
+UCeiiqmVK07qhY-wvg3IZiZQ;42GyyDM3Uzg;2021-06-23T03:07:33Z;"New #rstats video: SLICED Competition Lap 1: Live Screencast
+By David Robinson
+https://www.youtube.com/watch?v=42GyyDM3Uzg"
+UCnwYO3Sz_emBTC1sTZ6TlsQ;GYYTIo-Ct7A;2021-06-23T00:00:03Z;"New #rstats video: TidyTuesday: Reactive Dashboards with R Shiny
+By Andrew Couch
+https://www.youtube.com/watch?v=GYYTIo-Ct7A"
