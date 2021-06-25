@@ -227,3 +227,9 @@ https://www.youtube.com/watch?v=42GyyDM3Uzg"
 UCnwYO3Sz_emBTC1sTZ6TlsQ;GYYTIo-Ct7A;2021-06-23T00:00:03Z;"New #rstats video: TidyTuesday: Reactive Dashboards with R Shiny
 By Andrew Couch
 https://www.youtube.com/watch?v=GYYTIo-Ct7A"
+UCDgj5-mFohWZ5irWSFMFcng;Z6-lBcGOmAo;2021-06-25T06:41:31Z;"New #rstats video: R-Ladies Freiburg (English) - Tidy Text Analysis: Word frequencies & n-grams
+By R-Ladies Global
+https://www.youtube.com/watch?v=Z6-lBcGOmAo"
+UCDgj5-mFohWZ5irWSFMFcng;_un2k-S-c_g;2021-06-24T19:31:21Z;"New #rstats video: R-Ladies Freiburg (English) - Adv. Wrangling: Zero to sHero {Part 5} - Kyla McConnell & Julia Müller
+By R-Ladies Global
+https://www.youtube.com/watch?v=_un2k-S-c_g"
