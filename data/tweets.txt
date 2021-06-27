@@ -236,3 +236,12 @@ https://www.youtube.com/watch?v=_un2k-S-c_g"
 UCMdihazndR0f9XBoSXWqnYg;nPFRAtdfD6c;2021-06-25T16:00:37Z;"New #rstats video: R - Register Variation with Exploratory Factor Analysis
 By Statistics of DOOM
 https://www.youtube.com/watch?v=nPFRAtdfD6c"
+UC_R5smHVXRYGhZYDJsnXTwg;5KnLebiKYuA;2020-07-08T07:56:03Z;"#rstats video:  useR! 2020: DataSailr: enables intuitive row by row data manipulation (T. Umehara), regular
+By R Consortium
+https://www.youtube.com/watch?v=5KnLebiKYuA"
+UCTTBgWyJl2HrrhQOOc710kA;hpudxAmxHSM;2020-05-21T17:37:06Z;"#rstats video:  Tuning XGBoost using tidymodels
+By Julia Silge
+https://www.youtube.com/watch?v=hpudxAmxHSM"
+UC2-hKemnrmVCH_29duyJ26A;I5w4GimIzK4;2019-03-26T15:07:01Z;"#rstats video:  Practical R - R as LEGO to Solve Real Problems
+By Lander Analytics
+https://www.youtube.com/watch?v=I5w4GimIzK4"
