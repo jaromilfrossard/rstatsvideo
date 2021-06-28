@@ -245,3 +245,12 @@ https://www.youtube.com/watch?v=hpudxAmxHSM"
 UC2-hKemnrmVCH_29duyJ26A;I5w4GimIzK4;2019-03-26T15:07:01Z;"#rstats video:  Practical R - R as LEGO to Solve Real Problems
 By Lander Analytics
 https://www.youtube.com/watch?v=I5w4GimIzK4"
+UC2-hKemnrmVCH_29duyJ26A;d7Cudw0EJNg;2021-02-08T23:35:10Z;"#rstats video:  Gwynn Sturdevant - FasteR Code: Vectorizing Computations in R
+By Lander Analytics
+https://www.youtube.com/watch?v=d7Cudw0EJNg"
+UCeiiqmVK07qhY-wvg3IZiZQ;C69QyycHsgE;2018-12-04T13:39:43Z;"#rstats video:  Tidy Tuesday screencast: analyzing Medium articles with R
+By David Robinson
+https://www.youtube.com/watch?v=C69QyycHsgE"
+UCMdihazndR0f9XBoSXWqnYg;wINHrk3O-mE;2016-08-12T13:32:50Z;"#rstats video:  SPSS - Introduction to Software Example
+By Statistics of DOOM
+https://www.youtube.com/watch?v=wINHrk3O-mE"
