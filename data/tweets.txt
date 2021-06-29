@@ -254,3 +254,15 @@ https://www.youtube.com/watch?v=C69QyycHsgE"
 UCMdihazndR0f9XBoSXWqnYg;wINHrk3O-mE;2016-08-12T13:32:50Z;"#rstats video:  SPSS - Introduction to Software Example
 By Statistics of DOOM
 https://www.youtube.com/watch?v=wINHrk3O-mE"
+UC3xfbCMLCw1Hh4dWop3XtHg;yf_bu56DGYE;2021-06-29T16:30:09Z;"New #rstats video: Art Steinmetz | Open Source Data Science in the Enterprise | RStudio
+By RStudio
+https://www.youtube.com/watch?v=yf_bu56DGYE"
+UCGuktEl5InrcxPfCjmPWxsA;sxErFMF7BJY;2021-06-28T16:00:20Z;"New #rstats video: Integrating RStudio with a new or existing project on GitHub (CC120)
+By Riffomonas Project
+https://www.youtube.com/watch?v=sxErFMF7BJY"
+UCDgj5-mFohWZ5irWSFMFcng;iTpVdI3tMwE;2021-06-28T15:01:15Z;"New #rstats video: R-Ladies Bucharest (English) - Take yourself to the next level by challenges, Haifa Ben Messaoud
+By R-Ladies Global
+https://www.youtube.com/watch?v=iTpVdI3tMwE"
+UC3xfbCMLCw1Hh4dWop3XtHg;rK2N47r78hc;2021-06-28T14:00:19Z;"New #rstats video: Shatrunjai Singh | R in Insurance | RStudio
+By RStudio
+https://www.youtube.com/watch?v=rK2N47r78hc"
