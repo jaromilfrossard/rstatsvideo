@@ -266,3 +266,9 @@ https://www.youtube.com/watch?v=iTpVdI3tMwE"
 UC3xfbCMLCw1Hh4dWop3XtHg;rK2N47r78hc;2021-06-28T14:00:19Z;"New #rstats video: Shatrunjai Singh | R in Insurance | RStudio
 By RStudio
 https://www.youtube.com/watch?v=rK2N47r78hc"
+UCCaChdLMTYMxyawR_Qf-kYA;jvN0YP37Xlg;2021-06-30T17:34:07Z;"New #rstats video: Tidy Modeling with R Book Club: Chapter 9: Judging model effectiveness (2021-06-28) (tmwr03)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=jvN0YP37Xlg"
+UCGuktEl5InrcxPfCjmPWxsA;tBxGVfvx-Gc;2021-06-30T16:00:36Z;"New #rstats video: Cleaning and manipulating data with the tidyverse: dplyr, readr, and stringr in action (CC121)
+By Riffomonas Project
+https://www.youtube.com/watch?v=tBxGVfvx-Gc"
