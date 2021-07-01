@@ -272,3 +272,9 @@ https://www.youtube.com/watch?v=jvN0YP37Xlg"
 UCGuktEl5InrcxPfCjmPWxsA;tBxGVfvx-Gc;2021-06-30T16:00:36Z;"New #rstats video: Cleaning and manipulating data with the tidyverse: dplyr, readr, and stringr in action (CC121)
 By Riffomonas Project
 https://www.youtube.com/watch?v=tBxGVfvx-Gc"
+UC3xfbCMLCw1Hh4dWop3XtHg;pHZ8dsc0PhY;2021-07-01T13:04:26Z;"New #rstats video: Chris Bumgardner | R in Healthcare | RStudio
+By RStudio
+https://www.youtube.com/watch?v=pHZ8dsc0PhY"
+UCTTBgWyJl2HrrhQOOc710kA;VwZKK6kldqo;2021-06-30T21:46:44Z;"New #rstats video: Create a custom metric with tidymodels and NYC Airbnb prices
+By Julia Silge
+https://www.youtube.com/watch?v=VwZKK6kldqo"
