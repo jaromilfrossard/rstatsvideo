@@ -278,3 +278,6 @@ https://www.youtube.com/watch?v=pHZ8dsc0PhY"
 UCTTBgWyJl2HrrhQOOc710kA;VwZKK6kldqo;2021-06-30T21:46:44Z;"New #rstats video: Create a custom metric with tidymodels and NYC Airbnb prices
 By Julia Silge
 https://www.youtube.com/watch?v=VwZKK6kldqo"
+UC3xfbCMLCw1Hh4dWop3XtHg;1zCDWtNEucI;2021-07-01T19:01:23Z;"New #rstats video: Meghan Hall & Mitch Tanney | R in Sports Analytics | RStudio
+By RStudio
+https://www.youtube.com/watch?v=1zCDWtNEucI"
