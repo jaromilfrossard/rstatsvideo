@@ -281,3 +281,9 @@ https://www.youtube.com/watch?v=VwZKK6kldqo"
 UC3xfbCMLCw1Hh4dWop3XtHg;1zCDWtNEucI;2021-07-01T19:01:23Z;"New #rstats video: Meghan Hall & Mitch Tanney | R in Sports Analytics | RStudio
 By RStudio
 https://www.youtube.com/watch?v=1zCDWtNEucI"
+UCDgj5-mFohWZ5irWSFMFcng;KlZjHp9wFBs;2021-07-03T12:22:14Z;"New #rstats video: R-Ladies Johannesburg (English) - How to make web-ready maps - Asmae Toumi
+By R-Ladies Global
+https://www.youtube.com/watch?v=KlZjHp9wFBs"
+UCGuktEl5InrcxPfCjmPWxsA;IoeSrLXeSos;2021-07-02T16:00:23Z;"New #rstats video: Testing for significance with microbiome data on individual taxa using R (CC122)
+By Riffomonas Project
+https://www.youtube.com/watch?v=IoeSrLXeSos"
