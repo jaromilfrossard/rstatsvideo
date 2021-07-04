@@ -287,3 +287,12 @@ https://www.youtube.com/watch?v=KlZjHp9wFBs"
 UCGuktEl5InrcxPfCjmPWxsA;IoeSrLXeSos;2021-07-02T16:00:23Z;"New #rstats video: Testing for significance with microbiome data on individual taxa using R (CC122)
 By Riffomonas Project
 https://www.youtube.com/watch?v=IoeSrLXeSos"
+UC2-hKemnrmVCH_29duyJ26A;MJdsnJCWIuA;2018-08-15T22:32:49Z;"#rstats video:  Comparing Posteriors: Estimating Practical Differences Between Models
+By Lander Analytics
+https://www.youtube.com/watch?v=MJdsnJCWIuA"
+UCMdihazndR0f9XBoSXWqnYg;sIohtfEZdDk;2015-09-08T17:23:13Z;"#rstats video:  R - Graphs - File, Factor, and Reshape Functions
+By Statistics of DOOM
+https://www.youtube.com/watch?v=sIohtfEZdDk"
+UCMdihazndR0f9XBoSXWqnYg;LTYLAb1dugo;2015-08-16T04:01:51Z;"#rstats video:  5 3 Successes in Attention
+By Statistics of DOOM
+https://www.youtube.com/watch?v=LTYLAb1dugo"
