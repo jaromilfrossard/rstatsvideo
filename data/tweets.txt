@@ -296,3 +296,12 @@ https://www.youtube.com/watch?v=sIohtfEZdDk"
 UCMdihazndR0f9XBoSXWqnYg;LTYLAb1dugo;2015-08-16T04:01:51Z;"#rstats video:  5 3 Successes in Attention
 By Statistics of DOOM
 https://www.youtube.com/watch?v=LTYLAb1dugo"
+UCCaChdLMTYMxyawR_Qf-kYA;51PMEM4Efb8;2020-09-23T15:03:30Z;"#rstats video:  Advanced R Book Club: Chapter 6: Functions (2020-09-10) (advr02)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=51PMEM4Efb8"
+UCKFp00-PRnuc1Dx4DaUmJBg;9Eed0OTZAlI;2020-09-10T22:36:26Z;"#rstats video:  Get R Done | R Stats Tutorials: Why You Should Learn R (Or At Least How to Program)
+By Chad C. Williams
+https://www.youtube.com/watch?v=9Eed0OTZAlI"
+UCYgIy7zeC7v6iZhx0-NywBw;XGwpvS6nQKw;2018-10-16T15:14:21Z;"#rstats video:  Recent developments in R's database interface - Kirill Müller - SatRday 2018 Amsterdam
+By satRdays
+https://www.youtube.com/watch?v=XGwpvS6nQKw"
