@@ -305,3 +305,15 @@ https://www.youtube.com/watch?v=9Eed0OTZAlI"
 UCYgIy7zeC7v6iZhx0-NywBw;XGwpvS6nQKw;2018-10-16T15:14:21Z;"#rstats video:  Recent developments in R's database interface - Kirill Müller - SatRday 2018 Amsterdam
 By satRdays
 https://www.youtube.com/watch?v=XGwpvS6nQKw"
+UCeiiqmVK07qhY-wvg3IZiZQ;17BUk_mslKQ;2021-07-06T01:53:38Z;"New #rstats video: ML Monday: Predicting NYC Airbnb prices
+By David Robinson
+https://www.youtube.com/watch?v=17BUk_mslKQ"
+UCDgj5-mFohWZ5irWSFMFcng;D4K7QWqyYdk;2021-07-05T18:28:03Z;"New #rstats video: R-Ladies Tbilisi თბილისი (English) - Bookclub: Chapter 12_Tidy Data - Mariam Asatiani
+By R-Ladies Global
+https://www.youtube.com/watch?v=D4K7QWqyYdk"
+UCDgj5-mFohWZ5irWSFMFcng;mEqR7Eq1APE;2021-07-05T18:14:05Z;"New #rstats video: R-Ladies Tbilisi თბილისი (English) - Bookclub: Chapter 10_Tibbles - Ana Mazmishvili
+By R-Ladies Global
+https://www.youtube.com/watch?v=mEqR7Eq1APE"
+UCGuktEl5InrcxPfCjmPWxsA;X3mRjpt8ZVA;2021-07-05T16:00:12Z;"New #rstats video: Using custom R functions and map, map_dfr, and map2 to create multiple ROC curves (CC123)
+By Riffomonas Project
+https://www.youtube.com/watch?v=X3mRjpt8ZVA"
