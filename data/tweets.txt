@@ -317,3 +317,12 @@ https://www.youtube.com/watch?v=mEqR7Eq1APE"
 UCGuktEl5InrcxPfCjmPWxsA;X3mRjpt8ZVA;2021-07-05T16:00:12Z;"New #rstats video: Using custom R functions and map, map_dfr, and map2 to create multiple ROC curves (CC123)
 By Riffomonas Project
 https://www.youtube.com/watch?v=X3mRjpt8ZVA"
+UCnwYO3Sz_emBTC1sTZ6TlsQ;YVZdP4qtMHg;2021-07-07T00:00:05Z;"New #rstats video: TidyTuesday: Improving R Shiny Performance
+By Andrew Couch
+https://www.youtube.com/watch?v=YVZdP4qtMHg"
+UCPzO5TjnYnBzfUVj6fI3pdw;vRCjU72PXXs;2021-07-06T23:06:41Z;"New #rstats video: How to Combine Data in Python Using Pandas - Part1
+By Vivian Codes
+https://www.youtube.com/watch?v=vRCjU72PXXs"
+UC3xfbCMLCw1Hh4dWop3XtHg;jbR8P9UrsaQ;2021-07-06T13:54:31Z;"New #rstats video: Yu-Hung Chang, Phillip Lear & Brendan Scully | R in Manufacturing & Consumer Products | RStudio
+By RStudio
+https://www.youtube.com/watch?v=jbR8P9UrsaQ"
