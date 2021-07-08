@@ -326,3 +326,9 @@ https://www.youtube.com/watch?v=vRCjU72PXXs"
 UC3xfbCMLCw1Hh4dWop3XtHg;jbR8P9UrsaQ;2021-07-06T13:54:31Z;"New #rstats video: Yu-Hung Chang, Phillip Lear & Brendan Scully | R in Manufacturing & Consumer Products | RStudio
 By RStudio
 https://www.youtube.com/watch?v=jbR8P9UrsaQ"
+UCCaChdLMTYMxyawR_Qf-kYA;h9nWpsAHFuw;2021-07-08T16:39:43Z;"New #rstats video: Tidy Modeling with R Book Club: Ch 10 (Resampling for evaluating performance) (2021-07-05) (tmwr03)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=h9nWpsAHFuw"
+UCGuktEl5InrcxPfCjmPWxsA;uBqzChxAreE;2021-07-07T16:00:21Z;"New #rstats video: Introduction to building machine learning models in R with mikropml (CC124)
+By Riffomonas Project
+https://www.youtube.com/watch?v=uBqzChxAreE"
