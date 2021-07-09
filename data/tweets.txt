@@ -332,3 +332,6 @@ https://www.youtube.com/watch?v=h9nWpsAHFuw"
 UCGuktEl5InrcxPfCjmPWxsA;uBqzChxAreE;2021-07-07T16:00:21Z;"New #rstats video: Introduction to building machine learning models in R with mikropml (CC124)
 By Riffomonas Project
 https://www.youtube.com/watch?v=uBqzChxAreE"
+UCGuktEl5InrcxPfCjmPWxsA;Xbvqdl_krJQ;2021-07-09T16:00:17Z;"New #rstats video: Building machine learning models in R with mikropml: preprocessing data (CC125)
+By Riffomonas Project
+https://www.youtube.com/watch?v=Xbvqdl_krJQ"
