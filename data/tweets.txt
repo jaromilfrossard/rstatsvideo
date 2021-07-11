@@ -335,3 +335,36 @@ https://www.youtube.com/watch?v=uBqzChxAreE"
 UCGuktEl5InrcxPfCjmPWxsA;Xbvqdl_krJQ;2021-07-09T16:00:17Z;"New #rstats video: Building machine learning models in R with mikropml: preprocessing data (CC125)
 By Riffomonas Project
 https://www.youtube.com/watch?v=Xbvqdl_krJQ"
+UCCaChdLMTYMxyawR_Qf-kYA;EUyNA1fVZto;2021-07-11T15:54:18Z;"New #rstats video: R para Ciencia de Datos Club de Lectura: Capítulo 24: Muchos modelos (2021-07-06) (r4ds_es01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=EUyNA1fVZto"
+UCCaChdLMTYMxyawR_Qf-kYA;qEk8ioIu6o4;2021-07-11T15:42:48Z;"New #rstats video: R para Ciencia de Datos Club de Lectura: Capítulo 24: Const. de mod. - Pt 2 (2021-06-29) (r4ds_es01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=qEk8ioIu6o4"
+UCCaChdLMTYMxyawR_Qf-kYA;aC867JMHbOk;2021-07-11T15:34:59Z;"New #rstats video: R para Ciencia de Datos Club de Lectura: Capítulo 24: Const. de mod. - Pt 1 (2021-06-15) (r4ds_es01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=aC867JMHbOk"
+UCwLy_PYrnCEhCU-Ay2F5Drw;PCEPc6Fy-n4;2021-07-10T20:43:51Z;"New #rstats video: Why R? World 18: Matt Aldridge & Richard Pugh (UK)
+By Why R? Foundation
+https://www.youtube.com/watch?v=PCEPc6Fy-n4"
+UCwLy_PYrnCEhCU-Ay2F5Drw;O-lVoPWGAvI;2021-07-10T20:43:45Z;"New #rstats video: Why R? World 14: Ogunyemi Olakunle Joshua (Lagos, Nigeria)
+By Why R? Foundation
+https://www.youtube.com/watch?v=O-lVoPWGAvI"
+UCwLy_PYrnCEhCU-Ay2F5Drw;hskCyPJzKoE;2021-07-10T20:43:40Z;"New #rstats video: Why R? World 15: Dr Aimee Schwab McCoy (Nebraska)
+By Why R? Foundation
+https://www.youtube.com/watch?v=hskCyPJzKoE"
+UCwLy_PYrnCEhCU-Ay2F5Drw;wwSQ3STDtSA;2021-07-10T20:43:32Z;"New #rstats video: Why R? World 16: Ono Gantsog (Mongolia)
+By Why R? Foundation
+https://www.youtube.com/watch?v=wwSQ3STDtSA"
+UCwLy_PYrnCEhCU-Ay2F5Drw;7QnTrshFegw;2021-07-10T20:43:26Z;"New #rstats video: Why R? World 17: Gina Griffin (Florida)
+By Why R? Foundation
+https://www.youtube.com/watch?v=7QnTrshFegw"
+UCwLy_PYrnCEhCU-Ay2F5Drw;iVK58zjf3Yg;2021-07-10T20:43:17Z;"New #rstats video: Why R? World 20 - Dennis Irorere (Nigeria)
+By Why R? Foundation
+https://www.youtube.com/watch?v=iVK58zjf3Yg"
+UCwLy_PYrnCEhCU-Ay2F5Drw;rhXVBAdFvTk;2021-07-10T20:43:07Z;"New #rstats video: Why R? World 22: Ehouman Evans (Cote D'Ivoire)
+By Why R? Foundation
+https://www.youtube.com/watch?v=rhXVBAdFvTk"
+UCwLy_PYrnCEhCU-Ay2F5Drw;IWBX7PkYaig;2021-07-10T20:43:01Z;"New #rstats video: Why R? World 24: Corina McCullough (Florida)
+By Why R? Foundation
+https://www.youtube.com/watch?v=IWBX7PkYaig"
