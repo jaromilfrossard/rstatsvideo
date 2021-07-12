@@ -368,3 +368,12 @@ https://www.youtube.com/watch?v=rhXVBAdFvTk"
 UCwLy_PYrnCEhCU-Ay2F5Drw;IWBX7PkYaig;2021-07-10T20:43:01Z;"New #rstats video: Why R? World 24: Corina McCullough (Florida)
 By Why R? Foundation
 https://www.youtube.com/watch?v=IWBX7PkYaig"
+UC3xfbCMLCw1Hh4dWop3XtHg;ZFTjroC8bTg;2019-09-23T07:00:04Z;"#rstats video:  Max Kuhn | parsnip A tidy model interface | RStudio (2019)
+By RStudio
+https://www.youtube.com/watch?v=ZFTjroC8bTg"
+UC2-hKemnrmVCH_29duyJ26A;ax4LXQ5t38k;2018-08-15T22:32:49Z;"#rstats video:  The Lesser Known Stars of the Tidyverse
+By Lander Analytics
+https://www.youtube.com/watch?v=ax4LXQ5t38k"
+UC_R5smHVXRYGhZYDJsnXTwg;MWO2BlUaPL8;2018-07-13T04:06:30Z;"#rstats video:  Spatial modelling using ‘raster’ package - Part 2
+By R Consortium
+https://www.youtube.com/watch?v=MWO2BlUaPL8"
