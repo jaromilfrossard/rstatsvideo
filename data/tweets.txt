@@ -377,3 +377,6 @@ https://www.youtube.com/watch?v=ax4LXQ5t38k"
 UC_R5smHVXRYGhZYDJsnXTwg;MWO2BlUaPL8;2018-07-13T04:06:30Z;"#rstats video:  Spatial modelling using ‘raster’ package - Part 2
 By R Consortium
 https://www.youtube.com/watch?v=MWO2BlUaPL8"
+UCGuktEl5InrcxPfCjmPWxsA;iRNbIp27viw;2021-07-12T16:00:20Z;"New #rstats video: How to tune hyperparameters for machine learning in R with the mikropml package (CC126)
+By Riffomonas Project
+https://www.youtube.com/watch?v=iRNbIp27viw"
