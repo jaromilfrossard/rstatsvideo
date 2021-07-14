@@ -380,3 +380,15 @@ https://www.youtube.com/watch?v=MWO2BlUaPL8"
 UCGuktEl5InrcxPfCjmPWxsA;iRNbIp27viw;2021-07-12T16:00:20Z;"New #rstats video: How to tune hyperparameters for machine learning in R with the mikropml package (CC126)
 By Riffomonas Project
 https://www.youtube.com/watch?v=iRNbIp27viw"
+UCGuktEl5InrcxPfCjmPWxsA;hlx3-iv6HIQ;2021-07-14T16:00:16Z;"New #rstats video: How to run your R code in parallel with the furrr package (CC127)
+By Riffomonas Project
+https://www.youtube.com/watch?v=hlx3-iv6HIQ"
+UCeiiqmVK07qhY-wvg3IZiZQ;oCGmh3NIJ7I;2021-07-14T03:11:09Z;"New #rstats video: SLICED Competition Lap 2: Live Screencast
+By David Robinson
+https://www.youtube.com/watch?v=oCGmh3NIJ7I"
+UCTTBgWyJl2HrrhQOOc710kA;2g6f-j3sHS4;2021-07-13T21:03:44Z;"New #rstats video: Tune and evaluate a decision tree model with Scooby Doo episodes
+By Julia Silge
+https://www.youtube.com/watch?v=2g6f-j3sHS4"
+UCKMekE_4UfWvZDuBWenG8WA;YyCljqZftGk;2021-07-13T19:44:18Z;"New #rstats video: How to Import & Export csv files in R: Base R, Packages, Benchmarks
+By StatistikinDD 
+https://www.youtube.com/watch?v=YyCljqZftGk"
