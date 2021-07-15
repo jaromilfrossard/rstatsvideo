@@ -392,3 +392,12 @@ https://www.youtube.com/watch?v=2g6f-j3sHS4"
 UCKMekE_4UfWvZDuBWenG8WA;YyCljqZftGk;2021-07-13T19:44:18Z;"New #rstats video: How to Import & Export csv files in R: Base R, Packages, Benchmarks
 By StatistikinDD 
 https://www.youtube.com/watch?v=YyCljqZftGk"
+UCKMekE_4UfWvZDuBWenG8WA;AbHU5tLCmuo;2021-04-06T16:11:13Z;"#rstats video:  ggplot2: Quick Intro to the Grammar of Graphics - Three Basic Layers
+By StatistikinDD 
+https://www.youtube.com/watch?v=AbHU5tLCmuo"
+UCWI1xyk6Jb4t2OOyP2LS4DQ;W7Wn2CWThVk;2019-04-16T21:56:10Z;"#rstats video:  Example output of automated MOOC slide deck
+By John Muschelli
+https://www.youtube.com/watch?v=W7Wn2CWThVk"
+UCMdihazndR0f9XBoSXWqnYg;CyfOS7Ew-Hw;2018-04-13T04:38:45Z;"#rstats video:  MOTE - Z Tests (Shiny App)
+By Statistics of DOOM
+https://www.youtube.com/watch?v=CyfOS7Ew-Hw"
