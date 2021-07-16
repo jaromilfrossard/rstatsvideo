@@ -401,3 +401,12 @@ https://www.youtube.com/watch?v=W7Wn2CWThVk"
 UCMdihazndR0f9XBoSXWqnYg;CyfOS7Ew-Hw;2018-04-13T04:38:45Z;"#rstats video:  MOTE - Z Tests (Shiny App)
 By Statistics of DOOM
 https://www.youtube.com/watch?v=CyfOS7Ew-Hw"
+UCGuktEl5InrcxPfCjmPWxsA;RePn--JJ034;2021-07-16T16:00:30Z;"New #rstats video: Creating an executable R script that you can parallelize with GNU Make (CC128)
+By Riffomonas Project
+https://www.youtube.com/watch?v=RePn--JJ034"
+UC2-hKemnrmVCH_29duyJ26A;2dv7NrYExzo;2021-07-16T03:27:38Z;"New #rstats video: Sean Taylor- When do we actually need caudal inference?
+By Lander Analytics
+https://www.youtube.com/watch?v=2dv7NrYExzo"
+UCwLy_PYrnCEhCU-Ay2F5Drw;9fvwi8fXi28;2021-07-15T19:08:57Z;"New #rstats video: Why R? Webinar 047 - Julia for R-Lovers: Ideas for a dual-language workflow
+By Why R? Foundation
+https://www.youtube.com/watch?v=9fvwi8fXi28"
