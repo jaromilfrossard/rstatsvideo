@@ -410,3 +410,12 @@ https://www.youtube.com/watch?v=2dv7NrYExzo"
 UCwLy_PYrnCEhCU-Ay2F5Drw;9fvwi8fXi28;2021-07-15T19:08:57Z;"New #rstats video: Why R? Webinar 047 - Julia for R-Lovers: Ideas for a dual-language workflow
 By Why R? Foundation
 https://www.youtube.com/watch?v=9fvwi8fXi28"
+UCKMekE_4UfWvZDuBWenG8WA;cvoUFW8d7UA;2021-07-17T06:29:00Z;"New #rstats video: How to Import & Export Excel Files in R: Packages, Benchmarks
+By StatistikinDD 
+https://www.youtube.com/watch?v=cvoUFW8d7UA"
+UCwQ7lkY6YWzZjT807Itbvtw;3Tc_0eqJFEE;2021-07-16T20:10:00Z;"New #rstats video: Discovering the Twitch API for {shinycal}!
+By Shiny DeveloperSeries
+https://www.youtube.com/watch?v=3Tc_0eqJFEE"
+UCwQ7lkY6YWzZjT807Itbvtw;xTafvYX3zmE;2021-07-16T19:35:09Z;"New #rstats video: Episode 22: A fresh coat of Shiny theming with Carson Sievert
+By Shiny DeveloperSeries
+https://www.youtube.com/watch?v=xTafvYX3zmE"
