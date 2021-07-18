@@ -419,3 +419,12 @@ https://www.youtube.com/watch?v=3Tc_0eqJFEE"
 UCwQ7lkY6YWzZjT807Itbvtw;xTafvYX3zmE;2021-07-16T19:35:09Z;"New #rstats video: Episode 22: A fresh coat of Shiny theming with Carson Sievert
 By Shiny DeveloperSeries
 https://www.youtube.com/watch?v=xTafvYX3zmE"
+UCCaChdLMTYMxyawR_Qf-kYA;EjCF7LlvWgI;2021-07-17T19:05:19Z;"New #rstats video: R Packages Book Club: How do I include compiled code? (2021-05-29) (rpkgs02)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=EjCF7LlvWgI"
+UCCaChdLMTYMxyawR_Qf-kYA;5VAvPvL18I0;2021-07-17T18:56:19Z;"New #rstats video: R Packages Book Club: How do I share and promote my package? (2021-06-05) (rpkgs02)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=5VAvPvL18I0"
+UCCaChdLMTYMxyawR_Qf-kYA;C0-KhwRufJw;2021-07-17T18:43:58Z;"New #rstats video: Practical Stats for Data Scientists: Ch4: Regression and Prediction (2021-06-21) (ps4ds01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=C0-KhwRufJw"
