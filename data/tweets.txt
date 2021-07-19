@@ -428,3 +428,15 @@ https://www.youtube.com/watch?v=5VAvPvL18I0"
 UCCaChdLMTYMxyawR_Qf-kYA;C0-KhwRufJw;2021-07-17T18:43:58Z;"New #rstats video: Practical Stats for Data Scientists: Ch4: Regression and Prediction (2021-06-21) (ps4ds01)
 By R4DS Online Learning Community
 https://www.youtube.com/watch?v=C0-KhwRufJw"
+UCGuktEl5InrcxPfCjmPWxsA;SXDj_2LCQo8;2021-07-19T16:00:11Z;"New #rstats video: ACCEPTED! What to check when examining paper proofs (CC129)
+By Riffomonas Project
+https://www.youtube.com/watch?v=SXDj_2LCQo8"
+UCKMekE_4UfWvZDuBWenG8WA;Z5LPjh_EkJk;2021-07-19T15:30:21Z;"New #rstats video: Accessing SQL Databases in R: Three Approaches
+By StatistikinDD 
+https://www.youtube.com/watch?v=Z5LPjh_EkJk"
+UCCaChdLMTYMxyawR_Qf-kYA;VdDqclH2Fio;2021-07-18T16:42:52Z;"New #rstats video: Practical Stats for Data Scientists: Ch4: Regression and Prediction (2021-07-12) (ps4ds01)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=VdDqclH2Fio"
+UCwj8tOO9Go3hA3N6_jQGDlA;OY1sQ_tVnf4;2021-07-18T16:04:20Z;"New #rstats video: Planet Quiz Kerala PSC GK
+By finnstats
+https://www.youtube.com/watch?v=OY1sQ_tVnf4"
