@@ -440,3 +440,24 @@ https://www.youtube.com/watch?v=VdDqclH2Fio"
 UCwj8tOO9Go3hA3N6_jQGDlA;OY1sQ_tVnf4;2021-07-18T16:04:20Z;"New #rstats video: Planet Quiz Kerala PSC GK
 By finnstats
 https://www.youtube.com/watch?v=OY1sQ_tVnf4"
+UCGuktEl5InrcxPfCjmPWxsA;51SyuTBk72k;2021-07-21T16:00:04Z;"New #rstats video: Three ways to use slurm on a high performance computer (HPC) (CC130)
+By Riffomonas Project
+https://www.youtube.com/watch?v=51SyuTBk72k"
+UCnwYO3Sz_emBTC1sTZ6TlsQ;l6A0H0fn9rs;2021-07-21T00:00:18Z;"New #rstats video: TidyTuesday: A Data Science Workflow with RStudio
+By Andrew Couch
+https://www.youtube.com/watch?v=l6A0H0fn9rs"
+UCCaChdLMTYMxyawR_Qf-kYA;oyc5T8fh5r0;2021-07-20T18:56:44Z;"New #rstats video: Tidy Modeling with R Book Club: Chapter 11: Comparing models with resampling (2021-07-19) (tmwr03)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=oyc5T8fh5r0"
+UC3xfbCMLCw1Hh4dWop3XtHg;IkqItgPSPro;2021-07-20T16:02:26Z;"New #rstats video: Communicating the Value of Data Science | Data Science Hangout #1
+By RStudio
+https://www.youtube.com/watch?v=IkqItgPSPro"
+UCwj8tOO9Go3hA3N6_jQGDlA;S8MAc3rBnGI;2021-07-20T09:39:38Z;"New #rstats video: Biosphere Reserves of India
+By finnstats
+https://www.youtube.com/watch?v=S8MAc3rBnGI"
+UCwj8tOO9Go3hA3N6_jQGDlA;Nziy7CxwVj8;2021-07-20T07:45:19Z;"New #rstats video: Fathers of Various Field GK PSC
+By finnstats
+https://www.youtube.com/watch?v=Nziy7CxwVj8"
+UCwj8tOO9Go3hA3N6_jQGDlA;hpQMXIRabCs;2021-07-20T07:07:55Z;"New #rstats video: General Knowledge Kerala PSC
+By finnstats
+https://www.youtube.com/watch?v=hpQMXIRabCs"
