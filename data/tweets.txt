@@ -461,3 +461,12 @@ https://www.youtube.com/watch?v=Nziy7CxwVj8"
 UCwj8tOO9Go3hA3N6_jQGDlA;hpQMXIRabCs;2021-07-20T07:07:55Z;"New #rstats video: General Knowledge Kerala PSC
 By finnstats
 https://www.youtube.com/watch?v=hpQMXIRabCs"
+UCeiiqmVK07qhY-wvg3IZiZQ;6V0vAx2Km7U;2020-08-26T10:49:16Z;"#rstats video:  Tidy Tuesday live screencast: Analyzing Chopped epiodes in R
+By David Robinson
+https://www.youtube.com/watch?v=6V0vAx2Km7U"
+UCTTBgWyJl2HrrhQOOc710kA;E2Ld3QdXYZo;2020-02-25T18:11:09Z;"#rstats video:  Get started with tidymodels using vaccination rate data
+By Julia Silge
+https://www.youtube.com/watch?v=E2Ld3QdXYZo"
+UCMdihazndR0f9XBoSXWqnYg;t6uHROGalBo;2019-09-19T15:10:23Z;"#rstats video:  R - Multigroup CFA with lavaan Example
+By Statistics of DOOM
+https://www.youtube.com/watch?v=t6uHROGalBo"
