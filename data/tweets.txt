@@ -470,3 +470,6 @@ https://www.youtube.com/watch?v=E2Ld3QdXYZo"
 UCMdihazndR0f9XBoSXWqnYg;t6uHROGalBo;2019-09-19T15:10:23Z;"#rstats video:  R - Multigroup CFA with lavaan Example
 By Statistics of DOOM
 https://www.youtube.com/watch?v=t6uHROGalBo"
+UC3xfbCMLCw1Hh4dWop3XtHg;Y2zoRCXgPwk;2021-07-23T13:59:59Z;"New #rstats video: Matthias Mueller | R in Marketing | RStudio
+By RStudio
+https://www.youtube.com/watch?v=Y2zoRCXgPwk"
