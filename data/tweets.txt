@@ -473,3 +473,12 @@ https://www.youtube.com/watch?v=t6uHROGalBo"
 UC3xfbCMLCw1Hh4dWop3XtHg;Y2zoRCXgPwk;2021-07-23T13:59:59Z;"New #rstats video: Matthias Mueller | R in Marketing | RStudio
 By RStudio
 https://www.youtube.com/watch?v=Y2zoRCXgPwk"
+UCCaChdLMTYMxyawR_Qf-kYA;BtRTkChZo8c;2021-07-24T18:54:04Z;"New #rstats video: R for Data Science Book Club: Cohort 5 Introduction (2021-07-24) (r4ds05)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=BtRTkChZo8c"
+UCCaChdLMTYMxyawR_Qf-kYA;beOYuHG9Xng;2021-07-24T18:51:45Z;"New #rstats video: Mastering Shiny Book Club: Overview of Happy Git and GitHub for the useR (2021-07-21) (mshiny02)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=beOYuHG9Xng"
+UCwQ7lkY6YWzZjT807Itbvtw;ivZLS1g7JVk;2021-07-23T18:43:44Z;"New #rstats video: Custom interactions with {shinycal}!
+By Shiny DeveloperSeries
+https://www.youtube.com/watch?v=ivZLS1g7JVk"
