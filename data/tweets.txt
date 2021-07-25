@@ -482,3 +482,12 @@ https://www.youtube.com/watch?v=beOYuHG9Xng"
 UCwQ7lkY6YWzZjT807Itbvtw;ivZLS1g7JVk;2021-07-23T18:43:44Z;"New #rstats video: Custom interactions with {shinycal}!
 By Shiny DeveloperSeries
 https://www.youtube.com/watch?v=ivZLS1g7JVk"
+UCMdihazndR0f9XBoSXWqnYg;AWRWCGbUEjU;2021-02-07T02:59:25Z;"#rstats video:  R - Multigroup CFA Class Assignment (2020)
+By Statistics of DOOM
+https://www.youtube.com/watch?v=AWRWCGbUEjU"
+UC_R5smHVXRYGhZYDJsnXTwg;sA8ItKmdwjM;2018-07-15T04:35:11Z;"#rstats video:  Maxcovr: Find the best locations for facilities using the maximal covering location problem
+By R Consortium
+https://www.youtube.com/watch?v=sA8ItKmdwjM"
+UCMdihazndR0f9XBoSXWqnYg;4k8JFvJRw_w;2015-07-08T17:50:29Z;"#rstats video:  SPSS - Three Way Moderation - Interactions with PROCESS
+By Statistics of DOOM
+https://www.youtube.com/watch?v=4k8JFvJRw_w"
