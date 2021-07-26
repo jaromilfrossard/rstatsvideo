@@ -491,3 +491,15 @@ https://www.youtube.com/watch?v=sA8ItKmdwjM"
 UCMdihazndR0f9XBoSXWqnYg;4k8JFvJRw_w;2015-07-08T17:50:29Z;"#rstats video:  SPSS - Three Way Moderation - Interactions with PROCESS
 By Statistics of DOOM
 https://www.youtube.com/watch?v=4k8JFvJRw_w"
+UC3xfbCMLCw1Hh4dWop3XtHg;pNTENrov020;2021-07-26T17:33:23Z;"New #rstats video: Building Cross-Functional Relationships as a Data Science Leader | Data Science Hangout #2
+By RStudio
+https://www.youtube.com/watch?v=pNTENrov020"
+UCGuktEl5InrcxPfCjmPWxsA;FtTbmnx2Quo;2021-07-26T16:00:15Z;"New #rstats video: How to understand R code written by someone else (CC131)
+By Riffomonas Project
+https://www.youtube.com/watch?v=FtTbmnx2Quo"
+UC3xfbCMLCw1Hh4dWop3XtHg;a3ViJuhEthc;2021-07-26T14:29:15Z;"New #rstats video: How to Speak to Executives | Data Science Hangout
+By RStudio
+https://www.youtube.com/watch?v=a3ViJuhEthc"
+UCDgj5-mFohWZ5irWSFMFcng;4-9jX5F_l8g;2021-07-26T12:36:23Z;"New #rstats video: R-Ladies Sydney (English) - DIY R Package - Dr Fonti Kar
+By R-Ladies Global
+https://www.youtube.com/watch?v=4-9jX5F_l8g"
