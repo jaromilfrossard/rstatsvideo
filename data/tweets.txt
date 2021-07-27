@@ -503,3 +503,6 @@ https://www.youtube.com/watch?v=a3ViJuhEthc"
 UCDgj5-mFohWZ5irWSFMFcng;4-9jX5F_l8g;2021-07-26T12:36:23Z;"New #rstats video: R-Ladies Sydney (English) - DIY R Package - Dr Fonti Kar
 By R-Ladies Global
 https://www.youtube.com/watch?v=4-9jX5F_l8g"
+UC3xfbCMLCw1Hh4dWop3XtHg;daGR7Qz8C2Q;2021-07-27T13:04:48Z;"New #rstats video: How to Communicate Value | Data Science Hangout Highlights
+By RStudio
+https://www.youtube.com/watch?v=daGR7Qz8C2Q"
