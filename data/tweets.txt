@@ -506,3 +506,12 @@ https://www.youtube.com/watch?v=4-9jX5F_l8g"
 UC3xfbCMLCw1Hh4dWop3XtHg;daGR7Qz8C2Q;2021-07-27T13:04:48Z;"New #rstats video: How to Communicate Value | Data Science Hangout Highlights
 By RStudio
 https://www.youtube.com/watch?v=daGR7Qz8C2Q"
+UCeiiqmVK07qhY-wvg3IZiZQ;Ep8OGhrSAhU;2021-07-28T03:08:55Z;"New #rstats video: SLICED Competition Lap 3: Live Screencast
+By David Robinson
+https://www.youtube.com/watch?v=Ep8OGhrSAhU"
+UC3xfbCMLCw1Hh4dWop3XtHg;gCbB3LleF_g;2021-07-27T23:08:34Z;"New #rstats video: Kaija Gahm | greenT (Shiny Contest) | RStudio
+By RStudio
+https://www.youtube.com/watch?v=gCbB3LleF_g"
+UC3xfbCMLCw1Hh4dWop3XtHg;VMGQ3mVbYXI;2021-07-27T23:07:34Z;"New #rstats video: Ralph Asher | Intro to Monte Carlo Simulation | RStudio
+By RStudio
+https://www.youtube.com/watch?v=VMGQ3mVbYXI"
