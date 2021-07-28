@@ -515,3 +515,12 @@ https://www.youtube.com/watch?v=gCbB3LleF_g"
 UC3xfbCMLCw1Hh4dWop3XtHg;VMGQ3mVbYXI;2021-07-27T23:07:34Z;"New #rstats video: Ralph Asher | Intro to Monte Carlo Simulation | RStudio
 By RStudio
 https://www.youtube.com/watch?v=VMGQ3mVbYXI"
+UC3xfbCMLCw1Hh4dWop3XtHg;5gt7Jol9loU;2020-12-03T08:00:00Z;"#rstats video:  Jay Campanell | A high school student’s journey to bring R into the classroom | RStudio (2020)
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=5gt7Jol9loU"
+UCDgj5-mFohWZ5irWSFMFcng;xIeGQvUS1ps;2020-07-25T15:19:48Z;"#rstats video:  R-Ladies Tbilisi (English - თბილისი): Life of a data analyst. Gender gap in Kazakh wages
+By R-Ladies Global (@RLadiesGlobal)
+https://www.youtube.com/watch?v=xIeGQvUS1ps"
+UCkrf5iL8ef1QHe--zstechA;2MVolYETR5Q;2019-04-17T02:03:31Z;"#rstats video:  Basic Basics Lesson 3 #RYouWithMe by R-Ladies Sydney
+By RLadies Sydney (@RLadiesSydney)
+https://www.youtube.com/watch?v=2MVolYETR5Q"
