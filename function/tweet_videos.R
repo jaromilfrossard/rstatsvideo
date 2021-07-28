@@ -6,7 +6,8 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
   tb_channel <- read_delim(file_channel,delim=";",
                            col_types = cols(
                              id_channel = col_character(),
-                             name_channel = col_character()
+                             name_channel = col_character(),
+                             id_twitter = col_character()
                            ))
   
   if(file.exists(file_channel_to_rm)){
@@ -35,7 +36,9 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
       left_join(tb_channel,by = "id_channel")%>%
       mutate(info = map(id_video,tibble_video_infos))%>%
       unnest(info)%>%
-      mutate(tweet = pmap_chr(list(id_video,title_video,name_channel),function(id,title,ni){
+      mutate(by = case_when(is.na(id_twitter)~name_channel,
+                            !is.na(id_twitter)~as.character(glue("{name_channel} (@{id_twitter})"))))%>%
+      mutate(tweet = pmap_chr(list(id_video,title_video,by),function(id,title,ni){
         write_tweet_txt(id,title,name_channel = ni)
       }))
     
@@ -99,7 +102,9 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
         left_join(tb_channel,by = "id_channel")%>%
         mutate(info = map(id_video,tibble_video_infos))%>%
         unnest(info)%>%
-        mutate(tweet = pmap_chr(list(id_video,title_video,name_channel),function(id,title,ni){
+        mutate(by = case_when(is.na(id_twitter)~name_channel,
+                              !is.na(id_twitter)~as.character(glue("{name_channel} (@{id_twitter})"))))%>%
+        mutate(tweet = pmap_chr(list(id_video,title_video,by),function(id,title,ni){
           write_tweet_txt(id,title,header = "#rstats video: ", name_channel = ni)}))
 
       
@@ -111,7 +116,9 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
         left_join(tb_channel,by = "id_channel")%>%
         mutate(info = map(id_video,tibble_video_infos))%>%
         unnest(info)%>%
-        mutate(tweet = pmap_chr(list(id_video,title_video,name_channel),function(id,title,ni){
+        mutate(by = case_when(is.na(id_twitter)~name_channel,
+                              !is.na(id_twitter)~as.character(glue("{name_channel} (@{id_twitter})"))))%>%
+        mutate(tweet = pmap_chr(list(id_video,title_video,by),function(id,title,ni){
           write_tweet_txt(id,title, name_channel = ni)}))
       }
       

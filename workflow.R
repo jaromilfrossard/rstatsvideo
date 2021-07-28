@@ -27,7 +27,8 @@ gert::git_pull()
 tb_channel <- readr::read_delim("data/list_channel.txt",delim=";",
                                 col_types = cols(
                                   id_channel = col_character(),
-                                  name_channel = col_character()))
+                                  name_channel = col_character(),
+                                  id_twitter = col_character()))
 
 #update channels videos
 walk(tb_channel$id_channel,update_channel_video)
