@@ -524,3 +524,30 @@ https://www.youtube.com/watch?v=xIeGQvUS1ps"
 UCkrf5iL8ef1QHe--zstechA;2MVolYETR5Q;2019-04-17T02:03:31Z;"#rstats video:  Basic Basics Lesson 3 #RYouWithMe by R-Ladies Sydney
 By RLadies Sydney (@RLadiesSydney)
 https://www.youtube.com/watch?v=2MVolYETR5Q"
+UCDgj5-mFohWZ5irWSFMFcng;LXxitttESmA;2021-07-29T16:11:01Z;"New #rstats video: R-Ladies DC (English) - Pandemics, Graphics, and Perception of Log Scales - Susan Vanderplas
+By R-Ladies Global (@RLadiesGlobal)
+https://www.youtube.com/watch?v=LXxitttESmA"
+UCGuktEl5InrcxPfCjmPWxsA;zvoJPsMnCWg;2021-07-29T16:00:36Z;"New #rstats video: Applying the DRY principle to repetitive R code (CC132)
+By Riffomonas Project
+https://www.youtube.com/watch?v=zvoJPsMnCWg"
+UCCaChdLMTYMxyawR_Qf-kYA;WzfD9GK6nCI;2021-07-29T08:28:25Z;"New #rstats video: Advanced R Book Club: Chapter 20 (Evaluation) (2021-07-27) (advr05)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=WzfD9GK6nCI"
+UCCaChdLMTYMxyawR_Qf-kYA;klcpEb5ZBSM;2021-07-29T08:18:35Z;"New #rstats video: Advanced R Book Club: Chapter 19 (Quasiquotation) (2021-07-20) (advr05)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=klcpEb5ZBSM"
+UCCaChdLMTYMxyawR_Qf-kYA;Jc_R4yFsYeE;2021-07-29T08:16:36Z;"New #rstats video: Advanced R Book Club: Chapter 18 (Expressions) (2021-07-13) (advr05)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=Jc_R4yFsYeE"
+UCCaChdLMTYMxyawR_Qf-kYA;FSm2_TJmhm0;2021-07-29T08:16:26Z;"New #rstats video: Advanced R Book Club: Chapter 17 (Big Picture) (2021-07-06) (advr05)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=FSm2_TJmhm0"
+UCCaChdLMTYMxyawR_Qf-kYA;3EvqtVYTFVM;2021-07-29T07:48:34Z;"New #rstats video: Advanced R Book Club: Chapter 16 (Tradeoffs) (2021-06-29) (advr05)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=3EvqtVYTFVM"
+UCCaChdLMTYMxyawR_Qf-kYA;unNfE1fDFEY;2021-07-29T07:46:12Z;"New #rstats video: Advanced R Book Club: Chapter 15 (S4) (2021-06-22) (advr05)
+By R4DS Online Learning Community
+https://www.youtube.com/watch?v=unNfE1fDFEY"
+UC3xfbCMLCw1Hh4dWop3XtHg;SUZw5GjKNRg;2021-07-28T20:09:13Z;"New #rstats video: How to Improve Your Communication Skills | Data Science Hangout Highlights
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=SUZw5GjKNRg"
