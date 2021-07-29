@@ -8,7 +8,7 @@ UCwLy_PYrnCEhCU-Ay2F5Drw;Why R? Foundation;
 UCTTBgWyJl2HrrhQOOc710kA;Julia Silge;juliasilge
 UC3xfbCMLCw1Hh4dWop3XtHg;RStudio;rstudio
 UCT9SgxpakGSH-yfRj_QhzIQ;Thomas Lin Pedersen;thomasp85
-UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;
+UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;thinkR_fr
 UC2-hKemnrmVCH_29duyJ26A;Lander Analytics;LanderAnalytics
 UCwQ7lkY6YWzZjT807Itbvtw;Shiny DeveloperSeries;
 UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham;hadleywickham
