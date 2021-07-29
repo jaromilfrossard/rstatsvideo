@@ -34,7 +34,7 @@ UCOFcXLjW9atcEuCa5kbOPSw;RLadies Santa Fe;RLadiesSantaFe
 UCkrf5iL8ef1QHe--zstechA;RLadies Sydney;RLadiesSydney
 UCgmESmRO796bbzOxFNPtXWw;R-Ladies Lausanne;
 UCJlLo_WBovtoVUNXQvr3UiA;R-Ladies Lisboa;
-UCCaChdLMTYMxyawR_Qf-kYA;R4DS Online Learning Community;
+UCCaChdLMTYMxyawR_Qf-kYA;R4DS Online Learning Community;r4dscommunity
 UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen;
 UCfJyQ3P2k_SuqfxVdqIEQNw;R Programming 101;
 UCU5ZiUm-OLbVGW7NP0e-eFQ;Learn RStats;
