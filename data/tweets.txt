@@ -551,3 +551,6 @@ https://www.youtube.com/watch?v=unNfE1fDFEY"
 UC3xfbCMLCw1Hh4dWop3XtHg;SUZw5GjKNRg;2021-07-28T20:09:13Z;"New #rstats video: How to Improve Your Communication Skills | Data Science Hangout Highlights
 By RStudio (@rstudio)
 https://www.youtube.com/watch?v=SUZw5GjKNRg"
+UCTTBgWyJl2HrrhQOOc710kA;_e0NFIaHY2c;2021-07-29T23:53:09Z;"New #rstats video: Tune xgboost more efficiently with racing methods
+By Julia Silge (@juliasilge)
+https://www.youtube.com/watch?v=_e0NFIaHY2c"
