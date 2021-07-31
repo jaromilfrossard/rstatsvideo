@@ -554,3 +554,9 @@ https://www.youtube.com/watch?v=SUZw5GjKNRg"
 UCTTBgWyJl2HrrhQOOc710kA;_e0NFIaHY2c;2021-07-29T23:53:09Z;"New #rstats video: Tune xgboost more efficiently with racing methods
 By Julia Silge (@juliasilge)
 https://www.youtube.com/watch?v=_e0NFIaHY2c"
+UCDgj5-mFohWZ5irWSFMFcng;P0YRzVcJwyU;2021-07-31T07:50:55Z;"New #rstats video: R-Ladies Nairobi (English) - Making Web-Ready Maps - Asmae Toumi
+By R-Ladies Global (@RLadiesGlobal)
+https://www.youtube.com/watch?v=P0YRzVcJwyU"
+UCyHEww8_SCdxZvEnkCfi55w;AQ6p3tm8lfs;2021-07-30T14:00:09Z;"New #rstats video: Find Max & Min Length of Character Strings in Columns in R (4 Examples) | nchar, apply, max & min
+By Statistics Globe (@joachimschork)
+https://www.youtube.com/watch?v=AQ6p3tm8lfs"
