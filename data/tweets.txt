@@ -560,3 +560,18 @@ https://www.youtube.com/watch?v=P0YRzVcJwyU"
 UCyHEww8_SCdxZvEnkCfi55w;AQ6p3tm8lfs;2021-07-30T14:00:09Z;"New #rstats video: Find Max & Min Length of Character Strings in Columns in R (4 Examples) | nchar, apply, max & min
 By Statistics Globe (@joachimschork)
 https://www.youtube.com/watch?v=AQ6p3tm8lfs"
+UCCaChdLMTYMxyawR_Qf-kYA;UfYv0Jp4yIQ;2021-07-31T21:43:55Z;"New #rstats video: Mastering Shiny Book Club: Chapter 1: Your first Shiny app (2021-07-28)(mshiny02)
+By R4DS Online Learning Community (@r4dscommunity)
+https://www.youtube.com/watch?v=UfYv0Jp4yIQ"
+UCCaChdLMTYMxyawR_Qf-kYA;g927N1YRjAA;2021-07-31T16:58:28Z;"New #rstats video: Mastering Shiny Book Club: Chapter 18: Functions (2021-06-29) (mshiny01)
+By R4DS Online Learning Community (@r4dscommunity)
+https://www.youtube.com/watch?v=g927N1YRjAA"
+UCCaChdLMTYMxyawR_Qf-kYA;KrBuLk4VfsU;2021-07-31T16:57:03Z;"New #rstats video: Mastering Shiny Book Club: Chapter 19: Shiny modules (2021-07-06) (mshiny01)
+By R4DS Online Learning Community (@r4dscommunity)
+https://www.youtube.com/watch?v=KrBuLk4VfsU"
+UCCaChdLMTYMxyawR_Qf-kYA;stfuGTNJD2M;2021-07-31T16:44:59Z;"New #rstats video: Mastering Shiny Book Club: Chapter 17: General guidelines (2021-06-22) (mshiny01)
+By R4DS Online Learning Community (@r4dscommunity)
+https://www.youtube.com/watch?v=stfuGTNJD2M"
+UCyHEww8_SCdxZvEnkCfi55w;fBpPUfAeuN8;2021-07-31T14:00:27Z;"New #rstats video: Display All X-Axis Labels of Barplot in R (2 Examples) | Show Text Below Barchart | Base & ggplot2
+By Statistics Globe (@joachimschork)
+https://www.youtube.com/watch?v=fBpPUfAeuN8"
