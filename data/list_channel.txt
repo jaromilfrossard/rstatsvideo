@@ -36,7 +36,7 @@ UCgmESmRO796bbzOxFNPtXWw;R-Ladies Lausanne;
 UCJlLo_WBovtoVUNXQvr3UiA;R-Ladies Lisboa;
 UCCaChdLMTYMxyawR_Qf-kYA;R4DS Online Learning Community;r4dscommunity
 UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen;
-UCfJyQ3P2k_SuqfxVdqIEQNw;R Programming 101;
+UCfJyQ3P2k_SuqfxVdqIEQNw;R Programming 101;101Programming
 UCU5ZiUm-OLbVGW7NP0e-eFQ;Learn RStats;
 UC_8_NCqWecqv8zjQE4ZwRwA;R User Group Nepal;
 UCTZXht1RTL2Duc3eU8MYGzQ;Bruno Rodrigues;brodriguesco
