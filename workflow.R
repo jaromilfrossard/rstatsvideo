@@ -17,6 +17,7 @@ source("function/video_url.R")
 source("function/tibble_video_info.R")
 source("function/tweet_videos.R")
 source("function/write_tweet_txt.R")
+source("function/follow_channels.R")
 
 
 auth_as("rstatsvideo")
@@ -36,6 +37,10 @@ walk(tb_channel$id_channel,update_channel_video)
 
 ##tweet_new videos
 tweet_videos(tweet_older = T)
+
+
+##follow new channles
+follow_channels()
 
 
 commit_message <- paste0("Update ",format(Sys.Date(), "%Y_%m_%d"))
