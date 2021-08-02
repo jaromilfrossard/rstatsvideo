@@ -575,3 +575,18 @@ https://www.youtube.com/watch?v=stfuGTNJD2M"
 UCyHEww8_SCdxZvEnkCfi55w;fBpPUfAeuN8;2021-07-31T14:00:27Z;"New #rstats video: Display All X-Axis Labels of Barplot in R (2 Examples) | Show Text Below Barchart | Base & ggplot2
 By Statistics Globe (@joachimschork)
 https://www.youtube.com/watch?v=fBpPUfAeuN8"
+UCCaChdLMTYMxyawR_Qf-kYA;flhbgAA8zwo;2021-08-01T16:15:00Z;"New #rstats video: R para Ciencia de Datos Club de Lectura: Capítulo 28: Comunic. con gráficos (2021-07-27) (r4ds_es01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=flhbgAA8zwo"
+UCCaChdLMTYMxyawR_Qf-kYA;38VZoYe3a34;2021-08-01T16:14:30Z;"New #rstats video: R para Ciencia de Datos Club de Lectura: Capítulo 27: R Markdown - Parte 2 (2021-07-20) (r4ds_es01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=38VZoYe3a34"
+UCCaChdLMTYMxyawR_Qf-kYA;dwIVJDP0IOk;2021-08-01T16:14:01Z;"New #rstats video: R para Ciencia de Datos Club de Lectura: Capítulos 26 y 27: Parte 1 (2021-07-13) (r4ds_es01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=dwIVJDP0IOk"
+UCCaChdLMTYMxyawR_Qf-kYA;4rBHx49v0Zo;2021-08-01T16:01:15Z;"New #rstats video: Practical Stats for Data Scientists: Ch5: Classification (2021-07-26) (ps4ds01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=4rBHx49v0Zo"
+UCyHEww8_SCdxZvEnkCfi55w;CLIkuLqZ4wY;2021-08-01T14:00:09Z;"New #rstats video: Replace Values in Factor Vector or Column in R (Example) | as.character, as.factor & levels Function
+By Statistics Globe (@JoachimSchork)
+https://www.youtube.com/watch?v=CLIkuLqZ4wY"
