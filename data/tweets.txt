@@ -590,3 +590,9 @@ https://www.youtube.com/watch?v=4rBHx49v0Zo"
 UCyHEww8_SCdxZvEnkCfi55w;CLIkuLqZ4wY;2021-08-01T14:00:09Z;"New #rstats video: Replace Values in Factor Vector or Column in R (Example) | as.character, as.factor & levels Function
 By Statistics Globe (@JoachimSchork)
 https://www.youtube.com/watch?v=CLIkuLqZ4wY"
+UCGuktEl5InrcxPfCjmPWxsA;KoAJZYEOwSE;2021-08-02T16:00:21Z;"New #rstats video: Using ggplot2 to group x-axis discrete values into subgroups (CC133)
+By Riffomonas Project (@PatSchloss)
+https://www.youtube.com/watch?v=KoAJZYEOwSE"
+UCyHEww8_SCdxZvEnkCfi55w;Z72UK92d7TY;2021-08-02T14:00:12Z;"New #rstats video: Move Axis Label Closer to Plot in Base R (Example) | How to Decrease Space | plot & title Function
+By Statistics Globe (@JoachimSchork)
+https://www.youtube.com/watch?v=Z72UK92d7TY"
