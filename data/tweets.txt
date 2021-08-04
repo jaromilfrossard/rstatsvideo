@@ -596,3 +596,18 @@ https://www.youtube.com/watch?v=KoAJZYEOwSE"
 UCyHEww8_SCdxZvEnkCfi55w;Z72UK92d7TY;2021-08-02T14:00:12Z;"New #rstats video: Move Axis Label Closer to Plot in Base R (Example) | How to Decrease Space | plot & title Function
 By Statistics Globe (@JoachimSchork)
 https://www.youtube.com/watch?v=Z72UK92d7TY"
+UCyHEww8_SCdxZvEnkCfi55w;c-URu36COZY;2021-08-04T14:00:12Z;"New #rstats video: Clear All Plots in RStudio Using R Code (Example) | Remove Graphics | plot(), dev.off() & dev.list()
+By Statistics Globe (@JoachimSchork)
+https://www.youtube.com/watch?v=c-URu36COZY"
+UCWFju94W4ecD4qNRWW4ztLQ;wJRElRUukcw;2021-08-04T12:33:11Z;"New #rstats video: How to Write Decorators in Python | Python Programming
+By INWT Statistics (@INWT_Statistics)
+https://www.youtube.com/watch?v=wJRElRUukcw"
+UCCaChdLMTYMxyawR_Qf-kYA;v_dkrIEdmKE;2021-08-04T06:23:31Z;"New #rstats video: Advanced R Book Club: Chapter 21 (Translating R code) (2021-08-03) (advr05)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=v_dkrIEdmKE"
+UCnwYO3Sz_emBTC1sTZ6TlsQ;R95lWUDtL5A;2021-08-04T00:00:05Z;"New #rstats video: TidyTuesday: Model Analysis with Autoplot and TidyModels
+By Andrew Couch (@Andr3wCouch)
+https://www.youtube.com/watch?v=R95lWUDtL5A"
+UCyHEww8_SCdxZvEnkCfi55w;3WTY6WaunJ8;2021-08-03T14:00:04Z;"New #rstats video: Subset Data Frame Rows Based On Factor Levels in R (Example) | Select & Extract | Logical Condition
+By Statistics Globe (@JoachimSchork)
+https://www.youtube.com/watch?v=3WTY6WaunJ8"
