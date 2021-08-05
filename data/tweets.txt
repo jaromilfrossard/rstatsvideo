@@ -611,3 +611,6 @@ https://www.youtube.com/watch?v=R95lWUDtL5A"
 UCyHEww8_SCdxZvEnkCfi55w;3WTY6WaunJ8;2021-08-03T14:00:04Z;"New #rstats video: Subset Data Frame Rows Based On Factor Levels in R (Example) | Select & Extract | Logical Condition
 By Statistics Globe (@JoachimSchork)
 https://www.youtube.com/watch?v=3WTY6WaunJ8"
+UCCaChdLMTYMxyawR_Qf-kYA;fe3uixT_USg;2021-08-04T19:15:34Z;"New #rstats video: Tidy Modeling with R Book Club Ch 12: Model tuning and the dangers of over... (2021-08-02) (tmwr03)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=fe3uixT_USg"
