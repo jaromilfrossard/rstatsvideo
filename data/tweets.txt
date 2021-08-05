@@ -614,3 +614,9 @@ https://www.youtube.com/watch?v=3WTY6WaunJ8"
 UCCaChdLMTYMxyawR_Qf-kYA;fe3uixT_USg;2021-08-04T19:15:34Z;"New #rstats video: Tidy Modeling with R Book Club Ch 12: Model tuning and the dangers of over... (2021-08-02) (tmwr03)
 By R4DS Online Learning Community (@R4DScommunity)
 https://www.youtube.com/watch?v=fe3uixT_USg"
+UCGuktEl5InrcxPfCjmPWxsA;mzHfjdkG4CQ;2021-08-05T16:00:19Z;"New #rstats video: Understanding model interpretability in R with ggplot2 and mikropml (CC134)
+By Riffomonas Project (@PatSchloss)
+https://www.youtube.com/watch?v=mzHfjdkG4CQ"
+UCyHEww8_SCdxZvEnkCfi55w;OH5LBv7Ivc8;2021-08-05T14:00:08Z;"New #rstats video: Add & Subtract Months & Years to/from Date Object in R (2 Examples) | as.Date(), class() & lubridate
+By Statistics Globe (@JoachimSchork)
+https://www.youtube.com/watch?v=OH5LBv7Ivc8"
