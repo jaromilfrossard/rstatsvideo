@@ -84,8 +84,8 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
                                      id_channel = col_character(),
                                      id_video = col_character()
                                    ))
-      tb_videos<- 
-        tb_videos%>%
+      tb_videos_old<- 
+        tb_videos_old%>%
         anti_join(tb_video_to_rm,by =c("id_channel" = "id_channel","id_video"="id_video"))
     }
     

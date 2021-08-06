@@ -620,3 +620,12 @@ https://www.youtube.com/watch?v=mzHfjdkG4CQ"
 UCyHEww8_SCdxZvEnkCfi55w;OH5LBv7Ivc8;2021-08-05T14:00:08Z;"New #rstats video: Add & Subtract Months & Years to/from Date Object in R (2 Examples) | as.Date(), class() & lubridate
 By Statistics Globe (@JoachimSchork)
 https://www.youtube.com/watch?v=OH5LBv7Ivc8"
+UC3xfbCMLCw1Hh4dWop3XtHg;wfMAaXWHGog;2021-03-22T17:00:17Z;"#rstats video:  Tom Mock | A Gentle Introduction to Tidy Statistics in R | RStudio (2019)
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=wfMAaXWHGog"
+UC3xfbCMLCw1Hh4dWop3XtHg;1Bxk2wReFzE;2021-03-17T16:00:00Z;"#rstats video:  Ellis Hughes | R Package Validation Framework | RStudio
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=1Bxk2wReFzE"
+UC3xfbCMLCw1Hh4dWop3XtHg;9VztG5c1bwk;2019-07-29T07:00:02Z;"#rstats video:  Matt Dancho | Using R, the Tidyverse, H2O, and Shiny to reduce employee attrition | RStudio (2019)
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=9VztG5c1bwk"
