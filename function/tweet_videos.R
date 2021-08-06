@@ -78,6 +78,16 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
     
     
     tb_videos_old <- load_current_video()
+    if(file.exists(file_video_to_rm)){
+      tb_video_to_rm <- read_delim(file_video_to_rm,delim=";",
+                                   col_types = cols(
+                                     id_channel = col_character(),
+                                     id_video = col_character()
+                                   ))
+      tb_videos<- 
+        tb_videos%>%
+        anti_join(tb_video_to_rm,by =c("id_channel" = "id_channel","id_video"="id_video"))
+    }
     
     tb_videos_new <- 
       tb_videos_old %>%
