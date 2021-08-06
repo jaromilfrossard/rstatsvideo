@@ -1,6 +1,7 @@
 tweet_videos <- function(file_tweet = "data/tweets.txt",
                          file_channel = "data/list_channel.txt",
                          file_channel_to_rm = "data/list_channel_to_rm.txt",
+                         file_video_to_rm = "data/list_video_to_rm.txt",
                          tweet_older = TRUE){
   
   tb_channel <- read_delim(file_channel,delim=";",
@@ -20,7 +21,10 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
     tb_channel <-
       anti_join(tb_channel, tb_channel_to_rm, by = c("id_channel"="id_channel",
                                                    "name_channel" = "name_channel"))
-    }
+  }
+  
+  
+
   
 
 
@@ -28,6 +32,18 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
   if(!file.exists(file_tweet)){
     ## first tweets
     tb_videos <- load_current_video()
+    if(file.exists(file_video_to_rm)){
+      tb_video_to_rm <- read_delim(file_video_to_rm,delim=";",
+                                   col_types = cols(
+                                     id_channel = col_character(),
+                                     id_video = col_character()
+                                   ))
+      tb_videos<- 
+        tb_videos%>%
+        anti_join(tb_video_to_rm,by =c("id_channel" = "id_channel","id_video"="id_video"))
+    }
+
+    
     tb_tweet<-
       tb_videos%>%
       filter(id_channel%in%tb_channel$id_channel)%>%
