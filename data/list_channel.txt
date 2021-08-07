@@ -2,7 +2,7 @@ id_channel;name_channel;id_twitter
 UCWI1xyk6Jb4t2OOyP2LS4DQ;John Muschelli;StrictlyStat
 UCnwYO3Sz_emBTC1sTZ6TlsQ;Andrew Couch;Andr3wCouch
 UCeiiqmVK07qhY-wvg3IZiZQ;David Robinson;drob
-UC_R5smHVXRYGhZYDJsnXTwg;R Consortium;
+UC_R5smHVXRYGhZYDJsnXTwg;R Consortium;RConsortium
 UCYgIy7zeC7v6iZhx0-NywBw;satRdays;
 UCwLy_PYrnCEhCU-Ay2F5Drw;Why R? Foundation;
 UCTTBgWyJl2HrrhQOOc710kA;Julia Silge;juliasilge
