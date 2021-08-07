@@ -629,3 +629,9 @@ https://www.youtube.com/watch?v=1Bxk2wReFzE"
 UC3xfbCMLCw1Hh4dWop3XtHg;9VztG5c1bwk;2019-07-29T07:00:02Z;"#rstats video:  Matt Dancho | Using R, the Tidyverse, H2O, and Shiny to reduce employee attrition | RStudio (2019)
 By RStudio (@rstudio)
 https://www.youtube.com/watch?v=9VztG5c1bwk"
+UC3xfbCMLCw1Hh4dWop3XtHg;l9lrRhFZs8Y;2021-08-06T16:34:33Z;"New #rstats video: Oliver Bridges | R in Energy | RStudio
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=l9lrRhFZs8Y"
+UCyHEww8_SCdxZvEnkCfi55w;Vhb7cvfRB5k;2021-08-06T14:00:15Z;"New #rstats video: R Select Top N Highest Values by Group (Example) | Extract Head | Reduce, rbind, dplyr & data.table
+By Statistics Globe (@JoachimSchork)
+https://www.youtube.com/watch?v=Vhb7cvfRB5k"
