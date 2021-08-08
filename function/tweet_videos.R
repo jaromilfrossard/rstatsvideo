@@ -12,6 +12,7 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
                              id_twitter = col_character()
                            ))
   
+  ## remove channels
   if(file.exists(file_channel_to_rm)){
     tb_channel_to_rm <- read_delim(file_channel_to_rm,delim=";",
                            col_types = cols(
@@ -25,25 +26,23 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
   }
   
   
-
+  tb_videos <- load_current_video()
+  if(file.exists(file_video_to_rm)){
+    tb_video_to_rm <- read_delim(file_video_to_rm,delim=";",
+                                 col_types = cols(
+                                   id_channel = col_character(),
+                                   id_video = col_character()
+                                 ))
+    tb_videos<- 
+      tb_videos%>%
+      anti_join(tb_video_to_rm,by =c("id_channel" = "id_channel","id_video"="id_video"))
+  }
   
 
 
   
   if(!file.exists(file_tweet)){
     ## first tweets
-    tb_videos <- load_current_video()
-    if(file.exists(file_video_to_rm)){
-      tb_video_to_rm <- read_delim(file_video_to_rm,delim=";",
-                                   col_types = cols(
-                                     id_channel = col_character(),
-                                     id_video = col_character()
-                                   ))
-      tb_videos<- 
-        tb_videos%>%
-        anti_join(tb_video_to_rm,by =c("id_channel" = "id_channel","id_video"="id_video"))
-    }
-
     
     tb_tweet<-
       tb_videos%>%
@@ -78,20 +77,9 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
       mutate(ymd_hms_video = ymd_hms(ymd_hms_video))
     
     
-    tb_videos_old <- load_current_video()
-    if(file.exists(file_video_to_rm)){
-      tb_video_to_rm <- read_delim(file_video_to_rm,delim=";",
-                                   col_types = cols(
-                                     id_channel = col_character(),
-                                     id_video = col_character()
-                                   ))
-      tb_videos_old<- 
-        tb_videos_old%>%
-        anti_join(tb_video_to_rm,by =c("id_channel" = "id_channel","id_video"="id_video"))
-    }
     
     tb_videos_new <- 
-      tb_videos_old %>%
+      tb_videos %>%
       filter(ymd_hms_video>max(tb_tweet_old$ymd_hms_video))%>%
       filter(id_channel%in%tb_channel$id_channel)
       
@@ -106,7 +94,7 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
         summarise(count = n(),.groups="drop")
 
       tb_tweet_new<- 
-        tb_videos_old%>%
+        tb_videos%>%
         left_join(tb_tweet_count,by = c("id_channel", "id_video"))%>%
         mutate(count = replace_na(count,0L))
       
@@ -139,7 +127,7 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
     }else if(nrow(tb_videos_new)>0L){
       tb_tweet_new<-
         tb_videos_new%>%
-        arrange(desc(ymd_hms_video))%>%
+        arrange(ymd_hms_video)%>%
         left_join(tb_channel,by = "id_channel")%>%
         mutate(info = map(id_video,tibble_video_infos))%>%
         unnest(info)%>%
@@ -150,8 +138,13 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
       }
       
     if(!is.null(tb_tweet_new)){
+      if(nrow(tb_tweet_new)>max_tweet){
+        message(glue("The tweets limits ({max_tweet}) is less that the number of new videos ({nrow(tb_tweet_new)})."))
+      }
+      
       tb_tweet_new<- 
         tb_tweet_new%>%
+        slice(seq_len(max_tweet))%>%
         select(id_channel,id_video,ymd_hms_video,tweet)%>%
         arrange(ymd_hms_video)
       
