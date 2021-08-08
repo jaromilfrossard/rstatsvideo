@@ -38,7 +38,7 @@ UCCaChdLMTYMxyawR_Qf-kYA;R4DS Online Learning Community;R4DScommunity
 UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen;
 UCfJyQ3P2k_SuqfxVdqIEQNw;R Programming 101;101Programming
 UCU5ZiUm-OLbVGW7NP0e-eFQ;Learn RStats;
-UC_8_NCqWecqv8zjQE4ZwRwA;R User Group Nepal;
+UC_8_NCqWecqv8zjQE4ZwRwA;R User Group Nepal;rugnepal
 UCTZXht1RTL2Duc3eU8MYGzQ;Bruno Rodrigues;brodriguesco
 UCKMekE_4UfWvZDuBWenG8WA;StatistikinDD;StatistikInDD
 UCfoktGmvJ6rnME7mSP_Ww2g;R-Ladies Tunis;
