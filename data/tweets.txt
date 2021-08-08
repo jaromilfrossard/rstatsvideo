@@ -635,3 +635,249 @@ https://www.youtube.com/watch?v=l9lrRhFZs8Y"
 UCyHEww8_SCdxZvEnkCfi55w;Vhb7cvfRB5k;2021-08-06T14:00:15Z;"New #rstats video: R Select Top N Highest Values by Group (Example) | Extract Head | Reduce, rbind, dplyr & data.table
 By Statistics Globe (@JoachimSchork)
 https://www.youtube.com/watch?v=Vhb7cvfRB5k"
+UCyHEww8_SCdxZvEnkCfi55w;qZ2_X01cA5c;2021-08-08T14:00:31Z;"New #rstats video: Extract Most Common Values from Vector in R (Example) | Get Frequency of Elements | table() & sort()
+By Statistics Globe (@JoachimSchork)
+https://www.youtube.com/watch?v=qZ2_X01cA5c"
+UC_R5smHVXRYGhZYDJsnXTwg;8PMF7cBBH7k;2021-08-08T14:00:03Z;"New #rstats video: Session 3B - Spatial Analysis
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=8PMF7cBBH7k"
+UC_R5smHVXRYGhZYDJsnXTwg;8cv2qsZ_xZw;2021-08-08T08:59:30Z;"New #rstats video: Keynote: The R universe Project
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=8cv2qsZ_xZw"
+UC_R5smHVXRYGhZYDJsnXTwg;Hhw18gUyhy0;2021-08-08T08:15:39Z;"New #rstats video: Keynote: Can we do this in R? - Answering questions about air quality one code at a time
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=Hhw18gUyhy0"
+UC_R5smHVXRYGhZYDJsnXTwg;nLikORFBKgk;2021-08-08T03:00:32Z;"New #rstats video: rspatialdata: a collection of data sources and tutorials on downloading and visualising spatial data
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=nLikORFBKgk"
+UC_R5smHVXRYGhZYDJsnXTwg;wbOyo_b8emk;2021-08-08T03:00:31Z;"New #rstats video: The evolution of the dependencies of CRAN packages
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=wbOyo_b8emk"
+UC_R5smHVXRYGhZYDJsnXTwg;tzQGg1kAzGs;2021-08-08T03:00:31Z;"New #rstats video: GET better at testing your R package!
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=tzQGg1kAzGs"
+UC_R5smHVXRYGhZYDJsnXTwg;m9rA6oPejWo;2021-08-08T03:00:30Z;"New #rstats video: Simpler is Better: Lifting Interpretability-Performance Trade-off via Automated Feature Engineering
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=m9rA6oPejWo"
+UC_R5smHVXRYGhZYDJsnXTwg;qyUkUJmd7cI;2021-08-08T03:00:30Z;"New #rstats video: R as a an environment for the functional analysis of proteins
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=qyUkUJmd7cI"
+UC_R5smHVXRYGhZYDJsnXTwg;oOYaHsPXLvs;2021-08-08T03:00:30Z;"New #rstats video: Structure your app: introduction to Shiny modules
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=oOYaHsPXLvs"
+UC_R5smHVXRYGhZYDJsnXTwg;iVIfLW2VU5M;2021-08-08T03:00:30Z;"New #rstats video: Do you see what I see? Introducing microshades: An R package for improving color accessibility ...
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=iVIfLW2VU5M"
+UC_R5smHVXRYGhZYDJsnXTwg;hb785sQt8tg;2021-08-08T03:00:27Z;"New #rstats video: Systematic data validation with the validate package
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=hb785sQt8tg"
+UC_R5smHVXRYGhZYDJsnXTwg;hXhLGzn6S60;2021-08-08T03:00:26Z;"New #rstats video: trackdown: collaborative writing and editing your R Markdown and Sweave documents in Google Drive
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=hXhLGzn6S60"
+UC_R5smHVXRYGhZYDJsnXTwg;iF-S9mAt0rY;2021-08-08T03:00:25Z;"New #rstats video: Keynote: Communication - elevating data analysis to make a real impact
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=iF-S9mAt0rY"
+UC_R5smHVXRYGhZYDJsnXTwg;bXrJkQk_zwQ;2021-08-08T03:00:25Z;"New #rstats video: {flowDiv} workflow: reproducible cytometric diversity estimates
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=bXrJkQk_zwQ"
+UC_R5smHVXRYGhZYDJsnXTwg;fIB-FlTHheI;2021-08-08T03:00:25Z;"New #rstats video: Graphing multivariate categorical data: The how, what and why of mosaic plots and alluvial diagrams
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=fIB-FlTHheI"
+UC_R5smHVXRYGhZYDJsnXTwg;hgwEicsmJic;2021-08-08T03:00:24Z;"New #rstats video: Conducting Effective User Tests for Shiny Dashboards
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=hgwEicsmJic"
+UC_R5smHVXRYGhZYDJsnXTwg;fEgC3vt6bwQ;2021-08-08T03:00:23Z;"New #rstats video: NNSampleSize: A tool for communicating, determining and documenting sample size in clinical trials
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=fEgC3vt6bwQ"
+UC_R5smHVXRYGhZYDJsnXTwg;WPLEdpSaBAI;2021-08-08T03:00:22Z;"New #rstats video: Healthier & Happier Hands: Software and Hardware Solutions for More Ergonomic Typing
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=WPLEdpSaBAI"
+UC_R5smHVXRYGhZYDJsnXTwg;cK08bxUJn5A;2021-08-08T03:00:22Z;"New #rstats video: Keynote: R Spatial
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=cK08bxUJn5A"
+UC_R5smHVXRYGhZYDJsnXTwg;SEW4yyxsp2M;2021-08-08T03:00:19Z;"New #rstats video: Datos espaciales a lo tidy
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=SEW4yyxsp2M"
+UC_R5smHVXRYGhZYDJsnXTwg;rCVASF9fpxY;2021-08-08T03:00:18Z;"New #rstats video: Efficient list recursion in R with rrapply
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=rCVASF9fpxY"
+UC_R5smHVXRYGhZYDJsnXTwg;vgAevsCr36w;2021-08-08T03:00:17Z;"New #rstats video: Efficient multi-wave sampling with the R package optimall
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=vgAevsCr36w"
+UC_R5smHVXRYGhZYDJsnXTwg;qPUcT65HuM8;2021-08-08T03:00:17Z;"New #rstats video: r-cubed: Guiding the overwhelmed scientist from random wrangling to Reproducible Research in R
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=qPUcT65HuM8"
+UC_R5smHVXRYGhZYDJsnXTwg;rpAL2_XzWs0;2021-08-08T03:00:16Z;"New #rstats video: Reactive PK/PD: An R shiny application simplifying the PK/PD review process
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=rpAL2_XzWs0"
+UC_R5smHVXRYGhZYDJsnXTwg;mbIyi_UM4es;2021-08-08T03:00:16Z;"New #rstats video: Classifying Student’s Learning Pattern using R Sequence Analysis Packages
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=mbIyi_UM4es"
+UC_R5smHVXRYGhZYDJsnXTwg;jL2FrqLRZKY;2021-08-08T03:00:16Z;"New #rstats video: Validate observations stored in a DB
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=jL2FrqLRZKY"
+UC_R5smHVXRYGhZYDJsnXTwg;q6h3hVs4OpI;2021-08-08T03:00:15Z;"New #rstats video: Data Pipelines at scale with R and Kubernetes
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=q6h3hVs4OpI"
+UC_R5smHVXRYGhZYDJsnXTwg;LXpPNfHKyrU;2021-08-08T03:00:14Z;"New #rstats video: shiny.fluent and shiny.react: Build Beautiful Shiny Apps Using Microsoft's Fluent UI
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=LXpPNfHKyrU"
+UC_R5smHVXRYGhZYDJsnXTwg;naJm_uVvSKI;2021-08-08T03:00:14Z;"New #rstats video: fipp : a bridge between domain knowledge and model specification in Dirichlet Process Mixtures...
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=naJm_uVvSKI"
+UC_R5smHVXRYGhZYDJsnXTwg;noHUJeouff8;2021-08-08T03:00:13Z;"New #rstats video: Visualising variable importance and variable interaction effects in machine learning models.
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=noHUJeouff8"
+UC_R5smHVXRYGhZYDJsnXTwg;tiR9ClOEaqM;2021-08-08T03:00:13Z;"New #rstats video: Open the Machine Learning Black-Box with modelStudio & Arena
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=tiR9ClOEaqM"
+UC_R5smHVXRYGhZYDJsnXTwg;dkPFdtDuLn4;2021-08-08T03:00:13Z;"New #rstats video: Additive Bayesian Networks Modeling
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=dkPFdtDuLn4"
+UC_R5smHVXRYGhZYDJsnXTwg;kqW6yx4OPGY;2021-08-08T03:00:13Z;"New #rstats video: Hi, Let’s Talk About Data Science! - Customize Your Personal Data Science Assistant Bot.
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=kqW6yx4OPGY"
+UC_R5smHVXRYGhZYDJsnXTwg;MKWZG6mD27k;2021-08-08T03:00:13Z;"New #rstats video: NetCoupler:Inferring causal pathways between high-dimensional metabolomics data and external factors
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=MKWZG6mD27k"
+UC_R5smHVXRYGhZYDJsnXTwg;_U5Y7vLwVRo;2021-08-08T03:00:12Z;"New #rstats video: Keynote: Expanding the Vocabulary of R Graphics
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=_U5Y7vLwVRo"
+UC_R5smHVXRYGhZYDJsnXTwg;r_wRMpqZcE8;2021-08-08T03:00:12Z;"New #rstats video: gatpkg: Developing a geographic aggregation tool in R for non-programmers
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=r_wRMpqZcE8"
+UC_R5smHVXRYGhZYDJsnXTwg;hTHhwIGFddM;2021-08-08T03:00:12Z;"New #rstats video: R Package Validation and {valtools}
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=hTHhwIGFddM"
+UC_R5smHVXRYGhZYDJsnXTwg;lFhAQp8LHg4;2021-08-08T03:00:12Z;"New #rstats video: Modeling spatio-temporal point processes with nphawkes package
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=lFhAQp8LHg4"
+UC_R5smHVXRYGhZYDJsnXTwg;h87r68keFrY;2021-08-08T03:00:12Z;"New #rstats video: pARI package: valid double-dipping via permutation-based All Resolutions Inference
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=h87r68keFrY"
+UC_R5smHVXRYGhZYDJsnXTwg;eQBaa395hPk;2021-08-08T03:00:11Z;"New #rstats video: Keynote: Teaching how to teach without leaving anyone behind
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=eQBaa395hPk"
+UC_R5smHVXRYGhZYDJsnXTwg;IrV2l3qdon8;2021-08-08T03:00:11Z;"New #rstats video: Make Your Computational Analysis Citable
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=IrV2l3qdon8"
+UC_R5smHVXRYGhZYDJsnXTwg;VaWmTDF3nQc;2021-08-08T03:00:11Z;"New #rstats video: Introduction to Responsible Machine Learning
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=VaWmTDF3nQc"
+UC_R5smHVXRYGhZYDJsnXTwg;FrwcnefP4AA;2021-08-08T03:00:11Z;"New #rstats video: USER2021 Tutorial Pinguinos
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=FrwcnefP4AA"
+UC_R5smHVXRYGhZYDJsnXTwg;T0izCb8M4fk;2021-08-08T03:00:11Z;"New #rstats video: State of the Market - Infinite State Hidden Markov Models
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=T0izCb8M4fk"
+UC_R5smHVXRYGhZYDJsnXTwg;Fha7Iq8j5eM;2021-08-08T03:00:11Z;"New #rstats video: Introduction to TileDB for R
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=Fha7Iq8j5eM"
+UC_R5smHVXRYGhZYDJsnXTwg;S_ltaiItr9g;2021-08-08T03:00:10Z;"New #rstats video: ResidualRWA: Detecting relevant variable using relative weight analysis with residualization
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=S_ltaiItr9g"
+UC_R5smHVXRYGhZYDJsnXTwg;V52FvU31uTs;2021-08-08T03:00:10Z;"New #rstats video: TrackJR: a new R-package using Julia language for tracking tiny insects
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=V52FvU31uTs"
+UC_R5smHVXRYGhZYDJsnXTwg;FeJjzZIHvNY;2021-08-08T03:00:09Z;"New #rstats video: Use Case: Functional Programming and Parallelization in Spatial Point Pattern Analysis
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=FeJjzZIHvNY"
+UC_R5smHVXRYGhZYDJsnXTwg;RPFh3y9UAX4;2021-08-08T03:00:09Z;"New #rstats video: Professional, Polished, Presentable: Making Great Slides with xaringan
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=RPFh3y9UAX4"
+UC_R5smHVXRYGhZYDJsnXTwg;SK4lBTeAZno;2021-08-08T03:00:09Z;"New #rstats video: NNcompare: An R package supporting the peer programming process in clinical studies
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=SK4lBTeAZno"
+UC_R5smHVXRYGhZYDJsnXTwg;dag9l0GFci8;2021-08-08T03:00:09Z;"New #rstats video: Keynote: Research software engineers and academia
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=dag9l0GFci8"
+UC_R5smHVXRYGhZYDJsnXTwg;Xp-iufqRuV0;2021-08-08T03:00:09Z;"New #rstats video: USER2021 Tutorial Penguins
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=Xp-iufqRuV0"
+UC_R5smHVXRYGhZYDJsnXTwg;LrBtGNUSnRE;2021-08-08T03:00:08Z;"New #rstats video: NNSampleSize: A tool for communicating, determining and documenting sample size in clinical trials
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=LrBtGNUSnRE"
+UC_R5smHVXRYGhZYDJsnXTwg;S3Qhqf9u6ao;2021-08-08T03:00:08Z;"New #rstats video: Translating R to Your Language
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=S3Qhqf9u6ao"
+UC_R5smHVXRYGhZYDJsnXTwg;Q78nELnN7Sc;2021-08-08T03:00:08Z;"New #rstats video: R in the aiR!
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=Q78nELnN7Sc"
+UC_R5smHVXRYGhZYDJsnXTwg;D1vQjcSaEps;2021-08-08T03:00:07Z;"New #rstats video: Keynote: Tools and technologies for supporting algorithm fairness and inclusion
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=D1vQjcSaEps"
+UC_R5smHVXRYGhZYDJsnXTwg;89FWL-T4nAg;2021-08-08T03:00:07Z;"New #rstats video: RCode, a new IDE for R
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=89FWL-T4nAg"
+UC_R5smHVXRYGhZYDJsnXTwg;MebsXWj_a_c;2021-08-08T03:00:07Z;"New #rstats video: Teaching an introductory programming course with R
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=MebsXWj_a_c"
+UC_R5smHVXRYGhZYDJsnXTwg;PNNSAuMMg9o;2021-08-08T03:00:06Z;"New #rstats video: An integrated teaching environment for R with {learnitdown}
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=PNNSAuMMg9o"
+UC_R5smHVXRYGhZYDJsnXTwg;RH-W6sKSyM8;2021-08-08T03:00:06Z;"New #rstats video: High Dimensional Penalized Generalized Linear Mixed Models: The glmmPen R Package
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=RH-W6sKSyM8"
+UC_R5smHVXRYGhZYDJsnXTwg;AL3nadNAaqY;2021-08-08T03:00:06Z;"New #rstats video: Outlier redemption
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=AL3nadNAaqY"
+UC_R5smHVXRYGhZYDJsnXTwg;HZY94FvB-g0;2021-08-08T03:00:06Z;"New #rstats video: tidyndr: An R package for analysis of the Nigeria HIV National Data Repository
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=HZY94FvB-g0"
+UC_R5smHVXRYGhZYDJsnXTwg;8kNpgcxDu6w;2021-08-08T03:00:06Z;"New #rstats video: Bayesian modeling in R with {rstanarm}
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=8kNpgcxDu6w"
+UC_R5smHVXRYGhZYDJsnXTwg;9_xx2TmrUW4;2021-08-08T03:00:04Z;"New #rstats video: Charting Covid with the DatawRappr-Package
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=9_xx2TmrUW4"
+UC_R5smHVXRYGhZYDJsnXTwg;EToItOH5a1o;2021-08-08T03:00:03Z;"New #rstats video: From Sheets to Success: Reliable, Reproducible, yet Flexible Production Pipelines
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=EToItOH5a1o"
+UC_R5smHVXRYGhZYDJsnXTwg;CZmldTOdlRM;2021-08-08T03:00:03Z;"New #rstats video: Contributing to R
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=CZmldTOdlRM"
+UC_R5smHVXRYGhZYDJsnXTwg;1N7D2cX2OoU;2021-08-08T03:00:03Z;"New #rstats video: Structural connectivity in the Lower Uruguay River Forest
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=1N7D2cX2OoU"
+UC_R5smHVXRYGhZYDJsnXTwg;3_ZqrTsaO4k;2021-08-08T03:00:01Z;"New #rstats video: Data visualization using ggplot2 and its extensions
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=3_ZqrTsaO4k"
+UC_R5smHVXRYGhZYDJsnXTwg;alrFf_aNDpA;2021-08-08T03:00:01Z;"New #rstats video: Using R Markdown to Automate COVID-19 Reporting
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=alrFf_aNDpA"
+UC_R5smHVXRYGhZYDJsnXTwg;-wnzLtcz8So;2021-08-08T03:00:01Z;"New #rstats video: Hetu-package: Validating and Extracting Information from Finnish National Identification Numbers
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=-wnzLtcz8So"
+UC_R5smHVXRYGhZYDJsnXTwg;2uhyaR_J2f8;2021-08-08T03:00:01Z;"New #rstats video: The Canyon of Success: Scaling Best Practices in R with Internal R packages
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=2uhyaR_J2f8"
+UC_R5smHVXRYGhZYDJsnXTwg;48YpWxXfaS8;2021-08-08T03:00:01Z;"New #rstats video: An R package to flexibly generate simulation model flow diagrams
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=48YpWxXfaS8"
+UC_R5smHVXRYGhZYDJsnXTwg;2-9fqKn8gmo;2021-08-08T03:00:00Z;"New #rstats video: Bootstrapping Multilevel Models in R using lmeresampler
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=2-9fqKn8gmo"
+UC_8_NCqWecqv8zjQE4ZwRwA;JN5YKdeV89M;2021-08-08T02:00:38Z;"New #rstats video: Shisham Adhikari - My Journey in Data Analytics and R
+By R User Group Nepal
+https://www.youtube.com/watch?v=JN5YKdeV89M"
+UCCaChdLMTYMxyawR_Qf-kYA;6asgHqYg8WQ;2021-08-07T22:45:12Z;"New #rstats video: Mastering Shiny Book Club: Chapter 2: Basic UI (2021-08-04) (mshiny02)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=6asgHqYg8WQ"
+UCTTBgWyJl2HrrhQOOc710kA;aXAafzOFyjk;2021-08-07T22:08:01Z;"New #rstats video: Tune xgboost with early stopping to predict shelter animal status
+By Julia Silge (@juliasilge)
+https://www.youtube.com/watch?v=aXAafzOFyjk"
+UC_R5smHVXRYGhZYDJsnXTwg;olmKEqBpWpE;2021-08-07T22:00:32Z;"New #rstats video: Session 2B -  Shiny
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=olmKEqBpWpE"
+UC_R5smHVXRYGhZYDJsnXTwg;W7Eh6RD3r3c;2021-08-07T22:00:23Z;"New #rstats video: Session 1B -  R Packages 1
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=W7Eh6RD3r3c"
+UC_R5smHVXRYGhZYDJsnXTwg;5e7W4ktjASQ;2021-08-07T22:00:03Z;"New #rstats video: Session 2A - Data Management
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=5e7W4ktjASQ"
+UC_R5smHVXRYGhZYDJsnXTwg;2B7H8WJOX40;2021-08-07T22:00:01Z;"New #rstats video: Session 1A - Community and Outreach 1
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=2B7H8WJOX40"
+UCyHEww8_SCdxZvEnkCfi55w;2yU7JdsGvxY;2021-08-07T14:00:01Z;"New #rstats video: Draw Venn Diagram with Proportional Size in R (Example) | Different Sizes | VennDiagram & venneuler
+By Statistics Globe (@JoachimSchork)
+https://www.youtube.com/watch?v=2yU7JdsGvxY"

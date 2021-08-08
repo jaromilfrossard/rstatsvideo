@@ -2,6 +2,7 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
                          file_channel = "data/list_channel.txt",
                          file_channel_to_rm = "data/list_channel_to_rm.txt",
                          file_video_to_rm = "data/list_video_to_rm.txt",
+                         max_tweet = 20,
                          tweet_older = TRUE){
   
   tb_channel <- read_delim(file_channel,delim=";",
@@ -151,11 +152,12 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
     if(!is.null(tb_tweet_new)){
       tb_tweet_new<- 
         tb_tweet_new%>%
-        select(id_channel,id_video,ymd_hms_video,tweet)
+        select(id_channel,id_video,ymd_hms_video,tweet)%>%
+        arrange(ymd_hms_video)
       
       lapply(tb_tweet_new$tweet, function(tweeti){
         rtweet::post_tweet(tweeti)
-        Sys.sleep(15)
+        Sys.sleep(runif(1,25,40))
         })
       
       tb_tweet_new <- 
