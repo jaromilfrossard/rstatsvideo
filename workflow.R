@@ -25,14 +25,14 @@ source("youtube_oauth.R")
 
 gert::git_pull()
 
-tb_channel <- readr::read_delim("data/list_channel.txt",delim=";",
+tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
                                 col_types = cols(
                                   id_channel = col_character(),
                                   name_channel = col_character(),
                                   id_twitter = col_character()))
 
 #update channels videos
-walk(tb_channel$id_channel,update_channel_video)
+walk(tb_channel$id_channel, update_channel_video)
 
 
 ##tweet_new videos
@@ -43,7 +43,7 @@ tweet_videos(tweet_older = T)
 follow_channels()
 
 
-commit_message <- paste0("Update ",format(Sys.Date(), "%Y_%m_%d"))
+commit_message <- paste0("Update ", format(Sys.Date(), "%Y_%m_%d"))
 gert::git_commit_all(commit_message)
 
 gert::git_push()
