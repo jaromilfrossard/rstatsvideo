@@ -881,3 +881,45 @@ https://www.youtube.com/watch?v=2B7H8WJOX40"
 UCyHEww8_SCdxZvEnkCfi55w;2yU7JdsGvxY;2021-08-07T14:00:01Z;"New #rstats video: Draw Venn Diagram with Proportional Size in R (Example) | Different Sizes | VennDiagram & venneuler
 By Statistics Globe (@JoachimSchork)
 https://www.youtube.com/watch?v=2yU7JdsGvxY"
+UC_R5smHVXRYGhZYDJsnXTwg;-PsaqMWfUIg;2021-08-08T22:00:00Z;"New #rstats video: Session 3C - R Packages 2
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=-PsaqMWfUIg"
+UC_R5smHVXRYGhZYDJsnXTwg;09X2cpFfdJU;2021-08-08T22:00:00Z;"New #rstats video: Session 7A - Ecology and Environnement
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=09X2cpFfdJU"
+UC_R5smHVXRYGhZYDJsnXTwg;CaV522U1Ju0;2021-08-08T22:00:03Z;"New #rstats video: Session 5B - Mathematical Models
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=CaV522U1Ju0"
+UC_R5smHVXRYGhZYDJsnXTwg;D4MrVnumM8k;2021-08-08T22:00:04Z;"New #rstats video: Session 3A - Machine Learning and Data Management
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=D4MrVnumM8k"
+UC_R5smHVXRYGhZYDJsnXTwg;LyBLJlN6dqo;2021-08-08T22:00:05Z;"New #rstats video: Session 9B - Community and Outreach 2
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=LyBLJlN6dqo"
+UC_R5smHVXRYGhZYDJsnXTwg;8kB6jrErgrk;2021-08-08T22:00:06Z;"New #rstats video: Session 8A - Statistics and Bioinformatics
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=8kB6jrErgrk"
+UC_R5smHVXRYGhZYDJsnXTwg;9xRpqSkaKnM;2021-08-08T22:00:06Z;"New #rstats video: Session 6B - R in Production
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=9xRpqSkaKnM"
+UC_R5smHVXRYGhZYDJsnXTwg;MrVTc5Wvg60;2021-08-08T22:00:06Z;"New #rstats video: Session 9A -  R in Production 3
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=MrVTc5Wvg60"
+UC_R5smHVXRYGhZYDJsnXTwg;kDoTy20dXrg;2021-08-08T22:00:11Z;"New #rstats video: Session 6A - Data visualisation
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=kDoTy20dXrg"
+UC_R5smHVXRYGhZYDJsnXTwg;p33xeJvh9ys;2021-08-08T22:00:14Z;"New #rstats video: Session 7B - Statistical Modeling in R
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=p33xeJvh9ys"
+UC_R5smHVXRYGhZYDJsnXTwg;tR7sNOPq9-I;2021-08-08T22:00:14Z;"New #rstats video: Session 7C - Teaching, Automation and Reproducibility
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=tR7sNOPq9-I"
+UC_R5smHVXRYGhZYDJsnXTwg;vd8XZSuY_Rs;2021-08-08T22:00:14Z;"New #rstats video: Session 5A -  Teaching R and R in Teaching
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=vd8XZSuY_Rs"
+UC_R5smHVXRYGhZYDJsnXTwg;dYLOyUeSyzw;2021-08-08T22:00:28Z;"New #rstats video: Session 9C - Statistical Modeling and Data Analysis 2
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=dYLOyUeSyzw"
+UC_R5smHVXRYGhZYDJsnXTwg;tbt8ZsHm5eA;2021-08-08T22:00:32Z;"New #rstats video: Session 4B - Data Viz and Spatial Applications
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=tbt8ZsHm5eA"
