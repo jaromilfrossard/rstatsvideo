@@ -923,3 +923,6 @@ https://www.youtube.com/watch?v=dYLOyUeSyzw"
 UC_R5smHVXRYGhZYDJsnXTwg;tbt8ZsHm5eA;2021-08-08T22:00:32Z;"New #rstats video: Session 4B - Data Viz and Spatial Applications
 By R Consortium (@RConsortium)
 https://www.youtube.com/watch?v=tbt8ZsHm5eA"
+UCyHEww8_SCdxZvEnkCfi55w;6CTwX0SbSxs;2021-08-09T14:00:02Z;"New #rstats video: Create Categories Based On Integer & Numeric Range in R (2 Examples) | Convert Data to Factor Class
+By Statistics Globe (@JoachimSchork)
+https://www.youtube.com/watch?v=6CTwX0SbSxs"
