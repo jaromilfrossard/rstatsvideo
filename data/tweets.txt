@@ -926,3 +926,42 @@ https://www.youtube.com/watch?v=tbt8ZsHm5eA"
 UCyHEww8_SCdxZvEnkCfi55w;6CTwX0SbSxs;2021-08-09T14:00:02Z;"New #rstats video: Create Categories Based On Integer & Numeric Range in R (2 Examples) | Convert Data to Factor Class
 By Statistics Globe (@JoachimSchork)
 https://www.youtube.com/watch?v=6CTwX0SbSxs"
+UCCaChdLMTYMxyawR_Qf-kYA;aZmzrugOI0Y;2021-08-09T15:33:31Z;"New #rstats video: Practical Stats for Data Scientists: Ch5: Classification (2021-08-02) (ps4ds01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=aZmzrugOI0Y"
+UCCaChdLMTYMxyawR_Qf-kYA;ZVy-d-MaBm4;2021-08-09T15:39:08Z;"New #rstats video: Practical Stats for Data Scientists: Ch6: Statistical Machine Learning (2021-08-09) (ps4ds01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=ZVy-d-MaBm4"
+UCGuktEl5InrcxPfCjmPWxsA;UFvL2NXLvD8;2021-08-09T16:00:29Z;"New #rstats video: How to pool ROC curves in R to better understand a model's performance (CC135)
+By Riffomonas Project (@PatSchloss)
+https://www.youtube.com/watch?v=UFvL2NXLvD8"
+UCCaChdLMTYMxyawR_Qf-kYA;gg7XfDgyf84;2021-08-09T16:02:55Z;"New #rstats video: Regression and Other Stories Book Club: Chapter 4: Statistical Inference (2021-06-22) (ros01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=gg7XfDgyf84"
+UCCaChdLMTYMxyawR_Qf-kYA;nVrIicqahnk;2021-08-09T16:18:29Z;"New #rstats video: Regression and Other Stories Book Club: Chapter 5: Simulation (2021-07-06) (ros01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=nVrIicqahnk"
+UCCaChdLMTYMxyawR_Qf-kYA;vMWOCywO8jM;2021-08-09T16:42:06Z;"New #rstats video: Regression and Other Stories Book Club: Ch6: Background on regression modeling (2021-07-20) (ros01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=vMWOCywO8jM"
+UCCaChdLMTYMxyawR_Qf-kYA;hQFkChaqp1w;2021-08-09T16:48:30Z;"New #rstats video: Regression and Other Stories: Ch7: Linear regression with a single predictor (2021-07-27) (ros01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=hQFkChaqp1w"
+UCCaChdLMTYMxyawR_Qf-kYA;0NdiQuuM0vw;2021-08-09T18:51:31Z;"New #rstats video: R for Data Science Book Club: Data visualization (2021-07-31) (r4ds05)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=0NdiQuuM0vw"
+UCCaChdLMTYMxyawR_Qf-kYA;nQnMm6kyJbE;2021-08-09T19:02:16Z;"New #rstats video: R for Data Science Book Club: Workflow: basics (2021-08-07) (r4ds05)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=nQnMm6kyJbE"
+UCCaChdLMTYMxyawR_Qf-kYA;_0dNScwJz5A;2021-08-10T04:06:10Z;"New #rstats video: R for Data Science Book Club: Chapter 28: Graphics for communication (2021-06-23) (r4ds04)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=_0dNScwJz5A"
+UCCaChdLMTYMxyawR_Qf-kYA;IRkgCUvvFQ4;2021-08-10T04:39:13Z;"New #rstats video: Mastering Shiny Book Club: Chapter 17: Packages (2021-07-13) (mshiny01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=IRkgCUvvFQ4"
+UCCaChdLMTYMxyawR_Qf-kYA;8ZTGDbH1MaE;2021-08-10T05:06:54Z;"New #rstats video: Mastering Shiny Book Club: Chapter 19: Testing (2021-07-20) (mshiny01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=8ZTGDbH1MaE"
+UCyHEww8_SCdxZvEnkCfi55w;k5lujS0lhf4;2021-08-10T14:00:30Z;"New #rstats video: Draw Histogram with Percentages Instead of Frequency Counts in Base R (Example) | hist() & plot()
+By Statistics Globe (@JoachimSchork)
+https://www.youtube.com/watch?v=k5lujS0lhf4"
