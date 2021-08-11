@@ -965,3 +965,12 @@ https://www.youtube.com/watch?v=8ZTGDbH1MaE"
 UCyHEww8_SCdxZvEnkCfi55w;k5lujS0lhf4;2021-08-10T14:00:30Z;"New #rstats video: Draw Histogram with Percentages Instead of Frequency Counts in Base R (Example) | hist() & plot()
 By Statistics Globe (@JoachimSchork)
 https://www.youtube.com/watch?v=k5lujS0lhf4"
+UCCaChdLMTYMxyawR_Qf-kYA;FTuti94dgYs;2021-08-10T18:42:44Z;"New #rstats video: Tidy Modeling with R Book Club: Chapter 13 (Grid search) (2021-08-09) (tmwr03)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=FTuti94dgYs"
+UC_R5smHVXRYGhZYDJsnXTwg;5IKm9MHGoDM;2021-08-10T20:00:11Z;"New #rstats video: Session 8C - Statistical Modeling and Data Analysis
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=5IKm9MHGoDM"
+UCyHEww8_SCdxZvEnkCfi55w;Oiz7PA2tIEs;2021-08-11T14:00:10Z;"New #rstats video: Set NA to Blank in R (2 Examples) | Replace Missing Values in Vector & Data Frame | sapply Function
+By Statistics Globe (@JoachimSchork)
+https://www.youtube.com/watch?v=Oiz7PA2tIEs"
