@@ -974,3 +974,54 @@ https://www.youtube.com/watch?v=5IKm9MHGoDM"
 UCyHEww8_SCdxZvEnkCfi55w;Oiz7PA2tIEs;2021-08-11T14:00:10Z;"New #rstats video: Set NA to Blank in R (2 Examples) | Replace Missing Values in Vector & Data Frame | sapply Function
 By Statistics Globe (@JoachimSchork)
 https://www.youtube.com/watch?v=Oiz7PA2tIEs"
+UC3xfbCMLCw1Hh4dWop3XtHg;-uFpynLYuxo;2021-08-11T19:03:31Z;"New #rstats video: RStudio Cloud | Inviting Co-instructors and Teaching Assistants | Instructor View
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=-uFpynLYuxo"
+UC3xfbCMLCw1Hh4dWop3XtHg;4jm8q74gRnc;2021-08-11T19:03:36Z;"New #rstats video: RStudio Cloud | Exporting Projects | Instructor View
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=4jm8q74gRnc"
+UC3xfbCMLCw1Hh4dWop3XtHg;6QfhW9DeVvw;2021-08-11T19:03:40Z;"New #rstats video: RStudio Cloud | Creating an Assignment | Instructor View
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=6QfhW9DeVvw"
+UC3xfbCMLCw1Hh4dWop3XtHg;BDhUm-96uyk;2021-08-11T19:03:46Z;"New #rstats video: RStudio Cloud | Creating a Shared Space | Instructor View
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=BDhUm-96uyk"
+UC3xfbCMLCw1Hh4dWop3XtHg;Cs___eT4v-0;2021-08-11T19:03:51Z;"New #rstats video: RStudio Cloud | Setting Up a Base Project | Instructor View
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=Cs___eT4v-0"
+UC3xfbCMLCw1Hh4dWop3XtHg;IyRvnbKACHI;2021-08-11T19:03:55Z;"New #rstats video: RStudio Cloud | Viewing Learning Work | Instructor View
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=IyRvnbKACHI"
+UC3xfbCMLCw1Hh4dWop3XtHg;OWM53BCcBCw;2021-08-11T19:03:59Z;"New #rstats video: RStudio Cloud | {rscloud} Package | Instructor View
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=OWM53BCcBCw"
+UC3xfbCMLCw1Hh4dWop3XtHg;UDuuE6eDNrA;2021-08-11T19:04:05Z;"New #rstats video: RStudio Cloud | Project Types | Instructor View
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=UDuuE6eDNrA"
+UC3xfbCMLCw1Hh4dWop3XtHg;VV_3MvJmwG4;2021-08-11T19:04:09Z;"New #rstats video: RStudio Cloud | Overview | Instructor View
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=VV_3MvJmwG4"
+UC3xfbCMLCw1Hh4dWop3XtHg;dmuy7CuMevA;2021-08-11T19:04:13Z;"New #rstats video: RStudio Cloud | Roles | Instructor View
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=dmuy7CuMevA"
+UC3xfbCMLCw1Hh4dWop3XtHg;f_QRYIBcEvQ;2021-08-11T19:04:18Z;"New #rstats video: RStudio Cloud | Reusing a Workspace | Instructor View
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=f_QRYIBcEvQ"
+UC3xfbCMLCw1Hh4dWop3XtHg;ghUwQc7_4Wc;2021-08-11T19:04:21Z;"New #rstats video: RStudio Cloud | Invite Learners | Instructor View
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=ghUwQc7_4Wc"
+UC3xfbCMLCw1Hh4dWop3XtHg;hJ9qGMY7UD4;2021-08-11T19:04:25Z;"New #rstats video: RStudio Cloud | Tuning Resources | Instructor View
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=hJ9qGMY7UD4"
+UC3xfbCMLCw1Hh4dWop3XtHg;yAy2VOU2w18;2021-08-11T19:04:29Z;"New #rstats video: RStudio Cloud | Troubleshooting | Instructor View
+By RStudio (@rstudio)
+https://www.youtube.com/watch?v=yAy2VOU2w18"
+UCCaChdLMTYMxyawR_Qf-kYA;vGYmh08GZho;2021-08-12T04:04:23Z;"New #rstats video: Mastering Shiny Book Club: Chapter 19: Security (2021-07-27) (mshiny01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=vGYmh08GZho"
+UCCaChdLMTYMxyawR_Qf-kYA;LLO6vDLqhWw;2021-08-12T04:37:27Z;"New #rstats video: Mastering Shiny Book Club: Chapter 20: Performance (2021-08-03) (mshiny01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=LLO6vDLqhWw"
+UCCaChdLMTYMxyawR_Qf-kYA;rM5zPN5mLkE;2021-08-12T05:25:41Z;"New #rstats video: Mastering Shiny Book Club: Cohort wrap up (2021-08-10) (mshiny01)
+By R4DS Online Learning Community (@R4DScommunity)
+https://www.youtube.com/watch?v=rM5zPN5mLkE"
