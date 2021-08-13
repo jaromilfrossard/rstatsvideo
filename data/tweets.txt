@@ -1025,3 +1025,15 @@ https://www.youtube.com/watch?v=LLO6vDLqhWw"
 UCCaChdLMTYMxyawR_Qf-kYA;rM5zPN5mLkE;2021-08-12T05:25:41Z;"New #rstats video: Mastering Shiny Book Club: Cohort wrap up (2021-08-10) (mshiny01)
 By R4DS Online Learning Community (@R4DScommunity)
 https://www.youtube.com/watch?v=rM5zPN5mLkE"
+UCyHEww8_SCdxZvEnkCfi55w;MTUU9LlAebM;2021-08-12T14:00:18Z;"New #rstats video: Add Individual Text to Each Facet of ggplot2 Plot in R (Example) | annotate() & geom_text() Function
+By Statistics Globe (@JoachimSchork)
+https://www.youtube.com/watch?v=MTUU9LlAebM"
+UCGuktEl5InrcxPfCjmPWxsA;qaksmQabMUI;2021-08-12T16:00:34Z;"New #rstats video: Recreating a labelled dumbbell chart in R showing people's openness to the COVID-19 vaccine (CC136)
+By Riffomonas Project (@PatSchloss)
+https://www.youtube.com/watch?v=qaksmQabMUI"
+UCwQ7lkY6YWzZjT807Itbvtw;q5SATNrTa_0;2021-08-13T04:23:10Z;"New #rstats video: Deploying {shinycal} to the world!
+By Shiny DeveloperSeries
+https://www.youtube.com/watch?v=q5SATNrTa_0"
+UCwQ7lkY6YWzZjT807Itbvtw;Sv0_xhh7Y1A;2021-08-13T04:32:10Z;"New #rstats video: Discovering hidden gems within shinycal development!
+By Shiny DeveloperSeries
+https://www.youtube.com/watch?v=Sv0_xhh7Y1A"
