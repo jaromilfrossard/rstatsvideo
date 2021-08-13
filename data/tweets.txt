@@ -1043,3 +1043,12 @@ https://www.youtube.com/watch?v=CmzMwXl3p9M"
 UC_R5smHVXRYGhZYDJsnXTwg;GMMGBlyl_ok;2021-08-13T15:40:38Z;"New #rstats video: USER2021 Session 8B
 By R Consortium (@RConsortium)
 https://www.youtube.com/watch?v=GMMGBlyl_ok"
+UCMdihazndR0f9XBoSXWqnYg;Zv19sslm-S4;2018-01-08T21:00:03Z;"#rstats video:  R - Dummy Coding in Regression
+By Statistics of DOOM
+https://www.youtube.com/watch?v=Zv19sslm-S4"
+UC2-hKemnrmVCH_29duyJ26A;mJVTg8PWjW4;2018-03-09T01:56:20Z;"#rstats video:  Jennifer Hill - Causal Inference at the Intersection of Statistics and Machine Learning
+By Lander Analytics (@LanderAnalytics)
+https://www.youtube.com/watch?v=mJVTg8PWjW4"
+UCeiiqmVK07qhY-wvg3IZiZQ;Mkac8DHScps;2019-10-01T16:55:40Z;"#rstats video:  Tidy Tuesday screecast: analyzing pizza ratings
+By David Robinson (@drob)
+https://www.youtube.com/watch?v=Mkac8DHScps"
