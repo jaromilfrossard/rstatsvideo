@@ -1037,3 +1037,9 @@ https://www.youtube.com/watch?v=q5SATNrTa_0"
 UCwQ7lkY6YWzZjT807Itbvtw;Sv0_xhh7Y1A;2021-08-13T04:32:10Z;"New #rstats video: Discovering hidden gems within shinycal development!
 By Shiny DeveloperSeries
 https://www.youtube.com/watch?v=Sv0_xhh7Y1A"
+UCyHEww8_SCdxZvEnkCfi55w;CmzMwXl3p9M;2021-08-13T14:00:10Z;"New #rstats video: Change Fill and Border Color of ggplot2 Plot in R (Example) | Modify Colors | scale_fill_manual()
+By Statistics Globe (@JoachimSchork)
+https://www.youtube.com/watch?v=CmzMwXl3p9M"
+UC_R5smHVXRYGhZYDJsnXTwg;GMMGBlyl_ok;2021-08-13T15:40:38Z;"New #rstats video: USER2021 Session 8B
+By R Consortium (@RConsortium)
+https://www.youtube.com/watch?v=GMMGBlyl_ok"
