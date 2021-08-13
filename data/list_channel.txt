@@ -10,7 +10,7 @@ UC3xfbCMLCw1Hh4dWop3XtHg;RStudio;rstudio
 UCT9SgxpakGSH-yfRj_QhzIQ;Thomas Lin Pedersen;thomasp85
 UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;thinkR_fr
 UC2-hKemnrmVCH_29duyJ26A;Lander Analytics;LanderAnalytics
-UCwQ7lkY6YWzZjT807Itbvtw;Shiny DeveloperSeries;
+UCwQ7lkY6YWzZjT807Itbvtw;Shiny DeveloperSeries;theRcast
 UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham;hadleywickham
 UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
 UCFXPzW7RxP6RfQGpRn7WXNw;Daniel Anderson;datalorax_
