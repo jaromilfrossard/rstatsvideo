@@ -1052,3 +1052,6 @@ https://www.youtube.com/watch?v=mJVTg8PWjW4"
 UCeiiqmVK07qhY-wvg3IZiZQ;Mkac8DHScps;2019-10-01T16:55:40Z;"#rstats video:  Tidy Tuesday screecast: analyzing pizza ratings
 By David Robinson (@drob)
 https://www.youtube.com/watch?v=Mkac8DHScps"
+UCyHEww8_SCdxZvEnkCfi55w;rCcPUw3vm8s;2021-08-14T14:00:31Z;"New #rstats video: Find & Count Exact Matches in Character Strings R (3 Examples) | which(), length(), grepl() & sum()
+By Statistics Globe (@JoachimSchork)
+https://www.youtube.com/watch?v=rCcPUw3vm8s"
