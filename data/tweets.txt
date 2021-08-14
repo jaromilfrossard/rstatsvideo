@@ -1055,3 +1055,12 @@ https://www.youtube.com/watch?v=Mkac8DHScps"
 UCyHEww8_SCdxZvEnkCfi55w;rCcPUw3vm8s;2021-08-14T14:00:31Z;"New #rstats video: Find & Count Exact Matches in Character Strings R (3 Examples) | which(), length(), grepl() & sum()
 By Statistics Globe (@JoachimSchork)
 https://www.youtube.com/watch?v=rCcPUw3vm8s"
+UCeiiqmVK07qhY-wvg3IZiZQ;ZOQSuapvHqA;2019-07-23T04:35:17Z;"📺 #rstats video:  Tidy Tuesday screencast: analyzing Women's World Cup data
+▶ David Robinson (@drob)
+🔗https://www.youtube.com/watch?v=ZOQSuapvHqA"
+UC_R5smHVXRYGhZYDJsnXTwg;hytdjtM6Chg;2020-07-08T07:48:14Z;"📺 #rstats video:  useR! 2020: Reactor: reactive notebooks for R (H. Susmann), lightening
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=hytdjtM6Chg"
+UC2-hKemnrmVCH_29duyJ26A;mApnx5NJwQA;2020-10-07T13:46:22Z;"📺 #rstats video:  David Robinson - The {widyr} Package
+▶ Lander Analytics (@LanderAnalytics)
+🔗https://www.youtube.com/watch?v=mApnx5NJwQA"
