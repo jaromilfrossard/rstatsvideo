@@ -3,8 +3,8 @@ UCWI1xyk6Jb4t2OOyP2LS4DQ;John Muschelli;StrictlyStat
 UCnwYO3Sz_emBTC1sTZ6TlsQ;Andrew Couch;Andr3wCouch
 UCeiiqmVK07qhY-wvg3IZiZQ;David Robinson;drob
 UC_R5smHVXRYGhZYDJsnXTwg;R Consortium;RConsortium
-UCYgIy7zeC7v6iZhx0-NywBw;satRdays;
-UCwLy_PYrnCEhCU-Ay2F5Drw;Why R? Foundation;
+UCYgIy7zeC7v6iZhx0-NywBw;satRdays;satRdays_org
+UCwLy_PYrnCEhCU-Ay2F5Drw;Why R? Foundation;whyRconf
 UCTTBgWyJl2HrrhQOOc710kA;Julia Silge;juliasilge
 UC3xfbCMLCw1Hh4dWop3XtHg;RStudio;rstudio
 UCT9SgxpakGSH-yfRj_QhzIQ;Thomas Lin Pedersen;thomasp85
@@ -17,7 +17,7 @@ UCFXPzW7RxP6RfQGpRn7WXNw;Daniel Anderson;datalorax_
 UCF9ymC7Dpjwr0lge2QR_A5Q;webin-R;
 UCwj8tOO9Go3hA3N6_jQGDlA;finnstats;
 UCGuktEl5InrcxPfCjmPWxsA;Riffomonas Project;PatSchloss
-UCMdihazndR0f9XBoSXWqnYg;Statistics of DOOM;
+UCMdihazndR0f9XBoSXWqnYg;Statistics of DOOM;aggieerin
 UCKFp00-PRnuc1Dx4DaUmJBg;Chad C. Williams;WilliamsNeuro
 UCPzO5TjnYnBzfUVj6fI3pdw;Vivian Codes;
 UCxdCZGywhd2R5BiOP8vOgqg;R Programming - DDS;
@@ -25,15 +25,15 @@ UCC3CCtUrSSQoJkxodRKr89g;Lisa Lendway - Statistics & Data Science;lisalendway
 UCBV194XNr6CIQCCuw1v2rMQ;dataslice;
 UC6wfyYnDaebrARFWhWdcItA;R Stats;
 UCY98oWVfQEZ_i7R_0JqIRZA;R- Ladies Amsterdam;RLadiesAMS
-UClC5yNEjMoE3MmbK-mrV8Ow;R-Ladies Melbourne;
+UClC5yNEjMoE3MmbK-mrV8Ow;R-Ladies Melbourne;RLadiesMelb
 UCDgj5-mFohWZ5irWSFMFcng;R-Ladies Global;RLadiesGlobal
 UCIbS1KNK7jbcbQVNt7lF62A;R-Ladies Irvine;RLadiesIrvine
-UCoL2FUq0Yo3RcjGG0Vf2qmg;R-Ladies Perth;
+UCoL2FUq0Yo3RcjGG0Vf2qmg;R-Ladies Perth;RLadiesPerth
 UCQ7DcXWJm3es06U7lGmBDkw;R Ladies STL;RLadiesSTL
 UCOFcXLjW9atcEuCa5kbOPSw;RLadies Santa Fe;RLadiesSantaFe
 UCkrf5iL8ef1QHe--zstechA;RLadies Sydney;RLadiesSydney
-UCgmESmRO796bbzOxFNPtXWw;R-Ladies Lausanne;
-UCJlLo_WBovtoVUNXQvr3UiA;R-Ladies Lisboa;
+UCgmESmRO796bbzOxFNPtXWw;R-Ladies Lausanne;RLadiesLausanne
+UCJlLo_WBovtoVUNXQvr3UiA;R-Ladies Lisboa;RLadiesLx
 UCCaChdLMTYMxyawR_Qf-kYA;R4DS Online Learning Community;R4DScommunity
 UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen;
 UCfJyQ3P2k_SuqfxVdqIEQNw;R Programming 101;101Programming
@@ -41,7 +41,7 @@ UCU5ZiUm-OLbVGW7NP0e-eFQ;Learn RStats;
 UC_8_NCqWecqv8zjQE4ZwRwA;R User Group Nepal;rugnepal
 UCTZXht1RTL2Duc3eU8MYGzQ;Bruno Rodrigues;brodriguesco
 UCKMekE_4UfWvZDuBWenG8WA;StatistikinDD;StatistikInDD
-UCfoktGmvJ6rnME7mSP_Ww2g;R-Ladies Tunis;
+UCfoktGmvJ6rnME7mSP_Ww2g;R-Ladies Tunis;RLadiesTunis
 UCWFju94W4ecD4qNRWW4ztLQ;INWT Statistics;INWT_Statistics
 UCULDYwwVDYo1Pd3uLB33cHg;bernogarcia;bernogarcia1
 UCxB1IGhLzlEOikTL-aDwqFg;Leonardo Collado Torres;lcolladotor
