@@ -1064,3 +1064,15 @@ UC_R5smHVXRYGhZYDJsnXTwg;hytdjtM6Chg;2020-07-08T07:48:14Z;"📺 #rstats video:  
 UC2-hKemnrmVCH_29duyJ26A;mApnx5NJwQA;2020-10-07T13:46:22Z;"📺 #rstats video:  David Robinson - The {widyr} Package
 ▶ Lander Analytics (@LanderAnalytics)
 🔗https://www.youtube.com/watch?v=mApnx5NJwQA"
+UCCaChdLMTYMxyawR_Qf-kYA;J6mGn1F1kiA;2021-08-14T19:12:55Z;"📺 New #rstats video: R for Data Science Book Club: Data transformation (2021-08-14) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=J6mGn1F1kiA"
+UCCaChdLMTYMxyawR_Qf-kYA;4fsa6RGwnYo;2021-08-14T19:28:52Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 20: Vectors (2021-07-13) (r4ds03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=4fsa6RGwnYo"
+UCCaChdLMTYMxyawR_Qf-kYA;WKtp5IbG9n0;2021-08-14T19:30:37Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 21: Iteration (2021-07-27) (r4ds03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=WKtp5IbG9n0"
+UCCaChdLMTYMxyawR_Qf-kYA;bj8xpufjcrE;2021-08-14T19:33:53Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 21: Iteration (2021-08-10) (r4ds03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=bj8xpufjcrE"
