@@ -1076,3 +1076,6 @@ UCCaChdLMTYMxyawR_Qf-kYA;WKtp5IbG9n0;2021-08-14T19:30:37Z;"📺 New #rstats vide
 UCCaChdLMTYMxyawR_Qf-kYA;bj8xpufjcrE;2021-08-14T19:33:53Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 21: Iteration (2021-08-10) (r4ds03)
 ▶ R4DS Online Learning Community (@R4DScommunity)
 🔗https://www.youtube.com/watch?v=bj8xpufjcrE"
+UCyHEww8_SCdxZvEnkCfi55w;aTfNwZ2NSBM;2021-08-15T14:00:00Z;"📺 New #rstats video: How to Convert a Character Matrix to Numeric in R (Example) | as.numeric, matrix & ncol Functions
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=aTfNwZ2NSBM"
