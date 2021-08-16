@@ -1079,3 +1079,9 @@ UCCaChdLMTYMxyawR_Qf-kYA;bj8xpufjcrE;2021-08-14T19:33:53Z;"📺 New #rstats vide
 UCyHEww8_SCdxZvEnkCfi55w;aTfNwZ2NSBM;2021-08-15T14:00:00Z;"📺 New #rstats video: How to Convert a Character Matrix to Numeric in R (Example) | as.numeric, matrix & ncol Functions
 ▶ Statistics Globe (@JoachimSchork)
 🔗https://www.youtube.com/watch?v=aTfNwZ2NSBM"
+UCCaChdLMTYMxyawR_Qf-kYA;br0RE1uORgk;2021-08-15T23:16:22Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapter 3: Basic reactivity (2021-08-11) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=br0RE1uORgk"
+UCTTBgWyJl2HrrhQOOc710kA;1LEW8APSOJo;2021-08-16T00:16:34Z;"📺 New #rstats video: Predict housing prices in Austin TX with tidymodels and xgboost
+▶ Julia Silge (@juliasilge)
+🔗https://www.youtube.com/watch?v=1LEW8APSOJo"
