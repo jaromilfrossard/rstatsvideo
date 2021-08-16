@@ -1085,3 +1085,9 @@ UCCaChdLMTYMxyawR_Qf-kYA;br0RE1uORgk;2021-08-15T23:16:22Z;"📺 New #rstats vide
 UCTTBgWyJl2HrrhQOOc710kA;1LEW8APSOJo;2021-08-16T00:16:34Z;"📺 New #rstats video: Predict housing prices in Austin TX with tidymodels and xgboost
 ▶ Julia Silge (@juliasilge)
 🔗https://www.youtube.com/watch?v=1LEW8APSOJo"
+UCyHEww8_SCdxZvEnkCfi55w;7sB_MOtU5cM;2021-08-16T14:00:03Z;"📺 New #rstats video: Different Colors of Points & Lines in Base R Plot Legend (Example) | text.col, lwd, lty, pch & bty
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=7sB_MOtU5cM"
+UC2-hKemnrmVCH_29duyJ26A;gIBFpeAXnKU;2021-08-16T14:47:19Z;"📺 New #rstats video: Ian Cook- tidyquery and queryparser: Translating SQL Queries to dplyr Pipelines
+▶ Lander Analytics (@LanderAnalytics)
+🔗https://www.youtube.com/watch?v=gIBFpeAXnKU"
