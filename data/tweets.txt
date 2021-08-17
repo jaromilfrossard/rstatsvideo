@@ -1091,3 +1091,12 @@ UCyHEww8_SCdxZvEnkCfi55w;7sB_MOtU5cM;2021-08-16T14:00:03Z;"📺 New #rstats vide
 UC2-hKemnrmVCH_29duyJ26A;gIBFpeAXnKU;2021-08-16T14:47:19Z;"📺 New #rstats video: Ian Cook- tidyquery and queryparser: Translating SQL Queries to dplyr Pipelines
 ▶ Lander Analytics (@LanderAnalytics)
 🔗https://www.youtube.com/watch?v=gIBFpeAXnKU"
+UC3xfbCMLCw1Hh4dWop3XtHg;SMN8Aut0U9g;2021-08-17T00:12:48Z;"📺 New #rstats video: Data Scientists vs. Business Analysts | Data Science Hangout Highlights
+▶ RStudio (@rstudio)
+🔗https://www.youtube.com/watch?v=SMN8Aut0U9g"
+UClC5yNEjMoE3MmbK-mrV8Ow;XBoWCTYUvgY;2021-08-17T05:12:38Z;"📺 New #rstats video: R-Ladies Melbourne - August 2021 - A remote glimpse into the useR! 2021 conference - Anna Quaglieri
+▶ R-Ladies Melbourne (@RLadiesMelb)
+🔗https://www.youtube.com/watch?v=XBoWCTYUvgY"
+UCyHEww8_SCdxZvEnkCfi55w;O1dnDj_V2d8;2021-08-17T14:00:08Z;"📺 New #rstats video: Annotate Multiple Lines of Text to ggplot2 Plot in R (Example) | Add Label | Split String with ""\n""
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=O1dnDj_V2d8"
