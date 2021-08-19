@@ -1100,3 +1100,51 @@ UClC5yNEjMoE3MmbK-mrV8Ow;XBoWCTYUvgY;2021-08-17T05:12:38Z;"📺 New #rstats vide
 UCyHEww8_SCdxZvEnkCfi55w;O1dnDj_V2d8;2021-08-17T14:00:08Z;"📺 New #rstats video: Annotate Multiple Lines of Text to ggplot2 Plot in R (Example) | Add Label | Split String with ""\n""
 ▶ Statistics Globe (@JoachimSchork)
 🔗https://www.youtube.com/watch?v=O1dnDj_V2d8"
+UC3xfbCMLCw1Hh4dWop3XtHg;KBs4b3Q2n8Y;2021-08-17T14:43:13Z;"📺 New #rstats video: Understanding the Impact of Data Science | Data Science Hangout #4
+▶ RStudio (@rstudio)
+🔗https://www.youtube.com/watch?v=KBs4b3Q2n8Y"
+UCGuktEl5InrcxPfCjmPWxsA;GYu8kVDxz6A;2021-08-17T16:00:18Z;"📺 New #rstats video: How to create alternating background colors in R with ggplot2 (CC137)
+▶ Riffomonas Project (@PatSchloss)
+🔗https://www.youtube.com/watch?v=GYu8kVDxz6A"
+UCKMekE_4UfWvZDuBWenG8WA;NEbsJ4KHMco;2021-08-17T16:52:58Z;"📺 New #rstats video: How to Import XML Data into R using the XML Package
+▶ StatistikinDD (@StatistikInDD)
+🔗https://www.youtube.com/watch?v=NEbsJ4KHMco"
+UCCaChdLMTYMxyawR_Qf-kYA;a_tg77VOtHk;2021-08-17T18:07:11Z;"📺 New #rstats video: Tidy Modeling with R Book Club: Chapter 14 (Iterative search) (2021-08-16) (tmwr03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=a_tg77VOtHk"
+UC_R5smHVXRYGhZYDJsnXTwg;J3Tgn-bDHmE;2021-08-17T20:38:14Z;"📺 New #rstats video: Scaling R at GSK
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=J3Tgn-bDHmE"
+UCTZXht1RTL2Duc3eU8MYGzQ;erlWsquoHlM;2021-08-17T20:56:49Z;"📺 New #rstats video: Is R slow?
+▶ Bruno Rodrigues (@brodriguesco)
+🔗https://www.youtube.com/watch?v=erlWsquoHlM"
+UCnwYO3Sz_emBTC1sTZ6TlsQ;PELmRfMjC0s;2021-08-18T00:00:05Z;"📺 New #rstats video: TidyTuesday: A Brief Overview of  ggplot2
+▶ Andrew Couch (@Andr3wCouch)
+🔗https://www.youtube.com/watch?v=PELmRfMjC0s"
+UCeiiqmVK07qhY-wvg3IZiZQ;TavDMQAYmZY;2021-08-18T03:44:22Z;"📺 New #rstats video: SLICED Competition Finals: Live Screencast
+▶ David Robinson (@drob)
+🔗https://www.youtube.com/watch?v=TavDMQAYmZY"
+UCCaChdLMTYMxyawR_Qf-kYA;EqsSWUQ6ZW0;2021-08-18T06:31:21Z;"📺 New #rstats video: Advanced R Book Club: Chapter 22 (Debugging) (2021-08-17) (advr05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=EqsSWUQ6ZW0"
+UCC3CCtUrSSQoJkxodRKr89g;DfNxk_cKL04;2021-08-18T13:38:24Z;"📺 New #rstats video: Building an R Markdown website
+▶ Lisa Lendway - Statistics & Data Science (@lisalendway)
+🔗https://www.youtube.com/watch?v=DfNxk_cKL04"
+UCyHEww8_SCdxZvEnkCfi55w;uSFbe7Q2BWw;2021-08-18T14:00:24Z;"📺 New #rstats video: Change Color, Shape & Size of One Data Point in Plot (Base R & ggplot2) | ifelse() & nrow() Function
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=uSFbe7Q2BWw"
+UCMwM-3tg_-Pbx8hKO78q5EA;A7TeTv5m5rg;2021-08-18T15:01:28Z;"📺 New #rstats video: NHS-R Webinar - Adaptive Clinical Trial Design using R by Dr Anna Heath (August 2021)
+▶ NHSR Community (@NHSrCommunity)
+🔗https://www.youtube.com/watch?v=A7TeTv5m5rg"
+UC3xfbCMLCw1Hh4dWop3XtHg;EE5Vc2w4rGU;2021-08-18T16:41:02Z;"📺 New #rstats video: Make Sure You Communicate Value | Data Science Hangout Highlights
+▶ RStudio (@rstudio)
+🔗https://www.youtube.com/watch?v=EE5Vc2w4rGU"
+UC3xfbCMLCw1Hh4dWop3XtHg;GBNzhIkObyE;2021-08-18T17:36:59Z;"📺 New #rstats video: Build Your Ideal Showcase of Data Products | Kelly O'Briant | RStudio Connect 1.9.0
+▶ RStudio (@rstudio)
+🔗https://www.youtube.com/watch?v=GBNzhIkObyE"
+UCwQ7lkY6YWzZjT807Itbvtw;58Ac9M57_a8;2021-08-19T12:43:37Z;"📺 New #rstats video: A learning journey with {brochure}!
+▶ Shiny DeveloperSeries (@theRcast)
+🔗https://www.youtube.com/watch?v=58Ac9M57_a8"
+UCyHEww8_SCdxZvEnkCfi55w;nk_f5GXENPw;2021-08-19T14:00:36Z;"📺 New #rstats video: Rename Data Object in R (Example) | How to Change Name of Vector & List | rm() Function in RStudio
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=nk_f5GXENPw"
