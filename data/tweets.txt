@@ -1154,3 +1154,9 @@ UCGuktEl5InrcxPfCjmPWxsA;DqguopEXXyg;2021-08-19T16:00:05Z;"📺 New #rstats vide
 UC3xfbCMLCw1Hh4dWop3XtHg;gdqu_WbAezY;2021-08-19T16:15:12Z;"📺 New #rstats video: Measuring the Impact of Data Science | Data Science Hangout Highlights
 ▶ RStudio (@rstudio)
 🔗https://www.youtube.com/watch?v=gdqu_WbAezY"
+UCyHEww8_SCdxZvEnkCfi55w;TRvRhWF2QWM;2021-08-20T14:00:24Z;"📺 New #rstats video: Scale Data to Range Between Two Values in R | Standardize 0/1 & Rescale | scales Package | min & max
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=TRvRhWF2QWM"
+UCyHEww8_SCdxZvEnkCfi55w;dEYLDgthrYQ;2021-08-21T14:00:10Z;"📺 New #rstats video: Sequence of Alphabetical Character Letters from A-Z in R (3 Examples) | Subsequence, Random Sample
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=dEYLDgthrYQ"
