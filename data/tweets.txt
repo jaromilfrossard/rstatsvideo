@@ -1169,3 +1169,12 @@ UC3xfbCMLCw1Hh4dWop3XtHg;LGy5kPWMJnQ;2021-01-03T08:00:12Z;"📺 #rstats video:  
 UCxB1IGhLzlEOikTL-aDwqFg;LZ2kvCiRVdM;2021-04-14T21:16:42Z;"📺 #rstats video:  [2021-02-19] spatialLIBD demo
 ▶ Leonardo Collado Torres (@lcolladotor)
 🔗https://www.youtube.com/watch?v=LZ2kvCiRVdM"
+UCTZXht1RTL2Duc3eU8MYGzQ;bNh2WDdRleI;2021-08-21T21:43:46Z;"📺 New #rstats video: Genetic algorithms, the tidy way (and software development) - Part 1
+▶ Bruno Rodrigues (@brodriguesco)
+🔗https://www.youtube.com/watch?v=bNh2WDdRleI"
+UCCaChdLMTYMxyawR_Qf-kYA;QaAzHGOKDh4;2021-08-22T08:34:10Z;"📺 New #rstats video: R para Ciencia de Datos Club de Lectura: Capítulo 29: Formatos de R Markdown (2021-08-10)(r4ds_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=QaAzHGOKDh4"
+UCCaChdLMTYMxyawR_Qf-kYA;OuoQMYHf9AY;2021-08-22T08:34:58Z;"📺 New #rstats video: R para Ciencia de Datos Club de Lectura: Extra 1: Intro. a SQL y dbplyr (2021-08-17) (r4ds_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=OuoQMYHf9AY"
