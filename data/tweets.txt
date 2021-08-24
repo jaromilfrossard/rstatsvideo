@@ -1187,3 +1187,24 @@ UCCaChdLMTYMxyawR_Qf-kYA;2LFWCGNiuoE;2021-08-22T18:50:48Z;"📺 New #rstats vide
 UCyHEww8_SCdxZvEnkCfi55w;azYv80UXdlg;2021-08-23T14:00:01Z;"📺 New #rstats video: Convert Matrix to List of Column-Vectors in R (2 Examples) | Split & Divide | lapply() & seq_len()
 ▶ Statistics Globe (@JoachimSchork)
 🔗https://www.youtube.com/watch?v=azYv80UXdlg"
+UCGuktEl5InrcxPfCjmPWxsA;J0DGVaPbek8;2021-08-23T16:00:08Z;"📺 New #rstats video: Four ways to set a color in R using ggplot2 and how to read hexadecimal (CC139)
+▶ Riffomonas Project (@PatSchloss)
+🔗https://www.youtube.com/watch?v=J0DGVaPbek8"
+UC3xfbCMLCw1Hh4dWop3XtHg;126mAJ73vms;2021-08-23T16:00:09Z;"📺 New #rstats video: The Importance of Understanding Your Business Users | Data Science Hangout Highlights
+▶ RStudio (@rstudio)
+🔗https://www.youtube.com/watch?v=126mAJ73vms"
+UC3xfbCMLCw1Hh4dWop3XtHg;WOkBzQbkvBA;2021-08-23T19:05:59Z;"📺 New #rstats video: Dr. Julia Silge | RStudio Voices | RStudio
+▶ RStudio (@rstudio)
+🔗https://www.youtube.com/watch?v=WOkBzQbkvBA"
+UC_R5smHVXRYGhZYDJsnXTwg;UMcFp0PPXEk;2021-08-23T19:48:06Z;"📺 New #rstats video: Obtaining reproducible reports on satellite hotspot data during a wildfire disaster
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=UMcFp0PPXEk"
+UCKMekE_4UfWvZDuBWenG8WA;ShWxAqnY2YE;2021-08-23T20:17:41Z;"📺 New #rstats video: How to Import Pivoted Excel Data in R: tidyxl, unpivotr
+▶ StatistikinDD (@StatistikInDD)
+🔗https://www.youtube.com/watch?v=ShWxAqnY2YE"
+UCyHEww8_SCdxZvEnkCfi55w;KRkGrHlbDVg;2021-08-23T22:00:06Z;"📺 New #rstats video: Add Panel Border to ggplot2 Plot in R (Example) | Draw Line Around Graph | theme() & element_rect()
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=KRkGrHlbDVg"
+UCCaChdLMTYMxyawR_Qf-kYA;p87Eum6SdD8;2021-08-24T13:49:10Z;"📺 New #rstats video: Tidy Modeling with R Book Club: Chapter 15: Judging model effectiveness (2021-08-23) (tmwr03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=p87Eum6SdD8"
