@@ -1208,3 +1208,15 @@ UCyHEww8_SCdxZvEnkCfi55w;KRkGrHlbDVg;2021-08-23T22:00:06Z;"📺 New #rstats vide
 UCCaChdLMTYMxyawR_Qf-kYA;p87Eum6SdD8;2021-08-24T13:49:10Z;"📺 New #rstats video: Tidy Modeling with R Book Club: Chapter 15: Judging model effectiveness (2021-08-23) (tmwr03)
 ▶ R4DS Online Learning Community (@R4DScommunity)
 🔗https://www.youtube.com/watch?v=p87Eum6SdD8"
+UC3xfbCMLCw1Hh4dWop3XtHg;42VRHHVLt44;2021-08-24T19:41:26Z;"📺 New #rstats video: How to Prioritize Projects | Data Science Hangout Highlights
+▶ RStudio (@rstudio)
+🔗https://www.youtube.com/watch?v=42VRHHVLt44"
+UCTTBgWyJl2HrrhQOOc710kA;_gVHRqz8GIE;2021-08-24T21:23:24Z;"📺 New #rstats video: Use tidymodels workflowsets to predict human/computer interactions from Star Trek
+▶ Julia Silge (@juliasilge)
+🔗https://www.youtube.com/watch?v=_gVHRqz8GIE"
+UC3xfbCMLCw1Hh4dWop3XtHg;sWG7nIrLoHM;2021-08-24T23:46:11Z;"📺 New #rstats video: Unlocking Business Value with Data Science | Data Science Hangout #5
+▶ RStudio (@rstudio)
+🔗https://www.youtube.com/watch?v=sWG7nIrLoHM"
+UCKMekE_4UfWvZDuBWenG8WA;egFoDj6H9Ts;2021-08-25T11:27:17Z;"📺 New #rstats video: How to Import / Export SAS, SPSS, Stata Data in R: haven; Systat, WEKA: foreign
+▶ StatistikinDD (@StatistikInDD)
+🔗https://www.youtube.com/watch?v=egFoDj6H9Ts"
