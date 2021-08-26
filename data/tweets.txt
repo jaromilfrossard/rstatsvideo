@@ -1220,3 +1220,12 @@ UC3xfbCMLCw1Hh4dWop3XtHg;sWG7nIrLoHM;2021-08-24T23:46:11Z;"📺 New #rstats vide
 UCKMekE_4UfWvZDuBWenG8WA;egFoDj6H9Ts;2021-08-25T11:27:17Z;"📺 New #rstats video: How to Import / Export SAS, SPSS, Stata Data in R: haven; Systat, WEKA: foreign
 ▶ StatistikinDD (@StatistikInDD)
 🔗https://www.youtube.com/watch?v=egFoDj6H9Ts"
+UCyHEww8_SCdxZvEnkCfi55w;V9LYDLfvPAY;2021-08-25T14:00:26Z;"📺 New #rstats video: Add Bold & Italic Text to ggplot2 Plot in R (Example) | Annotate to Graph | Change fontface & parse
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=V9LYDLfvPAY"
+UCCaChdLMTYMxyawR_Qf-kYA;pOaiDK7J7EE;2021-08-25T15:10:00Z;"📺 New #rstats video: Advanced R Book Club: Chapter 23 & 24 (Measuring and Improving Performance) (2021-08-24) (advr05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=pOaiDK7J7EE"
+UCwQ7lkY6YWzZjT807Itbvtw;5r5bOYG7FMU;2021-08-26T12:17:52Z;"📺 New #rstats video: User-experience refinements for {shinycal}!
+▶ Shiny DeveloperSeries (@theRcast)
+🔗https://www.youtube.com/watch?v=5r5bOYG7FMU"
