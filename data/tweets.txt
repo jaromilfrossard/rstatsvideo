@@ -1229,3 +1229,21 @@ UCCaChdLMTYMxyawR_Qf-kYA;pOaiDK7J7EE;2021-08-25T15:10:00Z;"📺 New #rstats vide
 UCwQ7lkY6YWzZjT807Itbvtw;5r5bOYG7FMU;2021-08-26T12:17:52Z;"📺 New #rstats video: User-experience refinements for {shinycal}!
 ▶ Shiny DeveloperSeries (@theRcast)
 🔗https://www.youtube.com/watch?v=5r5bOYG7FMU"
+UCyHEww8_SCdxZvEnkCfi55w;Ba7Y5D0dVEM;2021-08-26T14:00:05Z;"📺 New #rstats video: Extract File & Directory Name from Path in R (2 Examples) | dirname & basename Function | Get Folder
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=Ba7Y5D0dVEM"
+UCGuktEl5InrcxPfCjmPWxsA;kyOCNPuQzog;2021-08-26T16:00:32Z;"📺 New #rstats video: Customizing fonts in R with an installed font and directly from google fonts (CC140)
+▶ Riffomonas Project (@PatSchloss)
+🔗https://www.youtube.com/watch?v=kyOCNPuQzog"
+UC3xfbCMLCw1Hh4dWop3XtHg;WkF7nqEYF1E;2021-08-26T16:19:00Z;"📺 New #rstats video: R Markdown Advanced Tips to Become a Better Data Scientist & RStudio Connect | With Tom Mock
+▶ RStudio (@rstudio)
+🔗https://www.youtube.com/watch?v=WkF7nqEYF1E"
+UCCaChdLMTYMxyawR_Qf-kYA;tQW3E6POwLw;2021-08-27T05:42:57Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapter 4:  Case study: ER injuries (2021-08-18) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=tQW3E6POwLw"
+UCCaChdLMTYMxyawR_Qf-kYA;PPxi-IoAf7A;2021-08-27T06:34:42Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapter 5: Workflow (2021-08-25) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=PPxi-IoAf7A"
+UCKMekE_4UfWvZDuBWenG8WA;1pgrLc5FFoE;2021-08-27T11:25:25Z;"📺 New #rstats video: R's Internal Data Formats: .Rda, .RData, .rds
+▶ StatistikinDD (@StatistikInDD)
+🔗https://www.youtube.com/watch?v=1pgrLc5FFoE"
