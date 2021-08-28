@@ -1247,3 +1247,12 @@ UCCaChdLMTYMxyawR_Qf-kYA;PPxi-IoAf7A;2021-08-27T06:34:42Z;"📺 New #rstats vide
 UCKMekE_4UfWvZDuBWenG8WA;1pgrLc5FFoE;2021-08-27T11:25:25Z;"📺 New #rstats video: R's Internal Data Formats: .Rda, .RData, .rds
 ▶ StatistikinDD (@StatistikInDD)
 🔗https://www.youtube.com/watch?v=1pgrLc5FFoE"
+UCyHEww8_SCdxZvEnkCfi55w;QVRG4gwZkG0;2021-08-27T14:00:09Z;"📺 New #rstats video: Add New Variable to Data Frame Based On Other Columns in R (2 Examples) | $ Operator | transform()
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=QVRG4gwZkG0"
+UCTZXht1RTL2Duc3eU8MYGzQ;KynDephKNz4;2021-08-27T20:46:08Z;"📺 New #rstats video: Genetic algorithms, the tidy way (and software development) - Part 2
+▶ Bruno Rodrigues (@brodriguesco)
+🔗https://www.youtube.com/watch?v=KynDephKNz4"
+UCyHEww8_SCdxZvEnkCfi55w;5d36yGEStgI;2021-08-28T14:00:04Z;"📺 New #rstats video: Split Data Frame into Custom Bins in R (Example) | Divide & Subset | cut, nrow & length | for-Loop
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=5d36yGEStgI"
