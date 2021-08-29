@@ -1259,3 +1259,12 @@ UCyHEww8_SCdxZvEnkCfi55w;5d36yGEStgI;2021-08-28T14:00:04Z;"📺 New #rstats vide
 UCULDYwwVDYo1Pd3uLB33cHg;_7E_i_w-PzE;2021-08-28T16:02:41Z;"📺 New #rstats video: Willkommen auf berno-san.com
 ▶ bernogarcia (@bernogarcia1)
 🔗https://www.youtube.com/watch?v=_7E_i_w-PzE"
+UCYgIy7zeC7v6iZhx0-NywBw;9J8sjgpVk-E;2019-04-16T06:08:19Z;"📺 #rstats video:  Lightning Talk - R for teaching ecology - Gaurav Kandlikar - SatRday LA 2019
+▶ satRdays (@satRdays_org)
+🔗https://www.youtube.com/watch?v=9J8sjgpVk-E"
+UCTTBgWyJl2HrrhQOOc710kA;_1msVvPE_KY;2020-05-27T16:45:34Z;"📺 #rstats video:  PCA and UMAP with tidymodels and cocktail recipes
+▶ Julia Silge (@juliasilge)
+🔗https://www.youtube.com/watch?v=_1msVvPE_KY"
+UC3xfbCMLCw1Hh4dWop3XtHg;X0YiD3u9wlQ;2021-02-17T21:30:57Z;"📺 #rstats video:  Tracy Teal | Teaching R using inclusive pedagogy: Carpentries workshops lessons learned | RStudio
+▶ RStudio (@rstudio)
+🔗https://www.youtube.com/watch?v=X0YiD3u9wlQ"
