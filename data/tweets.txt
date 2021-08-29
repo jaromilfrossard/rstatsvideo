@@ -1256,3 +1256,6 @@ UCTZXht1RTL2Duc3eU8MYGzQ;KynDephKNz4;2021-08-27T20:46:08Z;"📺 New #rstats vide
 UCyHEww8_SCdxZvEnkCfi55w;5d36yGEStgI;2021-08-28T14:00:04Z;"📺 New #rstats video: Split Data Frame into Custom Bins in R (Example) | Divide & Subset | cut, nrow & length | for-Loop
 ▶ Statistics Globe (@JoachimSchork)
 🔗https://www.youtube.com/watch?v=5d36yGEStgI"
+UCULDYwwVDYo1Pd3uLB33cHg;_7E_i_w-PzE;2021-08-28T16:02:41Z;"📺 New #rstats video: Willkommen auf berno-san.com
+▶ bernogarcia (@bernogarcia1)
+🔗https://www.youtube.com/watch?v=_7E_i_w-PzE"
