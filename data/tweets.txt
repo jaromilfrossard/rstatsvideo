@@ -1277,3 +1277,27 @@ UCTTBgWyJl2HrrhQOOc710kA;_1msVvPE_KY;2020-05-27T16:45:34Z;"📺 #rstats video:  
 UC3xfbCMLCw1Hh4dWop3XtHg;X0YiD3u9wlQ;2021-02-17T21:30:57Z;"📺 #rstats video:  Tracy Teal | Teaching R using inclusive pedagogy: Carpentries workshops lessons learned | RStudio
 ▶ RStudio (@rstudio)
 🔗https://www.youtube.com/watch?v=X0YiD3u9wlQ"
+UCCaChdLMTYMxyawR_Qf-kYA;wfPww5brvKY;2021-08-29T13:59:55Z;"📺 New #rstats video: Practical Stats for Data Scientists: Ch7: Unsupervised Learning (2021-08-16) (ps4ds01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=wfPww5brvKY"
+UCyHEww8_SCdxZvEnkCfi55w;UvPPpL_XHKA;2021-08-29T14:00:08Z;"📺 New #rstats video: Add Text Label to ggplot2 Plot in R (3 Examples) | Annotate Element to Graphic | Modify Color & Size
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=UvPPpL_XHKA"
+UCCaChdLMTYMxyawR_Qf-kYA;Chn2m4tg8Ug;2021-08-29T14:20:05Z;"📺 New #rstats video: R for Data Science Book Club: Models section (2021-08-17) (r4ds03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=Chn2m4tg8Ug"
+UCCaChdLMTYMxyawR_Qf-kYA;DQLL1w9l2ao;2021-08-29T14:29:42Z;"📺 New #rstats video: R for Data Science Book Club: Models section part 2 (2021-08-24) (r4ds03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=DQLL1w9l2ao"
+UCCaChdLMTYMxyawR_Qf-kYA;ujOn-4esnDo;2021-08-29T14:50:32Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 7: Exploratory data analysis (2021-08-28) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=ujOn-4esnDo"
+UCCaChdLMTYMxyawR_Qf-kYA;Mknsf_Huexk;2021-08-29T15:28:19Z;"📺 New #rstats video: Regression and Other Stories: Ch8: Fitting regression models (2021-08-17) (ros01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=Mknsf_Huexk"
+UCCaChdLMTYMxyawR_Qf-kYA;wbV4eNkyNVU;2021-08-29T15:42:27Z;"📺 New #rstats video: Regression and Other Stories: Ch7: Linear regression with a single predictor (2021-08-10) (ros01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=wbV4eNkyNVU"
+UCE2WK5bvNtDblu4NO9PGtJA;F-FKwyx2-JQ;2021-08-30T00:18:53Z;"📺 New #rstats video: [rstats] 🔮 Machine Learning Study Jam 🔮 || 📚 Learn NLP with Me || 💖 all levels || 🎶 l
+▶ Jesse Mostipak (@kierisi)
+🔗https://www.youtube.com/watch?v=F-FKwyx2-JQ"
