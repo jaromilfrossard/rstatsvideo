@@ -1301,3 +1301,63 @@ UCCaChdLMTYMxyawR_Qf-kYA;wbV4eNkyNVU;2021-08-29T15:42:27Z;"📺 New #rstats vide
 UCE2WK5bvNtDblu4NO9PGtJA;F-FKwyx2-JQ;2021-08-30T00:18:53Z;"📺 New #rstats video: [rstats] 🔮 Machine Learning Study Jam 🔮 || 📚 Learn NLP with Me || 💖 all levels || 🎶 l
 ▶ Jesse Mostipak (@kierisi)
 🔗https://www.youtube.com/watch?v=F-FKwyx2-JQ"
+UCyHEww8_SCdxZvEnkCfi55w;Tzf6s9lWRG8;2021-08-30T14:00:09Z;"📺 New #rstats video: How to cbind & rbind Vectors with Different Length (R Example) | cbind.na & bind_rows | qpcR & dplyr
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=Tzf6s9lWRG8"
+UCGuktEl5InrcxPfCjmPWxsA;waezlHy8cS8;2021-08-30T16:00:34Z;"📺 New #rstats video: Positioning and formatting a legend using the ggplot2 R package (CC141)
+▶ Riffomonas Project (@PatSchloss)
+🔗https://www.youtube.com/watch?v=waezlHy8cS8"
+UC_R5smHVXRYGhZYDJsnXTwg;fYwenynQiIU;2021-08-31T13:39:40Z;"📺 New #rstats video: Diving into Registry Data: Using R for Large Norwegian Health Registries
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=fYwenynQiIU"
+UC_R5smHVXRYGhZYDJsnXTwg;l71wLKUr26E;2021-08-31T13:39:40Z;"📺 New #rstats video: Bringing Machine Learning Models to the Bedside at Scale
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=l71wLKUr26E"
+UC_R5smHVXRYGhZYDJsnXTwg;8_5n_yHufrA;2021-08-31T13:39:40Z;"📺 New #rstats video: From SAS to R
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=8_5n_yHufrA"
+UC_R5smHVXRYGhZYDJsnXTwg;mg95lLyCpQA;2021-08-31T13:39:40Z;"📺 New #rstats video: Reproducible Research with R
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=mg95lLyCpQA"
+UC_R5smHVXRYGhZYDJsnXTwg;iU27Iq2spDc;2021-08-31T13:39:40Z;"📺 New #rstats video: An {arsenal} of R Functions for Statistical Summaries
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=iU27Iq2spDc"
+UC_R5smHVXRYGhZYDJsnXTwg;-HvRISFkQZQ;2021-08-31T13:39:40Z;"📺 New #rstats video: Mapping Spatial Health Data
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=-HvRISFkQZQ"
+UC_R5smHVXRYGhZYDJsnXTwg;Rji_FKrTkvs;2021-08-31T13:39:40Z;"📺 New #rstats video: Introduction to R for Medical Data
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=Rji_FKrTkvs"
+UC_R5smHVXRYGhZYDJsnXTwg;b3xa_1qO778;2021-08-31T13:39:40Z;"📺 New #rstats video: {DOPE}: An R Package for Processing & Classifying Drug Names
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=b3xa_1qO778"
+UC_R5smHVXRYGhZYDJsnXTwg;sM9GEAm6Uew;2021-08-31T13:39:41Z;"📺 New #rstats video: Secure Medical Data Collection - Best Practices with Excel, and Leveling Up to REDCap & CollaboratoR
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=sM9GEAm6Uew"
+UC_R5smHVXRYGhZYDJsnXTwg;XzoJe2mLj18;2021-08-31T13:41:18Z;"📺 New #rstats video: Subgroup Identification and Precision Medicine with the {personalized} R Package
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=XzoJe2mLj18"
+UC_R5smHVXRYGhZYDJsnXTwg;dfZ7jcpxo88;2021-08-31T13:41:18Z;"📺 New #rstats video: Second Server to the Right and Straight On 'til Production: Deploying a GxP Shiny Application
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=dfZ7jcpxo88"
+UC_R5smHVXRYGhZYDJsnXTwg;sRohXDjp3XY;2021-08-31T13:41:18Z;"📺 New #rstats video: {clinspacy}: An R Package for Clinical Natural Language Processing
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=sRohXDjp3XY"
+UC_R5smHVXRYGhZYDJsnXTwg;iB8cdSfXbh0;2021-08-31T13:41:18Z;"📺 New #rstats video: Data Visualization for Machine Learning Practitioners
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=iB8cdSfXbh0"
+UC_R5smHVXRYGhZYDJsnXTwg;M_7e470xnJI;2021-08-31T13:41:18Z;"📺 New #rstats video: {medicaldata} for Teaching #Rstats
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=M_7e470xnJI"
+UC_R5smHVXRYGhZYDJsnXTwg;zBg7WkoPCAI;2021-08-31T13:41:18Z;"📺 New #rstats video: Collaborative, Reproducible Exploration of Clinical Trial Data
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=zBg7WkoPCAI"
+UC_R5smHVXRYGhZYDJsnXTwg;jA5RoaloDsw;2021-08-31T13:41:18Z;"📺 New #rstats video: Graphical Displays in R for Clinical Trials
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=jA5RoaloDsw"
+UC_R5smHVXRYGhZYDJsnXTwg;AUgkBG67S20;2021-08-31T13:41:18Z;"📺 New #rstats video: You R What You Measure: Digital Biomarkers for Insights in Personalized Health
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=AUgkBG67S20"
+UC_R5smHVXRYGhZYDJsnXTwg;ihVgS6MFHgw;2021-08-31T13:41:18Z;"📺 New #rstats video: Stem Cell Transplant Outcomes Reporting using R/Shiny
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=ihVgS6MFHgw"
