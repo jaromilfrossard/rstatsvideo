@@ -1361,3 +1361,24 @@ UC_R5smHVXRYGhZYDJsnXTwg;AUgkBG67S20;2021-08-31T13:41:18Z;"📺 New #rstats vide
 UC_R5smHVXRYGhZYDJsnXTwg;ihVgS6MFHgw;2021-08-31T13:41:18Z;"📺 New #rstats video: Stem Cell Transplant Outcomes Reporting using R/Shiny
 ▶ R Consortium (@RConsortium)
 🔗https://www.youtube.com/watch?v=ihVgS6MFHgw"
+UC_R5smHVXRYGhZYDJsnXTwg;a8A638n6Qew;2021-08-31T13:41:19Z;"📺 New #rstats video: CONSORT Diagrams in R with {ggconsort}
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=a8A638n6Qew"
+UC_R5smHVXRYGhZYDJsnXTwg;7Q5y00YRe3Q;2021-08-31T13:41:20Z;"📺 New #rstats video: R and Shiny Dashboards Facilitate Quality Improvement in Anesthesiology and Perioperative Care
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=7Q5y00YRe3Q"
+UCyHEww8_SCdxZvEnkCfi55w;rtmSN_8kCAY;2021-08-31T14:00:31Z;"📺 New #rstats video: Count Non-Zero Values in Vector & Data Frame Columns in R (2 Examples) | sum() & colSums() Functions
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=rtmSN_8kCAY"
+UCnwYO3Sz_emBTC1sTZ6TlsQ;mH-Me-yYkzs;2021-09-01T00:00:10Z;"📺 New #rstats video: TidyTuesday: Common GGplot2 Extensions
+▶ Andrew Couch (@Andr3wCouch)
+🔗https://www.youtube.com/watch?v=mH-Me-yYkzs"
+UC_R5smHVXRYGhZYDJsnXTwg;ArB6y1i1gOs;2021-09-01T01:58:08Z;"📺 New #rstats video: nimated Data Visualizations with {gganimate} for Science Communication during the Pandemic
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=ArB6y1i1gOs"
+UCCaChdLMTYMxyawR_Qf-kYA;nske4iqsgh0;2021-09-01T05:17:27Z;"📺 New #rstats video: Advanced R Book Club: Chapter 25 (Rewriting R code in C++) (2021-08-31) (advr05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=nske4iqsgh0"
+UCyHEww8_SCdxZvEnkCfi55w;yoxMFscpt90;2021-09-01T14:00:23Z;"📺 New #rstats video: Add Prefix to Column Names in R (Example) | Affix Before Variable of Data Frame | paste0() Function
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=yoxMFscpt90"
