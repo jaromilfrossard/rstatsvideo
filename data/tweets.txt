@@ -1382,3 +1382,15 @@ UCCaChdLMTYMxyawR_Qf-kYA;nske4iqsgh0;2021-09-01T05:17:27Z;"📺 New #rstats vide
 UCyHEww8_SCdxZvEnkCfi55w;yoxMFscpt90;2021-09-01T14:00:23Z;"📺 New #rstats video: Add Prefix to Column Names in R (Example) | Affix Before Variable of Data Frame | paste0() Function
 ▶ Statistics Globe (@JoachimSchork)
 🔗https://www.youtube.com/watch?v=yoxMFscpt90"
+UCTTBgWyJl2HrrhQOOc710kA;NXot3Q0QtGk;2021-09-01T19:47:34Z;"📺 New #rstats video: Fit and predict with logistic regression for bird bath observations in Australia
+▶ Julia Silge (@juliasilge)
+🔗https://www.youtube.com/watch?v=NXot3Q0QtGk"
+UC_R5smHVXRYGhZYDJsnXTwg;3x9uOc2yB_c;2021-09-02T03:00:24Z;"📺 New #rstats video: {ctrialsgov}: Access, Visualization, and Discovery of the ClinicalTrials.gov Database
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=3x9uOc2yB_c"
+UC9oOCJe8kwkZ_6IgTmet9oQ;s5SCiDEwFB8;2021-09-02T04:01:25Z;"📺 New #rstats video: R Ladies Brisbane August 2021: Working Smarter, Faster, and More Securely in R
+▶ R-Ladies Brisbane (@RLadiesBrisbane)
+🔗https://www.youtube.com/watch?v=s5SCiDEwFB8"
+UCyHEww8_SCdxZvEnkCfi55w;-SuK8G2d-Vs;2021-09-02T14:00:01Z;"📺 New #rstats video: Set Axis Breaks of ggplot2 Plot in R (3 Examples) | Specify Tick Marks of Graph | scale_x_continuous
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=-SuK8G2d-Vs"
