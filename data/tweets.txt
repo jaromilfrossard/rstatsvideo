@@ -1394,3 +1394,15 @@ UC9oOCJe8kwkZ_6IgTmet9oQ;s5SCiDEwFB8;2021-09-02T04:01:25Z;"📺 New #rstats vide
 UCyHEww8_SCdxZvEnkCfi55w;-SuK8G2d-Vs;2021-09-02T14:00:01Z;"📺 New #rstats video: Set Axis Breaks of ggplot2 Plot in R (3 Examples) | Specify Tick Marks of Graph | scale_x_continuous
 ▶ Statistics Globe (@JoachimSchork)
 🔗https://www.youtube.com/watch?v=-SuK8G2d-Vs"
+UCGuktEl5InrcxPfCjmPWxsA;QnCLN1Mzke8;2021-09-02T16:00:30Z;"📺 New #rstats video: Data visualization review: How I critique visuals and plan what to change (CC142)
+▶ Riffomonas Project (@PatSchloss)
+🔗https://www.youtube.com/watch?v=QnCLN1Mzke8"
+UC_R5smHVXRYGhZYDJsnXTwg;gQEM-cpLrmg;2021-09-02T18:09:21Z;"📺 New #rstats video: Spatial Statistics for huge datasets and best practices
+▶ R Consortium (@RConsortium)
+🔗https://www.youtube.com/watch?v=gQEM-cpLrmg"
+UCCaChdLMTYMxyawR_Qf-kYA;ewNOYUwKwCM;2021-09-02T19:12:28Z;"📺 New #rstats video: Tidy Modeling with R Book Club Ch17: Dimensionality reduction (2021-08-31) (tmwr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=ewNOYUwKwCM"
+UCyHEww8_SCdxZvEnkCfi55w;bJDufpJ2joQ;2021-09-03T14:00:15Z;"📺 New #rstats video: Calculate Percentage in R (Example) | Convert Vector to Probability Table | table & length Functions
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=bJDufpJ2joQ"
