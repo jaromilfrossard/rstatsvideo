@@ -1406,3 +1406,12 @@ UCCaChdLMTYMxyawR_Qf-kYA;ewNOYUwKwCM;2021-09-02T19:12:28Z;"📺 New #rstats vide
 UCyHEww8_SCdxZvEnkCfi55w;bJDufpJ2joQ;2021-09-03T14:00:15Z;"📺 New #rstats video: Calculate Percentage in R (Example) | Convert Vector to Probability Table | table & length Functions
 ▶ Statistics Globe (@JoachimSchork)
 🔗https://www.youtube.com/watch?v=bJDufpJ2joQ"
+UCKMekE_4UfWvZDuBWenG8WA;ctsGXwaxA1o;2021-09-03T18:57:16Z;"📺 New #rstats video: Creating Your Own R Package: Why and When
+▶ StatistikinDD (@StatistikInDD)
+🔗https://www.youtube.com/watch?v=ctsGXwaxA1o"
+UCE2WK5bvNtDblu4NO9PGtJA;Dj6AOFwd27M;2021-09-04T01:05:19Z;"📺 New #rstats video: [rstats] ✨ Shiny ✨ || 📚 Learn with Me || 💖 all levels || ⚒️ building apps with R
+▶ Jesse Mostipak (@kierisi)
+🔗https://www.youtube.com/watch?v=Dj6AOFwd27M"
+UCKMekE_4UfWvZDuBWenG8WA;47PN2VG3RmI;2021-09-04T05:52:24Z;"📺 New #rstats video: Creating Your First R Package in 2 Minutes in RStudio!
+▶ StatistikinDD (@StatistikInDD)
+🔗https://www.youtube.com/watch?v=47PN2VG3RmI"
