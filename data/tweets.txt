@@ -1415,3 +1415,15 @@ UCE2WK5bvNtDblu4NO9PGtJA;Dj6AOFwd27M;2021-09-04T01:05:19Z;"📺 New #rstats vide
 UCKMekE_4UfWvZDuBWenG8WA;47PN2VG3RmI;2021-09-04T05:52:24Z;"📺 New #rstats video: Creating Your First R Package in 2 Minutes in RStudio!
 ▶ StatistikinDD (@StatistikInDD)
 🔗https://www.youtube.com/watch?v=47PN2VG3RmI"
+UCyHEww8_SCdxZvEnkCfi55w;TkN7yjt2JZw;2021-09-04T14:00:11Z;"📺 New #rstats video: Convert Numeric Values to Month Names & Abbreviations R (2 Examples) | month.name & month.abb Object
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=TkN7yjt2JZw"
+UCxB1IGhLzlEOikTL-aDwqFg;sZUKmveHwoQ;2021-09-04T16:52:03Z;"📺 New #rstats video: [2021-07-23] Another look at the ggpubr package
+▶ Leonardo Collado Torres (@lcolladotor)
+🔗https://www.youtube.com/watch?v=sZUKmveHwoQ"
+UCxB1IGhLzlEOikTL-aDwqFg;1fbgkMWSgbI;2021-09-04T17:00:25Z;"📺 New #rstats video: [2021-08-27] Introductory Biostats: Statistical Modeling Part 2
+▶ Leonardo Collado Torres (@lcolladotor)
+🔗https://www.youtube.com/watch?v=1fbgkMWSgbI"
+UCxB1IGhLzlEOikTL-aDwqFg;pGYjTmqPLUo;2021-09-04T17:06:00Z;"📺 New #rstats video: [2021-09-03] Image Processing in Python, Part 1
+▶ Leonardo Collado Torres (@lcolladotor)
+🔗https://www.youtube.com/watch?v=pGYjTmqPLUo"
