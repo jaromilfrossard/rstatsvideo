@@ -1427,3 +1427,27 @@ UCxB1IGhLzlEOikTL-aDwqFg;1fbgkMWSgbI;2021-09-04T17:00:25Z;"📺 New #rstats vide
 UCxB1IGhLzlEOikTL-aDwqFg;pGYjTmqPLUo;2021-09-04T17:06:00Z;"📺 New #rstats video: [2021-09-03] Image Processing in Python, Part 1
 ▶ Leonardo Collado Torres (@lcolladotor)
 🔗https://www.youtube.com/watch?v=pGYjTmqPLUo"
+UCCaChdLMTYMxyawR_Qf-kYA;aY2LhsKM6TM;2021-09-05T13:52:11Z;"📺 New #rstats video: ggplot2 Book Club Introduction (2021-08-30) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=aY2LhsKM6TM"
+UCyHEww8_SCdxZvEnkCfi55w;bkWMq4qma8w;2021-09-05T14:00:26Z;"📺 New #rstats video: Remove Header from Data Frame in R (Example) | How to Delete Column Names | names() Function & NULL
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=bkWMq4qma8w"
+UCCaChdLMTYMxyawR_Qf-kYA;wMrZoc6oOzg;2021-09-05T14:26:00Z;"📺 New #rstats video: Regression and Other Stories: Ch8: Fitting regression models (2021-08-31) (ros01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=wMrZoc6oOzg"
+UCCaChdLMTYMxyawR_Qf-kYA;Ia-sfs2gKOE;2021-09-05T14:34:22Z;"📺 New #rstats video: Engineering Production Grade Shiny Apps Book Club Introduction (2021-09-01) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=Ia-sfs2gKOE"
+UCCaChdLMTYMxyawR_Qf-kYA;OdTG862TChM;2021-09-05T15:12:56Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapter 5: Reprexes (2021-09-01) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=OdTG862TChM"
+UCCaChdLMTYMxyawR_Qf-kYA;VYYxhIBuDys;2021-09-05T15:43:58Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 8: Workflow: projects (2021-09-04) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🔗https://www.youtube.com/watch?v=VYYxhIBuDys"
+UCE2WK5bvNtDblu4NO9PGtJA;YvMnmXrHBNo;2021-09-06T03:16:44Z;"📺 New #rstats video: [rstats] 🔮 Machine Learning with {tidymodels} 🔮 || 📚 Learn NLP with Me || 💖 all levels |
+▶ Jesse Mostipak (@kierisi)
+🔗https://www.youtube.com/watch?v=YvMnmXrHBNo"
+UCyHEww8_SCdxZvEnkCfi55w;WCSy8MWwjUU;2021-09-06T14:00:13Z;"📺 New #rstats video: Replace Blank by NA in R (Example) | Exchange Empty Data Frame Cell & Space | Insert Missing Values
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=WCSy8MWwjUU"
