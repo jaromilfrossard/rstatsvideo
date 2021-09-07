@@ -1451,3 +1451,24 @@ UCE2WK5bvNtDblu4NO9PGtJA;YvMnmXrHBNo;2021-09-06T03:16:44Z;"📺 New #rstats vide
 UCyHEww8_SCdxZvEnkCfi55w;WCSy8MWwjUU;2021-09-06T14:00:13Z;"📺 New #rstats video: Replace Blank by NA in R (Example) | Exchange Empty Data Frame Cell & Space | Insert Missing Values
 ▶ Statistics Globe (@JoachimSchork)
 🔗https://www.youtube.com/watch?v=WCSy8MWwjUU"
+UCGuktEl5InrcxPfCjmPWxsA;XkZcfYt-D2o;2021-09-06T16:00:30Z;"📺 New #rstats video: Resources for learning R (CC143)
+▶ Riffomonas Project (@PatSchloss)
+🔗https://www.youtube.com/watch?v=XkZcfYt-D2o"
+UCKMekE_4UfWvZDuBWenG8WA;gl9fFmtXFcI;2021-09-06T16:01:57Z;"📺 New #rstats video: How to Document a Function in Your R Package
+▶ StatistikinDD (@StatistikInDD)
+🔗https://www.youtube.com/watch?v=gl9fFmtXFcI"
+UCC3CCtUrSSQoJkxodRKr89g;K1SuD43INLQ;2021-09-06T16:03:01Z;"📺 New #rstats video: Univariate plotting and summarizing with a quantitative variable
+▶ Lisa Lendway - Statistics & Data Science (@lisalendway)
+🔗https://www.youtube.com/watch?v=K1SuD43INLQ"
+UCC3CCtUrSSQoJkxodRKr89g;KVGkeWUIKR0;2021-09-06T16:16:25Z;"📺 New #rstats video: Univariate categorical data
+▶ Lisa Lendway - Statistics & Data Science (@lisalendway)
+🔗https://www.youtube.com/watch?v=KVGkeWUIKR0"
+UCJamxO-DE27EEZtWrNG34mA;zJ84kPqno-0;2021-09-07T04:00:30Z;"📺 New #rstats video: How to Uncouple your Acute Chronic Workload Ratio in Power Bi
+▶ Futbol AnalysR (@futbolanalysr)
+🔗https://www.youtube.com/watch?v=zJ84kPqno-0"
+UCKMekE_4UfWvZDuBWenG8WA;aNVgZHMvpL0;2021-09-07T12:46:19Z;"📺 New #rstats video: R Programming: Avoiding Loops using Vectorization
+▶ StatistikinDD (@StatistikInDD)
+🔗https://www.youtube.com/watch?v=aNVgZHMvpL0"
+UCyHEww8_SCdxZvEnkCfi55w;UdlhOgdVfAM;2021-09-07T14:00:24Z;"📺 New #rstats video: Set Row & Column Names of Data Frame with Unknown Dimension in R (Example) | nrow, paste0 & ncol
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=UdlhOgdVfAM"
