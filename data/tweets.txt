@@ -1472,3 +1472,12 @@ UCKMekE_4UfWvZDuBWenG8WA;aNVgZHMvpL0;2021-09-07T12:46:19Z;"📺 New #rstats vide
 UCyHEww8_SCdxZvEnkCfi55w;UdlhOgdVfAM;2021-09-07T14:00:24Z;"📺 New #rstats video: Set Row & Column Names of Data Frame with Unknown Dimension in R (Example) | nrow, paste0 & ncol
 ▶ Statistics Globe (@JoachimSchork)
 🔗https://www.youtube.com/watch?v=UdlhOgdVfAM"
+UCC3CCtUrSSQoJkxodRKr89g;yfIp0BWkpU0;2021-09-07T20:26:00Z;"📺 New #rstats video: Multivariate plot examples in R
+▶ Lisa Lendway - Statistics & Data Science (@lisalendway)
+🔗https://www.youtube.com/watch?v=yfIp0BWkpU0"
+UCXuX-kQ1TbKHWeB75NgmhlA;aXL7Dbvn1dc;2021-09-08T07:00:00Z;"📺 New #rstats video: Livestock breeding programs in low-income countries | Community-based breeding programs
+▶ Genomics Boot Camp (@GaborM_ABG)
+🔗https://www.youtube.com/watch?v=aXL7Dbvn1dc"
+UCyHEww8_SCdxZvEnkCfi55w;Va5NuUx0Qa0;2021-09-08T14:00:24Z;"📺 New #rstats video: Extract Single Column as Data Frame in R (3 Examples) | How to Keep data.frame Class | drop Argument
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=Va5NuUx0Qa0"
