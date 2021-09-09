@@ -62,7 +62,7 @@ tweet_videos <- function(file_tweet = "data/tweets.txt",
       tb_tweet%>%
       select(id_channel,id_video,ymd_hms_video,tweet)
     
-    write_delim(x =tb_tweet, file = file_tweet,delim=";")
+    write_delim(x = tb_tweet, file = file_tweet,delim=";")
     out = lapply(tb_tweet$tweet, rtweet::post_tweet)
     
   }else if(file.exists(file_tweet)){
