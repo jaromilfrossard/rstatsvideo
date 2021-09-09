@@ -1481,3 +1481,21 @@ UCXuX-kQ1TbKHWeB75NgmhlA;aXL7Dbvn1dc;2021-09-08T07:00:00Z;"📺 New #rstats vide
 UCyHEww8_SCdxZvEnkCfi55w;Va5NuUx0Qa0;2021-09-08T14:00:24Z;"📺 New #rstats video: Extract Single Column as Data Frame in R (3 Examples) | How to Keep data.frame Class | drop Argument
 ▶ Statistics Globe (@JoachimSchork)
 🔗https://www.youtube.com/watch?v=Va5NuUx0Qa0"
+UCE2WK5bvNtDblu4NO9PGtJA;-ySyYWysaQo;2021-09-08T21:43:20Z;"📺 New #rstats video: [rstats] ✨ Shiny ✨ || 📚 Learn with Me || 💖 all levels || ⚒️ building apps with R
+▶ Jesse Mostipak (@kierisi)
+🔗https://www.youtube.com/watch?v=-ySyYWysaQo"
+UCE2WK5bvNtDblu4NO9PGtJA;e_O83GmtyAE;2021-09-08T21:53:41Z;"📺 New #rstats video: [rstats] ✨ Shiny ✨ || 📚 Learn with Me || 💖 all levels || ⚒️ building apps with R
+▶ Jesse Mostipak (@kierisi)
+🔗https://www.youtube.com/watch?v=e_O83GmtyAE"
+UCE2WK5bvNtDblu4NO9PGtJA;X5ht-gh_0-0;2021-09-08T22:34:29Z;"📺 New #rstats video: [rstats] ✨ Shiny ✨ || 📚 Learn with Me || 💖 all levels || ⚒️ building apps with R
+▶ Jesse Mostipak (@kierisi)
+🔗https://www.youtube.com/watch?v=X5ht-gh_0-0"
+UCDgj5-mFohWZ5irWSFMFcng;IyjtW41Bfbo;2021-09-09T06:33:58Z;"📺 New #rstats video: R-Ladies Bergen (English) - Reproducible analysis in anthropology - Li-Ying Wang
+▶ R-Ladies Global (@RLadiesGlobal)
+🔗https://www.youtube.com/watch?v=IyjtW41Bfbo"
+UCyHEww8_SCdxZvEnkCfi55w;_BAxFixAj-U;2021-09-09T14:00:14Z;"📺 New #rstats video: Remove Last N Rows from Data Frame in R (Example) | Delete Bottom | head, slice & n of dplyr Package
+▶ Statistics Globe (@JoachimSchork)
+🔗https://www.youtube.com/watch?v=_BAxFixAj-U"
+UCwQ7lkY6YWzZjT807Itbvtw;n1OGF3EW5o0;2021-09-09T14:07:15Z;"📺 New #rstats video: Getting re-acquainted with testing Shiny apps via {shinytest}!
+▶ Shiny DeveloperSeries (@theRcast)
+🔗https://www.youtube.com/watch?v=n1OGF3EW5o0"
