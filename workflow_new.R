@@ -38,6 +38,8 @@ walk(tb_channel$id_channel, update_channel_video)
 
 videos <- choose_videos()
 
+
+#################
 tb_description<- 
   videos%>%
   mutate(temp = map(id_video,tibble_video_infos))%>%
@@ -51,7 +53,7 @@ tb_description%>%
 tb_description%>%
   select(-description_video)%>%
   print.data.frame()
-
+##################
 
 videos<- 
   videos%>%
