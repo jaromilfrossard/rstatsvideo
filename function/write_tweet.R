@@ -24,9 +24,9 @@ write_tweet_header <- function(title_video,new_video){
 
 write_tweet_autor <- function(name_channel, id_twitter = NULL){
   if(!is.null(id_twitter)){
-    glue("\U0001f517 {name_channel}(@{id_twitter})")
+    glue("\U0025b6 {name_channel}(@{id_twitter})")
   }else{
-    glue("\U0001f517 {name_channel}")
+    glue("\U0025b6 {name_channel}")
   }
 }
 

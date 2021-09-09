@@ -1499,3 +1499,18 @@ UCyHEww8_SCdxZvEnkCfi55w;_BAxFixAj-U;2021-09-09T14:00:14Z;"📺 New #rstats vide
 UCwQ7lkY6YWzZjT807Itbvtw;n1OGF3EW5o0;2021-09-09T14:07:15Z;"📺 New #rstats video: Getting re-acquainted with testing Shiny apps via {shinytest}!
 ▶ Shiny DeveloperSeries (@theRcast)
 🔗https://www.youtube.com/watch?v=n1OGF3EW5o0"
+UCMdihazndR0f9XBoSXWqnYg;6MexZiX-2W8;2019-09-04T00:59:05Z;"📺 #rstats video: R - Binary Logistic Multilevel Models
+🔗 Statistics of DOOM(@aggieerin)
+🔗 https://www.youtube.com/watch?v=6MexZiX-2W8"
+UC_R5smHVXRYGhZYDJsnXTwg;BIQxUO39Erg;2020-07-08T07:48:51Z;"📺 #rstats video: useR! 2020: Building descriptive tables with the updated compareGroups package (I. Subirana), poster
+🔗 R Consortium(@RConsortium)
+🔗 https://www.youtube.com/watch?v=BIQxUO39Erg"
+UC3xfbCMLCw1Hh4dWop3XtHg;uLcd6tRTUEY;2019-11-13T08:00:14Z;"📺 #rstats video: Amelia McNamara | Working with categorical data in R without losing your mind | RStudio (2019)
+🔗 RStudio(@rstudio)
+🔗 https://www.youtube.com/watch?v=uLcd6tRTUEY"
+UCyHEww8_SCdxZvEnkCfi55w;ZN_qNhNNrZg;2020-11-25T15:00:07Z;"📺 #rstats video: names() Function in R (2 Examples) | How to Get or Set Names of Vector or List | Modify Data Objects
+🔗 Statistics Globe(@JoachimSchork)
+🔗 https://www.youtube.com/watch?v=ZN_qNhNNrZg"
+UCF9ymC7Dpjwr0lge2QR_A5Q;fIZblrfenz0;2021-03-11T17:48:28Z;"📺 #rstats video: webin-R #11 : Analyse des Correspondances Multiples (ACM)
+🔗 webin-R(@NA)
+🔗 https://www.youtube.com/watch?v=fIZblrfenz0"
