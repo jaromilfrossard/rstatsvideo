@@ -1514,3 +1514,18 @@ UCyHEww8_SCdxZvEnkCfi55w;ZN_qNhNNrZg;2020-11-25T15:00:07Z;"📺 #rstats video: n
 UCF9ymC7Dpjwr0lge2QR_A5Q;fIZblrfenz0;2021-03-11T17:48:28Z;"📺 #rstats video: webin-R #11 : Analyse des Correspondances Multiples (ACM)
 🔗 webin-R(@NA)
 🔗 https://www.youtube.com/watch?v=fIZblrfenz0"
+UCGuktEl5InrcxPfCjmPWxsA;nW4wvogm-nw;2021-09-09T16:00:24Z;"📺 New #rstats video: A data visualization makeover: riffing off of other people's COVID-19 figures (CC144)
+▶ Riffomonas Project (@PatSchloss)
+🔗 https://www.youtube.com/watch?v=nW4wvogm-nw"
+UC3xfbCMLCw1Hh4dWop3XtHg;BmpnfLLrr4w;2021-09-09T20:56:11Z;"📺 New #rstats video: GA Tech | Communicating with 8 Million People through Shiny | RStudio
+▶ RStudio (@rstudio)
+🔗 https://www.youtube.com/watch?v=BmpnfLLrr4w"
+UCwQ7lkY6YWzZjT807Itbvtw;-Fi7CRhdEGY;2021-09-10T12:58:37Z;"📺 New #rstats video: A little r-vesting and tidying of timezone improvements to {shinycal}!
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=-Fi7CRhdEGY"
+UCyHEww8_SCdxZvEnkCfi55w;gitT1qvbyeA;2021-09-10T14:00:31Z;"📺 New #rstats video: Move Column to First Position of Data Frame in R (2 Examples) | Shift to Beginning | dplyr Package
+▶ Statistics Globe (@JoachimSchork)
+🔗 https://www.youtube.com/watch?v=gitT1qvbyeA"
+UC3xfbCMLCw1Hh4dWop3XtHg;UnLpB4IDpZU;2021-09-10T18:24:57Z;"📺 New #rstats video: Gordon Shotwell | Creating Secure Systems for Growth | RStudio
+▶ RStudio (@rstudio)
+🔗 https://www.youtube.com/watch?v=UnLpB4IDpZU"

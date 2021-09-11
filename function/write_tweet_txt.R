@@ -12,7 +12,7 @@ write_tweet_txt = function(id_video, title_video, hashtags = NULL, header = "New
   }
   
   if(is.null(name_channel)){
-    tweet = glue("\U0001f4fa {header} {title_video}\n\U0001f517{video_url(id_video)} {hashtags}")}
+    tweet = glue("\U0001f4fa {header} {title_video}\n\U0001f517 {video_url(id_video)} {hashtags}")}
   else{
     tweet = glue("\U0001f4fa {header} {title_video}\n\U0025b6 {name_channel}\n\U0001f517{video_url(id_video)} {hashtags}") 
     }
