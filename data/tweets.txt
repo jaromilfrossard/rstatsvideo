@@ -1529,3 +1529,6 @@ UCyHEww8_SCdxZvEnkCfi55w;gitT1qvbyeA;2021-09-10T14:00:31Z;"📺 New #rstats vide
 UC3xfbCMLCw1Hh4dWop3XtHg;UnLpB4IDpZU;2021-09-10T18:24:57Z;"📺 New #rstats video: Gordon Shotwell | Creating Secure Systems for Growth | RStudio
 ▶ RStudio (@rstudio)
 🔗 https://www.youtube.com/watch?v=UnLpB4IDpZU"
+UCyHEww8_SCdxZvEnkCfi55w;C3luN5NBmho;2021-09-11T14:00:11Z;"📺 New #rstats video: Change Color of ggplot2 Boxplot in R (3 Examples) | Set col & fill in Plot | Manually Specify Colors
+▶ Statistics Globe (@JoachimSchork)
+🔗 https://www.youtube.com/watch?v=C3luN5NBmho"
