@@ -57,17 +57,30 @@ choose_videos <- function(file_tweet = "data/tweets.txt",
   
   
   if(nrow(tb_videos_new)>0&nrow(tb_videos_new)<=max_tweet){
-    tb_videos_selected = tb_videos_new%>%
+    tb_videos_selected <- 
+      tb_videos_new%>%
       arrange(ymd_hms_video)%>%
       mutate(new_video = TRUE)
+    
+    if(nrow(tb_videos_selected)<n_default){
+      tb_videos_selected<-
+        bind_rows(tb_videos_selected,(
+          tb_videos%>%
+            filter(!id_video%in%tb_tweet_old$id_video)%>%
+            slice(sample(1:n(),n_default-nrow(tb_videos_selected)))%>%
+            mutate(new_video = FALSE)))
+      
+    }
+    
     }else if(nrow(tb_videos_new)>max_tweet){
       message(glue("The tweets limits ({max_tweet}) is less that the number of new videos ({nrow(tb_tweet_new)})."))
-      tb_videos_selected = tb_videos_new%>%
+      tb_videos_selected <- 
+        tb_videos_new%>%
         arrange(ymd_hms_video)%>%
         slice(1:max_tweet)%>%
         mutate(new_video = TRUE)
     }else if(nrow(tb_videos_new)==0){
-      tb_videos_selected =
+      tb_videos_selected <-
         tb_videos%>%
         filter(!id_video%in%tb_tweet_old$id_video)%>%
         slice(sample(1:n(),n_default))%>%

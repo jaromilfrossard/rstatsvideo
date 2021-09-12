@@ -48,11 +48,14 @@ tb_description<-
 
 
 tb_description%>%
+  mutate(description_video = str_trim(description_video))%>%
   pull(description_video)
 
 tb_description%>%
   select(-description_video)%>%
   print.data.frame()
+
+
 ##################
 
 videos<- 

@@ -1532,3 +1532,18 @@ UC3xfbCMLCw1Hh4dWop3XtHg;UnLpB4IDpZU;2021-09-10T18:24:57Z;"📺 New #rstats vide
 UCyHEww8_SCdxZvEnkCfi55w;C3luN5NBmho;2021-09-11T14:00:11Z;"📺 New #rstats video: Change Color of ggplot2 Boxplot in R (3 Examples) | Set col & fill in Plot | Manually Specify Colors
 ▶ Statistics Globe (@JoachimSchork)
 🔗 https://www.youtube.com/watch?v=C3luN5NBmho"
+UCyHEww8_SCdxZvEnkCfi55w;nDC6eOK7wns;2021-09-12T14:00:17Z;"📺 New #rstats video: Create Lagged Variable by Group in R (Example) | Lag Column to Data Frame | group_by, mutate [dplyr]
+▶ Statistics Globe (@JoachimSchork)
+🔗 https://www.youtube.com/watch?v=nDC6eOK7wns"
+UCDgj5-mFohWZ5irWSFMFcng;xpeIqYLENuI;2020-09-29T20:26:46Z;"📺 #rstats video: R-Ladies Tbilisi (ქართულად): ლიკა ჟვანია - მონაცემთა ვიზუალიზაცია (Lika Zhvania - visualisation)
+▶ R-Ladies Global (@RLadiesGlobal)
+🔗 https://www.youtube.com/watch?v=xpeIqYLENuI"
+UC2-hKemnrmVCH_29duyJ26A;Zxokd_Eqrcg;2020-06-23T22:10:22Z;"📺 #rstats video: Dr. Gavin Simpson - Learning When, Where, and by How Much, Things Change [Remote]
+▶ Lander Analytics (@LanderAnalytics)
+🔗 https://www.youtube.com/watch?v=Zxokd_Eqrcg"
+UC_R5smHVXRYGhZYDJsnXTwg;DhDOTxojQ3k;2019-08-03T13:51:50Z;"📺 #rstats video: useR! 2019 Toulouse - Talk Forecasting - Mitchelle O'hara Wild
+▶ R Consortium (@RConsortium)
+🔗 https://www.youtube.com/watch?v=DhDOTxojQ3k"
+UCyHEww8_SCdxZvEnkCfi55w;l4Clo5Vh-Dc;2019-11-29T08:00:17Z;"📺 #rstats video: Export CSV File without Row Names in R (Example) | write.csv Function Explained | row.names = FALSE
+▶ Statistics Globe (@JoachimSchork)
+🔗 https://www.youtube.com/watch?v=l4Clo5Vh-Dc"
