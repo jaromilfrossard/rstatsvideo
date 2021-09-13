@@ -15,7 +15,6 @@ UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham;hadleywickham
 UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
 UCFXPzW7RxP6RfQGpRn7WXNw;Daniel Anderson;datalorax_
 UCF9ymC7Dpjwr0lge2QR_A5Q;webin-R;
-UCwj8tOO9Go3hA3N6_jQGDlA;finnstats;
 UCGuktEl5InrcxPfCjmPWxsA;Riffomonas Project;PatSchloss
 UCMdihazndR0f9XBoSXWqnYg;Statistics of DOOM;aggieerin
 UCKFp00-PRnuc1Dx4DaUmJBg;Chad C. Williams;WilliamsNeuro

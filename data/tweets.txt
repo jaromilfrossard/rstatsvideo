@@ -1547,3 +1547,18 @@ UC_R5smHVXRYGhZYDJsnXTwg;DhDOTxojQ3k;2019-08-03T13:51:50Z;"📺 #rstats video: u
 UCyHEww8_SCdxZvEnkCfi55w;l4Clo5Vh-Dc;2019-11-29T08:00:17Z;"📺 #rstats video: Export CSV File without Row Names in R (Example) | write.csv Function Explained | row.names = FALSE
 ▶ Statistics Globe (@JoachimSchork)
 🔗 https://www.youtube.com/watch?v=l4Clo5Vh-Dc"
+UCE2WK5bvNtDblu4NO9PGtJA;lzj0Vwjcibc;2021-09-12T23:27:47Z;"📺 New #rstats video: [rstats] ✨ Shiny Reactivity ✨ || 📚 Learn with Me || 💖 all levels || ⚒️ building apps w
+▶ Jesse Mostipak (@kierisi)
+🔗 https://www.youtube.com/watch?v=lzj0Vwjcibc"
+UCE2WK5bvNtDblu4NO9PGtJA;bjWJuklyvoo;2021-09-12T23:29:33Z;"📺 New #rstats video: [rstats] 🔮 Machine Learning with {tidymodels} 🔮 || 📚 Learn NLP with Me || 💖 all levels |
+▶ Jesse Mostipak (@kierisi)
+🔗 https://www.youtube.com/watch?v=bjWJuklyvoo"
+UCyHEww8_SCdxZvEnkCfi55w;Hz8RTaFmQSU;2021-09-13T14:00:15Z;"📺 New #rstats video: Read TXT File with Spaces as Delimiter in R (Example) | read.table Function & Text | Multiple Blanks
+▶ Statistics Globe (@JoachimSchork)
+🔗 https://www.youtube.com/watch?v=Hz8RTaFmQSU"
+UCGuktEl5InrcxPfCjmPWxsA;bUoN85QvC10;2021-09-13T16:00:16Z;"📺 New #rstats video: Connecting an existing RStudio project to git and GitHub (CC145)
+▶ Riffomonas Project (@PatSchloss)
+🔗 https://www.youtube.com/watch?v=bUoN85QvC10"
+UC2-hKemnrmVCH_29duyJ26A;FHy6NseH8yk;2021-03-11T18:17:25Z;"📺 #rstats video: Garrick Aden-Buie- Making Extra Great Slides with xaringan, xaringanthemer and xaringanExtra
+▶ Lander Analytics (@LanderAnalytics)
+🔗 https://www.youtube.com/watch?v=FHy6NseH8yk"
