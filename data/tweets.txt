@@ -1562,3 +1562,18 @@ UCGuktEl5InrcxPfCjmPWxsA;bUoN85QvC10;2021-09-13T16:00:16Z;"📺 New #rstats vide
 UC2-hKemnrmVCH_29duyJ26A;FHy6NseH8yk;2021-03-11T18:17:25Z;"📺 #rstats video: Garrick Aden-Buie- Making Extra Great Slides with xaringan, xaringanthemer and xaringanExtra
 ▶ Lander Analytics (@LanderAnalytics)
 🔗 https://www.youtube.com/watch?v=FHy6NseH8yk"
+UCyHEww8_SCdxZvEnkCfi55w;3qLQSnB_Meo;2021-04-16T14:00:01Z;"📺 #rstats video: Split Vector into Chunks in R (2 Examples) | Divide Array into N Groups | Length & Number of Splits
+▶ Statistics Globe (@JoachimSchork)
+🔗 https://www.youtube.com/watch?v=3qLQSnB_Meo"
+UCXuX-kQ1TbKHWeB75NgmhlA;NMNTfQ9gs_4;2021-07-14T07:00:06Z;"📺 #rstats video: R for Data Science | Recommendation
+▶ Genomics Boot Camp (@GaborM_ABG)
+🔗 https://www.youtube.com/watch?v=NMNTfQ9gs_4"
+UCF9ymC7Dpjwr0lge2QR_A5Q;73xvKXSnV1I;2021-02-25T18:04:17Z;"📺 #rstats video: webin-R #09 : Graphiques uni- et bivariés avec ggplot2
+▶ webin-R
+🔗 https://www.youtube.com/watch?v=73xvKXSnV1I"
+UCYgIy7zeC7v6iZhx0-NywBw;ZM97ry_tIn8;2019-05-31T13:29:44Z;"📺 #rstats video: Joe Gallagher: Football Analytics with the Soccermatics Package
+▶ satRdays (@satRdays_org)
+🔗 https://www.youtube.com/watch?v=ZM97ry_tIn8"
+UCMwM-3tg_-Pbx8hKO78q5EA;h8KHzt1AQOg;2020-04-09T15:08:59Z;"📺 #rstats video: NHS R Webinar  COVID-19 Modelling
+▶ NHSR Community (@NHSrCommunity)
+🔗 https://www.youtube.com/watch?v=h8KHzt1AQOg"
