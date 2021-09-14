@@ -6,9 +6,14 @@ write_tweet <- function(name_channel, id_twitter, id_video, new_video){
   
   tweet_author <- write_tweet_autor(name_channel, id_twitter)
   
+  tweet_lang = write_tweet_lang(as.character(tb_infos$lang_video))
+  
   tweet_url <- write_tweet_url(id_video)
   
-  glue("{tweet_header}\n{tweet_author}\n{tweet_url}")
+  tweet_lines <- c(tweet_header,tweet_author,tweet_lang,tweet_url)
+  tweet_lines <- as.character(na.omit(tweet_lines))
+  
+  paste0(tweet_lines,collapse = "\n")
   
 }
 
@@ -33,4 +38,25 @@ write_tweet_autor <- function(name_channel, id_twitter = NULL){
 
 write_tweet_url <- function(id_video){
   glue("\U0001f517 {video_url(id_video)}")
+}
+
+
+write_tweet_lang <- function(lang){
+  
+  if(is.na(lang)){
+    NA_character_
+  }else if(lang=="fr"){
+    glue("\U001F5E3 \U001F1EB\U001F1F7")
+  }else if(lang %in% c("en","en-US","en-GB","en-CA")){
+    glue("\U001F5E3 \U001F1EC\U001F1E7")
+  }else if(lang =="de"){
+    glue("\U001F5E3 \U001F1E9\U001F1EA")
+  }else if(lang ==c("es","es-419")){
+    glue("\U001F5E3 \U001F1EA\U001F1F8")
+  }else if(lang=="zxx"){
+    NA_character_
+  }else{
+    message(glue("Language {lang} not recognized."))
+    NA_character_
+  }
 }
