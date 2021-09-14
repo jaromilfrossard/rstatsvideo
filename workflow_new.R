@@ -44,7 +44,7 @@ tb_description<-
   videos%>%
   mutate(temp = map(id_video,tibble_video_infos))%>%
   unnest(temp)%>%
-  select(-id_twitter,id_channel,-ymd_hms_video,-new_video,-lan_video)
+  select(-id_twitter,id_channel,-ymd_hms_video,-new_video)
 
 
 tb_description%>%
