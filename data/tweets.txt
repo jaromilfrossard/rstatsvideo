@@ -1577,3 +1577,21 @@ UCYgIy7zeC7v6iZhx0-NywBw;ZM97ry_tIn8;2019-05-31T13:29:44Z;"📺 #rstats video: J
 UCMwM-3tg_-Pbx8hKO78q5EA;h8KHzt1AQOg;2020-04-09T15:08:59Z;"📺 #rstats video: NHS R Webinar  COVID-19 Modelling
 ▶ NHSR Community (@NHSrCommunity)
 🔗 https://www.youtube.com/watch?v=h8KHzt1AQOg"
+UCWFju94W4ecD4qNRWW4ztLQ;N7HX3PLzPP8;2020-10-12T09:27:01Z;"📺 #rstats video: [R Programming Introduction] Missing Values
+▶ INWT Statistics (@INWT_Statistics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=N7HX3PLzPP8"
+UCKMekE_4UfWvZDuBWenG8WA;dltr9WNselI;2021-01-15T17:26:22Z;"📺 #rstats video: Shiny-like Interactivity in R plots without Shiny: plotly, crosstalk
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=dltr9WNselI"
+UCMdihazndR0f9XBoSXWqnYg;VdYchS1Gcmk;2018-07-07T16:00:02Z;"📺 #rstats video: R - Moderation with Categorical M MeMoBootR
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=VdYchS1Gcmk"
+UClC5yNEjMoE3MmbK-mrV8Ow;bNVcDETgS54;2019-11-26T08:38:28Z;"📺 #rstats video: R-Ladies Melbourne - November 2019 - Hadley Wickham - Designing Data Science
+▶ R-Ladies Melbourne (@RLadiesMelb)
+🔗 https://www.youtube.com/watch?v=bNVcDETgS54"
+UCeiiqmVK07qhY-wvg3IZiZQ;TDzd73z8thU;2018-12-12T19:03:53Z;"📺 #rstats video: ""The Riddler"" screencast: simulating a week of rain
+▶ David Robinson (@drob)
+🔗 https://www.youtube.com/watch?v=TDzd73z8thU"
