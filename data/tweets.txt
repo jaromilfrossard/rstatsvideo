@@ -1595,3 +1595,22 @@ UClC5yNEjMoE3MmbK-mrV8Ow;bNVcDETgS54;2019-11-26T08:38:28Z;"📺 #rstats video: R
 UCeiiqmVK07qhY-wvg3IZiZQ;TDzd73z8thU;2018-12-12T19:03:53Z;"📺 #rstats video: ""The Riddler"" screencast: simulating a week of rain
 ▶ David Robinson (@drob)
 🔗 https://www.youtube.com/watch?v=TDzd73z8thU"
+UCyHEww8_SCdxZvEnkCfi55w;TCYrAeBvYlg;2021-09-14T14:00:26Z;"📺 New #rstats video: Add Labels at End of Lines in ggplot2 Line Plot (R Example) | Draw Text to Graph | ggrepel Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=TCYrAeBvYlg"
+UCDgj5-mFohWZ5irWSFMFcng;7AanIYXWBms;2021-09-14T16:38:23Z;"📺 New #rstats video: R-Ladies Johannesburg (Eng) - treeheatr & pmlbr - visualizing decision trees on benchmark datasets
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=7AanIYXWBms"
+UCeiiqmVK07qhY-wvg3IZiZQ;bXrUhGzUhXE;2021-09-14T21:06:49Z;"📺 New #rstats video: Tidy Tuesday live screencast: Analyzing Billboard 100 songs in R
+▶ David Robinson (@drob)
+🔗 https://www.youtube.com/watch?v=bXrUhGzUhXE"
+UCnwYO3Sz_emBTC1sTZ6TlsQ;OIQPIefDxx0;2021-09-15T00:00:10Z;"📺 New #rstats video: TidyTuesday: Modern Forecasting with Prophet and TidyModels
+▶ Andrew Couch (@Andr3wCouch)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=OIQPIefDxx0"
+UCXuX-kQ1TbKHWeB75NgmhlA;VoKVmXVmnBw;2021-09-15T07:00:08Z;"📺 New #rstats video: Fst thresholds | How to put arbitrary threshods on ggplot2 graphs
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=VoKVmXVmnBw"

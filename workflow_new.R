@@ -20,9 +20,10 @@ source("function/write_tweet.R")
 source("function/post_videos.R")
 source("function/follow_channels.R")
 
-
 auth_as("rstatsvideo")
 source("youtube_oauth.R")
+
+
 
 gert::git_pull()
 

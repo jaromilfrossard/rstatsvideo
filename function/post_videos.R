@@ -9,7 +9,6 @@ post_videos <- function(id_channel, id_video, ymd_hms_video,tweet, file_tweet = 
                             ))
   
   rtweet::post_tweet(tweet)
-  Sys.sleep(runif(1,25,40))
   tb_tweet_new <- tribble(~id_channel,~id_video,~ymd_hms_video,~tweet,
                           id_channel, id_video, ymd_hms_video,tweet )
 
@@ -18,6 +17,8 @@ post_videos <- function(id_channel, id_video, ymd_hms_video,tweet, file_tweet = 
               tb_tweet_new)
   
   write_delim(x = tb_tweet_new, file = file_tweet,delim=";")
+  Sys.sleep(runif(1,25,40))
+  
   
   
 }
