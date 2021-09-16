@@ -1614,3 +1614,25 @@ UCXuX-kQ1TbKHWeB75NgmhlA;VoKVmXVmnBw;2021-09-15T07:00:08Z;"📺 New #rstats vide
 ▶ Genomics Boot Camp (@GaborM_ABG)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=VoKVmXVmnBw"
+UCyHEww8_SCdxZvEnkCfi55w;OE-rlkIMk1M;2021-09-15T14:00:23Z;"📺 New #rstats video: Check If Two Data Frames are the Same in R (Example) | Test for Identical / Equal Values in Matrix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=OE-rlkIMk1M"
+UC2-hKemnrmVCH_29duyJ26A;fPF_MMPSqtA;2021-09-15T14:40:34Z;"📺 New #rstats video: Jacqueline Nolis- I Made An Entire E-Commerce Platform On Shiny
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=fPF_MMPSqtA"
+UCCaChdLMTYMxyawR_Qf-kYA;FN34gu0FzQo;2021-09-15T16:18:57Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapter 6: Layout, Themes, HTML (2021 09 08 mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=FN34gu0FzQo"
+UCTTBgWyJl2HrrhQOOc710kA;kE7H1oQ2rY4;2021-09-15T20:41:17Z;"📺 New #rstats video: Dimensionality reduction with tidymodels for the Billboard Top 100
+▶ Julia Silge (@juliasilge)
+🔗 https://www.youtube.com/watch?v=kE7H1oQ2rY4"
+UC3xfbCMLCw1Hh4dWop3XtHg;3BrmOHgP_XI;2021-09-15T20:51:53Z;"📺 New #rstats video: Infrastructure that Encourages Reproducibility | Data Science Hangout | Sep Dadsetan at ConcertAI
+▶ RStudio (@rstudio)
+🔗 https://www.youtube.com/watch?v=3BrmOHgP_XI"
+UCE2WK5bvNtDblu4NO9PGtJA;_zwBmL2BOm4;2021-09-15T23:09:33Z;"📺 New #rstats video: [rstats] ✨ Shiny Reactivity ✨ || 📚 Learn with Me || 💖 all levels || ⚒️ building web ap
+▶ Jesse Mostipak (@kierisi)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=_zwBmL2BOm4"

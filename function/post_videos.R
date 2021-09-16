@@ -6,7 +6,7 @@ post_videos <- function(id_channel, id_video, ymd_hms_video,tweet, file_tweet = 
                               id_video = col_character(),
                               ymd_hms_video = col_datetime(),
                               tweet = col_character()
-                            ))
+                            ),lazy = FALSE)
   
   rtweet::post_tweet(tweet)
   tb_tweet_new <- tribble(~id_channel,~id_video,~ymd_hms_video,~tweet,

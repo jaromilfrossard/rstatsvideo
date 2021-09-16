@@ -11,7 +11,8 @@ choose_videos <- function(file_tweet = "data/tweets.txt",
                              id_channel = col_character(),
                              name_channel = col_character(),
                              id_twitter = col_character()
-                           ))
+                           ),
+                           lazy = FALSE)
   
   ## remove channels
   if(file.exists(file_channel_to_rm)){
@@ -19,7 +20,8 @@ choose_videos <- function(file_tweet = "data/tweets.txt",
                                    col_types = cols(
                                      id_channel = col_character(),
                                      name_channel = col_character()
-                                   ))
+                                   ),
+                                   lazy = FALSE)
     
     tb_channel <-
       anti_join(tb_channel, tb_channel_to_rm, by = c("id_channel"="id_channel",
@@ -34,7 +36,8 @@ choose_videos <- function(file_tweet = "data/tweets.txt",
                                  col_types = cols(
                                    id_channel = col_character(),
                                    id_video = col_character()
-                                 ))
+                                 ),
+                                 lazy = FALSE)
     tb_videos<- 
       tb_videos%>%
       anti_join(tb_video_to_rm,by =c("id_channel" = "id_channel","id_video"="id_video"))
@@ -47,7 +50,8 @@ choose_videos <- function(file_tweet = "data/tweets.txt",
                               id_video = col_character(),
                               ymd_hms_video = col_datetime(),
                               tweet = col_character()
-                            ))%>%
+                            ),
+                            lazy = FALSE)%>%
     mutate(ymd_hms_video = ymd_hms(ymd_hms_video))
   
   tb_videos_new <- 

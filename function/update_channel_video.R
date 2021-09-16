@@ -15,7 +15,8 @@ update_channel_video = function(id, dir = "data/channels",max_results = 2000){
   tb_videos_current <- read_delim(file = paste0(dir,id,"/video.txt"),delim=";",
              col_types = cols(
                id_video = col_character(),
-               ymd_hms_video = col_datetime()))%>%
+               ymd_hms_video = col_datetime()),
+             lazy = FALSE)%>%
     mutate(ymd_hms_video = ymd_hms(ymd_hms_video))
   
   
