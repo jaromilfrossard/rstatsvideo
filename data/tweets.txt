@@ -1636,3 +1636,22 @@ UCE2WK5bvNtDblu4NO9PGtJA;_zwBmL2BOm4;2021-09-15T23:09:33Z;"📺 New #rstats vide
 ▶ Jesse Mostipak (@kierisi)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=_zwBmL2BOm4"
+UCwQ7lkY6YWzZjT807Itbvtw;kU59VB1TIEI;2021-09-16T12:35:33Z;"📺 New #rstats video: Discovering the amazing {shinyvalidate} package!
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=kU59VB1TIEI"
+UCCaChdLMTYMxyawR_Qf-kYA;1zvfa-sORRc;2021-09-16T13:52:04Z;"📺 New #rstats video: Engineering Production Grade Shiny Apps Book Club Chapter 2 (2021-09-08) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=1zvfa-sORRc"
+UCyHEww8_SCdxZvEnkCfi55w;kPExaSvx0Kg;2021-09-16T14:00:16Z;"📺 New #rstats video: Extract & Count Unique Values in Each Column of Data Frame in R (Example) | lapply, rapply & length
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=kPExaSvx0Kg"
+UCCaChdLMTYMxyawR_Qf-kYA;6Ut8tqHQfJg;2021-09-16T14:47:17Z;"📺 New #rstats video: Engineering Production Grade Shiny Apps Book Club Chapter 3 (2021-09-15) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=6Ut8tqHQfJg"
+UC_R5smHVXRYGhZYDJsnXTwg;78vr7aa6NA4;2018-07-13T04:22:14Z;"📺 #rstats video: xgboost and MXNet - Part 1
+▶ R Consortium (@RConsortium)
+🔗 https://www.youtube.com/watch?v=78vr7aa6NA4"
