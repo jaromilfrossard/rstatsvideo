@@ -1655,3 +1655,26 @@ UCCaChdLMTYMxyawR_Qf-kYA;6Ut8tqHQfJg;2021-09-16T14:47:17Z;"📺 New #rstats vide
 UC_R5smHVXRYGhZYDJsnXTwg;78vr7aa6NA4;2018-07-13T04:22:14Z;"📺 #rstats video: xgboost and MXNet - Part 1
 ▶ R Consortium (@RConsortium)
 🔗 https://www.youtube.com/watch?v=78vr7aa6NA4"
+UCGuktEl5InrcxPfCjmPWxsA;1yx-7Ouy4nU;2021-09-16T16:00:01Z;"📺 New #rstats video: Two methods of creating a slope plot in R with ggplot2  (CC146)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#slopeplotr #slopechart #slopechartr #slopegraphr #slopeplotggplot2 #slopeplotrstudio
+🔗 https://www.youtube.com/watch?v=1yx-7Ouy4nU"
+UC3xfbCMLCw1Hh4dWop3XtHg;8Q5jZveQOkA;2017-11-29T15:38:00Z;"📺 #rstats video: Connect Production | RStudio Webinar - 2017
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstudio #rstudioconnect #rstudioconnectproduction #rprogramming #rstudiowebinar
+🔗 https://www.youtube.com/watch?v=8Q5jZveQOkA"
+UCKMekE_4UfWvZDuBWenG8WA;XITzdjpQ_lY;2017-12-04T08:44:24Z;"📺 #rstats video: Top 5 Alben 1989 - 1999
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇩🇪
+#sineadoconnor #madonna #mariahcarey #newkidsontheblock #metallica #nirvana #rem #whitneyhouston #alanismorissette #celinedion
+🔗 https://www.youtube.com/watch?v=XITzdjpQ_lY"
+UCMdihazndR0f9XBoSXWqnYg;vZeqNxgwuac;2021-03-19T04:00:10Z;"📺 #rstats video: R - Full Structural Equation Models Lecture
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#statistics #sem #rstudio #lavaan #open #education #data #science #analytics #confirmatoryfactoranalysis #cfa #semplot #diagram
+🔗 https://www.youtube.com/watch?v=vZeqNxgwuac"
+UCwQ7lkY6YWzZjT807Itbvtw;mxvMaoXOm70;2021-05-07T17:49:21Z;"📺 #rstats video: Episode 20: Outstanding User Interfaces with David Granjon
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=mxvMaoXOm70"
