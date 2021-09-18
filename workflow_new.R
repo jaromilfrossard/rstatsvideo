@@ -61,12 +61,12 @@ tb_description%>%
 ##################
 
 
-# i = 1
+# i = 4
 # name_channel = videos$name_channel[i];id_twitter = videos$id_twitter[i]
 # id_video = videos$id_video[i]
 # new_video= videos$new_video[i]
 # write_tweet(name_channel, id_twitter, id_video, new_video)
-# 
+
 
 videos<- 
   videos%>%

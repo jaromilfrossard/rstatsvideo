@@ -54,15 +54,15 @@ write_tweet_lang <- function(lang){
   
   if(is.na(lang)){
     NA_character_
-  }else if(lang=="fr"){
+  }else if(lang%in%"fr"){
     glue("\U001F5E3 \U001F1EB\U001F1F7")
   }else if(lang %in% c("en","en-US","en-GB","en-CA")){
     glue("\U001F5E3 \U001F1EC\U001F1E7")
-  }else if(lang =="de"){
+  }else if(lang %in%"de"){
     glue("\U001F5E3 \U001F1E9\U001F1EA")
-  }else if(lang ==c("es","es-419")){
+  }else if(lang %in%c("es","es-419")){
     glue("\U001F5E3 \U001F1EA\U001F1F8")
-  }else if(lang=="zxx"){
+  }else if(lang%in%"zxx"){
     NA_character_
   }else{
     message(glue("Language {lang} not recognized."))

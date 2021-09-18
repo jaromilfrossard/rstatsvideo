@@ -1699,3 +1699,22 @@ UC3xfbCMLCw1Hh4dWop3XtHg;2d8YaVu1uzs;2019-08-22T07:00:00Z;"📺 #rstats video: E
 ▶ RStudio (@rstudio)
 #edzerpebesma #spatial #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz
 🔗 https://www.youtube.com/watch?v=2d8YaVu1uzs"
+UCwLy_PYrnCEhCU-Ay2F5Drw;LQGaN7YTWXI;2021-04-25T10:29:21Z;"📺 #rstats video: Why R? World 21: Nicaise Ishimwe (Rwanda/Ireland)
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=LQGaN7YTWXI"
+UCktFo5XoX5QZMWb2Gb3KY2A;yjZiZRnfdLU;2021-04-24T18:07:40Z;"📺 #rstats video: Using R for Healthcare Improvement
+▶ R-Ladies Abuja (@RLadiesAbuja)
+🔗 https://www.youtube.com/watch?v=yjZiZRnfdLU"
+UCPque9BaFV9p0hcgImrYBzg;IbeI-CBFUcs;2020-12-24T00:27:01Z;"📺 #rstats video: ""Data Visualization in R"" with Trang Le
+▶ R-Ladies Philly (@RLadiesPhilly)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=IbeI-CBFUcs"
+UCCaChdLMTYMxyawR_Qf-kYA;q2IquNe1mnw;2020-12-23T15:02:48Z;"📺 #rstats video: R para Ciencia de Datos Club de Lectura: Cohorte 1 Introducción (2020-12-22) (r4ds_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+🔗 https://www.youtube.com/watch?v=q2IquNe1mnw"
+UC_R5smHVXRYGhZYDJsnXTwg;O0rKs6P0rnY;2018-07-11T23:08:10Z;"📺 #rstats video: Statistical Models for Sport in R - Part 1
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=O0rKs6P0rnY"
