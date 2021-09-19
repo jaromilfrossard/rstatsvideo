@@ -1718,3 +1718,25 @@ UC_R5smHVXRYGhZYDJsnXTwg;O0rKs6P0rnY;2018-07-11T23:08:10Z;"📺 #rstats video: S
 ▶ R Consortium (@RConsortium)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=O0rKs6P0rnY"
+UCyHEww8_SCdxZvEnkCfi55w;6lReB3TMlXY;2021-09-18T14:00:03Z;"📺 New #rstats video: Find Transparent Equivalent of Color (R Example) | Alpha Hex Code | adjustcolor & show_col [scales]
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=6lReB3TMlXY"
+UCmBDds7HAhpG6ZUj9FC2s9Q;4LnKgovGfJs;2021-09-18T15:53:54Z;"📺 New #rstats video: Highlighting boxplots in ggplot2
+▶ Lacey Maths & Stats Consultancy (@seanwithafada)
+#goodpracticeinstatisticalanalysis #boxplots #ggplot2 #ggplot #mutate #highlightingboxplots #facetgrid
+🔗 https://www.youtube.com/watch?v=4LnKgovGfJs"
+UCCaChdLMTYMxyawR_Qf-kYA;W01MoW3AWpY;2021-09-18T21:39:13Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapters 6: Layouts, themes, HTML & 7: Graphics (2021-09-15) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=W01MoW3AWpY"
+UCyHEww8_SCdxZvEnkCfi55w;BrWD8qNV6n4;2021-09-19T14:00:11Z;"📺 New #rstats video: Remove Newline from Character String in R (2 Examples) | Line Break Symbol | cat, gsub & str_replace
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=BrWD8qNV6n4"
+UCyHEww8_SCdxZvEnkCfi55w;vvIhRginelA;2019-12-05T08:00:14Z;"📺 #rstats video: mutate & transmute R Functions of dplyr Package (Examples) | Create & Transform Columns & Variables
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=vvIhRginelA"
