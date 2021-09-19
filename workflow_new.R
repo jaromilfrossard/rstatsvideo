@@ -19,6 +19,8 @@ source("function/choose_videos.R")
 source("function/write_tweet.R")
 source("function/post_videos.R")
 source("function/follow_channels.R")
+source("function/validate_new_videos.R")
+source("function/check_videos.R")
 
 auth_as("rstatsvideo")
 source("youtube_oauth.R")
@@ -36,6 +38,9 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
 
 #update channels videos
 walk(tb_channel$id_channel, update_channel_video)
+
+
+validate
 
 
 videos <- choose_videos()

@@ -19,9 +19,24 @@ source("function/choose_videos.R")
 source("function/write_tweet.R")
 source("function/post_videos.R")
 source("function/follow_channels.R")
+source("function/validate_new_videos.R")
+source("function/check_videos.R")
+
 
 
 videos<-load_current_video()
+tb_channel <- read_delim("data/list_channel.txt",delim=";",
+                               col_types = cols(
+                                 id_channel = col_character(),
+                                 name_channel = col_character()
+                               ),
+                               lazy = FALSE)
+videos<-
+  videos%>%
+  left_join(tb_channel,by = c("id_channel"= "id_channel"))%>%
+  select(name_channel,id_channel,id_video,ymd_hms_video)
+
+
 tb_channel_to_rm <- read_delim("data/list_channel_to_rm.txt",delim=";",
                                col_types = cols(
                                  id_channel = col_character(),
@@ -44,40 +59,14 @@ videos <-
 
 videos<-
   videos%>%
-  filter(ymd_hms_video>as_date("2018-04-30"))
+  filter(!str_detect(tolower(name_channel),"ladies"))%>%
+  filter(!name_channel%in%c("RStudio","R Consortium","NHSR Community",
+                            "Statistics of DOOM","satRdays","Lander Analytics",
+                            "Shiny DeveloperSeries","Statistics Globe",
+                            "Why R? Foundation","R4DS Online Learning Community",
+                            "Julia Silge"))%>%
+  filter(ymd_hms_video>as_date("2021-01-13"))
 
 
-
-
-videos
-i = 1
-checking = "continue"
-while(checking=="continue"){
-  
-  urli <- video_url(videos$id_video[i])
-  browseURL(urli)
-  res <- svDialogs::dlg_list(c("accept","reject","stop"))
-  
-  if(res$res=="reject"){
-    tb_video_to_rm <- read_delim("data/list_video_to_rm.txt",delim=";",
-                               col_types = cols(
-                                 id_channel = col_character(),
-                                 id_video = col_character()
-                               ),
-                               lazy = FALSE)
-  
-  tb_video_to_rm%>%
-    bind_rows(
-      tribble(~id_channel,~id_video,
-              videos$id_channel[i],videos$id_video[i]))%>%
-  write_delim(x =., file = "data/list_video_to_rm.txt",delim=";")
-  }
-  if(res$res=="stop"){
-    
-    print(as_date(videos$ymd_hms_video[i])-1)
-    checking="stop"}
-  i = i+1
-  
-  }
-
+check_videos(videos)
 
