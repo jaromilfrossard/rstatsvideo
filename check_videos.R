@@ -65,7 +65,7 @@ videos<-
                             "Shiny DeveloperSeries","Statistics Globe",
                             "Why R? Foundation","R4DS Online Learning Community",
                             "Julia Silge"))%>%
-  filter(ymd_hms_video>as_date("2021-01-13"))
+  filter(ymd_hms_video>as_date("2021-02-14"))
 
 
 check_videos(videos)
