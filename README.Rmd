@@ -16,8 +16,8 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-[rstatsvideo](https://twitter.com/rstatsvideo) is a twitter-bot that shares youtube videos on R.
+Brain of the twitter bot rstatsvideo twitter bot https://twitter.com/rstatsvideo
 
-rstatsvideo shares the new videos from the youtube channels listed in the file "data/list_channel.txt".
+
 
 
