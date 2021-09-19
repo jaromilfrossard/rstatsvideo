@@ -10,4 +10,3 @@ data/channels/
 youtube_oauth.R
 analyse_performance.R
 get_social.R
-check_videos.R
