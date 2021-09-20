@@ -1,6 +1,5 @@
 ---
 output: github_document
-always_allow_html: true
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -17,7 +16,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-Brain of the twitter bot `rstatsvideo` twitter bot https://twitter.com/rstatsvideo
+Brain of the twitter bot `rstatsvideo` twitter bot https://twitter.com/rstatsvideo.
 
 `rstatsvideo` re-tweets the new videos from the youtube channels listed on "data/channel.txt".
 
@@ -34,6 +33,7 @@ library(glue)
 library(ggplot2)
 library(ggiraph)
 library(stringr)
+library(scales)
 
 tb_perf<- readr::read_delim("data/performance.csv", delim =";",col_types = cols(
   name_channel = col_character(), id_channel = col_character(),
@@ -51,6 +51,9 @@ tb_perf_channel <-
             count_comment = sum(count_comment),.groups = "drop")%>%
   mutate(channel = glue("{name_channel}\n{url_channel}"))
 
+
+num_format = comma_format(accuracy = 1, big.mark = " ", decimal.mark = ".")
+
 ```
 
 
@@ -65,14 +68,15 @@ gg_channel<-
   slice(1:10)%>%
   mutate(name_channel = reorder(name_channel, count_video))%>%
   ggplot(aes(x =name_channel, y= count_video,fill = name_channel))+
-  geom_col_interactive()+
+  geom_col()+
   coord_flip()+
-  scale_y_continuous(expand = expansion(c(0, 0.05) ))+
+  geom_text(aes(label=num_format(count_video)),hjust=1.1)+
+  scale_y_continuous(expand = expansion(c(0, 0.05) ),
+                     labels = num_format)+
   theme_bw()+
-  labs(title = "Top 10 most productive channels", 
-       subtitle = glue("Data collected {tb_perf$today[1]}"),
-       caption = glue("jaromil.frossard@gmail.com"),
-       y= "number of videos",x ="")+
+  labs(title = "Top 10: Most productive channels", 
+       subtitle = glue("Data collected {{tb_perf$today[1]}} using {tuber}",.open = "{{", .close="}}"),
+       y= "Number of videos",x ="")+
   theme(legend.position = "none")
 gg_channel
 ```
@@ -98,14 +102,15 @@ gg_video<-
   mutate(title = glue("{title_video}\n{name_channel}"))%>%
   mutate(title = reorder(title, count_view))%>%
   ggplot(aes(x =title , y= count_view,fill = title))+
-  geom_col_interactive()+
+  geom_col()+
   coord_flip()+
-  scale_y_continuous(expand = expansion(c(0, 0.05) ))+
+  geom_text(aes(label=num_format(count_view)),hjust=1.1)+
+  scale_y_continuous(expand = expansion(c(0, 0.05) ),
+                     labels = num_format)+
   theme_bw()+
-  labs(title = "Top 10 most viewed videos", 
-       subtitle = glue("Data collected {tb_perf$today[1]}"),
-       caption = glue("jaromil.frossard@gmail.com"),
-       y= "total of views",x ="")+
+  labs(title = "Top 10: Most viewed videos", 
+       subtitle = glue("Data collected {{tb_perf$today[1]}} using {tuber}",.open = "{{", .close="}}"),
+       y= "Total of views",x ="")+
   theme(legend.position = "none")
 gg_video
 ```
