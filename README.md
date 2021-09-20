@@ -7,12 +7,16 @@
 
 <!-- badges: end -->
 
-Brain of the twitter bot rstatsvideo twitter bot
+Brain of the twitter bot `rstatsvideo` twitter bot
 <https://twitter.com/rstatsvideo>
 
-rstatsvideo re-tweets the new videos from the youtube channels listed on
-“data/channel.txt”.
+`rstatsvideo` re-tweets the new videos from the youtube channels listed
+on “data/channel.txt”.
 
-Best performing channels\!
+### Most productive channels
 
 ![](README_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+
+### Most viewed videos
+
+![](README_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->

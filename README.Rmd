@@ -1,5 +1,6 @@
 ---
 output: github_document
+always_allow_html: true
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -16,11 +17,11 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-Brain of the twitter bot rstatsvideo twitter bot https://twitter.com/rstatsvideo
+Brain of the twitter bot `rstatsvideo` twitter bot https://twitter.com/rstatsvideo
 
-rstatsvideo re-tweets the new videos from the youtube channels listed on "data/channel.txt".
+`rstatsvideo` re-tweets the new videos from the youtube channels listed on "data/channel.txt".
 
-Best performing channels!
+
 
 
 ```{r message=FALSE, warning=FALSE, include=FALSE}
@@ -31,6 +32,8 @@ library(readr)
 library(purrr)
 library(glue)
 library(ggplot2)
+library(ggiraph)
+library(stringr)
 
 tb_perf<- readr::read_delim("data/performance.csv", delim =";",col_types = cols(
   name_channel = col_character(), id_channel = col_character(),
@@ -38,7 +41,7 @@ tb_perf<- readr::read_delim("data/performance.csv", delim =";",col_types = cols(
   id_twitter = col_character(), count_view = col_integer(),
   count_comment = col_integer(), url_channel = col_character(),
   url_video = col_character(), today = col_date(format = "")
-))
+),lazy = F)
 
 tb_perf_channel <-
   tb_perf%>%
@@ -50,25 +53,61 @@ tb_perf_channel <-
 
 ```
 
+
+
+
+### Most productive channels
+
 ```{r echo=FALSE}
-tb_perf_channel%>%
+gg_channel<-
+  tb_perf_channel%>%
   arrange(desc(count_video))%>%
   slice(1:10)%>%
   mutate(name_channel = reorder(name_channel, count_video))%>%
-  ggplot(aes(x =name_channel, y= count_video,fill = channel))+
-  geom_col()+
+  ggplot(aes(x =name_channel, y= count_video,fill = name_channel))+
+  geom_col_interactive()+
   coord_flip()+
+  scale_y_continuous(expand = expansion(c(0, 0.05) ))+
   theme_bw()+
   labs(title = "Top 10 most productive channels", 
        subtitle = glue("Data collected {tb_perf$today[1]}"),
        caption = glue("jaromil.frossard@gmail.com"),
        y= "number of videos",x ="")+
   theme(legend.position = "none")
+gg_channel
 ```
 
 
 
 
+### Most viewed videos
 
+
+
+```{r echo=FALSE}
+options(scipen = 999)
+gg_video<-
+  tb_perf%>%
+  arrange(desc(count_view))%>%
+  slice(1:10)%>%
+  mutate(title_video = str_remove(title_video,fixed("- YouTube")))%>%
+  mutate(title_video = str_trim((title_video)))%>%
+  mutate(title_video = case_when(
+    nchar(title_video)>50~glue("{stringr::str_sub(title_video,1,47)}..."),
+    TRUE~title_video))%>%
+  mutate(title = glue("{title_video}\n{name_channel}"))%>%
+  mutate(title = reorder(title, count_view))%>%
+  ggplot(aes(x =title , y= count_view,fill = title))+
+  geom_col_interactive()+
+  coord_flip()+
+  scale_y_continuous(expand = expansion(c(0, 0.05) ))+
+  theme_bw()+
+  labs(title = "Top 10 most viewed videos", 
+       subtitle = glue("Data collected {tb_perf$today[1]}"),
+       caption = glue("jaromil.frossard@gmail.com"),
+       y= "total of views",x ="")+
+  theme(legend.position = "none")
+gg_video
+```
 
 
