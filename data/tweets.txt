@@ -1740,3 +1740,25 @@ UCyHEww8_SCdxZvEnkCfi55w;vvIhRginelA;2019-12-05T08:00:14Z;"📺 #rstats video: m
 ▶ Statistics Globe (@JoachimSchork)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=vvIhRginelA"
+UCCaChdLMTYMxyawR_Qf-kYA;jk6hHNyrcSo;2021-09-19T18:45:52Z;"📺 New #rstats video: Tidy Modeling with R Book Club Ch18: Explaining models and predictions (2021-09-07) (tmwr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=jk6hHNyrcSo"
+UCCaChdLMTYMxyawR_Qf-kYA;BMLlExQYjHU;2021-09-19T19:17:45Z;"📺 New #rstats video: Tidy Modeling with R Book Club Ch19: When should you trust your predictions? (2021-09-14) (tmwr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=BMLlExQYjHU"
+UCyHEww8_SCdxZvEnkCfi55w;bipcpROO53Q;2021-09-20T14:00:13Z;"📺 New #rstats video: Get All Factor Levels of Vector & Data Frame Column in R (2 Examples) | factor(), levels(), sapply()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=bipcpROO53Q"
+UCMdihazndR0f9XBoSXWqnYg;C5RJvMaHJNo;2018-01-14T21:00:00Z;"📺 #rstats video: R - Exploratory Factor Analysis Example
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#statistics #power #exploratoryfactoranalysis #car #rstudio #rstudio #rprogram #rlanguage
+🔗 https://www.youtube.com/watch?v=C5RJvMaHJNo"
+UC_R5smHVXRYGhZYDJsnXTwg;Wh-GynBeEsQ;2021-03-24T15:12:55Z;"📺 #rstats video: COVID 19 Data Forum - 2021-03-18
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=Wh-GynBeEsQ"

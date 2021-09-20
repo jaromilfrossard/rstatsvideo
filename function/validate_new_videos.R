@@ -47,7 +47,7 @@ validate_new_videos <- function(file_tweet = "data/tweets.txt",
   
   tb_videos_new <- 
     tb_videos %>%
-    filter(ymd_hms_video>max(tb_tweet_old$ymd_hms_video)-60*60*24)%>%
+    filter(ymd_hms_video>max(tb_tweet_old$ymd_hms_video))%>%
     filter(id_channel%in%tb_channel$id_channel)
   
   check_videos(tb_videos_new)

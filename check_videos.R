@@ -57,18 +57,21 @@ videos <-
   anti_join(tb_channel_to_rm, by = c("id_channel"="id_channel"))%>%
   anti_join(tb_video_to_rm,by =c("id_channel" = "id_channel","id_video"="id_video"))
 
-videos<-
-  videos%>%
-  filter(!str_detect(tolower(name_channel),"ladies"))%>%
-  filter(!name_channel%in%c("RStudio","R Consortium","NHSR Community",
-                            "Statistics of DOOM","satRdays","Lander Analytics",
-                            "Shiny DeveloperSeries","Statistics Globe",
-                            "Why R? Foundation","R4DS Online Learning Community",
-                            "Julia Silge"))%>%
-  filter(ymd_hms_video>as_date("2021-09-19"))
+# videos<-
+#   videos%>%
+#   filter(!str_detect(tolower(name_channel),"ladies"))%>%
+#   filter(!name_channel%in%c("RStudio","R Consortium","NHSR Community",
+#                             "Statistics of DOOM","satRdays","Lander Analytics",
+#                             "Shiny DeveloperSeries","Statistics Globe",
+#                             "Why R? Foundation","R4DS Online Learning Community",
+#                             "Julia Silge"))%>%
+#   filter(ymd_hms_video>as_date("2021-09-19"))
 
 
-check_videos(videos)
+
+videos%>%
+  filter(name_channel=="dataAnalysisR")%>%
+  check_videos()
 
 
 
