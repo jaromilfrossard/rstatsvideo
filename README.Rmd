@@ -18,6 +18,57 @@ knitr::opts_chunk$set(
 
 Brain of the twitter bot rstatsvideo twitter bot https://twitter.com/rstatsvideo
 
+rstatsvideo re-tweets the new videos from the youtube channels listed on "data/channel.txt".
+
+Best performing channels!
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(dplyr)
+library(tidyr)
+library(lubridate)
+library(readr)
+library(purrr)
+library(glue)
+library(ggplot2)
+
+tb_perf<- readr::read_delim("data/performance.csv", delim =";",col_types = cols(
+  name_channel = col_character(), id_channel = col_character(),
+  id_video = col_character(), ymd_hms_video = col_datetime(format = ""),
+  id_twitter = col_character(), count_view = col_integer(),
+  count_comment = col_integer(), url_channel = col_character(),
+  url_video = col_character(), today = col_date(format = "")
+))
+
+tb_perf_channel <-
+  tb_perf%>%
+  group_by(name_channel,id_channel,url_channel)%>%
+  summarise(count_video = n(),
+            count_view = sum(count_view),
+            count_comment = sum(count_comment),.groups = "drop")%>%
+  mutate(channel = glue("{name_channel}\n{url_channel}"))
+
+```
+
+```{r echo=FALSE}
+tb_perf_channel%>%
+  arrange(desc(count_video))%>%
+  slice(1:10)%>%
+  mutate(name_channel = reorder(name_channel, count_video))%>%
+  ggplot(aes(x =name_channel, y= count_video,fill = channel))+
+  geom_col()+
+  coord_flip()+
+  theme_bw()+
+  labs(title = "Top 10 most productive channels", 
+       subtitle = glue("Data collected {tb_perf$today[1]}"),
+       caption = glue("jaromil.frossard@gmail.com"),
+       y= "number of videos",x ="")+
+  theme(legend.position = "none")
+```
+
+
+
+
 
 
 
