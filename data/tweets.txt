@@ -1785,3 +1785,27 @@ UCKMekE_4UfWvZDuBWenG8WA;Uo3nEwN-7jw;2021-05-31T17:51:30Z;"📺 #rstats video: t
 🗣 🇬🇧
 #ttest #linearmodel #linearregression #correlation #pearsonsr #pearsoncorrelation
 🔗 https://www.youtube.com/watch?v=Uo3nEwN-7jw"
+UCyHEww8_SCdxZvEnkCfi55w;S_lHHiHb1zE;2021-09-21T11:47:54Z;"📺 New #rstats video: Statistics Globe Channel Trailer | Become an Expert in R Programming & Data Science
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming #rprogramming
+🔗 https://www.youtube.com/watch?v=S_lHHiHb1zE"
+UCyHEww8_SCdxZvEnkCfi55w;zLhZCQhsfSI;2020-08-21T14:00:24Z;"📺 #rstats video: Overlay Density Plots in Base R (2 Examples) | Draw Multiple Distributions | plot & lines Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=zLhZCQhsfSI"
+UCyHEww8_SCdxZvEnkCfi55w;PCnXvmhNl68;2021-05-30T14:00:22Z;"📺 #rstats video: R Order Data Frame Rows According to Vector (Example) | Sort & Rearrange | match & left_join [dplyr]
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=PCnXvmhNl68"
+UC2-hKemnrmVCH_29duyJ26A;1kV0fPDefBM;2019-12-02T22:11:43Z;"📺 #rstats video: Jon Harmon - RBERT: Cutting Edge NLP in R
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=1kV0fPDefBM"
+UCyHEww8_SCdxZvEnkCfi55w;rdnyWnDskM4;2019-08-29T13:59:09Z;"📺 #rstats video: Convert Date to Numeric Time Object in R (Example) | hours, minutes & seconds Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#datetonumericinr #dater #timeobjectr #datetotimer #numericdata #lubridatepackage
+🔗 https://www.youtube.com/watch?v=rdnyWnDskM4"
