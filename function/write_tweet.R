@@ -79,7 +79,7 @@ write_tweet_hashtag <- function(hashtag, max_len){
     tolower()
   hi <- hi[!(hi%in%c("rstats",""))]
   hi <- paste0("#", na.omit(hi))
-  hi <- paste(hi[cumsum(nchar(hi)+1)<(max_len+2)],collapse = " ")
+  hi <- unique(paste(hi[cumsum(nchar(hi)+1)<(max_len+2)],collapse = " "))
 
   if(hi=="#"){
     hi = NA_character_

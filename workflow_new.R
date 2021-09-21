@@ -20,6 +20,7 @@ source("function/write_tweet.R")
 source("function/post_videos.R")
 source("function/follow_channels.R")
 source("function/validate_new_videos.R")
+source("function/validate_channel.R")
 source("function/check_videos.R")
 
 auth_as("rstatsvideo")
@@ -39,7 +40,7 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
 #update channels videos
 walk(tb_channel$id_channel, update_channel_video)
 
-
+valid
 validate_new_videos()
 
 

@@ -1762,3 +1762,26 @@ UC_R5smHVXRYGhZYDJsnXTwg;Wh-GynBeEsQ;2021-03-24T15:12:55Z;"📺 #rstats video: C
 ▶ R Consortium (@RConsortium)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=Wh-GynBeEsQ"
+UCGuktEl5InrcxPfCjmPWxsA;z7Ci9NN3LUc;2021-09-20T16:00:39Z;"📺 New #rstats video: Modifying the appearance of text in an R figure with ggplot2's theme function (CC147)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#textappearancefigurer #textappeareancefigurer #elementtheme #elementmarkdown
+🔗 https://www.youtube.com/watch?v=z7Ci9NN3LUc"
+UCKMekE_4UfWvZDuBWenG8WA;BHgNA1vJO_0;2021-09-20T20:27:50Z;"📺 New #rstats video: How to Include Data in Your R Package
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#roxygen2 #rpackage #hadleywickham #jenniferbryan #functiondocumentation #datadocumentation #customerscore
+🔗 https://www.youtube.com/watch?v=BHgNA1vJO_0"
+UCBsXfUO__nzMnlaLLUx7DFQ;uLZ4a8zMn80;2021-09-20T21:00:32Z;"📺 New #rstats video: Functions
+▶ Probability!
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=uLZ4a8zMn80"
+UCBsXfUO__nzMnlaLLUx7DFQ;a4H-7TEDzGk;2021-09-01T17:17:35Z;"📺 #rstats video: Booleans and If Statements
+▶ Probability!
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=a4H-7TEDzGk"
+UCKMekE_4UfWvZDuBWenG8WA;Uo3nEwN-7jw;2021-05-31T17:51:30Z;"📺 #rstats video: t-Test, Linear Regression, Correlation on the Same Data in R: A Comparison
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#ttest #linearmodel #linearregression #correlation #pearsonsr #pearsoncorrelation
+🔗 https://www.youtube.com/watch?v=Uo3nEwN-7jw"

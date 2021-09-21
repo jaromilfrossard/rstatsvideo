@@ -39,9 +39,9 @@ validate_channel = function(id_channel,
       tb_videos%>%
       anti_join(tb_video_to_rm,by =c("id_channel" = "id_channel","id_video"="id_video"))
   }
-  
+  id_selected = id_channel
   tb_videos%>%
-  filter(id_channel==id_channel)%>%
+  filter(id_channel==id_selected)%>%
   check_videos()
   
   
