@@ -1831,3 +1831,26 @@ UCfoktGmvJ6rnME7mSP_Ww2g;ZceNAEFNzgQ;2020-07-07T16:50:34Z;"📺 #rstats video: R
 ▶ R-Ladies Tunis (@RLadiesTunis)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=ZceNAEFNzgQ"
+UC3xfbCMLCw1Hh4dWop3XtHg;wGrKbsagVtg;2021-02-19T14:00:15Z;"📺 #rstats video: Kate Hertweck | R training and documentation for different levels of expertise | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz
+🔗 https://www.youtube.com/watch?v=wGrKbsagVtg"
+UCeiiqmVK07qhY-wvg3IZiZQ;-5HYdBq_PTM;2020-03-18T14:21:49Z;"📺 #rstats video: Screencast: Cleaning and exploring the COVID-19 Open Research Dataset (CORD-19)
+▶ David Robinson (@drob)
+🔗 https://www.youtube.com/watch?v=-5HYdBq_PTM"
+UC3xfbCMLCw1Hh4dWop3XtHg;w4Mi0u4urbQ;2021-02-19T15:00:20Z;"📺 #rstats video: Michael Chow | Bringing the Tidyverse to Python with Siuba | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology
+🔗 https://www.youtube.com/watch?v=w4Mi0u4urbQ"
+UCyHEww8_SCdxZvEnkCfi55w;JVqiWpDiZqQ;2021-06-16T14:00:17Z;"📺 #rstats video: Select Subset of Data Table Columns in R (Example) | Keep & Remove Variables | data.table Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming #rprogramming
+🔗 https://www.youtube.com/watch?v=JVqiWpDiZqQ"
+UC2-hKemnrmVCH_29duyJ26A;3lWh4_baT3g;2019-03-07T22:27:32Z;"📺 #rstats video: Jesse Brizzi - Choosing a Deep Learning Library: There are a Lot of Them
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#deeplearning #machinelearning #education
+🔗 https://www.youtube.com/watch?v=3lWh4_baT3g"
