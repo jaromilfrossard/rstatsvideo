@@ -1809,3 +1809,25 @@ UCyHEww8_SCdxZvEnkCfi55w;rdnyWnDskM4;2019-08-29T13:59:09Z;"📺 #rstats video: C
 🗣 🇬🇧
 #datetonumericinr #dater #timeobjectr #datetotimer #numericdata #lubridatepackage
 🔗 https://www.youtube.com/watch?v=rdnyWnDskM4"
+UCfB2mPM4oU5pMgh9gbEqpWA;U5kxEcnSuwE;2021-09-21T12:53:19Z;"📺 New #rstats video: September 2021 - COVID-19 dashboards & Emailing with R
+▶ EdinbR (@edinb_r)
+🗣 🇬🇧
+#rlang #rmeetups #email #covid #dashboard #matrix
+🔗 https://www.youtube.com/watch?v=U5kxEcnSuwE"
+UCCaChdLMTYMxyawR_Qf-kYA;pldNcyb4kMg;2021-09-21T19:45:53Z;"📺 New #rstats video: Tidy Modeling with R Book Club Ch17: Dimensionality reduction (2021-09-20) (tmwr03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=pldNcyb4kMg"
+UC2-hKemnrmVCH_29duyJ26A;8UL5S_lxYT8;2021-02-08T23:34:08Z;"📺 #rstats video: Maxine Drake - Modeling COVID-19 on a DoD Network
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=8UL5S_lxYT8"
+UCnwYO3Sz_emBTC1sTZ6TlsQ;zAgTlZUugUE;2020-09-08T23:00:16Z;"📺 #rstats video: TidyTuesday: Using SQL with R Markdown and Tidyverse
+▶ Andrew Couch (@Andr3wCouch)
+🗣 🇬🇧
+#rstudio #tidyverse #rprogramming #datascience #analytics #statistics #datavisualizaiton #dataviz #eda #tidytuesday #data
+🔗 https://www.youtube.com/watch?v=zAgTlZUugUE"
+UCfoktGmvJ6rnME7mSP_Ww2g;ZceNAEFNzgQ;2020-07-07T16:50:34Z;"📺 #rstats video: R-Ladies Tunis : Meetup about R Shiny animated by Kaelen Medeiros (Part 3/10)
+▶ R-Ladies Tunis (@RLadiesTunis)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=ZceNAEFNzgQ"

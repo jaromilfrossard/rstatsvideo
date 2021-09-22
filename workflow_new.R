@@ -42,7 +42,7 @@ walk(tb_channel$id_channel, update_channel_video)
 
 # tb_channel%>%
 #   tail()
-# validate_channel("UCcCMO7sHb8O_TJUd34sQ_Ng")
+# validate_channel("UCfB2mPM4oU5pMgh9gbEqpWA")
 
 validate_new_videos()
 
