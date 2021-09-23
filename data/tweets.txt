@@ -1854,3 +1854,26 @@ UC2-hKemnrmVCH_29duyJ26A;3lWh4_baT3g;2019-03-07T22:27:32Z;"📺 #rstats video: J
 🗣 🇬🇧
 #deeplearning #machinelearning #education
 🔗 https://www.youtube.com/watch?v=3lWh4_baT3g"
+UCyHEww8_SCdxZvEnkCfi55w;AHABILDNAiQ;2021-09-22T14:00:05Z;"📺 New #rstats video: Use Previous Row of data.table in R (Example) | Extract & Get Values | shift Function & type = lag
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=AHABILDNAiQ"
+UCBsXfUO__nzMnlaLLUx7DFQ;Hc2qpJy54-4;2021-09-22T21:00:15Z;"📺 New #rstats video: Aggregation
+▶ Probability!
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=Hc2qpJy54-4"
+UCPque9BaFV9p0hcgImrYBzg;m7RH1O4r80c;2021-09-23T13:07:22Z;"📺 New #rstats video: Causal Inference in R - R-Ladies September 2021
+▶ R-Ladies Philly (@RLadiesPhilly)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=m7RH1O4r80c"
+UCKMekE_4UfWvZDuBWenG8WA;3N0klPMNyLY;2021-09-23T13:17:43Z;"📺 New #rstats video: Why and How to Include a Vignette in Your R Package
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#rpackage #packagedocumentation #vignette #dplyr #datatable #rmarkdown #rmarkdown
+🔗 https://www.youtube.com/watch?v=3N0klPMNyLY"
+UCyHEww8_SCdxZvEnkCfi55w;drkqpbERlyA;2021-09-23T14:00:13Z;"📺 New #rstats video: Overlay Normal Density Curve on Top of ggplot2 Histogram (R Example) | geom_histogram, stat_function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=drkqpbERlyA"
