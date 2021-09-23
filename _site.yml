@@ -1,2 +1,3 @@
 name: "flexdashboard-example"
 output_dir: docs
+exclude: ["data", "function","img","api", "booknote"]
