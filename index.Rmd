@@ -8,32 +8,99 @@ output:
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
+library(readr)
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(lubridate)
+library(purrr)
+library(DT)
+library(glue)
 ```
 
 
 <!-- https://www.r-bloggers.com/2020/09/deploying-flexdashboard-on-github-pages/ -->
 
-Column {data-width=650}
------------------------------------------------------------------------
 
-### Chart A
+# Channels
 
-```{r}
+<!-- Column {data-width=650} -->
+<!-- ----------------------------------------------------------------------- -->
+
+### Explore Youtube Channels
+
+```{r,include=FALSE}
+tb_perf<- readr::read_delim("data/performance.csv", delim =";",col_types = cols(
+  name_channel = col_character(), id_channel = col_character(),
+  id_video = col_character(), ymd_hms_video = col_datetime(format = ""),
+  id_twitter = col_character(), count_view = col_integer(),
+  count_comment = col_integer(), url_channel = col_character(),
+  url_video = col_character(), today = col_date(format = "")
+),lazy = F)
+
+tb_perf_video <-
+  tb_perf%>%
+  arrange(desc(count_view))%>%
+  mutate(channel = glue("<a href={url_channel}>{name_channel}</a>"))%>%
+  mutate(title_video = str_remove(title_video,"- YouTube"),
+         title_video = str_trim(title_video))%>%
+  mutate(video = glue("<a href={url_video}>{title_video}</a>"))%>%
+  mutate(url_twitter = case_when(!is.na(id_twitter)~glue("<a href=https://twitter.com/{id_twitter}>@{id_twitter}</a>"),
+                                 TRUE~"-"))%>%
+  mutate(name_channel = as.factor(name_channel))%>%
+  select(Channel = channel, Twitter =url_twitter, Video = video, `Number of views` =  count_view,
+          `Number of comments` =  count_comment)
+
+
+
+tb_perf_channel <-
+  tb_perf%>%
+  group_by(name_channel,id_channel,url_channel,id_twitter)%>%
+  summarise(count_video = n(),
+            count_view = sum(count_view),
+            count_comment = sum(count_comment),.groups = "drop")%>%
+  arrange(desc(count_video))%>%
+  mutate(channel = glue("<a href={url_channel}>{name_channel}</a>"))%>%
+  mutate(url_twitter = case_when(!is.na(id_twitter)~glue("<a href=https://twitter.com/{id_twitter}>@{id_twitter}</a>"),
+                                 TRUE~"-"))%>%
+  mutate(name_channel = as.factor(name_channel))%>%
+  select(Channel = channel, Twitter =url_twitter, `Number of videos` = count_video, `Total number of views` =  count_view)
+
+
 
 ```
 
-Column {data-width=350}
------------------------------------------------------------------------
-
-### Chart B
 
 ```{r}
+tb_perf_channel%>%
+  DT::datatable(escape = FALSE,
+                filter = list(position = 'top', clear = FALSE),
+                options = list(
+    search = list( caseInsensitive = TRUE),
+    pageLength = 20
+  ))
 
 ```
 
-### Chart C
+
+
+# Videos
+
+
+### Explore Youtube Videos
+
 
 ```{r}
+tb_perf_video%>%
+  DT::datatable(escape = FALSE,
+                filter = list(position = 'top', clear = FALSE),
+                options = list(
+    search = list( caseInsensitive = TRUE),
+    pageLength = 20
+  ))
 
 ```
+
+
+
 
