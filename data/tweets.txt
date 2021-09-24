@@ -1877,3 +1877,27 @@ UCyHEww8_SCdxZvEnkCfi55w;drkqpbERlyA;2021-09-23T14:00:13Z;"📺 New #rstats vide
 🗣 🇬🇧
 #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=drkqpbERlyA"
+UCGuktEl5InrcxPfCjmPWxsA;WRirYQBPq9s;2021-09-23T16:00:30Z;"📺 New #rstats video: How to set the order and value of factors in R using factor and fct_reorder (CC148)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rfactorsorder #rfactor #rfactorlevels #rfactorlabels #rforcats #rfctreorder
+🔗 https://www.youtube.com/watch?v=WRirYQBPq9s"
+UCDgj5-mFohWZ5irWSFMFcng;ozkJkiYxHGU;2021-09-23T22:03:00Z;"📺 New #rstats video: R-Ladies Coventry & Utrecht (English) - Growing into the R community - Dr Shannon Pileggi
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#coding #programming
+🔗 https://www.youtube.com/watch?v=ozkJkiYxHGU"
+UCnwYO3Sz_emBTC1sTZ6TlsQ;0aN5Io0rJZI;2020-05-05T20:23:42Z;"📺 #rstats video: TidyTuesday: NLP Modeling with TidyModels and Keras
+▶ Andrew Couch (@Andr3wCouch)
+🗣 🇬🇧
+#tidytuesay #tidyverse #tidymodels #nlp #naturallanguageprocessing #keras #neuralnetwork #wordembeddings #word2vec #bert
+🔗 https://www.youtube.com/watch?v=0aN5Io0rJZI"
+UCCaChdLMTYMxyawR_Qf-kYA;hriFSGeBa_Q;2021-03-31T15:31:57Z;"📺 #rstats video: Mastering Shiny Book Club: Chapter 6: Layout, themes, HTML (2021-03-23) (mshiny01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=hriFSGeBa_Q"
+UCyHEww8_SCdxZvEnkCfi55w;5L_lB48jB3o;2021-06-25T14:00:02Z;"📺 #rstats video: Rename List Elements in R (2 Examples) | Changing Only One Name or All | names() & c() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming #rprogramming
+🔗 https://www.youtube.com/watch?v=5L_lB48jB3o"
