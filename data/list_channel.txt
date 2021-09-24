@@ -21,7 +21,7 @@ UCKFp00-PRnuc1Dx4DaUmJBg;Chad C. Williams;WilliamsNeuro
 UCPzO5TjnYnBzfUVj6fI3pdw;Vivian Codes;
 UCxdCZGywhd2R5BiOP8vOgqg;R Programming - DDS;ddata_script
 UCC3CCtUrSSQoJkxodRKr89g;Lisa Lendway - Statistics & Data Science;lisalendway
-UCBV194XNr6CIQCCuw1v2rMQ;dataslice;
+UCBV194XNr6CIQCCuw1v2rMQ;dataslice;dataslice
 UC6wfyYnDaebrARFWhWdcItA;R Stats;
 UCY98oWVfQEZ_i7R_0JqIRZA;R- Ladies Amsterdam;RLadiesAMS
 UClC5yNEjMoE3MmbK-mrV8Ow;R-Ladies Melbourne;RLadiesMelb
