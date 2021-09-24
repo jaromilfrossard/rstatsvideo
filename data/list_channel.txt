@@ -19,7 +19,7 @@ UCGuktEl5InrcxPfCjmPWxsA;Riffomonas Project;PatSchloss
 UCMdihazndR0f9XBoSXWqnYg;Statistics of DOOM;aggieerin
 UCKFp00-PRnuc1Dx4DaUmJBg;Chad C. Williams;WilliamsNeuro
 UCPzO5TjnYnBzfUVj6fI3pdw;Vivian Codes;
-UCxdCZGywhd2R5BiOP8vOgqg;R Programming - DDS;
+UCxdCZGywhd2R5BiOP8vOgqg;R Programming - DDS;ddata_script
 UCC3CCtUrSSQoJkxodRKr89g;Lisa Lendway - Statistics & Data Science;lisalendway
 UCBV194XNr6CIQCCuw1v2rMQ;dataslice;
 UC6wfyYnDaebrARFWhWdcItA;R Stats;
