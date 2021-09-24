@@ -1901,3 +1901,22 @@ UCyHEww8_SCdxZvEnkCfi55w;5L_lB48jB3o;2021-06-25T14:00:02Z;"📺 #rstats video: R
 🗣 🇬🇧
 #statisticsglobe #statisticsglobecom #statisticalprogramming #rprogramming
 🔗 https://www.youtube.com/watch?v=5L_lB48jB3o"
+UCwQ7lkY6YWzZjT807Itbvtw;llpLZrrkG7E;2021-09-24T13:43:08Z;"📺 New #rstats video: Creating GitHub pull requests from {shinycal} (part 1)
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=llpLZrrkG7E"
+UCwQ7lkY6YWzZjT807Itbvtw;iKmHt-lWyX0;2021-09-24T13:59:10Z;"📺 New #rstats video: Preparing for a Shiny UI/UX webinar!
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=iKmHt-lWyX0"
+UCyHEww8_SCdxZvEnkCfi55w;RQfnIcn7ibY;2021-09-24T14:00:18Z;"📺 New #rstats video: Test for Equality of All Vector Elements in R (Example) | Each Value is the Same | rep, var & unique
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=RQfnIcn7ibY"
+UCMwM-3tg_-Pbx8hKO78q5EA;FyXNW14vfFg;2020-11-13T14:10:56Z;"📺 #rstats video: Closing Remarks
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=FyXNW14vfFg"
+UC_R5smHVXRYGhZYDJsnXTwg;-Acsy_KTGY0;2019-08-03T13:50:50Z;"📺 #rstats video: useR! 2019 Toulouse - Talk  Applications 1 - Priyanga Dilini Talagala
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=-Acsy_KTGY0"
