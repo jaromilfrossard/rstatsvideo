@@ -16,6 +16,8 @@ library(lubridate)
 library(purrr)
 library(DT)
 library(glue)
+
+date_update <- as_date(file.info("data/performance.csv")[,"mtime"])
 ```
 
 
@@ -78,7 +80,8 @@ tb_perf_channel%>%
                 options = list(
     search = list( caseInsensitive = TRUE),
     pageLength = 20
-  ))
+  ),
+  caption = glue("Date: {date_update}"))
 
 ```
 
@@ -97,7 +100,8 @@ tb_perf_video%>%
                 options = list(
     search = list( caseInsensitive = TRUE),
     pageLength = 20
-  ))
+  ),
+  caption = glue("Date: {date_update}"))
 
 ```
 
