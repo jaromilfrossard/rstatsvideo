@@ -1920,3 +1920,23 @@ UC_R5smHVXRYGhZYDJsnXTwg;-Acsy_KTGY0;2019-08-03T13:50:50Z;"📺 #rstats video: u
 ▶ R Consortium (@RConsortium)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=-Acsy_KTGY0"
+UCBsXfUO__nzMnlaLLUx7DFQ;WalHJbygYUg;2021-09-24T21:00:13Z;"📺 New #rstats video: Optimization
+▶ Probability!
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=WalHJbygYUg"
+UCTZXht1RTL2Duc3eU8MYGzQ;xErgS19d4vw;2021-09-24T21:17:48Z;"📺 New #rstats video: Genetic algorithms, the tidy way (and software development) - Part 3
+▶ Bruno Rodrigues (@brodriguesco)
+🔗 https://www.youtube.com/watch?v=xErgS19d4vw"
+UC3xfbCMLCw1Hh4dWop3XtHg;zEvN0_9i-vs;2020-11-01T18:00:06Z;"📺 #rstats video: Mike K Smith | Learn to teach, for goodness sake | RStudio (2020)
+▶ RStudio (@rstudio)
+#rstudioconf2020 #mikeksmith #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz
+🔗 https://www.youtube.com/watch?v=zEvN0_9i-vs"
+UC_R5smHVXRYGhZYDJsnXTwg;dLL2ujCyu8Q;2019-08-30T22:34:21Z;"📺 #rstats video: useR! 2019 Toulouse - Flash poster presentations
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=dLL2ujCyu8Q"
+UC_R5smHVXRYGhZYDJsnXTwg;Z0Tm-Y7vzNQ;2020-09-14T03:32:19Z;"📺 #rstats video: Reproducible RStudio Projects with Docker, Packages, Snapshots and Packrat (Vincent Major)
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rmedicine
+🔗 https://www.youtube.com/watch?v=Z0Tm-Y7vzNQ"
