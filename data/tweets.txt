@@ -1962,3 +1962,22 @@ UCcCMO7sHb8O_TJUd34sQ_Ng;PswVTlj-tAs;2020-07-27T01:52:38Z;"📺 #rstats video: D
 ▶ Lulus CommentdansR
 #diagrammecirculairedansr #diagrammecirculaireavecr #diagrammecirculairesousr #fanplotr #commentdansr
 🔗 https://www.youtube.com/watch?v=PswVTlj-tAs"
+UC_R5smHVXRYGhZYDJsnXTwg;v6yRmbulxUM;2018-07-15T04:58:20Z;"📺 #rstats video: tsibble: Tidy data structures to support exploration and modeling of temporal-context data
+▶ R Consortium (@RConsortium)
+🔗 https://www.youtube.com/watch?v=v6yRmbulxUM"
+UCfoktGmvJ6rnME7mSP_Ww2g;ecbA0h7aDE0;2020-07-22T18:50:07Z;"📺 #rstats video: R-Ladies Tunis | Webinar : Analysis of COVID-19 data with R
+▶ R-Ladies Tunis (@RLadiesTunis)
+🔗 https://www.youtube.com/watch?v=ecbA0h7aDE0"
+UCDgj5-mFohWZ5irWSFMFcng;t4XFb4uKp2Q;2020-09-19T12:14:23Z;"📺 #rstats video: R-Ladies Johannesburg Sept 2020 Meetup (English)  - First steps in #rspatial
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇪🇸
+🔗 https://www.youtube.com/watch?v=t4XFb4uKp2Q"
+UCyHEww8_SCdxZvEnkCfi55w;Eird3kgAYaM;2020-04-17T14:00:09Z;"📺 #rstats video: Test If List Element Exists in R (3 Examples) | names, is.null & exists Functions | %in%-Operator
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming #rprogramming
+🔗 https://www.youtube.com/watch?v=Eird3kgAYaM"
+UC_R5smHVXRYGhZYDJsnXTwg;zgApxtOLMX8;2020-07-08T07:49:06Z;"📺 #rstats video: useR! 2020: Learning R Through Spaced Repetition and the Remembr Package (D. Jacobs), regular
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=zgApxtOLMX8"
