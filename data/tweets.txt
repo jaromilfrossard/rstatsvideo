@@ -1940,3 +1940,25 @@ UC_R5smHVXRYGhZYDJsnXTwg;Z0Tm-Y7vzNQ;2020-09-14T03:32:19Z;"📺 #rstats video: R
 🗣 🇬🇧
 #rmedicine
 🔗 https://www.youtube.com/watch?v=Z0Tm-Y7vzNQ"
+UCyHEww8_SCdxZvEnkCfi55w;VJA47oHjOnY;2021-09-25T14:00:09Z;"📺 New #rstats video: Rename Files in R (Example) | Change & Modify Names in Working Directory | list.files & file.rename
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=VJA47oHjOnY"
+UCCaChdLMTYMxyawR_Qf-kYA;s5b_QkLSYeE;2021-09-25T17:06:57Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 11: Data Import Part 1 (2021-09-18) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=s5b_QkLSYeE"
+UC_R5smHVXRYGhZYDJsnXTwg;HUcZQC3xWDo;2018-07-11T05:48:40Z;"📺 #rstats video: Looking to clean your data? Learn how to Remove Unwanted Variation with R - Part 2
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=HUcZQC3xWDo"
+UCGuktEl5InrcxPfCjmPWxsA;l8Zu9RJzKZc;2020-10-19T04:00:03Z;"📺 #rstats video: Tidy is in the eye of the beholder: How to use pivot_wider and pivot_longer (and kable)(CC040)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#asv #esv #codeclub #livecode #screencast #screencast #livecoding #githubflow
+🔗 https://www.youtube.com/watch?v=l8Zu9RJzKZc"
+UCcCMO7sHb8O_TJUd34sQ_Ng;PswVTlj-tAs;2020-07-27T01:52:38Z;"📺 #rstats video: Diagramme Circulaire dans R (plot en 3D) | Comment dans R?| R pour Data Analysts| Caps 44
+▶ Lulus CommentdansR
+#diagrammecirculairedansr #diagrammecirculaireavecr #diagrammecirculairesousr #fanplotr #commentdansr
+🔗 https://www.youtube.com/watch?v=PswVTlj-tAs"

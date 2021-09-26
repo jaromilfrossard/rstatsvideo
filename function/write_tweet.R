@@ -54,7 +54,7 @@ write_tweet_lang <- function(lang){
   
   if(is.na(lang)){
     NA_character_
-  }else if(lang%in%"fr"){
+  }else if(lang%in%c("fr","fr-FR")){
     glue("\U001F5E3 \U001F1EB\U001F1F7")
   }else if(lang %in% c("en","en-US","en-GB","en-CA")){
     glue("\U001F5E3 \U001F1EC\U001F1E7")
