@@ -1981,3 +1981,26 @@ UC_R5smHVXRYGhZYDJsnXTwg;zgApxtOLMX8;2020-07-08T07:49:06Z;"📺 #rstats video: u
 ▶ R Consortium (@RConsortium)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=zgApxtOLMX8"
+UCyHEww8_SCdxZvEnkCfi55w;Rfumlo-V4c8;2021-09-26T14:00:15Z;"📺 New #rstats video: Add New Line to Text File in R (Example) | How to Append to Existing TXT | setwd & write Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Rfumlo-V4c8"
+UCTZXht1RTL2Duc3eU8MYGzQ;DZuVdECq168;2021-09-26T19:39:21Z;"📺 New #rstats video: Little-known useful R functions #5: a nice print method for data objects with {paint}
+▶ Bruno Rodrigues (@brodriguesco)
+🔗 https://www.youtube.com/watch?v=DZuVdECq168"
+UCyf1AvRK4gmfRUJjeBNMauA;uD-H6G-3v10;2021-09-26T22:03:35Z;"📺 New #rstats video: gganimate R Package: Animating ggplot2's Grammar of Graphics R by Mitchell O'Hara-Wild | Workshop #2
+▶ Tunis R User Group (@TunisRUserGroup)
+🗣 🇬🇧
+#rstudio #onlinemeetup #workshop #datavisualization #dataviz
+🔗 https://www.youtube.com/watch?v=uD-H6G-3v10"
+UCgXBQIFJ_Rmq3UhWL_yrkxQ;nxBTDfJ_neE;2021-09-27T07:02:46Z;"📺 New #rstats video: Emory COVID-19 Response Collaborative Webinar 1: Data cleaning & Analytic Workflow using #rstats
+▶ Applied Epi
+🗣 🇬🇧
+#epidemiology
+🔗 https://www.youtube.com/watch?v=nxBTDfJ_neE"
+UCgXBQIFJ_Rmq3UhWL_yrkxQ;caMOUUG2joo;2021-09-27T07:09:07Z;"📺 New #rstats video: Emory COVID-19 Response Collaborative Webinar 2: Data Visualization using #rstats
+▶ Applied Epi
+🗣 🇬🇧
+#epidemiology
+🔗 https://www.youtube.com/watch?v=caMOUUG2joo"
