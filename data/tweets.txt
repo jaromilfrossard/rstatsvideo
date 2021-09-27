@@ -2004,3 +2004,25 @@ UCgXBQIFJ_Rmq3UhWL_yrkxQ;caMOUUG2joo;2021-09-27T07:09:07Z;"📺 New #rstats vide
 🗣 🇬🇧
 #epidemiology
 🔗 https://www.youtube.com/watch?v=caMOUUG2joo"
+UCyHEww8_SCdxZvEnkCfi55w;vG1qDtMeOdY;2021-09-27T14:00:32Z;"📺 New #rstats video: Extract Data Frame Rows that do not Match Logical Condition in R (Example) | Filter, Select & Subset
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=vG1qDtMeOdY"
+UCGuktEl5InrcxPfCjmPWxsA;uMS59hsi_JY;2021-09-27T16:00:25Z;"📺 New #rstats video: How to add text to a figure using the R ggplot2 package with geom_text (CC149)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#raddtexttofigure #raddlabeltofigure #raddlabelfigure #rtextggplot2 #rgeomtext #rgeomlabel
+🔗 https://www.youtube.com/watch?v=uMS59hsi_JY"
+UCCaChdLMTYMxyawR_Qf-kYA;VSRRy3vpvq0;2021-09-27T17:36:46Z;"📺 New #rstats video: ISLR Book Club: Cohort 1 Introduction (2021-09-21) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=VSRRy3vpvq0"
+UCKMekE_4UfWvZDuBWenG8WA;TRi8jN9pf4o;2019-08-28T20:19:55Z;"📺 #rstats video: Storytelling mit R und ggplot2 #rstats
+▶ StatistikinDD (@StatistikInDD)
+#ggplot2 #dataviz #datenvisualisierung #diagramm #grafik #statistik #storytelling #storytellingmitdaten #forcats #dplyr #dt #plotly #ggplotly
+🔗 https://www.youtube.com/watch?v=TRi8jN9pf4o"
+UCCaChdLMTYMxyawR_Qf-kYA;U-CoF7MCik0;2020-10-17T17:55:45Z;"📺 #rstats video: Advanced R Book Club: Chapter 10: Function Factories (2020-10-08) (advr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=U-CoF7MCik0"
