@@ -54,10 +54,15 @@ videos <- choose_videos()
 
 # 
 # #################
-
-# ##################
-
-
+# videos<-load_current_video()
+# 
+# videos%>%
+#   filter(id_channel=="UCYuJ4Q65HlyQKO5cZXg7qDw")%>%
+#   mutate(infos = map(id_video,tibble_video_infos))%>%
+#   unnest(infos)%>%
+#   pull(lang_video)
+# 
+# tibble_video_infos(id_video)
 # i = 4
 # name_channel = videos$name_channel[i];id_twitter = videos$id_twitter[i]
 # id_video = videos$id_video[i]

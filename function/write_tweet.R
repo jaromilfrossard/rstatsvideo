@@ -60,6 +60,8 @@ write_tweet_lang <- function(lang){
     glue("\U001F5E3 \U001F1EC\U001F1E7")
   }else if(lang %in%"de"){
     glue("\U001F5E3 \U001F1E9\U001F1EA")
+  }else if(lang %in%"tr"){
+    glue("\U001F5E3 \U001F1F9\U001F1F7")
   }else if(lang %in%c("es","es-419")){
     glue("\U001F5E3 \U001F1EA\U001F1F8")
   }else if(lang%in%"zxx"){
