@@ -2046,3 +2046,24 @@ UC2-hKemnrmVCH_29duyJ26A;uZA55cGDaBQ;2019-06-19T14:54:22Z;"📺 #rstats video: W
 ▶ Lander Analytics (@LanderAnalytics)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=uZA55cGDaBQ"
+UCyHEww8_SCdxZvEnkCfi55w;g4fABQ-Ce20;2021-09-28T14:00:18Z;"📺 New #rstats video: Create List of Installed Packages in R (Example) | Get Names of All Add-ons | installed.packages()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=g4fABQ-Ce20"
+UCWI1xyk6Jb4t2OOyP2LS4DQ;QdD6x3tDI5Y;2017-07-11T13:51:04Z;"📺 #rstats video: Day 1 of Introduction to R, Section 2, Part 1
+▶ John Muschelli (@StrictlyStat)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=QdD6x3tDI5Y"
+UCCaChdLMTYMxyawR_Qf-kYA;isKbovi62k4;2020-12-21T15:57:50Z;"📺 #rstats video: R Packages Book Club: How do I share and promote my package? (2020-12-15) (rpkgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=isKbovi62k4"
+UCMdihazndR0f9XBoSXWqnYg;lqH0ppOutVk;2017-12-03T19:32:39Z;"📺 #rstats video: R - Mediation with Bootstrapping Lecture + Example
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#statistics #rprogram #rstudio #mediation #regression #lecture #sobel #baronandkenny
+🔗 https://www.youtube.com/watch?v=lqH0ppOutVk"
+UC_R5smHVXRYGhZYDJsnXTwg;qrX8q6euQII;2018-07-14T04:49:28Z;"📺 #rstats video: Automated unit test generation using genthat
+▶ R Consortium (@RConsortium)
+🔗 https://www.youtube.com/watch?v=qrX8q6euQII"
