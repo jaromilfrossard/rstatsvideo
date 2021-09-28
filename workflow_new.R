@@ -44,7 +44,7 @@ walk(tb_channel$id_channel, update_channel_video)
 
 # tb_channel%>%
 #   tail()
-# validate_channel("UC3mcThQVORlwCY4k1vB0FmQ")
+# validate_channel("UCYuJ4Q65HlyQKO5cZXg7qDw")
 
 validate_new_videos()
 
@@ -54,22 +54,7 @@ videos <- choose_videos()
 
 # 
 # #################
-# tb_description<- 
-#   videos%>%
-#   mutate(temp = map(id_video,tibble_video_infos))%>%
-#   unnest(temp)%>%
-#   select(-id_twitter,id_channel,-ymd_hms_video,-new_video)
-# 
-# 
-# tb_description%>%
-#   mutate(description_video = str_trim(description_video))%>%
-#   pull(description_video)
-# 
-# tb_description%>%
-#   select(-description_video)%>%
-#   print.data.frame()
-# 
-# 
+
 # ##################
 
 

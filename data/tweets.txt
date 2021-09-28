@@ -2026,3 +2026,23 @@ UCCaChdLMTYMxyawR_Qf-kYA;U-CoF7MCik0;2020-10-17T17:55:45Z;"📺 #rstats video: A
 ▶ R4DS Online Learning Community (@R4DScommunity)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=U-CoF7MCik0"
+UCBsXfUO__nzMnlaLLUx7DFQ;u2xLYQhF8nM;2021-09-27T21:00:32Z;"📺 New #rstats video: Applies
+▶ Probability!
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=u2xLYQhF8nM"
+UCCaChdLMTYMxyawR_Qf-kYA;6VOmJp6SyoA;2021-09-28T02:42:59Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapter 8: User feedback (2021-09-22) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=6VOmJp6SyoA"
+UClC5yNEjMoE3MmbK-mrV8Ow;l9yK7EP7dcM;2021-09-28T07:44:50Z;"📺 New #rstats video: R-Ladies Melbourne - September 2021 - Anomalies! You can't escape them! - Sevvandi Kandanaarachchi
+▶ R-Ladies Melbourne (@RLadiesMelb)
+🔗 https://www.youtube.com/watch?v=l9yK7EP7dcM"
+UCyHEww8_SCdxZvEnkCfi55w;EJEURsjaAsY;2019-12-24T08:00:04Z;"📺 #rstats video: Absolute Value in R (2 Examples) | abs Function | Convert Vector & Data Matrix to Positive Values
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#absr #absolutevaluesinr #absfunction #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=EJEURsjaAsY"
+UC2-hKemnrmVCH_29duyJ26A;uZA55cGDaBQ;2019-06-19T14:54:22Z;"📺 #rstats video: Wes McKinney -  Apache Arrow: Leveling Up the Data Science Stack
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=uZA55cGDaBQ"
