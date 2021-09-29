@@ -2067,3 +2067,27 @@ UCMdihazndR0f9XBoSXWqnYg;lqH0ppOutVk;2017-12-03T19:32:39Z;"📺 #rstats video: R
 UC_R5smHVXRYGhZYDJsnXTwg;qrX8q6euQII;2018-07-14T04:49:28Z;"📺 #rstats video: Automated unit test generation using genthat
 ▶ R Consortium (@RConsortium)
 🔗 https://www.youtube.com/watch?v=qrX8q6euQII"
+UCCaChdLMTYMxyawR_Qf-kYA;WXZ5DKaK5mQ;2021-09-28T20:44:18Z;"📺 New #rstats video: Tidy Modeling with R Book Club Ch18: Explaining models and predictions (2021-09-27) (tmwr03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=WXZ5DKaK5mQ"
+UCnwYO3Sz_emBTC1sTZ6TlsQ;gfvNln7uAuQ;2021-09-29T00:00:19Z;"📺 New #rstats video: TidyTuesday: Big Data Machine Learning with TidyModels and Spark
+▶ Andrew Couch (@Andr3wCouch)
+🗣 🇬🇧
+#rstudio #tidyverse #rprogramming #datascience #analytics #statistics #datavisualizaiton #dataviz #eda
+🔗 https://www.youtube.com/watch?v=gfvNln7uAuQ"
+UCcCMO7sHb8O_TJUd34sQ_Ng;4FH-yyXVv8Q;2021-09-29T05:50:08Z;"📺 New #rstats video: Apprendre ggplot2 (basic 8): Ajuster les axes et controler les parametres. | caps 102
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#apprendreggplot2basic8ajusterlesaxesetcontrolerlesparametres|caps102 #scalexcontinous
+🔗 https://www.youtube.com/watch?v=4FH-yyXVv8Q"
+UCDgj5-mFohWZ5irWSFMFcng;ZWcllDBfjmc;2021-09-29T09:33:32Z;"📺 New #rstats video: R-Ladies Freiburg (English) - Colourful, publication-ready tables with {gt} & {gtsummary}
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#coding #programming
+🔗 https://www.youtube.com/watch?v=ZWcllDBfjmc"
+UC3xfbCMLCw1Hh4dWop3XtHg;qaU2jXW2xcE;2021-02-20T15:00:34Z;"📺 #rstats video: Chelsea Parlett-Pelleriti | Hands-on ways to remotely teach data science are invaluable | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization
+🔗 https://www.youtube.com/watch?v=qaU2jXW2xcE"
