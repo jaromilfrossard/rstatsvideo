@@ -2091,3 +2091,44 @@ UC3xfbCMLCw1Hh4dWop3XtHg;qaU2jXW2xcE;2021-02-20T15:00:34Z;"📺 #rstats video: C
 🗣 🇬🇧
 #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization
 🔗 https://www.youtube.com/watch?v=qaU2jXW2xcE"
+UCXuX-kQ1TbKHWeB75NgmhlA;EJDknrHAkXs;2021-09-29T13:00:15Z;"📺 New #rstats video: Convert between PLINK to VCF file formats (Remake)
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#howtoanalysegenotypes #genomicanalysis #singlenucleotidepolymorphism #geneticcode #genome #genetics #genomics
+🔗 https://www.youtube.com/watch?v=EJDknrHAkXs"
+UCyHEww8_SCdxZvEnkCfi55w;jc4cAZcJ9Bs;2021-09-29T14:00:20Z;"📺 New #rstats video: ggplot2 Barplot with Axis Break & Zoom in R (2 Examples) | Large Bars | facet_zoom [ggforce Package]
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=jc4cAZcJ9Bs"
+UCJamxO-DE27EEZtWrNG34mA;3S3LyMAErdQ;2021-09-29T14:45:01Z;"📺 New #rstats video: R For Sport - Calculating Rolling Averages in R
+▶ Futbol AnalysR (@futbolanalysr)
+🗣 🇬🇧
+#rforsport #rollingaverage #tidyverse #sportdata #tutorial #rforbeginners #ggplot
+🔗 https://www.youtube.com/watch?v=3S3LyMAErdQ"
+UCCaChdLMTYMxyawR_Qf-kYA;RSV0JCuRuAU;2021-09-29T16:59:00Z;"📺 New #rstats video: Tidytext Book Club: Cohort 1 Introduction (2021-09-22) (tidytext01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=RSV0JCuRuAU"
+UC_R5smHVXRYGhZYDJsnXTwg;C2Suw5Trh0A;2021-09-29T17:32:31Z;"📺 New #rstats video: R Training Strategies at Janssen
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rconsortium
+🔗 https://www.youtube.com/watch?v=C2Suw5Trh0A"
+UCCaChdLMTYMxyawR_Qf-kYA;qpyYLfmvsvk;2021-09-29T19:32:17Z;"📺 New #rstats video: Engineering Production Grade Shiny Apps Book Club Chapter 4-5 (2021-09-22) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=qpyYLfmvsvk"
+UCBsXfUO__nzMnlaLLUx7DFQ;az_ClkuzceQ;2021-09-29T21:00:04Z;"📺 New #rstats video: Recursion
+▶ Probability!
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=az_ClkuzceQ"
+UCTTBgWyJl2HrrhQOOc710kA;fooYB4n-ZfU;2021-09-29T22:04:50Z;"📺 New #rstats video: Tune and evaluate a multiclass lasso model for NBER working papers
+▶ Julia Silge (@juliasilge)
+🔗 https://www.youtube.com/watch?v=fooYB4n-ZfU"
+UC3xfbCMLCw1Hh4dWop3XtHg;Ctxf0LjlB08;2021-09-30T02:16:46Z;"📺 New #rstats video: Taylor Rodgers | R in Manufacturing (Democratizing an ML model ) | RStudio
+▶ RStudio (@rstudio)
+🔗 https://www.youtube.com/watch?v=Ctxf0LjlB08"
+UCkNvd1JigrH2A_YLKSgFnQQ;c-dNZIvyb-I;2021-09-30T08:35:44Z;"📺 New #rstats video: LondonR: September 2021
+▶ Mango Solutions (@MangoTheCat)
+🔗 https://www.youtube.com/watch?v=c-dNZIvyb-I"

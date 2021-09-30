@@ -16,8 +16,8 @@ library(lubridate)
 library(purrr)
 library(DT)
 library(glue)
-
-date_update <- as_date(file.info("data/performance.csv")[,"mtime"])
+library(ggplot2)
+library(ggiraph)
 ```
 
 
@@ -32,6 +32,10 @@ date_update <- as_date(file.info("data/performance.csv")[,"mtime"])
 ### Explore Youtube Channels
 
 ```{r,include=FALSE}
+
+date_update <- as_date(file.info("data/performance.csv")[,"mtime"])
+
+
 tb_perf<- readr::read_delim("data/performance.csv", delim =";",col_types = cols(
   name_channel = col_character(), id_channel = col_character(),
   id_video = col_character(), ymd_hms_video = col_datetime(format = ""),
@@ -40,12 +44,15 @@ tb_perf<- readr::read_delim("data/performance.csv", delim =";",col_types = cols(
   url_video = col_character(), today = col_date(format = "")
 ),lazy = F)
 
+tb_perf<-
+  tb_perf%>%
+    mutate(title_video = str_remove(title_video,"- YouTube"),
+         title_video = str_trim(title_video))
+
 tb_perf_video <-
   tb_perf%>%
   arrange(desc(count_view))%>%
   mutate(channel = glue("<a href={url_channel}>{name_channel}</a>"))%>%
-  mutate(title_video = str_remove(title_video,"- YouTube"),
-         title_video = str_trim(title_video))%>%
   mutate(video = glue("<a href={url_video}>{title_video}</a>"))%>%
   mutate(url_twitter = case_when(!is.na(id_twitter)~glue("<a href=https://twitter.com/{id_twitter}>@{id_twitter}</a>"),
                                  TRUE~"-"))%>%
@@ -89,8 +96,10 @@ tb_perf_channel%>%
 
 # Videos
 
+Column {.tabset}
+-------------------------------------
 
-### Explore Youtube Videos
+### Table of all Youtube Videos
 
 
 ```{r}
@@ -106,5 +115,26 @@ tb_perf_video%>%
 ```
 
 
+### All Youtube Videos Through Time
+
+
+
+```{r}
+gg<-
+  tb_perf%>%
+  mutate(name_channel= factor(name_channel,ordered = T),
+         name_channel = reorder(name_channel,name_channel,length))%>%
+  ggplot(aes(x = ymd_hms_video, y = name_channel,color = name_channel))+
+  geom_point_interactive(aes(tooltip = title_video,
+                             onclick = paste0('window.open("', url_video , '")'),
+                             data_id = id_video),
+                         show.legend = F)+
+  labs(title = "", x = "Release date",y = "")+
+  theme_bw()+
+  theme(axis.text.y = element_text(size=6))
+girafe(code = print(gg),
+       options = list(
+    opts_sizing(rescale = TRUE, width = 0.8) ))
+```
 
 
