@@ -118,8 +118,8 @@ gg<-
                              onclick = paste0('window.open("', url_video , '")'),
                              data_id = id_video),
                          show.legend = F)+
-  labs(title = "All #rstats videos", x = "Release date",y = "",
-      subtitle = "Click to access the video")+
+  labs(title = "All #rstats videos - Click to access the video", 
+       x = "Release date",y = "")+
   #scale_y_reverse()+
   theme_bw()+
   theme(axis.text.y = element_text(size=2),
@@ -130,7 +130,7 @@ girafe(code = print(gg),
        pointsize = 1,
        options = list(
          opts_sizing(rescale = TRUE, width = 1)),
-       height_svg = 2.7)
+       height_svg = 2.4)
 ```
 
 ### Table of all Youtube Videos
