@@ -2154,3 +2154,24 @@ UCyHEww8_SCdxZvEnkCfi55w;LXiuA3MNcZo;2021-10-01T14:00:20Z;"📺 New #rstats vide
 🗣 🇬🇧
 #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=LXiuA3MNcZo"
+UCTZXht1RTL2Duc3eU8MYGzQ;avyb7MBFrHY;2021-10-01T15:49:42Z;"📺 New #rstats video: Esoteric functional programming knowledge for big brained individuals
+▶ Bruno Rodrigues (@brodriguesco)
+#purrr
+🔗 https://www.youtube.com/watch?v=avyb7MBFrHY"
+UCCaChdLMTYMxyawR_Qf-kYA;mwiNe083DLU;2020-05-22T13:48:40Z;"📺 #rstats video: Advanced R Book Club - Chapter 8:  Conditions (2020-05-21) (advr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=mwiNe083DLU"
+UC_R5smHVXRYGhZYDJsnXTwg;kos9yzhvL1I;2020-07-08T07:52:11Z;"📺 #rstats video: useR! 2020: BVAR Bayesian Vector Autoregressions w Hierarchical Prior Sel in R (N. Kuschnig), contr
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#economics #other
+🔗 https://www.youtube.com/watch?v=kos9yzhvL1I"
+UCT2TrH2M4zbRJZMH6iusyBQ;Q7_wFMmwxMs;2020-11-02T02:46:07Z;"📺 #rstats video: R/Pharma 2020 Day 2.  Kyle Baron.  yspec
+▶ R in Pharma
+🔗 https://www.youtube.com/watch?v=Q7_wFMmwxMs"
+UCyHEww8_SCdxZvEnkCfi55w;LtYoJP0L0rk;2021-06-06T14:00:07Z;"📺 #rstats video: Subset Data Frame & Matrix by Row Names in R (Example) | Select & Extract | rownames & %in% Operator
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=LtYoJP0L0rk"
