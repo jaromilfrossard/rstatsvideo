@@ -2132,3 +2132,25 @@ UC3xfbCMLCw1Hh4dWop3XtHg;Ctxf0LjlB08;2021-09-30T02:16:46Z;"📺 New #rstats vide
 UCkNvd1JigrH2A_YLKSgFnQQ;c-dNZIvyb-I;2021-09-30T08:35:44Z;"📺 New #rstats video: LondonR: September 2021
 ▶ Mango Solutions (@MangoTheCat)
 🔗 https://www.youtube.com/watch?v=c-dNZIvyb-I"
+UCyHEww8_SCdxZvEnkCfi55w;sKV6IWwItGo;2021-09-30T14:00:32Z;"📺 New #rstats video: Force R to Show Scientific Notation | Format Numbers to 3e-8 (Example) | formatC Function & digits
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=sKV6IWwItGo"
+UCMwM-3tg_-Pbx8hKO78q5EA;AG10iOLf8Zk;2021-09-30T14:51:43Z;"📺 New #rstats video: NHS R Webinar - Using R to explore simple statistical analyses with machine intensive methods
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=AG10iOLf8Zk"
+UCGuktEl5InrcxPfCjmPWxsA;qsUb2KjJ7tk;2021-09-30T16:00:35Z;"📺 New #rstats video: How to prevent text labels from overlapping in R with ggplot2 and ggrepel packages (CC150)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rpreventlabelsoverlapping #rggplot2 #rlabels #rtextoverlap #rlabeloverlap
+🔗 https://www.youtube.com/watch?v=qsUb2KjJ7tk"
+UCY98oWVfQEZ_i7R_0JqIRZA;EBGKzDAAWYo;2021-09-30T18:57:42Z;"📺 New #rstats video: R-Ladies Amsterdam: Intro to Bayesian Statistics in R by Angelika Stefan
+▶ R- Ladies Amsterdam (@RLadiesAMS)
+🔗 https://www.youtube.com/watch?v=EBGKzDAAWYo"
+UCyHEww8_SCdxZvEnkCfi55w;LXiuA3MNcZo;2021-10-01T14:00:20Z;"📺 New #rstats video: Round Numeric Columns of Data Frame with Character & Factor Variables (R Example) | mutate_if dplyr
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=LXiuA3MNcZo"
