@@ -99,6 +99,35 @@ tb_perf_channel%>%
 Column {.tabset}
 -------------------------------------
 
+
+### All Youtube Videos by channel
+
+
+
+```{r}
+gg<-
+  tb_perf%>%
+  mutate(name_channel= factor(name_channel,ordered = T),
+         name_channel = reorder(name_channel,name_channel,length))%>%
+  ggplot(aes(x = ymd_hms_video, y = name_channel,color = name_channel))+
+  geom_point_interactive(aes(tooltip = title_video,
+                             onclick = paste0('window.open("', url_video , '")'),
+                             data_id = id_video),
+                         show.legend = F)+
+  labs(title = "All #rstats videos", x = "Release date",y = "",
+      subtitle = "Click to access the video")+
+  theme_bw()+
+  theme(axis.text.y = element_text(size=2),
+        axis.text.x = element_text(size=4),
+        axis.title.x = element_text(size=5),
+        panel.grid.minor.y = element_line(size=1))
+girafe(code = print(gg),
+       pointsize = 1,
+       options = list(
+         opts_sizing(rescale = TRUE, width = 1)),
+       height_svg = 2.7)
+```
+
 ### Table of all Youtube Videos
 
 
@@ -113,33 +142,4 @@ tb_perf_video%>%
   caption = glue("Date: {date_update}"))
 
 ```
-
-
-### All Youtube Videos Through Time
-
-
-
-```{r}
-gg<-
-  tb_perf%>%
-  mutate(name_channel= factor(name_channel,ordered = T),
-         name_channel = reorder(name_channel,name_channel,length))%>%
-  ggplot(aes(x = ymd_hms_video, y = name_channel,color = name_channel))+
-  geom_point_interactive(aes(tooltip = title_video,
-                             onclick = paste0('window.open("', url_video , '")'),
-                             data_id = id_video),
-                         show.legend = F)+
-  labs(title = "", x = "Release date",y = "")+
-  theme_bw()+
-  theme(axis.text.y = element_text(size=2),
-        axis.text.x = element_text(size=4),
-        axis.title.x = element_text(size=5),
-        panel.grid.minor.y = element_line(size=1))
-girafe(code = print(gg),
-       pointsize = 1,
-       options = list(
-         opts_sizing(rescale = TRUE, width = 1)),
-       height_svg = 2.7)
-```
-
 
