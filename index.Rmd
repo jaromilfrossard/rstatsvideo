@@ -18,6 +18,7 @@ library(DT)
 library(glue)
 library(ggplot2)
 library(ggiraph)
+library(forcats)
 ```
 
 
@@ -108,7 +109,10 @@ Column {.tabset}
 gg<-
   tb_perf%>%
   mutate(name_channel= factor(name_channel,ordered = T),
-         name_channel = reorder(name_channel,name_channel,length))%>%
+         name_channel=fct_rev(name_channel))%>%
+         #,
+         #name_channel = reorder(name_channel,name_channel,length)
+         #)%>%
   ggplot(aes(x = ymd_hms_video, y = name_channel,color = name_channel))+
   geom_point_interactive(aes(tooltip = title_video,
                              onclick = paste0('window.open("', url_video , '")'),
@@ -116,6 +120,7 @@ gg<-
                          show.legend = F)+
   labs(title = "All #rstats videos", x = "Release date",y = "",
       subtitle = "Click to access the video")+
+  #scale_y_reverse()+
   theme_bw()+
   theme(axis.text.y = element_text(size=2),
         axis.text.x = element_text(size=4),
