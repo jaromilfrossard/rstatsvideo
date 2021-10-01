@@ -131,10 +131,15 @@ gg<-
                          show.legend = F)+
   labs(title = "", x = "Release date",y = "")+
   theme_bw()+
-  theme(axis.text.y = element_text(size=6))
+  theme(axis.text.y = element_text(size=2),
+        axis.text.x = element_text(size=4),
+        axis.title.x = element_text(size=5),
+        panel.grid.minor.y = element_line(size=1))
 girafe(code = print(gg),
+       pointsize = 1,
        options = list(
-    opts_sizing(rescale = TRUE, width = 0.8) ))
+         opts_sizing(rescale = TRUE, width = 1)),
+       height_svg = 2.7)
 ```
 
 
