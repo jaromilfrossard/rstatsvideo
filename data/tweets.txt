@@ -2175,3 +2175,27 @@ UCyHEww8_SCdxZvEnkCfi55w;LtYoJP0L0rk;2021-06-06T14:00:07Z;"📺 #rstats video: S
 🗣 🇬🇧
 #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=LtYoJP0L0rk"
+UCwQ7lkY6YWzZjT807Itbvtw;n7fUYbNRiYA;2021-10-01T17:39:11Z;"📺 New #rstats video: Behind the massive shinyLEGO update! (And some development chaos)
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=n7fUYbNRiYA"
+UCwQ7lkY6YWzZjT807Itbvtw;QcqsEqwV8F8;2021-10-01T17:55:35Z;"📺 New #rstats video: Learning the basics of outstanding Shiny UI!
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=QcqsEqwV8F8"
+UCBsXfUO__nzMnlaLLUx7DFQ;Bhg384vKIM8;2021-10-01T21:00:03Z;"📺 New #rstats video: Regression
+▶ Probability!
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=Bhg384vKIM8"
+UCcCMO7sHb8O_TJUd34sQ_Ng;fVOudVPMbn0;2021-10-02T08:19:56Z;"📺 New #rstats video: Apprendre ggplot2 (basic 9): Changer le titre de la legende et sa position | caps 103
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#scalefillmanualcolors #scalefillbrewer #theme #legendposition #legendpositionbottomcenter
+🔗 https://www.youtube.com/watch?v=fVOudVPMbn0"
+UCyHEww8_SCdxZvEnkCfi55w;Mq2Iia9dNcU;2021-10-02T14:00:07Z;"📺 New #rstats video: Aggregate Daily Data to Month & Year Intervals in R | Base R & dplyr Example | lubridate Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Mq2Iia9dNcU"
+UCCaChdLMTYMxyawR_Qf-kYA;XcTYBH4XbHo;2021-10-02T15:01:01Z;"📺 New #rstats video: ggplot2 Book Club Chapter 3: Individual geoms (2021-09-20) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=XcTYBH4XbHo"
