@@ -2199,3 +2199,25 @@ UCCaChdLMTYMxyawR_Qf-kYA;XcTYBH4XbHo;2021-10-02T15:01:01Z;"📺 New #rstats vide
 ▶ R4DS Online Learning Community (@R4DScommunity)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=XcTYBH4XbHo"
+UCCaChdLMTYMxyawR_Qf-kYA;c_bcD77VhMQ;2021-10-02T17:40:47Z;"📺 New #rstats video: Regression and Other Stories: Ch9: Prediction and Bayesian inference (2021-09-21) (ros01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=c_bcD77VhMQ"
+UC_R5smHVXRYGhZYDJsnXTwg;-THi0QDnxiQ;2019-08-03T13:48:36Z;"📺 #rstats video: useR! 2019 Toulouse - Plenary Session 2 - Jullie Josse
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=-THi0QDnxiQ"
+UCKMekE_4UfWvZDuBWenG8WA;qKU97mVs6nM;2021-03-19T16:40:08Z;"📺 #rstats video: Why I don't use Powerpoint to present Data Analyses
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#gganimate #plotly #dataviz #datavisualization #reporting #presentation #xaringan #interactivechart #htmlpresentation
+🔗 https://www.youtube.com/watch?v=qKU97mVs6nM"
+UC3xfbCMLCw1Hh4dWop3XtHg;6_mEgg-Rsxk;2020-12-11T08:00:01Z;"📺 #rstats video: Aymen Waqar | Building an iPad dashboard using plumber & RStudio Connect in Pharma | RStudio (2020)
+▶ RStudio (@rstudio)
+#rstudioconf2020 #aymenwaqar #rstudio #datascience #machinelearning #python #stats #tidyverse
+🔗 https://www.youtube.com/watch?v=6_mEgg-Rsxk"
+UC2-hKemnrmVCH_29duyJ26A;4DGrehpMx4k;2020-10-06T13:57:42Z;"📺 #rstats video: Dr. Max Kuhn - Resampling, Repeated Measures Designs, and You
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#datascience #conference #virtualconference #machinelearning #artificialintelligence #virtualevent
+🔗 https://www.youtube.com/watch?v=4DGrehpMx4k"
