@@ -2221,3 +2221,22 @@ UC2-hKemnrmVCH_29duyJ26A;4DGrehpMx4k;2020-10-06T13:57:42Z;"📺 #rstats video: D
 🗣 🇬🇧
 #datascience #conference #virtualconference #machinelearning #artificialintelligence #virtualevent
 🔗 https://www.youtube.com/watch?v=4DGrehpMx4k"
+UCyHEww8_SCdxZvEnkCfi55w;4G8FHBn5KcQ;2021-10-03T14:00:03Z;"📺 New #rstats video: Assign Value to Elements in Certain Range in R (Example) | Change Between Numbers Logical Condition
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=4G8FHBn5KcQ"
+UCeiiqmVK07qhY-wvg3IZiZQ;zjWm__nFLXI;2019-05-03T14:25:18Z;"📺 #rstats video: Tidy Tuesday screencast: analyzing bird collisions with bootstrapping in R
+▶ David Robinson (@drob)
+#tidytuesday #datascience
+🔗 https://www.youtube.com/watch?v=zjWm__nFLXI"
+UCTZXht1RTL2Duc3eU8MYGzQ;gVW9KfkJIrQ;2021-03-14T16:15:33Z;"📺 #rstats video: Experimenting with functional programming and large data
+▶ Bruno Rodrigues (@brodriguesco)
+🔗 https://www.youtube.com/watch?v=gVW9KfkJIrQ"
+UC_R5smHVXRYGhZYDJsnXTwg;n7T3ZHkCegE;2019-08-30T19:48:54Z;"📺 #rstats video: useR! 2019 Toulouse - Talk Models 1 - Ruggero Bellio
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=n7T3ZHkCegE"
+UC2-hKemnrmVCH_29duyJ26A;803oZI5dvAU;2018-07-11T00:55:40Z;"📺 #rstats video: Noam Ross - Docker for the UseR
+▶ Lander Analytics (@LanderAnalytics)
+🔗 https://www.youtube.com/watch?v=803oZI5dvAU"
