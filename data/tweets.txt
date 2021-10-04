@@ -2240,3 +2240,24 @@ UC_R5smHVXRYGhZYDJsnXTwg;n7T3ZHkCegE;2019-08-30T19:48:54Z;"📺 #rstats video: u
 UC2-hKemnrmVCH_29duyJ26A;803oZI5dvAU;2018-07-11T00:55:40Z;"📺 #rstats video: Noam Ross - Docker for the UseR
 ▶ Lander Analytics (@LanderAnalytics)
 🔗 https://www.youtube.com/watch?v=803oZI5dvAU"
+UCktFo5XoX5QZMWb2Gb3KY2A;YWPoNpQwVRE;2021-10-04T09:29:24Z;"📺 New #rstats video: Machine Learning with tidymodels
+▶ R-Ladies Abuja (@RLadiesAbuja)
+🔗 https://www.youtube.com/watch?v=YWPoNpQwVRE"
+UCfoktGmvJ6rnME7mSP_Ww2g;qCkwxsGZQpA;2020-10-16T09:16:47Z;"📺 #rstats video: R-Ladies Tunis & R-Ladies Algiers (English) - Intro to R Package Development | Shel Kariuki
+▶ R-Ladies Tunis (@RLadiesTunis)
+🗣 🇬🇧
+#package #development #scratch #rladies #meetups #tunisia #algeria
+🔗 https://www.youtube.com/watch?v=qCkwxsGZQpA"
+UCwLy_PYrnCEhCU-Ay2F5Drw;i0T-GX09goI;2021-05-12T11:49:48Z;"📺 #rstats video: Data Science Realm - Mi^2 DataLab
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#programming #coding #programmer #programminglife #coder #ai #programmers #deeplearningdeveloper #coders #datascientist #machinelearning
+🔗 https://www.youtube.com/watch?v=i0T-GX09goI"
+UCcCMO7sHb8O_TJUd34sQ_Ng;w23NOPPq99g;2020-12-12T07:52:44Z;"📺 #rstats video: Test de Fisher de COMPARAISON de 2 VARIANCES dans R| Comment dans R? | caps 67
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#testdecomparaisondedeuxvariances #testdecomparaisonde2variancesdansr #comparaisonde2variancesdansr
+🔗 https://www.youtube.com/watch?v=w23NOPPq99g"
+UC_R5smHVXRYGhZYDJsnXTwg;8m5CDXwwaIM;2018-07-14T23:04:23Z;"📺 #rstats video: Volunteer Vignettes; A Case-Study in Enhancing Documentation
+▶ R Consortium (@RConsortium)
+🔗 https://www.youtube.com/watch?v=8m5CDXwwaIM"
