@@ -2282,3 +2282,25 @@ UC_R5smHVXRYGhZYDJsnXTwg;-dnnHIDUEOA;2018-07-15T04:30:27Z;"📺 #rstats video: F
 UC9UK90FN2Q1cl0J5Kl4-7Mg;RYf5HqU1pI4;2021-04-07T08:01:09Z;"📺 #rstats video: R-Ladies Baltimore | Building websites in RStudio | Tackett
 ▶ R-Ladies Baltimore (@RLadiesBmore)
 🔗 https://www.youtube.com/watch?v=RYf5HqU1pI4"
+UCGuktEl5InrcxPfCjmPWxsA;FQw1mBFNi8E;2021-10-04T16:00:09Z;"📺 New #rstats video: Creating a color gradient in R with ggplot2 (CC151)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rcolorgradient #ggplot2colorgradient #ggplot2scalecolormanual #ggplot2scalecolorgradient #ggplot2scalefillmanual
+🔗 https://www.youtube.com/watch?v=FQw1mBFNi8E"
+UCCaChdLMTYMxyawR_Qf-kYA;SZIVWc91g-o;2021-10-05T03:30:39Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapter 9: Uploads and downloads (2021-09-29) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=SZIVWc91g-o"
+UCyHEww8_SCdxZvEnkCfi55w;HMfLArqNqvA;2021-10-05T14:00:05Z;"📺 New #rstats video: Create Matrix that Only Contains Zeros in R (2 Examples) | Fill with 0 Value | matrix(), ncol & nrow
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=HMfLArqNqvA"
+UCMdihazndR0f9XBoSXWqnYg;VYmsMNPFA_E;2018-01-11T21:00:00Z;"📺 #rstats video: R - Moderation Analyses using QuantPsyc
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#statistics #power #gpower #moderation #interactions #regression #rprogram #rlanguage #rstudio #rstudio #simpleslopes
+🔗 https://www.youtube.com/watch?v=VYmsMNPFA_E"
+UCT2TrH2M4zbRJZMH6iusyBQ;pX0G6NOz6_M;2020-11-02T02:28:43Z;"📺 #rstats video: R/Pharma 2020 Day 1.  Matilde Kam.  Challenges in an Evolving Regulatory Landscape
+▶ R in Pharma
+🔗 https://www.youtube.com/watch?v=pX0G6NOz6_M"
