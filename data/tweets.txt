@@ -2304,3 +2304,23 @@ UCMdihazndR0f9XBoSXWqnYg;VYmsMNPFA_E;2018-01-11T21:00:00Z;"📺 #rstats video: R
 UCT2TrH2M4zbRJZMH6iusyBQ;pX0G6NOz6_M;2020-11-02T02:28:43Z;"📺 #rstats video: R/Pharma 2020 Day 1.  Matilde Kam.  Challenges in an Evolving Regulatory Landscape
 ▶ R in Pharma
 🔗 https://www.youtube.com/watch?v=pX0G6NOz6_M"
+UCeiiqmVK07qhY-wvg3IZiZQ;UVmxHb2Daeo;2021-10-05T21:13:30Z;"📺 New #rstats video: Tidy Tuesday live screencast: Analyzing registered nurses in R
+▶ David Robinson (@drob)
+🔗 https://www.youtube.com/watch?v=UVmxHb2Daeo"
+UC3xfbCMLCw1Hh4dWop3XtHg;gQ9he9dyfGs;2021-10-06T12:08:42Z;"📺 New #rstats video: Christophe Dervieux | Business Reports with R Markdown | RStudio
+▶ RStudio (@rstudio)
+🔗 https://www.youtube.com/watch?v=gQ9he9dyfGs"
+UC2-hKemnrmVCH_29duyJ26A;0d1c-8yw6Tk;2020-10-22T03:53:50Z;"📺 #rstats video: Caterina Constantinescu - Data Validation in R: From Principles to Tools and Packages [Remote]
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#nyhackr #datavalidation #datascience #artificialintelligence #womeninstem
+🔗 https://www.youtube.com/watch?v=0d1c-8yw6Tk"
+UC2-hKemnrmVCH_29duyJ26A;d6JPRyp0bzY;2020-03-03T18:36:42Z;"📺 #rstats video: Malcolm Barrett - Zen and the Art of R Package Development
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=d6JPRyp0bzY"
+UCcCMO7sHb8O_TJUd34sQ_Ng;tZFWm5qehRQ;2020-12-30T05:05:13Z;"📺 #rstats video: REGRESSION POLYNOMIALE dans R (Data Analyse)| Comment dans R? | caps 72
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#lemodelederegressionpolynomialedansr #regressionpolynomialeavecr #regressionpolynomialsousr #polynomiale
+🔗 https://www.youtube.com/watch?v=tZFWm5qehRQ"
