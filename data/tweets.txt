@@ -2365,3 +2365,43 @@ UC2-hKemnrmVCH_29duyJ26A;Sy4PHR1GmUc;2021-10-06T18:22:08Z;"📺 New #rstats vide
 ▶ Lander Analytics (@LanderAnalytics)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=Sy4PHR1GmUc"
+UC2-hKemnrmVCH_29duyJ26A;lhrfYNOkkag;2021-10-06T18:22:11Z;"📺 New #rstats video: Chrys Wu - Why the world loves K-pop
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=lhrfYNOkkag"
+UC2-hKemnrmVCH_29duyJ26A;vFYBPCpjRL4;2021-10-06T18:22:13Z;"📺 New #rstats video: Bernardo Lares & Igor Skokan - Project Robyn 3.0 Marketing Mix Model from Facebook Marketing Science
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=vFYBPCpjRL4"
+UC2-hKemnrmVCH_29duyJ26A;mB9Q26uptao;2021-10-06T18:22:18Z;"📺 New #rstats video: Andrew Gelman - Wrong Again! 30+ Years of Statistical Mistakes
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=mB9Q26uptao"
+UC2-hKemnrmVCH_29duyJ26A;2G3FjofP87o;2021-10-06T18:22:21Z;"📺 New #rstats video: Jeroen Janssens - Set your R code free; turn it into a command-line tool
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=2G3FjofP87o"
+UC2-hKemnrmVCH_29duyJ26A;MzYFES5O3gc;2021-10-06T18:22:23Z;"📺 New #rstats video: Danielle Oberdier - How to Write Engaging R Tutorials
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=MzYFES5O3gc"
+UC2-hKemnrmVCH_29duyJ26A;S7JGflYoMh0;2021-10-06T18:22:26Z;"📺 New #rstats video: Alexa Fredston - R for the Planet
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=S7JGflYoMh0"
+UC2-hKemnrmVCH_29duyJ26A;fKWaErupNKE;2021-10-06T18:22:29Z;"📺 New #rstats video: Jared Lander - GPU Computing in R
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=fKWaErupNKE"
+UC2-hKemnrmVCH_29duyJ26A;fDyoBb1fkzw;2021-10-06T18:22:33Z;"📺 New #rstats video: Daniel Chen - Learner Personas for Domain-Specific Data Science Educational Materials
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=fDyoBb1fkzw"
+UC2-hKemnrmVCH_29duyJ26A;vxqpHNFEE8k;2021-10-06T18:22:36Z;"📺 New #rstats video: Caitlin Hudon - Impacting Churn with Data
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=vxqpHNFEE8k"
+UC2-hKemnrmVCH_29duyJ26A;DHnE-xVmZqU;2021-10-06T18:22:39Z;"📺 New #rstats video: Mike Band - Go or Kick? Enhancing the NFL Fan Experience with Real-Time 4th Down Decision Analytics
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=DHnE-xVmZqU"
