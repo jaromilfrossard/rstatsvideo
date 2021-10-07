@@ -2324,3 +2324,44 @@ UCcCMO7sHb8O_TJUd34sQ_Ng;tZFWm5qehRQ;2020-12-30T05:05:13Z;"📺 #rstats video: R
 🗣 🇫🇷
 #lemodelederegressionpolynomialedansr #regressionpolynomialeavecr #regressionpolynomialsousr #polynomiale
 🔗 https://www.youtube.com/watch?v=tZFWm5qehRQ"
+UCXuX-kQ1TbKHWeB75NgmhlA;9xgKmgY01h0;2021-10-06T13:00:06Z;"📺 New #rstats video: varLD: Linkage disequilibrium based selection signatures | A comprehensive tutorial
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#genetics #genomics #selectionsignatures #plink #howtorunvarld #varld
+🔗 https://www.youtube.com/watch?v=9xgKmgY01h0"
+UCyHEww8_SCdxZvEnkCfi55w;jd1Bsd-GYHg;2021-10-06T14:00:16Z;"📺 New #rstats video: Find Earliest & Latest Date in R (Example) | Determine Min & Max Dates | as.Date & class Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=jd1Bsd-GYHg"
+UCQ7DcXWJm3es06U7lGmBDkw;zlPLV4-FS8g;2021-10-06T16:59:50Z;"📺 New #rstats video: R-Ladies St. Louis October 6, 2021: Getting Started with R
+▶ R Ladies STL (@RLadiesSTL)
+🔗 https://www.youtube.com/watch?v=zlPLV4-FS8g"
+UC2-hKemnrmVCH_29duyJ26A;u7DecbDw3QE;2021-10-06T18:21:51Z;"📺 New #rstats video: Wes McKinney - New Directions for Apache Arrow
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=u7DecbDw3QE"
+UC2-hKemnrmVCH_29duyJ26A;baoRQU6FoVg;2021-10-06T18:21:53Z;"📺 New #rstats video: Sonia Ang - Responsible AI and Ethics and Beyond: A principled approach from Microsoft
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=baoRQU6FoVg"
+UC2-hKemnrmVCH_29duyJ26A;qjYv-hDrXOw;2021-10-06T18:21:56Z;"📺 New #rstats video: Mayari Montes de Oca - Addressing missing data in R
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=qjYv-hDrXOw"
+UC2-hKemnrmVCH_29duyJ26A;KkpKSqbGnBA;2021-10-06T18:21:58Z;"📺 New #rstats video: Max Kuhn - The Global Pandemic Ruined My Favorite Data Set
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=KkpKSqbGnBA"
+UC2-hKemnrmVCH_29duyJ26A;2jAQB-DFNjo;2021-10-06T18:22:02Z;"📺 New #rstats video: COL Krista Watts - Using Data to Make Classroom Decisions
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=2jAQB-DFNjo"
+UC2-hKemnrmVCH_29duyJ26A;cF5bsJvFdjk;2021-10-06T18:22:04Z;"📺 New #rstats video: Jonathan Hersh - Does Interpretable Machine Learning *Really* Matter?
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=cF5bsJvFdjk"
+UC2-hKemnrmVCH_29duyJ26A;Sy4PHR1GmUc;2021-10-06T18:22:08Z;"📺 New #rstats video: David Robinson - dbcooper: Turn any database into an R package
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=Sy4PHR1GmUc"

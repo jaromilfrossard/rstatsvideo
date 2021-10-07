@@ -77,7 +77,7 @@ choose_videos <- function(file_tweet = "data/tweets.txt",
     }
     
     }else if(nrow(tb_videos_new)>max_tweet){
-      message(glue("The tweets limits ({max_tweet}) is less that the number of new videos ({nrow(tb_tweet_new)})."))
+      message(glue("The tweets limits ({max_tweet}) is less that the number of new videos ({nrow(tb_videos_new)})."))
       tb_videos_selected <- 
         tb_videos_new%>%
         arrange(ymd_hms_video)%>%
