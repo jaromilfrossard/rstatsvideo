@@ -83,7 +83,7 @@ videos%>%
 #tweet_videos(tweet_older = T)
 
 
-##follow new channles
+##follow new channels
 follow_channels()
 
 

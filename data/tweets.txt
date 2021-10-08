@@ -2405,3 +2405,43 @@ UC2-hKemnrmVCH_29duyJ26A;DHnE-xVmZqU;2021-10-06T18:22:39Z;"📺 New #rstats vide
 ▶ Lander Analytics (@LanderAnalytics)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=DHnE-xVmZqU"
+UC2-hKemnrmVCH_29duyJ26A;XE7DBcLi5NU;2021-10-06T18:22:43Z;"📺 New #rstats video: Asmae Toumi - 1 team, 1 dream, 1 ggplot2 color scheme: group strangers won the NFL Big Data Bowl
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=XE7DBcLi5NU"
+UC2-hKemnrmVCH_29duyJ26A;qAmFe5fY4kw;2021-10-06T18:22:46Z;"📺 New #rstats video: Reenah Nahum Muldavski - AB Testing of Data Science Solutions
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=qAmFe5fY4kw"
+UC2-hKemnrmVCH_29duyJ26A;f4BshrwxxLY;2021-10-06T18:22:49Z;"📺 New #rstats video: Sarah Catanzaro - Against Machine Learning; For Causal Inference
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=f4BshrwxxLY"
+UC2-hKemnrmVCH_29duyJ26A;MigeWoptzrQ;2021-10-06T18:22:52Z;"📺 New #rstats video: Adam Chekroud - Personalizing Mental Healthcare at Scale
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=MigeWoptzrQ"
+UC2-hKemnrmVCH_29duyJ26A;vKcW6kypAGo;2021-10-06T18:22:56Z;"📺 New #rstats video: Rachael Tatman - 5 mistakes you'll probably make with language data (and how to recover)
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=vKcW6kypAGo"
+UC2-hKemnrmVCH_29duyJ26A;DgUFj4NJCws;2021-10-06T18:23:01Z;"📺 New #rstats video: Jonathan Bratt - {morphemepiece}: more meaningful tokenization for NLP
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=DgUFj4NJCws"
+UC2-hKemnrmVCH_29duyJ26A;F3lC4qf84FI;2021-10-06T18:23:03Z;"📺 New #rstats video: Megan Robertson - Creating Production Level Data Science Code
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=F3lC4qf84FI"
+UCCaChdLMTYMxyawR_Qf-kYA;ctRKvm8Z-_8;2021-10-06T20:28:20Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 11: Data Import Part 2 (2021-09-25) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=ctRKvm8Z-_8"
+UCCaChdLMTYMxyawR_Qf-kYA;dZo4ANmUjF8;2021-10-06T20:46:25Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 26-27: R Markdown (2021-09-28) (r4ds03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=dZo4ANmUjF8"
+UCCaChdLMTYMxyawR_Qf-kYA;1xOs5oZqzz4;2021-10-06T20:52:21Z;"📺 New #rstats video: ggplot2 Book Club Chapter 4: Collective geoms (2021-09-27) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=1xOs5oZqzz4"
