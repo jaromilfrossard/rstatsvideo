@@ -2487,3 +2487,39 @@ UCCaChdLMTYMxyawR_Qf-kYA;VR0OmBFOgfU;2021-10-07T22:12:04Z;"📺 New #rstats vide
 ▶ R4DS Online Learning Community (@R4DScommunity)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=VR0OmBFOgfU"
+UCCaChdLMTYMxyawR_Qf-kYA;J7pXWGeHfJY;2021-10-08T09:46:29Z;"📺 New #rstats video: Tidy Modeling with R Book Club Ch19: When should you trust your predictions? (2021-10-04) (tmwr03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=J7pXWGeHfJY"
+UCwQ7lkY6YWzZjT807Itbvtw;N7z1K4FhVFE;2021-10-08T13:00:30Z;"📺 New #rstats video: Taking control of your packages with {renv}, plus a dash of {pak} too!
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=N7z1K4FhVFE"
+UCyHEww8_SCdxZvEnkCfi55w;gAVKlix-Omk;2021-10-08T14:00:16Z;"📺 New #rstats video: Return Index Position of Element in Matrix Using which() Function in R (Example) | arr.ind Argument
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=gAVKlix-Omk"
+UCCaChdLMTYMxyawR_Qf-kYA;MfBUPmK-aNg;2021-10-08T14:39:11Z;"📺 New #rstats video: ISLR Book Club: Chapter 2 Statistical Learning part 2 (2021-10-05) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=MfBUPmK-aNg"
+UCCaChdLMTYMxyawR_Qf-kYA;bUECbzZuIDY;2021-10-08T15:36:10Z;"📺 New #rstats video: Tidy Modeling with R Book Club Ch20: Ensembles of models (2021-10-05) (tmwr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=bUECbzZuIDY"
+UCCaChdLMTYMxyawR_Qf-kYA;o6aW5ogQiEQ;2021-10-08T15:57:16Z;"📺 New #rstats video: Regression and Other Stories: Ch9: Prediction and Bayesian inference part 2 (2021-09-28) (ros01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=o6aW5ogQiEQ"
+UCCaChdLMTYMxyawR_Qf-kYA;UFKdAYNeIOs;2021-10-08T16:18:44Z;"📺 New #rstats video: Regression and Other Stories: Ch10: Linear regression with multiple predictors (2021-10-05) (ros01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=UFKdAYNeIOs"
+UCCaChdLMTYMxyawR_Qf-kYA;ZvwWVEdT5VI;2021-10-08T17:21:35Z;"📺 New #rstats video: Engineering Production Grade Shiny Apps Book Club Chapter 6-7 (2021-09-29) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=ZvwWVEdT5VI"
+UCCaChdLMTYMxyawR_Qf-kYA;LXoAH0GQ_qU;2021-10-08T17:24:26Z;"📺 New #rstats video: Engineering Production Grade Shiny Apps Book Club Chapter 4-5 (2021-09-22) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=LXoAH0GQ_qU"
