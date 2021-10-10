@@ -2523,3 +2523,24 @@ UCCaChdLMTYMxyawR_Qf-kYA;LXoAH0GQ_qU;2021-10-08T17:24:26Z;"📺 New #rstats vide
 ▶ R4DS Online Learning Community (@R4DScommunity)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=LXoAH0GQ_qU"
+UCCaChdLMTYMxyawR_Qf-kYA;kW2-ybX39t8;2021-10-09T03:29:33Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapter 10: Dynamic UI (2021-10-06) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=kW2-ybX39t8"
+UCyHEww8_SCdxZvEnkCfi55w;LlKoNgj8tmg;2021-10-09T14:00:06Z;"📺 New #rstats video: Divide Each Row of Matrix & Data Frame by Vector Element in R (Example) | t & as.data.frame Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=LlKoNgj8tmg"
+UCCaChdLMTYMxyawR_Qf-kYA;5lsv2ftMouA;2021-10-09T19:49:48Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 12: Tidy data Part 1 (2021-10-09) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=5lsv2ftMouA"
+UCrmJdnPmle514qkK3lLOsVQ;YqLneLw_lzg;2021-10-09T22:39:05Z;"📺 New #rstats video: #R | skimr::skim() for quick EDA | #Rstudio #Rpackage #tidyverse #EDA #DataAnalysis
+▶ RJ Studio
+#skimrpackager #skimdataanalysisr #skimedar #quickandfastedainr #edatechniquer #skimrpackage
+🔗 https://www.youtube.com/watch?v=YqLneLw_lzg"
+UCDgj5-mFohWZ5irWSFMFcng;H91WSwALx1A;2020-06-23T08:58:15Z;"📺 #rstats video: R-Ladies Freiburg (English) - R Markdown: Introduction to documents and presentations
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=H91WSwALx1A"
