@@ -2544,3 +2544,20 @@ UCDgj5-mFohWZ5irWSFMFcng;H91WSwALx1A;2020-06-23T08:58:15Z;"📺 #rstats video: R
 ▶ R-Ladies Global (@RLadiesGlobal)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=H91WSwALx1A"
+UCyHEww8_SCdxZvEnkCfi55w;2jFSnqgwwp0;2021-10-10T14:00:04Z;"📺 New #rstats video: Keep Original Row Order when Merging Data (Example) | Base R vs. dplyr Join | merge() & inner_join()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=2jFSnqgwwp0"
+UCKJFCIbcGs2a5RGt8RjdbFA;LYlto9UAGAA;2021-10-11T04:03:10Z;"📺 New #rstats video: Week 4 Extra: Installing Packages
+▶ Liza Wood (@wood__liza)
+🔗 https://www.youtube.com/watch?v=LYlto9UAGAA"
+UCKJFCIbcGs2a5RGt8RjdbFA;f0OCEG-0ExI;2021-10-11T04:10:12Z;"📺 New #rstats video: Week 4.1: Data Manipulation Part 1A
+▶ Liza Wood (@wood__liza)
+🔗 https://www.youtube.com/watch?v=f0OCEG-0ExI"
+UCKJFCIbcGs2a5RGt8RjdbFA;h6wgu_3Jp1c;2021-10-11T04:12:11Z;"📺 New #rstats video: Week 4.2: Data Manipulation Part 1B
+▶ Liza Wood (@wood__liza)
+🔗 https://www.youtube.com/watch?v=h6wgu_3Jp1c"
+UC_R5smHVXRYGhZYDJsnXTwg;ak6AU6VrclU;2018-07-14T22:19:58Z;"📺 #rstats video: Partial Least Squares with formative constructs and a binary target variable
+▶ R Consortium (@RConsortium)
+🔗 https://www.youtube.com/watch?v=ak6AU6VrclU"
