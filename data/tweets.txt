@@ -2561,3 +2561,26 @@ UCKJFCIbcGs2a5RGt8RjdbFA;h6wgu_3Jp1c;2021-10-11T04:12:11Z;"📺 New #rstats vide
 UC_R5smHVXRYGhZYDJsnXTwg;ak6AU6VrclU;2018-07-14T22:19:58Z;"📺 #rstats video: Partial Least Squares with formative constructs and a binary target variable
 ▶ R Consortium (@RConsortium)
 🔗 https://www.youtube.com/watch?v=ak6AU6VrclU"
+UCyHEww8_SCdxZvEnkCfi55w;zDYKouyZq5c;2021-10-11T14:00:19Z;"📺 New #rstats video: Reduce Space Around Plot in R (Example) | Area Margins of a Grid Layout | par, mar, mfrow, plot & c
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=zDYKouyZq5c"
+UC2-hKemnrmVCH_29duyJ26A;7Opq6WZuTBs;2019-12-02T22:11:12Z;"📺 #rstats video: Abhijit Dasgupta -  Coursedown: Managing Course Materials Using R Techniques
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=7Opq6WZuTBs"
+UC_R5smHVXRYGhZYDJsnXTwg;ZNRouw-BmzE;2020-07-08T07:49:06Z;"📺 #rstats video: useR! 2020: bcdata: Reproducible spatial data retrieval from Geoserver Web Serv (A. Teucher), cont
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=ZNRouw-BmzE"
+UC3xfbCMLCw1Hh4dWop3XtHg;RqGFMRQ3M-U;2021-02-25T18:00:06Z;"📺 #rstats video: Roche & Novartis: Effective Visualizations for Data Driven Decisions | RStudio (2020)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=RqGFMRQ3M-U"
+UCWI1xyk6Jb4t2OOyP2LS4DQ;79s3z0gIuFU;2018-06-25T18:09:04Z;"📺 #rstats video: R Package Development 1: Where to Start
+▶ John Muschelli (@StrictlyStat)
+🗣 🇬🇧
+#rlanguage #rprogramming #rpackages #rpackagedevelopment #developingrpackages
+🔗 https://www.youtube.com/watch?v=79s3z0gIuFU"
