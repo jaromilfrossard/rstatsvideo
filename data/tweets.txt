@@ -2584,3 +2584,25 @@ UCWI1xyk6Jb4t2OOyP2LS4DQ;79s3z0gIuFU;2018-06-25T18:09:04Z;"📺 #rstats video: R
 🗣 🇬🇧
 #rlanguage #rprogramming #rpackages #rpackagedevelopment #developingrpackages
 🔗 https://www.youtube.com/watch?v=79s3z0gIuFU"
+UCGuktEl5InrcxPfCjmPWxsA;Y9h-1u6uQ6c;2021-10-11T16:00:24Z;"📺 New #rstats video: Easy ways to go back in your git commit history with RStudio (CC153)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#gitgobackinhistory #gitgobackinhstory #gitgobakcinhstory #gitgobakcinhistory #gitcommithistory
+🔗 https://www.youtube.com/watch?v=Y9h-1u6uQ6c"
+UCqQ_cxcNu1ekqHXDc-MbU_w;TP8vjWiIpgI;2021-10-12T13:00:25Z;"📺 New #rstats video: How to Make a Heatmap of Customers in R
+▶ Business Science (@bizScienc)
+🔗 https://www.youtube.com/watch?v=TP8vjWiIpgI"
+UCyHEww8_SCdxZvEnkCfi55w;8qYrCuEmIUI;2021-07-29T14:00:09Z;"📺 #rstats video: Remove Leading & Trailing Zeros in R (5 Examples) | Delete Start & End of String | sub & str_remove
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=8qYrCuEmIUI"
+UCDgj5-mFohWZ5irWSFMFcng;1q2o9DOni5U;2021-03-09T08:39:43Z;"📺 #rstats video: R-Ladies Bergen (English) - cReating visualizations and a book!
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#visualization #datascience #freelance #inspiration #creativity #interview #design
+🔗 https://www.youtube.com/watch?v=1q2o9DOni5U"
+UCCaChdLMTYMxyawR_Qf-kYA;h8Oyk8rlN0U;2020-05-23T22:10:39Z;"📺 #rstats video: Advanced R: 6.2.3-6.2.4 Function Fundamentals
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=h8Oyk8rlN0U"
