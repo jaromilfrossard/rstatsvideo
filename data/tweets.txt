@@ -2606,3 +2606,25 @@ UCCaChdLMTYMxyawR_Qf-kYA;h8Oyk8rlN0U;2020-05-23T22:10:39Z;"📺 #rstats video: A
 ▶ R4DS Online Learning Community (@R4DScommunity)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=h8Oyk8rlN0U"
+UCyHEww8_SCdxZvEnkCfi55w;ZsPwizDt2JU;2021-10-12T14:00:13Z;"📺 New #rstats video: rbind Data Frames by Column Index in R (Example) | Ignore Variable Names | setNames & names Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=ZsPwizDt2JU"
+UCyHEww8_SCdxZvEnkCfi55w;sPoEUdqep2w;2021-10-13T14:00:24Z;"📺 New #rstats video: Common Main Title for Multiple Plots in Base R & ggplot2 (Example) | patchwork Package Composition
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=sPoEUdqep2w"
+UCQ7DcXWJm3es06U7lGmBDkw;p6IHJ-7fqpo;2021-10-13T15:23:24Z;"📺 New #rstats video: R-Ladies St. Louis, October 12, 2021: Introduction to Tidyverse
+▶ R Ladies STL (@RLadiesSTL)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=p6IHJ-7fqpo"
+UCQ7DcXWJm3es06U7lGmBDkw;08kQaxLNjZQ;2020-10-10T02:30:25Z;"📺 #rstats video: An Introduction to Data Viz in R with ggplot2 ~ Instructed by Meenakshi Kushwaha (Oct 2020)
+▶ R Ladies STL (@RLadiesSTL)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=08kQaxLNjZQ"
+UC2-hKemnrmVCH_29duyJ26A;Npk-cfQVqKo;2018-08-15T22:32:49Z;"📺 #rstats video: R in USMA
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=Npk-cfQVqKo"
