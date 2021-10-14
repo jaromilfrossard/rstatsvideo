@@ -2628,3 +2628,27 @@ UC2-hKemnrmVCH_29duyJ26A;Npk-cfQVqKo;2018-08-15T22:32:49Z;"📺 #rstats video: R
 ▶ Lander Analytics (@LanderAnalytics)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=Npk-cfQVqKo"
+UCyHEww8_SCdxZvEnkCfi55w;CdhNKR2Cf6w;2021-10-14T14:00:09Z;"📺 New #rstats video: Repeat Character String N Times in R (2 Examples) | One Object & Vector | strrep() & rep() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=CdhNKR2Cf6w"
+UCxB1IGhLzlEOikTL-aDwqFg;OdNU5LUOHng;2020-11-14T04:52:14Z;"📺 #rstats video: [2020-11-13] Exploring effects from covariates on expression using variancePartition
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#variancepartition #limma #dream #lme4
+🔗 https://www.youtube.com/watch?v=OdNU5LUOHng"
+UCKMekE_4UfWvZDuBWenG8WA;wVanMlIZIcs;2018-06-23T16:49:59Z;"📺 #rstats video: Cross validation: How to get it wrong and how to get it right
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#rsoftware #machinelearning #crossvalidation #caret #doparallel #5foldcrossvalidation #rstudio #randomforest
+🔗 https://www.youtube.com/watch?v=wVanMlIZIcs"
+UC3xfbCMLCw1Hh4dWop3XtHg;_DG4XmRl3S4;2021-03-27T16:00:10Z;"📺 #rstats video: Filip Stachura & Marek Rogala | Empowering Data Scientists to Build Spectacular Shiny Apps | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization
+🔗 https://www.youtube.com/watch?v=_DG4XmRl3S4"
+UCCaChdLMTYMxyawR_Qf-kYA;Uot5PKTyRUY;2021-03-14T23:05:36Z;"📺 #rstats video: R para Ciencia de Datos Club de Lectura: Capítulo 13 (Parte 1) (2021-03-09) (r4ds_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=Uot5PKTyRUY"
