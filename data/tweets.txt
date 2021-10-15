@@ -2652,3 +2652,24 @@ UCCaChdLMTYMxyawR_Qf-kYA;Uot5PKTyRUY;2021-03-14T23:05:36Z;"📺 #rstats video: R
 ▶ R4DS Online Learning Community (@R4DScommunity)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=Uot5PKTyRUY"
+UC3xfbCMLCw1Hh4dWop3XtHg;Id2H499q8IU;2021-10-14T15:18:56Z;"📺 New #rstats video: Michelle Brandão | R in Sports Analytics - Intro to GitHub Actions | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=Id2H499q8IU"
+UCGuktEl5InrcxPfCjmPWxsA;UVriK-W1DNg;2021-10-14T16:00:31Z;"📺 New #rstats video: Manipulating axes (position scales) for continuous and discrete data in ggplot2 (CC154)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#positionscalescontinuousdiscreteggplot2 #positonscalescontinuousdiscreteggplot2
+🔗 https://www.youtube.com/watch?v=UVriK-W1DNg"
+UCGuktEl5InrcxPfCjmPWxsA;e3rKYipvdJo;2021-05-07T16:04:43Z;"📺 #rstats video: How to clean and join data from mothur with the dplyr R package (CC101)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#dplyrjoin #dplyr #innerjoin #antijoin #dplyrr #dplyrrstudio #rstudior #dplyrinnerjoin
+🔗 https://www.youtube.com/watch?v=e3rKYipvdJo"
+UCfoktGmvJ6rnME7mSP_Ww2g;sRmsyE3edDI;2020-07-18T16:47:08Z;"📺 #rstats video: R-Ladies Tunis : Workshop about R Markdown
+▶ R-Ladies Tunis (@RLadiesTunis)
+🔗 https://www.youtube.com/watch?v=sRmsyE3edDI"
+UCCaChdLMTYMxyawR_Qf-kYA;JI5serY_3nE;2021-04-20T07:45:05Z;"📺 #rstats video: Mastering Shiny Book Club: Chapter 8: User feedback (2021-04-13) (mshiny01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=JI5serY_3nE"
