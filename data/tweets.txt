@@ -2673,3 +2673,24 @@ UCCaChdLMTYMxyawR_Qf-kYA;JI5serY_3nE;2021-04-20T07:45:05Z;"📺 #rstats video: M
 ▶ R4DS Online Learning Community (@R4DScommunity)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=JI5serY_3nE"
+UCyHEww8_SCdxZvEnkCfi55w;gd-_rzliJ0M;2021-10-15T14:00:16Z;"📺 New #rstats video: Replace Spaces in Column Names in R (2 Examples) | Blanks in Data Frame Variables | gsub, make.names
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=gd-_rzliJ0M"
+UCcCMO7sHb8O_TJUd34sQ_Ng;4IAsmjOEfxE;2020-06-24T07:42:35Z;"📺 #rstats video: Trier les Donnees d'un dataset + subsetting dans R| Comment dans R?| Tuto debutants| caps25
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#trierlesvariablesdansr #trierparcolonne #creerunsubsetdansr #fairedusubsetting
+🔗 https://www.youtube.com/watch?v=4IAsmjOEfxE"
+UCkNvd1JigrH2A_YLKSgFnQQ;q7QLMtUxDRA;2020-03-26T17:33:47Z;"📺 #rstats video: Intro to R webinar recording
+▶ Mango Solutions (@MangoTheCat)
+🔗 https://www.youtube.com/watch?v=q7QLMtUxDRA"
+UC2-hKemnrmVCH_29duyJ26A;zHQPLTDddMg;2020-10-06T13:57:11Z;"📺 #rstats video: Dr. Erin LeDell - Scalable Automatic Machine Learning in R
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#datascience #conference #virtualconference #machinelearning #artificialintelligence #virtualevent
+🔗 https://www.youtube.com/watch?v=zHQPLTDddMg"
+UCYuJ4Q65HlyQKO5cZXg7qDw;4TqNAvL1EbM;2020-12-11T20:57:57Z;"📺 #rstats video: R ile Zaman Serileri Analizi (2.Oturum)
+▶ R Ladies Ankara (@RLadiesAnkara)
+🔗 https://www.youtube.com/watch?v=4TqNAvL1EbM"
