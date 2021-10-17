@@ -2694,3 +2694,23 @@ UC2-hKemnrmVCH_29duyJ26A;zHQPLTDddMg;2020-10-06T13:57:11Z;"📺 #rstats video: D
 UCYuJ4Q65HlyQKO5cZXg7qDw;4TqNAvL1EbM;2020-12-11T20:57:57Z;"📺 #rstats video: R ile Zaman Serileri Analizi (2.Oturum)
 ▶ R Ladies Ankara (@RLadiesAnkara)
 🔗 https://www.youtube.com/watch?v=4TqNAvL1EbM"
+UCyHEww8_SCdxZvEnkCfi55w;CkCJHq9xE3c;2021-10-16T14:00:03Z;"📺 New #rstats video: Create Data Frame with Spaces in Column Names in R (Example) | Keep Blanks & Retain Empty Variable
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=CkCJHq9xE3c"
+UCYNVcihAKkRW-bhzIrguvVw;n9MRCZxJOfk;2021-10-16T21:15:41Z;"📺 New #rstats video: UpSet Plots + R Demo
+▶ math et al
+🗣 🇬🇧
+#upsetplot #upsetplots #datavisualization #dataviz #venndiagram #upsetplotr #mathetal #upsetplottutorial #upsetplotexplained #rdemo
+🔗 https://www.youtube.com/watch?v=n9MRCZxJOfk"
+UCrmJdnPmle514qkK3lLOsVQ;9PIaYHQ7_Lk;2021-10-16T21:34:05Z;"📺 New #rstats video: #R | k-Prototypes Clustering | #Rstudio #tidyverse #Clustering #UnsupervisedLearning #클러스터링
+▶ RJ Studio
+#clusteringinr #kprototypesr #kprototypes #categoricalvariableclustering #kmode #kmodes
+🔗 https://www.youtube.com/watch?v=9PIaYHQ7_Lk"
+UCKJFCIbcGs2a5RGt8RjdbFA;Y7nhagJCCk4;2021-10-16T22:15:38Z;"📺 New #rstats video: Week 5: Data Manipulation Part 2
+▶ Liza Wood (@wood__liza)
+🔗 https://www.youtube.com/watch?v=Y7nhagJCCk4"
+UCYgIy7zeC7v6iZhx0-NywBw;quFhQvizBE8;2019-04-27T23:38:03Z;"📺 #rstats video: SatRDay Chicago
+▶ satRdays (@satRdays_org)
+🔗 https://www.youtube.com/watch?v=quFhQvizBE8"
