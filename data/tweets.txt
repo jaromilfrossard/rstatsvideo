@@ -2734,3 +2734,24 @@ UC2-hKemnrmVCH_29duyJ26A;XzSXGJS21J8;2018-08-01T20:10:13Z;"📺 #rstats video: S
 ▶ Lander Analytics (@LanderAnalytics)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=XzSXGJS21J8"
+UCGuktEl5InrcxPfCjmPWxsA;rkQREY_FfqI;2021-10-18T16:00:26Z;"📺 New #rstats video: Applying concepts from Storytelling with Data in R using ggplot2 (CC155)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#storytellingwithdatar #storytellingiwthdatar #storytellingwithdatabookreview
+🔗 https://www.youtube.com/watch?v=rkQREY_FfqI"
+UC3xfbCMLCw1Hh4dWop3XtHg;yb_mBJz3iSc;2021-10-19T02:14:56Z;"📺 New #rstats video: Nathan Stephens | Scaling Spreadsheets with R | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=yb_mBJz3iSc"
+UCdFC653IaBVC5kwj7CGo2sQ;3QmLVHmt0mI;2021-10-19T13:57:26Z;"📺 New #rstats video: Eine (sehr) kurze R Einführung
+▶ RappA (@rappa753)
+🔗 https://www.youtube.com/watch?v=3QmLVHmt0mI"
+UCyHEww8_SCdxZvEnkCfi55w;TnyKYW-vM6U;2021-10-19T14:00:22Z;"📺 New #rstats video: Remove All Whitespace in Each Data Frame Column in R (2 Examples) | apply & str_remove_all [stringr]
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=TnyKYW-vM6U"
+UC_R5smHVXRYGhZYDJsnXTwg;tYGLYdeFJMc;2019-08-03T13:50:09Z;"📺 #rstats video: useR! 2019 Toulouse - Talk Education - Mine Çetinkaya Rundel
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=tYGLYdeFJMc"
