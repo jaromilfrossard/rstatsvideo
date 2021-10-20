@@ -2755,3 +2755,24 @@ UC_R5smHVXRYGhZYDJsnXTwg;tYGLYdeFJMc;2019-08-03T13:50:09Z;"📺 #rstats video: u
 ▶ R Consortium (@RConsortium)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=tYGLYdeFJMc"
+UCQ7DcXWJm3es06U7lGmBDkw;eTF-L2_pVrg;2021-10-20T01:30:22Z;"📺 New #rstats video: R-Ladies St. Louis, October 19, 2021: Exploratory Analysis with ggplot
+▶ R Ladies STL (@RLadiesSTL)
+🔗 https://www.youtube.com/watch?v=eTF-L2_pVrg"
+UCMdihazndR0f9XBoSXWqnYg;2sxn_eX_q9c;2021-03-26T04:00:01Z;"📺 #rstats video: R - Multitrait Multimethod (MTMM) Lecture
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#statistics #sem #rstudio #lavaan #open #education #data #science #analytics #semplot #diagram #structuralequationmodel #mtmm
+🔗 https://www.youtube.com/watch?v=2sxn_eX_q9c"
+UC3xfbCMLCw1Hh4dWop3XtHg;KIdxEu-JvXo;2017-11-29T15:38:00Z;"📺 #rstats video: Extending Spark Using Sparklyr | RStudio Webinar - 2017
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstudio #rstudiowebinar #rprogramming #rstudiosparklyr #rsparklyr #sparklyr
+🔗 https://www.youtube.com/watch?v=KIdxEu-JvXo"
+UCeiiqmVK07qhY-wvg3IZiZQ;WxKSauhOY4g;2021-02-09T23:12:28Z;"📺 #rstats video: Tidy Tuesday live screencast: Analyzing wealth and income in R
+▶ David Robinson (@drob)
+🔗 https://www.youtube.com/watch?v=WxKSauhOY4g"
+UCcKPp7AI7ZTBf60WqXo3Bpg;9c45354sRT0;2020-06-10T03:57:22Z;"📺 #rstats video: Regression When Your Data Isn't Well Behaved (SLC-RUG May 2020)
+▶  Salt Lake City R Users Group (@slcrug)
+🗣 🇬🇧
+#linearregression #statistics
+🔗 https://www.youtube.com/watch?v=9c45354sRT0"
