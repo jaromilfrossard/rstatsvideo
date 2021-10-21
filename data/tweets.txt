@@ -2776,3 +2776,25 @@ UCcKPp7AI7ZTBf60WqXo3Bpg;9c45354sRT0;2020-06-10T03:57:22Z;"📺 #rstats video: R
 🗣 🇬🇧
 #linearregression #statistics
 🔗 https://www.youtube.com/watch?v=9c45354sRT0"
+UCyHEww8_SCdxZvEnkCfi55w;wMF6OJZB9Rg;2021-10-20T14:00:25Z;"📺 New #rstats video: Insert Character Pattern at Particular Position of String in R | gsub, paste | User-Defined Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=wMF6OJZB9Rg"
+UCCaChdLMTYMxyawR_Qf-kYA;SBl2ccerzwo;2021-10-20T17:10:52Z;"📺 New #rstats video: Tidy Modeling with R Book Club: Chapter 20 (Ensembles of models) (2021-10-18) (tmwr03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=SBl2ccerzwo"
+UCPque9BaFV9p0hcgImrYBzg;MgB1ihuEDN4;2021-10-20T20:29:06Z;"📺 New #rstats video: Bayes Rules! An Introduction to Bayesian Modeling with R with Alicia Johnson
+▶ R-Ladies Philly (@RLadiesPhilly)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=MgB1ihuEDN4"
+UCyHEww8_SCdxZvEnkCfi55w;CpTfGoReGjM;2021-10-21T14:00:07Z;"📺 New #rstats video: Create Data Frame of Unequal Lengths in R (Example) | Different Column Size | max, c, length & rep
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=CpTfGoReGjM"
+UC_R5smHVXRYGhZYDJsnXTwg;fRiq1NAAEgs;2019-08-03T13:49:26Z;"📺 #rstats video: useR! 2019 Toulouse - Talk Multivariate Data Analysis - Maikol Solis
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=fRiq1NAAEgs"
