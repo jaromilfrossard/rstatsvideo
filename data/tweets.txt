@@ -2798,3 +2798,41 @@ UC_R5smHVXRYGhZYDJsnXTwg;fRiq1NAAEgs;2019-08-03T13:49:26Z;"📺 #rstats video: u
 ▶ R Consortium (@RConsortium)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=fRiq1NAAEgs"
+UC3xfbCMLCw1Hh4dWop3XtHg;EpTkT6Rkgbs;2021-10-21T15:46:42Z;"📺 New #rstats video: Building R packages with devtools and usethis | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology #coding
+🔗 https://www.youtube.com/watch?v=EpTkT6Rkgbs"
+UCGuktEl5InrcxPfCjmPWxsA;tiIdoXxNAxI;2021-10-21T16:00:34Z;"📺 New #rstats video: Create an interactive slope chart with the plotly and ggplot2 R packages (CC156)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rplotlyslopechart #plotly #ggplotly #rslopechart #rplotlyslopeplot #rinteractive
+🔗 https://www.youtube.com/watch?v=tiIdoXxNAxI"
+UCCaChdLMTYMxyawR_Qf-kYA;dqA5MNNDqcE;2021-10-21T20:52:51Z;"📺 New #rstats video: ISLR Book Club: Chapter 3 Linear Regression part 1 (2021-10-12) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=dqA5MNNDqcE"
+UCCaChdLMTYMxyawR_Qf-kYA;PFhVGNzraoE;2021-10-21T21:04:05Z;"📺 New #rstats video: ISLR Book Club: Chapter 3 Linear Regression part 2 (2021-10-19) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=PFhVGNzraoE"
+UCCaChdLMTYMxyawR_Qf-kYA;nZBHGf8YH_8;2021-10-21T21:24:28Z;"📺 New #rstats video: Engineering Production Grade Shiny Apps Book Club Chapter 9-10 (2021-10-13) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=nZBHGf8YH_8"
+UCCaChdLMTYMxyawR_Qf-kYA;utgZGyRJYAU;2021-10-21T21:27:00Z;"📺 New #rstats video: Regression and Other Stories: Ch10 & 11 (2021-10-12) (ros01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=utgZGyRJYAU"
+UCCaChdLMTYMxyawR_Qf-kYA;OVA4cYBfovc;2021-10-21T21:37:43Z;"📺 New #rstats video: Regression and Other Stories: Chapter 11 Continued (2021-10-19) (ros01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=OVA4cYBfovc"
+UCCaChdLMTYMxyawR_Qf-kYA;qLKmq3SYYoQ;2021-10-21T21:44:42Z;"📺 New #rstats video: Tidytext Book Club: Chapter 3: Relationships between words (2021-10-13) (tidytext01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=qLKmq3SYYoQ"
+UCCaChdLMTYMxyawR_Qf-kYA;R1OUW3Ldu4Q;2021-10-21T21:55:02Z;"📺 New #rstats video: R for Data Science Book Club: Cohort 6 Introduction (2021-10-15) (r4ds06)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=R1OUW3Ldu4Q"
