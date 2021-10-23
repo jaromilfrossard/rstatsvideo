@@ -2836,3 +2836,45 @@ UCCaChdLMTYMxyawR_Qf-kYA;R1OUW3Ldu4Q;2021-10-21T21:55:02Z;"📺 New #rstats vide
 ▶ R4DS Online Learning Community (@R4DScommunity)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=R1OUW3Ldu4Q"
+UCyHEww8_SCdxZvEnkCfi55w;5t3iq2WmKm0;2021-10-22T14:00:02Z;"📺 New #rstats video: Group Factor Levels in R (Example) | Combine into Same Category | Regroup, Modify, Change & Merge
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=5t3iq2WmKm0"
+UCTTBgWyJl2HrrhQOOc710kA;qNxJKke2rsE;2021-10-22T16:20:50Z;"📺 New #rstats video: Predict giant pumpkin weights with tidymodels workflowsets
+▶ Julia Silge (@juliasilge)
+🔗 https://www.youtube.com/watch?v=qNxJKke2rsE"
+UCCaChdLMTYMxyawR_Qf-kYA;PB3dBof2q6I;2021-10-22T18:16:29Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 12: Tidy data Part 2 (2021-10-16) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=PB3dBof2q6I"
+UCCaChdLMTYMxyawR_Qf-kYA;GiXu9zCKQCc;2021-10-22T18:28:34Z;"📺 New #rstats video: ggplot2 Book Club Chapter 5: Statistical summaries (part 2) (2021-10-18) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=GiXu9zCKQCc"
+UCCaChdLMTYMxyawR_Qf-kYA;6-V8qZ_sT8w;2021-10-22T19:56:55Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapter 10: Dynamic UI (part 2) (2021-10-13) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=6-V8qZ_sT8w"
+UCYNVcihAKkRW-bhzIrguvVw;LlbRByKF7co;2021-10-22T20:00:59Z;"📺 New #rstats video: Gene Signatures Plot | scRNA-Seq Analysis in Seurat
+▶ math et al
+🗣 🇬🇧
+#genesignatures #seurat #seurattutorial #mathetal #genesignature #genesig #scrnaseq #scrnaseqanalysis
+🔗 https://www.youtube.com/watch?v=LlbRByKF7co"
+UCCaChdLMTYMxyawR_Qf-kYA;gB70zh1MkLk;2021-10-22T20:02:29Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapter 11: Bookmarking (2021-10-20) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=gB70zh1MkLk"
+UCCaChdLMTYMxyawR_Qf-kYA;j2jWX8_1tYY;2021-10-22T20:13:25Z;"📺 New #rstats video: Tidy Modeling with R Book Club: SLICED Walk-Thru (2021-10-19) (tmwr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=j2jWX8_1tYY"
+UCCaChdLMTYMxyawR_Qf-kYA;5IMg8AC-1IA;2021-10-22T20:23:17Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 2-3: Data Visualization (2021-10-22) (r4ds06)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=5IMg8AC-1IA"
+UCyHEww8_SCdxZvEnkCfi55w;53Jqqbm7BYY;2021-10-23T14:00:01Z;"📺 New #rstats video: Create Random Matrix in R (Example) | Generate Values & Fill into Data | set.seed, sample & replace
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=53Jqqbm7BYY"
