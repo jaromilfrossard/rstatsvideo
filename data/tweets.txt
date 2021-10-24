@@ -2878,3 +2878,25 @@ UCyHEww8_SCdxZvEnkCfi55w;53Jqqbm7BYY;2021-10-23T14:00:01Z;"📺 New #rstats vide
 🗣 🇬🇧
 #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=53Jqqbm7BYY"
+UCrmJdnPmle514qkK3lLOsVQ;zJdqzpDoGRk;2021-10-23T22:54:06Z;"📺 New #rstats video: #R | k-Prototypes Clustering 2 | #Rstudio #tidyverse #ElbowMethod #Clustering #UnsupervisedLearning
+▶ RJ Studio
+#elbowmethod #clusteringelbowpoint #clusteringelbowmethod #엘보우기법 #엘보우방법클러스터링 #엘보우클러스터링
+🔗 https://www.youtube.com/watch?v=zJdqzpDoGRk"
+UCyHEww8_SCdxZvEnkCfi55w;qVkKHljNB4I;2021-10-24T14:00:32Z;"📺 New #rstats video: Force Plot Axes to Start at Zero in R (2 Examples) | Set Origin to 0/0 | xlim, ylim, xaxs & yaxs
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=qVkKHljNB4I"
+UCqQ_cxcNu1ekqHXDc-MbU_w;cX4nPiS3xnc;2019-06-25T19:05:41Z;"📺 #rstats video: Sales Dashboard - Adding Demand Forecasting with Machine Learning | DS4B 102-R
+▶ Business Science (@bizScienc)
+#datascience #machinelearning #timeseries #forecast #xgboost #parsnip #salesdashboard #dashboard #sales
+🔗 https://www.youtube.com/watch?v=cX4nPiS3xnc"
+UCqQ_cxcNu1ekqHXDc-MbU_w;b7AyKMhHl2Y;2019-02-03T15:52:04Z;"📺 #rstats video: THE ULTIMATE R CHEAT SHEET
+▶ Business Science (@bizScienc)
+#cheatsheet #tidyverse #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=b7AyKMhHl2Y"
+UC3xfbCMLCw1Hh4dWop3XtHg;u7dfUxONj6Q;2021-02-19T15:00:19Z;"📺 #rstats video: Megan Beckett | Aesthetically automated figure production | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology
+🔗 https://www.youtube.com/watch?v=u7dfUxONj6Q"
