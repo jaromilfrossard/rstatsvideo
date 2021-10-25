@@ -2900,3 +2900,21 @@ UC3xfbCMLCw1Hh4dWop3XtHg;u7dfUxONj6Q;2021-02-19T15:00:19Z;"📺 #rstats video: M
 🗣 🇬🇧
 #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology
 🔗 https://www.youtube.com/watch?v=u7dfUxONj6Q"
+UC9UK90FN2Q1cl0J5Kl4-7Mg;6JdT5mp-tdA;2021-10-24T15:44:17Z;"📺 New #rstats video: R Ladies Baltimore | Building Web-Ready Maps | Toumi
+▶ R-Ladies Baltimore (@RLadiesBmore)
+🔗 https://www.youtube.com/watch?v=6JdT5mp-tdA"
+UCKJFCIbcGs2a5RGt8RjdbFA;rLGJO6aOD6c;2021-10-24T21:02:16Z;"📺 New #rstats video: Week 6.1: Data Visualization Part 1A
+▶ Liza Wood (@wood__liza)
+🔗 https://www.youtube.com/watch?v=rLGJO6aOD6c"
+UCyf1AvRK4gmfRUJjeBNMauA;EjI7QbPPGFs;2021-10-24T21:59:13Z;"📺 New #rstats video: Data Visualization using r2D3: R Interface to D3 Visualizations by Zaynaib (Ola) Giwa
+▶ Tunis R User Group (@TunisRUserGroup)
+🗣 🇬🇧
+#rstudio #onlinemeetup #workshop #datavisualization #dataviz #r2d3 #d3
+🔗 https://www.youtube.com/watch?v=EjI7QbPPGFs"
+UCP8l94xtoemCH_GxByvTuFQ;7cKKFKHw-L8;2021-10-24T23:17:02Z;"📺 New #rstats video: TidyX Episode 80 |  Tidymodels - Decision Tree Tuning
+▶ TidyX (@tidy_explained)
+#programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=7cKKFKHw-L8"
+UCT2TrH2M4zbRJZMH6iusyBQ;puzMITLVrqE;2021-01-15T18:34:50Z;"📺 #rstats video: gt
+▶ R in Pharma
+🔗 https://www.youtube.com/watch?v=puzMITLVrqE"

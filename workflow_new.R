@@ -76,6 +76,7 @@ videos<-
 
 
 
+
 videos%>%
   {pwalk(list(.$id_channel, .$id_video, .$ymd_hms_video,.$tweet),post_videos)}
 
