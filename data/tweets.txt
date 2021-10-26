@@ -2918,3 +2918,24 @@ UCP8l94xtoemCH_GxByvTuFQ;7cKKFKHw-L8;2021-10-24T23:17:02Z;"📺 New #rstats vide
 UCT2TrH2M4zbRJZMH6iusyBQ;puzMITLVrqE;2021-01-15T18:34:50Z;"📺 #rstats video: gt
 ▶ R in Pharma
 🔗 https://www.youtube.com/watch?v=puzMITLVrqE"
+UCyHEww8_SCdxZvEnkCfi55w;YgrCjvk9UQU;2021-10-25T14:00:28Z;"📺 New #rstats video: Select Last Column of Data Frame in R (2 Examples) | Refer to & Extract Final Variable | ncol & drop
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=YgrCjvk9UQU"
+UCGuktEl5InrcxPfCjmPWxsA;VZ4wclK1eCQ;2021-10-25T16:00:30Z;"📺 New #rstats video: Creating a labeled scatter plot in R with ggplot2 (CC157)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#labeledscatterplot #labelledscatterplot #labelledscatterchart #labeledscatterchart #scatterplotr
+🔗 https://www.youtube.com/watch?v=VZ4wclK1eCQ"
+UCKJFCIbcGs2a5RGt8RjdbFA;W6cfxJkKy3Q;2021-10-25T19:11:30Z;"📺 New #rstats video: Week 6.2: Data Visualization Part1B
+▶ Liza Wood (@wood__liza)
+🔗 https://www.youtube.com/watch?v=W6cfxJkKy3Q"
+UCGuktEl5InrcxPfCjmPWxsA;llOrbyj0rp8;2018-04-03T13:00:06Z;"📺 #rstats video: The importance of documentation
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=llOrbyj0rp8"
+UCqQ_cxcNu1ekqHXDc-MbU_w;-O9Cjdtg9Js;2019-10-03T14:32:50Z;"📺 #rstats video: Shiny Module & Authentication Training | DS4B 202-R
+▶ Business Science (@bizScienc)
+#shiny #module #authentication #usermanagement
+🔗 https://www.youtube.com/watch?v=-O9Cjdtg9Js"
