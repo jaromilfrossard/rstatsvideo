@@ -2939,3 +2939,30 @@ UCqQ_cxcNu1ekqHXDc-MbU_w;-O9Cjdtg9Js;2019-10-03T14:32:50Z;"📺 #rstats video: S
 ▶ Business Science (@bizScienc)
 #shiny #module #authentication #usermanagement
 🔗 https://www.youtube.com/watch?v=-O9Cjdtg9Js"
+UCyHEww8_SCdxZvEnkCfi55w;rVFcUfipz2M;2021-10-26T14:00:16Z;"📺 New #rstats video: Find Common Rows Between Two Data Frames in R | Identify Duplicates | intersect & inner_join [dplyr]
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=rVFcUfipz2M"
+UCYNVcihAKkRW-bhzIrguvVw;S11p4KAHdcQ;2021-10-26T19:30:16Z;"📺 New #rstats video: Naive Monte Carlo Integration + R Demo
+▶ math et al
+🗣 🇬🇧
+#montecarlosimulation #naivemontecarlo #naivemontecarlointegration #montecarlointegration #montecarlomethod #mathetal #montecarlosampling #naivemc
+🔗 https://www.youtube.com/watch?v=S11p4KAHdcQ"
+UCcKPp7AI7ZTBf60WqXo3Bpg;EZXJmFg4MIg;2021-10-26T20:57:15Z;"📺 New #rstats video: A UseR’s Introduction to Machine Learning in AWS - Emily Robinson
+▶  Salt Lake City R Users Group (@slcrug)
+🗣 🇬🇧
+#machinelearning #amazonwebservices
+🔗 https://www.youtube.com/watch?v=EZXJmFg4MIg"
+UCQ7DcXWJm3es06U7lGmBDkw;z2a80FnLFfE;2021-10-27T01:25:06Z;"📺 New #rstats video: Using RMarkdown to Create Reproducible Documents (Oct 26, 2021) Presenter: Mine Çetinkaya-Rundel
+▶ R Ladies STL (@RLadiesSTL)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=z2a80FnLFfE"
+UClC5yNEjMoE3MmbK-mrV8Ow;8caV0KvmNNw;2021-10-27T09:23:21Z;"📺 New #rstats video: The Art of Design: Software & Experimental Design
+▶ R-Ladies Melbourne (@RLadiesMelb)
+🔗 https://www.youtube.com/watch?v=8caV0KvmNNw"
+UCyHEww8_SCdxZvEnkCfi55w;XoWrmXMgIsQ;2021-10-27T14:00:27Z;"📺 New #rstats video: Obtain List of Directories in R | Use list.dirs Function to Get Folder Names | setwd & gsub Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=XoWrmXMgIsQ"
