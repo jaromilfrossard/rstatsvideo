@@ -2966,3 +2966,21 @@ UCyHEww8_SCdxZvEnkCfi55w;XoWrmXMgIsQ;2021-10-27T14:00:27Z;"📺 New #rstats vide
 🗣 🇬🇧
 #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=XoWrmXMgIsQ"
+UCDgj5-mFohWZ5irWSFMFcng;12ySKyWwX4Y;2021-10-28T03:38:54Z;"📺 New #rstats video: R-Ladies Johannesburg (Eng) - Around the world in a single table - Isabella Velásquez
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#coding #programming
+🔗 https://www.youtube.com/watch?v=12ySKyWwX4Y"
+UC7C4YZ-9itQW7Nl4RVKDflg;rAvPJzCKCCg;2021-10-28T12:42:17Z;"📺 New #rstats video: You’re a Parselmouth, Harry! Speaking python inside of R workflows by Alec Wong (10/27/2021)
+▶ Cleveland R User Group
+🔗 https://www.youtube.com/watch?v=rAvPJzCKCCg"
+UC7C4YZ-9itQW7Nl4RVKDflg;VK4FvRBfM3Y;2021-10-28T13:27:37Z;"📺 New #rstats video: OmicNavigator by John Blischak (10/27/2021)
+▶ Cleveland R User Group
+🔗 https://www.youtube.com/watch?v=VK4FvRBfM3Y"
+UCT2TrH2M4zbRJZMH6iusyBQ;Bnkxf0ceD5c;2020-11-02T02:51:29Z;"📺 #rstats video: R/Pharma 2020 Day 3.  Hannah Diehl.   The See-Value App: Visual Decision Making for Drug Development
+▶ R in Pharma
+🔗 https://www.youtube.com/watch?v=Bnkxf0ceD5c"
+UC3xfbCMLCw1Hh4dWop3XtHg;BEnLLQaUyzQ;2020-11-17T08:00:03Z;"📺 #rstats video: Miriah Meyer | Effective Visualizations | RStudio (2020)
+▶ RStudio (@rstudio)
+#rstudioconf2020 #miriahmeyer #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=BEnLLQaUyzQ"
