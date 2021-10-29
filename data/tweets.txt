@@ -2984,3 +2984,28 @@ UC3xfbCMLCw1Hh4dWop3XtHg;BEnLLQaUyzQ;2020-11-17T08:00:03Z;"📺 #rstats video: M
 ▶ RStudio (@rstudio)
 #rstudioconf2020 #miriahmeyer #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
 🔗 https://www.youtube.com/watch?v=BEnLLQaUyzQ"
+UCyHEww8_SCdxZvEnkCfi55w;PnRfCr9NfDk;2021-10-28T14:00:19Z;"📺 New #rstats video: Select Second to Last Columns of Data Frame in R (2 Examples) | Remove & Extract First Variable Name
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=PnRfCr9NfDk"
+UCGuktEl5InrcxPfCjmPWxsA;Ndan-_POxaE;2021-10-28T16:00:12Z;"📺 New #rstats video: Cleveland dot chart vs bar plot with R's ggplot2 (CC158)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#dotchartvsbarplot #clevelanddotchart #ggplot2dotchart #ggplot2barplot #ggplot2geomcol #ggplot2geompoint
+🔗 https://www.youtube.com/watch?v=Ndan-_POxaE"
+UCDgj5-mFohWZ5irWSFMFcng;UeIE4uZ6Jns;2021-10-28T18:57:34Z;"📺 New #rstats video: R-Ladies Bergen (English) - exploratory data analysis (EDA) workflow - Priyanka Gagneja
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#coding #programming #datascience
+🔗 https://www.youtube.com/watch?v=UeIE4uZ6Jns"
+UCKFp00-PRnuc1Dx4DaUmJBg;fH1KPQLh3dc;2020-09-30T01:29:24Z;"📺 #rstats video: Get R Done | R Stats Tutorials: What are Short and Long Data Formats?
+▶ Chad C. Williams (@WilliamsNeuro)
+🗣 🇬🇧
+#rstudio #statistics #programming #computer #computerscience #data #dataanalysis #analysis #anova
+🔗 https://www.youtube.com/watch?v=fH1KPQLh3dc"
+UCyHEww8_SCdxZvEnkCfi55w;rzjcxLsuez4;2021-05-13T14:00:16Z;"📺 #rstats video: R Remove All Objects But One from Workspace | Clear RStudio Environment | rm, setdiff & ls Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=rzjcxLsuez4"
