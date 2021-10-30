@@ -3009,3 +3009,27 @@ UCyHEww8_SCdxZvEnkCfi55w;rzjcxLsuez4;2021-05-13T14:00:16Z;"📺 #rstats video: R
 🗣 🇬🇧
 #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=rzjcxLsuez4"
+UCyHEww8_SCdxZvEnkCfi55w;ZUiCXglCGKk;2021-10-29T14:00:14Z;"📺 New #rstats video: Add Time to Date Object (Example) | Merge POSIXct with Hours, Minutes & Seconds | lubridate Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=ZUiCXglCGKk"
+UC2-hKemnrmVCH_29duyJ26A;9xXBDU2z_8Y;2021-10-29T19:44:32Z;"📺 New #rstats video: Kun Ren - Using R in VS Code
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=9xXBDU2z_8Y"
+UCyHEww8_SCdxZvEnkCfi55w;609_WMr_OUI;2021-10-30T14:00:02Z;"📺 New #rstats video: Create List of Vectors in R (Example) | Numeric, Integer & Character | How to Apply list() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=609_WMr_OUI"
+UCWI1xyk6Jb4t2OOyP2LS4DQ;0RKBJ9MGxyI;2019-01-09T18:30:54Z;"📺 #rstats video: Data Summarization Part 2 and Data Classes
+▶ John Muschelli (@StrictlyStat)
+🗣 🇬🇧
+#rlang
+🔗 https://www.youtube.com/watch?v=0RKBJ9MGxyI"
+UCyHEww8_SCdxZvEnkCfi55w;i44BOwPtm2M;2020-04-15T14:00:30Z;"📺 #rstats video: Draw Line Segment to Plot in R (Example) | segments Function Explained | How to Add Lines to Plots
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=i44BOwPtm2M"
