@@ -3033,3 +3033,22 @@ UCyHEww8_SCdxZvEnkCfi55w;i44BOwPtm2M;2020-04-15T14:00:30Z;"📺 #rstats video: D
 🗣 🇬🇧
 #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=i44BOwPtm2M"
+UCCaChdLMTYMxyawR_Qf-kYA;gmmMKxWrI0E;2021-10-30T16:46:43Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 28: Graphics for communication (2021-10-26) (r4ds03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=gmmMKxWrI0E"
+UCCaChdLMTYMxyawR_Qf-kYA;4Ju9nj82Ksk;2021-10-30T16:50:49Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 13: Relational data Part 1 (2021-10-23) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=4Ju9nj82Ksk"
+UC3xfbCMLCw1Hh4dWop3XtHg;t25Lbi5D6kg;2021-10-30T21:16:10Z;"📺 New #rstats video: Leveraging R & Python in Tableau with RStudio Connect | James Blair | RStudio
+▶ RStudio (@rstudio)
+🔗 https://www.youtube.com/watch?v=t25Lbi5D6kg"
+UCrmJdnPmle514qkK3lLOsVQ;LkUPLQE8RSc;2021-10-30T21:52:03Z;"📺 New #rstats video: #R | apply() Family 👨‍👩‍👧‍👧 Functions in R | #Rstudio #tidyverse #Rtutorial #ApplyFamily
+▶ RJ Studio
+#applyinr #applyfamilyr #applyr #sapplyr #lapplyr #applyfunction #functionsinr #apply함수 #sapply #lapply
+🔗 https://www.youtube.com/watch?v=LkUPLQE8RSc"
+UCWI1xyk6Jb4t2OOyP2LS4DQ;vqrn0Aji5vg;2020-03-10T04:14:09Z;"📺 #rstats video: Arkansas 2020 Talk: Aditi Voice
+▶ John Muschelli (@StrictlyStat)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=vqrn0Aji5vg"
