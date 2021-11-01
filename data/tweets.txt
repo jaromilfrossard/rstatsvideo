@@ -3052,3 +3052,25 @@ UCWI1xyk6Jb4t2OOyP2LS4DQ;vqrn0Aji5vg;2020-03-10T04:14:09Z;"📺 #rstats video: A
 ▶ John Muschelli (@StrictlyStat)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=vqrn0Aji5vg"
+UCyHEww8_SCdxZvEnkCfi55w;rNTz0wvQjrk;2021-10-31T15:00:36Z;"📺 New #rstats video: Modify Major & Minor Grid Lines of ggplot2 Plot in R (5 Examples) | Control, Adjust & Change Axes
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=rNTz0wvQjrk"
+UCP8l94xtoemCH_GxByvTuFQ;5wlmNSIyHP4;2021-10-31T18:45:01Z;"📺 New #rstats video: TidyX Episode 81 | Tidymodels - Logistic Regression with GLM
+▶ TidyX (@tidy_explained)
+#programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=5wlmNSIyHP4"
+UCCaChdLMTYMxyawR_Qf-kYA;EGu10YO_Bn4;2021-10-31T19:12:51Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapter 12: Tidy evaluation (2021-10-27) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=EGu10YO_Bn4"
+UC2-hKemnrmVCH_29duyJ26A;n9GOvto69aQ;2019-02-14T18:16:21Z;"📺 #rstats video: Catherine Zhou - Time Series, Two Ways: Anomaly Detection & Forecasting
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=n9GOvto69aQ"
+UCyHEww8_SCdxZvEnkCfi55w;A18Jm9DVCsc;2019-07-25T18:25:01Z;"📺 #rstats video: max and min R Functions (2 Programming Examples) | Maximum & Minimum
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #maxfunction #minfunction #maxr #minr #maxandmininr #rprogramminglanguage
+🔗 https://www.youtube.com/watch?v=A18Jm9DVCsc"
