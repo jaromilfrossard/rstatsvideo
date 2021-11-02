@@ -3074,3 +3074,74 @@ UCyHEww8_SCdxZvEnkCfi55w;A18Jm9DVCsc;2019-07-25T18:25:01Z;"📺 #rstats video: m
 🗣 🇬🇧
 #statisticsglobe #maxfunction #minfunction #maxr #minr #maxandmininr #rprogramminglanguage
 🔗 https://www.youtube.com/watch?v=A18Jm9DVCsc"
+UC_R5smHVXRYGhZYDJsnXTwg;0ykKgvhZPKw;2021-11-01T14:53:28Z;"📺 New #rstats video: Working on projects in R - 2021-09-04
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rconsortium
+🔗 https://www.youtube.com/watch?v=0ykKgvhZPKw"
+UCyHEww8_SCdxZvEnkCfi55w;FrPjGAdPhIc;2021-11-01T15:00:06Z;"📺 New #rstats video: Remove Last N Elements of Vector in R (2 Examples) | Drop, Delete, Extract, Select | head() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=FrPjGAdPhIc"
+UCKMekE_4UfWvZDuBWenG8WA;KbwYdRbmgbY;2021-11-01T15:04:31Z;"📺 New #rstats video: How to set up Automated Tests for Your R Package using testthat
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#rpackage #usethis #devtools #testthat #unittest #automatedtesting
+🔗 https://www.youtube.com/watch?v=KbwYdRbmgbY"
+UCGuktEl5InrcxPfCjmPWxsA;iChfSHj7G30;2021-11-01T16:00:32Z;"📺 New #rstats video: Finding and loading data into R (CC159)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#findingandloadingdataintor #findingadnloadingdataintor #findingadnloadingdatainotr #findingandloadingdatainotr #readcsv #readtsv
+🔗 https://www.youtube.com/watch?v=iChfSHj7G30"
+UCKJFCIbcGs2a5RGt8RjdbFA;GDqT7MP2QLA;2021-11-01T16:36:33Z;"📺 New #rstats video: Week 7.2: Data Visualization Part 2B
+▶ Liza Wood (@wood__liza)
+🔗 https://www.youtube.com/watch?v=GDqT7MP2QLA"
+UCKJFCIbcGs2a5RGt8RjdbFA;Xq2lCoNlqH8;2021-11-01T17:43:38Z;"📺 New #rstats video: Week 7.1: Data Visualization Part 2A
+▶ Liza Wood (@wood__liza)
+🔗 https://www.youtube.com/watch?v=Xq2lCoNlqH8"
+UCBsXfUO__nzMnlaLLUx7DFQ;ZIk13Zd8Nno;2021-11-01T23:45:28Z;"📺 New #rstats video: Intro to nflfastR Data
+▶ Probability!
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=ZIk13Zd8Nno"
+UCpSo0ZG5FtMyKwGnHaGnvrA;blVH1fMh2t8;2021-11-02T01:10:34Z;"📺 New #rstats video: R Markdown to HTML
+▶ Aaron Maxwell
+🗣 🇬🇧
+#americaview #westvirginiaview #rmarkdown
+🔗 https://www.youtube.com/watch?v=blVH1fMh2t8"
+UCdFC653IaBVC5kwj7CGo2sQ;C5Ik-WkPuGQ;2021-11-02T14:07:00Z;"📺 New #rstats video: Arranging Plots in R with patchwork and ggforce
+▶ RappA (@rappa753)
+🔗 https://www.youtube.com/watch?v=C5Ik-WkPuGQ"
+UCCaChdLMTYMxyawR_Qf-kYA;8-_iLnAogss;2021-11-02T14:44:04Z;"📺 New #rstats video: ggplot2 Book Club Chapter 6: Maps (part 1) (2021-10-25) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=8-_iLnAogss"
+UCyHEww8_SCdxZvEnkCfi55w;7XDDI0BnDAw;2021-11-02T15:00:03Z;"📺 New #rstats video: Access & Collect Data with APIs in R (Example) | Ft. Kirby White | JSON File, Key & Create Shiny App
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=7XDDI0BnDAw"
+UCCaChdLMTYMxyawR_Qf-kYA;Y5dz5ExYGxI;2021-11-02T15:16:22Z;"📺 New #rstats video: ISLR Book Club: Chapter 3 Linear Regression Lab (2021-10-26) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=Y5dz5ExYGxI"
+UCCaChdLMTYMxyawR_Qf-kYA;JUwgp4isp5U;2021-11-02T15:24:39Z;"📺 New #rstats video: Regression and Other Stories: Chapter 11 Continued (2021-10-26) (ros01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=JUwgp4isp5U"
+UCCaChdLMTYMxyawR_Qf-kYA;Rf-NBtAkKP0;2021-11-02T15:36:23Z;"📺 New #rstats video: Tidytext Book Club: Chapter 5: Converting to and from non-tidy formats (2021-10-27) (tidytext01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=Rf-NBtAkKP0"
+UCCaChdLMTYMxyawR_Qf-kYA;p5IXw-AlBK4;2021-11-02T15:47:46Z;"📺 New #rstats video: Engineering Production Grade Shiny Apps Book Club Chapter 11 (2021-10-27) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=p5IXw-AlBK4"
+UCCaChdLMTYMxyawR_Qf-kYA;sEYMNIEvG5Q;2021-11-02T15:56:20Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 3: Data Visualization (2021-10-29) (r4ds06)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=sEYMNIEvG5Q"
+UCCaChdLMTYMxyawR_Qf-kYA;BDckA3OdsiU;2021-11-02T15:59:20Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 13: Relational data Part 2 (2021-10-30) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=BDckA3OdsiU"
