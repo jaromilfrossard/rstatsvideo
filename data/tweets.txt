@@ -3145,3 +3145,27 @@ UCCaChdLMTYMxyawR_Qf-kYA;BDckA3OdsiU;2021-11-02T15:59:20Z;"📺 New #rstats vide
 ▶ R4DS Online Learning Community (@R4DScommunity)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=BDckA3OdsiU"
+UCMwM-3tg_-Pbx8hKO78q5EA;Mmo1usxWEW4;2021-11-03T12:58:50Z;"📺 New #rstats video: NHS-R Conference 2021 workshop: Functional Programming with R
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#nhs #nhsr #datascience #functionalprogramming
+🔗 https://www.youtube.com/watch?v=Mmo1usxWEW4"
+UCnwYO3Sz_emBTC1sTZ6TlsQ;So-AL21HnWU;2020-05-20T00:46:15Z;"📺 #rstats video: TidyTuesday: Creating a UFC dashboard using R Shiny with shinydashboard
+▶ Andrew Couch (@Andr3wCouch)
+🗣 🇬🇧
+#tidytuesday #rstudio #datascience #analytics #ufc #sportsscience #elo #dplyr #datawrangling #ggplot2
+🔗 https://www.youtube.com/watch?v=So-AL21HnWU"
+UC3xfbCMLCw1Hh4dWop3XtHg;AuBgYDCg1Cg;2018-03-14T20:25:00Z;"📺 #rstats video: Working with Two Datasets: Binds, Set Operations, and Joins  -- Pt 4 Intro to Data Manipulation
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#grammarofdatamanipulation #datascience #datawrangling #appliedstatistics #statistics
+🔗 https://www.youtube.com/watch?v=AuBgYDCg1Cg"
+UCMdihazndR0f9XBoSXWqnYg;spN8DZqX5hU;2015-11-30T22:26:42Z;"📺 #rstats video: R - Exploratory Factor Analysis Lecture 1
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rprogramminglanguage #statisticsfieldofstudy #factoranalysis
+🔗 https://www.youtube.com/watch?v=spN8DZqX5hU"
+UCMwM-3tg_-Pbx8hKO78q5EA;1Sw3qPqSb70;2020-11-13T13:32:53Z;"📺 #rstats video: R Code Quality: Does it Really Matter? by Colin Gillespie
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=1Sw3qPqSb70"
