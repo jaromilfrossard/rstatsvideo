@@ -3169,3 +3169,27 @@ UCMwM-3tg_-Pbx8hKO78q5EA;1Sw3qPqSb70;2020-11-13T13:32:53Z;"📺 #rstats video: R
 ▶ NHSR Community (@NHSrCommunity)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=1Sw3qPqSb70"
+UCyHEww8_SCdxZvEnkCfi55w;VhB8s47cpnE;2021-11-03T15:00:16Z;"📺 New #rstats video: How to Apply a Function to Each Element of a Matrix in R (2 Examples) | Pre- & User-Defined Command
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=VhB8s47cpnE"
+UC_R5smHVXRYGhZYDJsnXTwg;B_ZmcYoDmhU;2021-11-04T04:14:44Z;"📺 New #rstats video: useR! 2021–Interview with Liz Hare, member of the technology and diversity teams
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rconsortium
+🔗 https://www.youtube.com/watch?v=B_ZmcYoDmhU"
+UCDgj5-mFohWZ5irWSFMFcng;cJCvyfVt1nw;2021-11-04T08:51:04Z;"📺 New #rstats video: R-Ladies Johannesburg (Eng) - Spatial network analysis with the sfnetworks package - Renate Thiede
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#coding #programming
+🔗 https://www.youtube.com/watch?v=cJCvyfVt1nw"
+UCnwYO3Sz_emBTC1sTZ6TlsQ;BUFNZv72ow4;2020-04-01T04:33:53Z;"📺 #rstats video: Tidy Tuesday: Analyzing Beer Production and Forecasting Using Prophet and The Tidyverse
+▶ Andrew Couch (@Andr3wCouch)
+🗣 🇬🇧
+#rstudio #tidyverse #rprogramming #datascience #analytics #universityofiowa #statistics
+🔗 https://www.youtube.com/watch?v=BUFNZv72ow4"
+UC2-hKemnrmVCH_29duyJ26A;wUaf2zkzWBo;2018-08-15T22:32:49Z;"📺 #rstats video: Forecasting at Scale: How and Why We Developed Prophet for Forecasting at Facebook
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=wUaf2zkzWBo"
