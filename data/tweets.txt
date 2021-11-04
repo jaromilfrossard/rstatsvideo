@@ -3193,3 +3193,26 @@ UC2-hKemnrmVCH_29duyJ26A;wUaf2zkzWBo;2018-08-15T22:32:49Z;"📺 #rstats video: F
 ▶ Lander Analytics (@LanderAnalytics)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=wUaf2zkzWBo"
+UCyHEww8_SCdxZvEnkCfi55w;VaNXKX1SUxM;2021-11-04T15:00:29Z;"📺 New #rstats video: stringsAsFactors Argument of data frame Function in R (2 Examples) | Set Character & Factor Class
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=VaNXKX1SUxM"
+UCDgj5-mFohWZ5irWSFMFcng;2cCXUYgEtGw;2021-11-04T15:15:08Z;"📺 New #rstats video: R-Ladies Johannesburg (Eng) - Spatial network analysis with the {sfnetworks} package - Renate Thiede
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#coding #programming
+🔗 https://www.youtube.com/watch?v=2cCXUYgEtGw"
+UCGuktEl5InrcxPfCjmPWxsA;kj8u2aDO3Go;2021-11-04T16:00:18Z;"📺 New #rstats video: Using the select function and its helper functions in R to pick columns from a data frame (CC160)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rselectfunctionhelper #rselectfucntionhelper #selectstartswith
+🔗 https://www.youtube.com/watch?v=kj8u2aDO3Go"
+UC3xfbCMLCw1Hh4dWop3XtHg;_XNKSEQTo30;2021-11-04T16:12:22Z;"📺 New #rstats video: RStudio Team Deep Dive | In A Hosted Environment
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology #coding #connect
+🔗 https://www.youtube.com/watch?v=_XNKSEQTo30"
+UC_R5smHVXRYGhZYDJsnXTwg;PGJi9RFLigE;2018-07-14T22:32:10Z;"📺 #rstats video: R-package for simulating linear model data (simrel)
+▶ R Consortium (@RConsortium)
+🔗 https://www.youtube.com/watch?v=PGJi9RFLigE"

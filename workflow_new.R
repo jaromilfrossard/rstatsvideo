@@ -40,7 +40,7 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
 #update channels videos
 walk(tb_channel$id_channel, update_channel_video)
 
-#update_channel_video(id = "UCZQlpKYQPlf2QNVdSv_TRdg")
+#update_channel_video(id = "UCDgj5-mFohWZ5irWSFMFcng")
 
 # tb_channel%>%
 #   tail()
