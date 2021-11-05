@@ -3216,3 +3216,25 @@ UC3xfbCMLCw1Hh4dWop3XtHg;_XNKSEQTo30;2021-11-04T16:12:22Z;"📺 New #rstats vide
 UC_R5smHVXRYGhZYDJsnXTwg;PGJi9RFLigE;2018-07-14T22:32:10Z;"📺 #rstats video: R-package for simulating linear model data (simrel)
 ▶ R Consortium (@RConsortium)
 🔗 https://www.youtube.com/watch?v=PGJi9RFLigE"
+UCBsXfUO__nzMnlaLLUx7DFQ;wouqgSMHVpE;2021-11-05T14:00:33Z;"📺 New #rstats video: Team Analytics & Logo Visualization
+▶ Probability!
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=wouqgSMHVpE"
+UCyHEww8_SCdxZvEnkCfi55w;XQ-2jKpMq2k;2021-11-05T15:00:18Z;"📺 New #rstats video: Summarize Multiple Columns of data.table by Group in R (Example) | lapply, mean | data.table Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=XQ-2jKpMq2k"
+UCTTBgWyJl2HrrhQOOc710kA;wVrcw_ek3a4;2021-11-05T16:21:13Z;"📺 New #rstats video: Spatial resampling for more reliable model evaluation with geographic data
+▶ Julia Silge (@juliasilge)
+🔗 https://www.youtube.com/watch?v=wVrcw_ek3a4"
+UCcCMO7sHb8O_TJUd34sQ_Ng;MOTqB_O4Z8k;2020-06-22T06:46:16Z;"📺 #rstats video: Manipuler les Dates dans R (Introduction) | Comment dans R?| Tuto debutants| caps24
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#datesdansr #manipulerlesdatesdansr #travailleraveclesdatesdansr #lesdatesdansr #convertirlesdatesdansr
+🔗 https://www.youtube.com/watch?v=MOTqB_O4Z8k"
+UCB_noR4lYmbKJozwJuPStbg;sspFC2m8fog;2020-12-08T18:29:17Z;"📺 #rstats video: Tidy data & pivot data (part of the Rfun Introduction to R series)
+▶ John Little (@john_little)
+🗣 🇬🇧
+#tidy #data #pivotlonger #pivotwider #tidyverse #r
+🔗 https://www.youtube.com/watch?v=sspFC2m8fog"
