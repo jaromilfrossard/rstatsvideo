@@ -3238,3 +3238,23 @@ UCB_noR4lYmbKJozwJuPStbg;sspFC2m8fog;2020-12-08T18:29:17Z;"📺 #rstats video: T
 🗣 🇬🇧
 #tidy #data #pivotlonger #pivotwider #tidyverse #r
 🔗 https://www.youtube.com/watch?v=sspFC2m8fog"
+UCyHEww8_SCdxZvEnkCfi55w;icYbAYLvlsY;2021-11-06T15:00:30Z;"📺 New #rstats video: Remove Intercept from Regression Model in R (2 Examples) | Estimate & Evaluate with lm() & summary()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=icYbAYLvlsY"
+UCYgIy7zeC7v6iZhx0-NywBw;YEnPHmV_e5o;2019-04-16T06:44:10Z;"📺 #rstats video: Lightning-Computing info criteria multilevel models using diff sample sizes-Wendy C-SatRday LA 19
+▶ satRdays (@satRdays_org)
+#satrdayla #satrday #ucla
+🔗 https://www.youtube.com/watch?v=YEnPHmV_e5o"
+UCFXPzW7RxP6RfQGpRn7WXNw;BQ7PX5AAA4Y;2021-04-28T20:06:57Z;"📺 #rstats video: w5p2: Looping variants
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=BQ7PX5AAA4Y"
+UCqQ_cxcNu1ekqHXDc-MbU_w;D5OBWBM5kwk;2020-12-01T14:04:16Z;"📺 #rstats video: Geospatial Map Visualizations in R
+▶ Business Science (@bizScienc)
+🔗 https://www.youtube.com/watch?v=D5OBWBM5kwk"
+UCwLy_PYrnCEhCU-Ay2F5Drw;mEAyQ8bv1zU;2020-09-27T10:06:32Z;"📺 #rstats video: Why R? 2020 Keynote - Roger Bivand - Applied Spatial Data Analysis with R: retrospect and prospect
+▶ Why R? Foundation (@whyRconf)
+#whyr #datascience #machinelearning #computations #programming #rdatascience
+🔗 https://www.youtube.com/watch?v=mEAyQ8bv1zU"
