@@ -82,3 +82,4 @@ UC8bO8eVpfEK8LbqH0oxyc3Q;R User Group at Harvard Data Science Initiative;
 UCP8l94xtoemCH_GxByvTuFQ;TidyX;tidy_explained
 UCpSo0ZG5FtMyKwGnHaGnvrA;Aaron Maxwell;
 UCB_noR4lYmbKJozwJuPStbg;John Little;john_little
+UCYTxHFYjftv-kxhogQuwXhA;Jasper Tjaden;JasperTjaden
