@@ -3258,3 +3258,21 @@ UCwLy_PYrnCEhCU-Ay2F5Drw;mEAyQ8bv1zU;2020-09-27T10:06:32Z;"📺 #rstats video: W
 ▶ Why R? Foundation (@whyRconf)
 #whyr #datascience #machinelearning #computations #programming #rdatascience
 🔗 https://www.youtube.com/watch?v=mEAyQ8bv1zU"
+UCTTBgWyJl2HrrhQOOc710kA;0WCmLYvfHMw;2020-05-13T22:12:38Z;"📺 #rstats video: Multinomial classification with tidymodels and volcano eruptions
+▶ Julia Silge (@juliasilge)
+🔗 https://www.youtube.com/watch?v=0WCmLYvfHMw"
+UCB_noR4lYmbKJozwJuPStbg;dOrmDtmyEyo;2021-01-29T01:12:28Z;"📺 #rstats video: Flipped R intro part 1 - the workshop recording
+▶ John Little (@john_little)
+🗣 🇬🇧
+#r #datascience #tidyverse #workshops #dplyr #reproducibility #literatecoding #rmarkdown #datawrangling
+🔗 https://www.youtube.com/watch?v=dOrmDtmyEyo"
+UC_R5smHVXRYGhZYDJsnXTwg;HVoK9rTi-hM;2018-07-14T23:03:26Z;"📺 #rstats video: Using TMB (Template Model Builder) to predict the winner of a ping pong match
+▶ R Consortium (@RConsortium)
+🔗 https://www.youtube.com/watch?v=HVoK9rTi-hM"
+UC3xfbCMLCw1Hh4dWop3XtHg;wM0B3CB18oQ;2021-01-22T08:00:12Z;"📺 #rstats video: Jake Thompson | Branding and Packaging Reports with R Markdown | RStudio (2020)
+▶ RStudio (@rstudio)
+#rstudioconf2020 #jakethompson #rstudio #datascience #machinelearning #python #stats #tidyverse
+🔗 https://www.youtube.com/watch?v=wM0B3CB18oQ"
+UCktFo5XoX5QZMWb2Gb3KY2A;2WCoCls7zzs;2021-04-24T18:32:06Z;"📺 #rstats video: As a medical doctor, were you mandated to use R?
+▶ R-Ladies Abuja (@RLadiesAbuja)
+🔗 https://www.youtube.com/watch?v=2WCoCls7zzs"
