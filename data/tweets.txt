@@ -3276,3 +3276,22 @@ UC3xfbCMLCw1Hh4dWop3XtHg;wM0B3CB18oQ;2021-01-22T08:00:12Z;"📺 #rstats video: J
 UCktFo5XoX5QZMWb2Gb3KY2A;2WCoCls7zzs;2021-04-24T18:32:06Z;"📺 #rstats video: As a medical doctor, were you mandated to use R?
 ▶ R-Ladies Abuja (@RLadiesAbuja)
 🔗 https://www.youtube.com/watch?v=2WCoCls7zzs"
+UCyHEww8_SCdxZvEnkCfi55w;maFwlT9OfK0;2021-11-07T15:00:32Z;"📺 New #rstats video: Access Index Names of List Using lapply Function in R (Example) | seq_along(), paste() & names()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=maFwlT9OfK0"
+UCP8l94xtoemCH_GxByvTuFQ;L32snM7KsQw;2021-11-07T20:00:03Z;"📺 New #rstats video: TidyX Episode 82 | Tidymodels - Tuning a Random Forest
+▶ TidyX (@tidy_explained)
+#programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=L32snM7KsQw"
+UC9oOCJe8kwkZ_6IgTmet9oQ;irbIyaELnPY;2021-11-07T23:00:28Z;"📺 New #rstats video: R Ladies Brisbane x Urmia Oct 2021: Cluster analysis, interpolation techniques and more using R
+▶ R-Ladies Brisbane (@RLadiesBrisbane)
+🔗 https://www.youtube.com/watch?v=irbIyaELnPY"
+UCMwM-3tg_-Pbx8hKO78q5EA;f_xX1Bql3j0;2018-07-24T07:40:01Z;"📺 #rstats video: Relational data
+▶ NHSR Community (@NHSrCommunity)
+🔗 https://www.youtube.com/watch?v=f_xX1Bql3j0"
+UCF9ymC7Dpjwr0lge2QR_A5Q;5sD4Z8bTlMM;2021-04-01T22:05:08Z;"📺 #rstats video: webin-R #13 : Exemples de graphiques avancés
+▶ webin-R
+🗣 🇫🇷
+🔗 https://www.youtube.com/watch?v=5sD4Z8bTlMM"
