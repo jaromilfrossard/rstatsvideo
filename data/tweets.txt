@@ -3295,3 +3295,32 @@ UCF9ymC7Dpjwr0lge2QR_A5Q;5sD4Z8bTlMM;2021-04-01T22:05:08Z;"📺 #rstats video: w
 ▶ webin-R
 🗣 🇫🇷
 🔗 https://www.youtube.com/watch?v=5sD4Z8bTlMM"
+UCBsXfUO__nzMnlaLLUx7DFQ;eVx2T5ru5OA;2021-11-08T14:00:18Z;"📺 New #rstats video: Building Models to predict NFL Output
+▶ Probability!
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=eVx2T5ru5OA"
+UCwQ7lkY6YWzZjT807Itbvtw;dEdBPgpQBQQ;2021-11-08T14:41:28Z;"📺 New #rstats video: JavaScript to the (timezone) rescue in shinycal!
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=dEdBPgpQBQQ"
+UCwQ7lkY6YWzZjT807Itbvtw;5z6csvP18TA;2021-11-08T14:41:48Z;"📺 New #rstats video: Unpacking the htmltools toolbox in Outstanding Shiny UI!
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=5z6csvP18TA"
+UCwQ7lkY6YWzZjT807Itbvtw;811BA8Kh7l4;2021-11-08T14:42:10Z;"📺 New #rstats video: Adventures in processing my own CRAN mirror!
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=811BA8Kh7l4"
+UCwQ7lkY6YWzZjT807Itbvtw;qAtKjAEyG4I;2021-11-08T14:42:23Z;"📺 New #rstats video: Assembling questions for a CRAN package quiz!
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=qAtKjAEyG4I"
+UCwQ7lkY6YWzZjT807Itbvtw;EA6Lf12qTag;2021-11-08T14:42:35Z;"📺 New #rstats video: Inside the R/Pharma 2021 Quiz App!
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=EA6Lf12qTag"
+UCyHEww8_SCdxZvEnkCfi55w;Dkzho1P27b4;2021-11-08T15:00:07Z;"📺 New #rstats video: Remove Row & Column Names from Matrix in R (2 Examples) | Delete with rownames & colnames Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Dkzho1P27b4"
+UCGuktEl5InrcxPfCjmPWxsA;o8lvheRKSbk;2021-11-08T17:00:38Z;"📺 New #rstats video: Using dplyr's filter function to pick rows from a data frame in R (CC161)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#filterfunction #filterdplyr #filterr #tidyversefilter #filterfunctionr #tidyversedropna
+🔗 https://www.youtube.com/watch?v=o8lvheRKSbk"
