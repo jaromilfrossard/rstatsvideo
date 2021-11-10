@@ -3324,3 +3324,40 @@ UCGuktEl5InrcxPfCjmPWxsA;o8lvheRKSbk;2021-11-08T17:00:38Z;"📺 New #rstats vide
 🗣 🇬🇧
 #filterfunction #filterdplyr #filterr #tidyversefilter #filterfunctionr #tidyversedropna
 🔗 https://www.youtube.com/watch?v=o8lvheRKSbk"
+UCyHEww8_SCdxZvEnkCfi55w;c3e8m3K0eC4;2021-11-09T15:00:32Z;"📺 New #rstats video: Create & Connect to SQL Database in R (Example) | Access, Interface Management & Software Packages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=c3e8m3K0eC4"
+UCMwM-3tg_-Pbx8hKO78q5EA;5HnW1YP3vTk;2021-11-09T17:02:55Z;"📺 New #rstats video: NHS-R Community Conference 2021 - Day 2
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#nhsr #nhs #datascience
+🔗 https://www.youtube.com/watch?v=5HnW1YP3vTk"
+UCCaChdLMTYMxyawR_Qf-kYA;p7CyaalpUNI;2021-11-09T17:14:47Z;"📺 New #rstats video: Tidy Modeling with R Book Club: Chapter 21 (Inferential analysis) (2021-11-08) (tmwr03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=p7CyaalpUNI"
+UCMwM-3tg_-Pbx8hKO78q5EA;2gqgq1rRTG4;2021-11-09T18:20:17Z;"📺 New #rstats video: NHS-R Conference 2021: Fitting Distributions in R workshop
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=2gqgq1rRTG4"
+UCKMekE_4UfWvZDuBWenG8WA;D6nPJGcGRgw;2021-11-09T20:55:01Z;"📺 New #rstats video: What About ""..."" in R Functions? Magic and Danger
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#rprogramming #functionalprogramming #functions #dotdotdot #functionarguments #passingonarguments #errorhandling
+🔗 https://www.youtube.com/watch?v=D6nPJGcGRgw"
+UCBsXfUO__nzMnlaLLUx7DFQ;qmpDZO1xcuQ;2021-11-10T14:00:31Z;"📺 New #rstats video: Analyzing Aggressive Play-Calling in the NFL
+▶ Probability!
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=qmpDZO1xcuQ"
+UCyHEww8_SCdxZvEnkCfi55w;G3rGLDTj3pY;2021-11-10T15:00:07Z;"📺 New #rstats video: Create Nested List in R (2 Examples) | for-Loop, list, length & get Functions Explained in RStudio
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=G3rGLDTj3pY"
+UCMwM-3tg_-Pbx8hKO78q5EA;NFQ4filc2jI;2021-11-10T17:45:21Z;"📺 New #rstats video: NHS-R Community Conference 2021 - Day 3
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#nhsr #datascience #nhs
+🔗 https://www.youtube.com/watch?v=NFQ4filc2jI"
