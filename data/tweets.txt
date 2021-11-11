@@ -3361,3 +3361,25 @@ UCMwM-3tg_-Pbx8hKO78q5EA;NFQ4filc2jI;2021-11-10T17:45:21Z;"📺 New #rstats vide
 🗣 🇬🇧
 #nhsr #datascience #nhs
 🔗 https://www.youtube.com/watch?v=NFQ4filc2jI"
+UCyHEww8_SCdxZvEnkCfi55w;E-NkWjMMw4M;2021-11-11T15:00:17Z;"📺 New #rstats video: Find Unique Values in List in R (Example) | unlist() & unique() Functions | Identify Non-Duplicates
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=E-NkWjMMw4M"
+UC_R5smHVXRYGhZYDJsnXTwg;ONNRWOTvtgw;2018-07-14T21:48:19Z;"📺 #rstats video: Combining R and Python with GraalVM
+▶ R Consortium (@RConsortium)
+🔗 https://www.youtube.com/watch?v=ONNRWOTvtgw"
+UCMwM-3tg_-Pbx8hKO78q5EA;WelmlZK5G2Y;2020-11-04T15:56:16Z;"📺 #rstats video: Introduction to changepoint analysis
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=WelmlZK5G2Y"
+UCMdihazndR0f9XBoSXWqnYg;F-OffO0w0u8;2016-04-14T04:12:00Z;"📺 #rstats video: R - Chapter 12: ANOVA - Lecture Part 2
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#anova #statistics #rstudio #rprogram #hypothesistesting #theory #fdistribution
+🔗 https://www.youtube.com/watch?v=F-OffO0w0u8"
+UCyHEww8_SCdxZvEnkCfi55w;zGIVJY4rF_0;2020-04-20T14:00:32Z;"📺 #rstats video: Remove Legend Title from ggplot2 Plot in R (Example) | Delete Text Above Legend | element_blank
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming #rprogramming
+🔗 https://www.youtube.com/watch?v=zGIVJY4rF_0"
