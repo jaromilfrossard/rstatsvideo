@@ -3383,3 +3383,26 @@ UCyHEww8_SCdxZvEnkCfi55w;zGIVJY4rF_0;2020-04-20T14:00:32Z;"📺 #rstats video: R
 🗣 🇬🇧
 #statisticsglobe #statisticsglobecom #statisticalprogramming #rprogramming
 🔗 https://www.youtube.com/watch?v=zGIVJY4rF_0"
+UCGuktEl5InrcxPfCjmPWxsA;tb054Z3AMN4;2021-11-11T17:00:39Z;"📺 New #rstats video: Using dplyr's slice and arrange functions in R to order and pick rows from a data frame (CC162)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#slicearrangefunctionsr #arrangefunctionr #arrangedescr #sortrowsr
+🔗 https://www.youtube.com/watch?v=tb054Z3AMN4"
+UCyHEww8_SCdxZvEnkCfi55w;A9BgmifYKIE;2021-11-12T15:00:04Z;"📺 New #rstats video: Convert List to Lowercase or Uppercase in R (Example) | Modify & Change Character String Letter Case
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=A9BgmifYKIE"
+UC_R5smHVXRYGhZYDJsnXTwg;GTdV1s9TIBQ;2019-08-03T13:49:26Z;"📺 #rstats video: useR! 2019 Toulouse - Talk Operations & Data Products - François Michonneau
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=GTdV1s9TIBQ"
+UC_R5smHVXRYGhZYDJsnXTwg;01swFn3i5N8;2018-07-11T05:37:23Z;"📺 #rstats video: fasteR: ways to speed up R code - Part 2
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=01swFn3i5N8"
+UCMdihazndR0f9XBoSXWqnYg;K6gFhPS_dKk;2016-02-29T04:04:57Z;"📺 #rstats video: R - Chapter 7: Z Tests - Lecture Part 1
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#statistics #zscore #hypothesistesting #rstudio #rprogram
+🔗 https://www.youtube.com/watch?v=K6gFhPS_dKk"
