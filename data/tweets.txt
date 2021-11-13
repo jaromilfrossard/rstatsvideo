@@ -3406,3 +3406,25 @@ UCMdihazndR0f9XBoSXWqnYg;K6gFhPS_dKk;2016-02-29T04:04:57Z;"📺 #rstats video: R
 🗣 🇬🇧
 #statistics #zscore #hypothesistesting #rstudio #rprogram
 🔗 https://www.youtube.com/watch?v=K6gFhPS_dKk"
+UCMwM-3tg_-Pbx8hKO78q5EA;w2LbATKFAI8;2021-11-12T16:05:49Z;"📺 New #rstats video: NHS-R Conference 2021 workshop: NHS DataDictionaRy
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=w2LbATKFAI8"
+UCyf1AvRK4gmfRUJjeBNMauA;6f36rZjbmkQ;2021-11-12T19:03:05Z;"📺 New #rstats video: Getting The Most Out of the {colourPicker} and {bs4Dash} Packages in R
+▶ Tunis R User Group (@TunisRUserGroup)
+🗣 🇬🇧
+#rstudio #onlinemeetup #datavisualization #dataviz #bs4dash #rshiny #shiny #graphics #charts
+🔗 https://www.youtube.com/watch?v=6f36rZjbmkQ"
+UC3xfbCMLCw1Hh4dWop3XtHg;e2h-BVgY4VA;2021-11-12T19:36:37Z;"📺 New #rstats video: Hlynur Hallgrímsson | R in Public Sector | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=e2h-BVgY4VA"
+UC3xfbCMLCw1Hh4dWop3XtHg;4dp1vu_TzXg;2021-11-12T23:22:29Z;"📺 New #rstats video: Tom Bliss | R in Sports Analytics - Player Tracking Data & Big Data Bowl | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=4dp1vu_TzXg"
+UCyHEww8_SCdxZvEnkCfi55w;ZpnztNw3P-I;2021-05-12T14:00:11Z;"📺 #rstats video: Sort Matrix According to First Column in R (Example) | Reorder Data by Variable | order() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=ZpnztNw3P-I"
