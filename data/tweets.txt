@@ -3428,3 +3428,25 @@ UCyHEww8_SCdxZvEnkCfi55w;ZpnztNw3P-I;2021-05-12T14:00:11Z;"📺 #rstats video: S
 🗣 🇬🇧
 #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=ZpnztNw3P-I"
+UCyHEww8_SCdxZvEnkCfi55w;zm9Iv6C4k60;2021-11-13T15:00:23Z;"📺 New #rstats video: Replace Negative Values by Zero in R (2 Examples) | Exchange, Substitute & Set to 0 | Vector & Data
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=zm9Iv6C4k60"
+UC2M4LiU11tjZfL86yfufSKA;40PvQkcmxvM;2021-11-14T07:50:35Z;"📺 New #rstats video: R Programming-GRM using ltm package - polytomous IRT model
+▶ Sukaesi Marianti
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=40PvQkcmxvM"
+UC2M4LiU11tjZfL86yfufSKA;RoWPDHR0Q7M;2021-11-14T08:58:40Z;"📺 New #rstats video: R Programming - PCM & GPCM using ltm package - polytomous IRT model
+▶ Sukaesi Marianti
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=RoWPDHR0Q7M"
+UCyHEww8_SCdxZvEnkCfi55w;FA7v537BTmc;2021-11-14T15:00:15Z;"📺 New #rstats video: Convert Nested Lists to Data Frame or Matrix in R (Example) | Apply do.call, cbind & rbind Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=FA7v537BTmc"
+UC3xfbCMLCw1Hh4dWop3XtHg;B5OuV2CzuRQ;2019-10-21T07:00:00Z;"📺 #rstats video: Hao Zhu | Empowering a data team with RStudio addins | RStudio (2019)
+▶ RStudio (@rstudio)
+#haozhu #addins #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=B5OuV2CzuRQ"
