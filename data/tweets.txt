@@ -3450,3 +3450,25 @@ UC3xfbCMLCw1Hh4dWop3XtHg;B5OuV2CzuRQ;2019-10-21T07:00:00Z;"📺 #rstats video: H
 ▶ RStudio (@rstudio)
 #haozhu #addins #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
 🔗 https://www.youtube.com/watch?v=B5OuV2CzuRQ"
+UCP8l94xtoemCH_GxByvTuFQ;JhePa_FMHlQ;2021-11-14T19:00:05Z;"📺 New #rstats video: TidyX Episode 83 | Tidymodels - Naive Bayes of Penguins
+▶ TidyX (@tidy_explained)
+#programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=JhePa_FMHlQ"
+UCDgj5-mFohWZ5irWSFMFcng;Mt_ZWEW3qto;2021-11-15T10:51:24Z;"📺 New #rstats video: R-Ladies Coventry & Italy (English) - How to run funnel analyses in R  - Dr Sara Iacozza
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#coding #programming
+🔗 https://www.youtube.com/watch?v=Mt_ZWEW3qto"
+UCMwM-3tg_-Pbx8hKO78q5EA;R7uDB9iqlZY;2021-11-15T13:05:15Z;"📺 New #rstats video: NHS-R Community Conference 2021 - Day 1
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#nhsr #datascience #nhs #rprogramming
+🔗 https://www.youtube.com/watch?v=R7uDB9iqlZY"
+UCyHEww8_SCdxZvEnkCfi55w;LVbHK2_RON0;2021-11-15T15:00:09Z;"📺 New #rstats video: R Error: $-Operator is Invalid for Atomic Vectors (Example) | How to Fix | is.atomic & is.recursive
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=LVbHK2_RON0"
+UC_R5smHVXRYGhZYDJsnXTwg;kt-gHaHKjZ8;2018-07-15T22:36:19Z;"📺 #rstats video: What we are doing with the R Consortium funds
+▶ R Consortium (@RConsortium)
+🔗 https://www.youtube.com/watch?v=kt-gHaHKjZ8"
