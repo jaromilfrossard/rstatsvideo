@@ -3472,3 +3472,33 @@ UCyHEww8_SCdxZvEnkCfi55w;LVbHK2_RON0;2021-11-15T15:00:09Z;"📺 New #rstats vide
 UC_R5smHVXRYGhZYDJsnXTwg;kt-gHaHKjZ8;2018-07-15T22:36:19Z;"📺 #rstats video: What we are doing with the R Consortium funds
 ▶ R Consortium (@RConsortium)
 🔗 https://www.youtube.com/watch?v=kt-gHaHKjZ8"
+UCGuktEl5InrcxPfCjmPWxsA;ZOSMcPOuv6M;2021-11-15T17:00:32Z;"📺 New #rstats video: Using dplyr's group_by for grouping data in R (CC163)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#groupingdatainr #dplyrgroupby #rgroupby #rdataframe #rdplyr #rdplyrgroupby #dplyrgroupbysummarize #dplyrslicemax
+🔗 https://www.youtube.com/watch?v=ZOSMcPOuv6M"
+UCKJFCIbcGs2a5RGt8RjdbFA;DzYaUFy6Ims;2021-11-15T18:44:19Z;"📺 New #rstats video: Week 9.2: Function writing
+▶ Liza Wood (@wood__liza)
+🔗 https://www.youtube.com/watch?v=DzYaUFy6Ims"
+UCKJFCIbcGs2a5RGt8RjdbFA;CVgeZf8Av0I;2021-11-15T19:07:50Z;"📺 New #rstats video: Week 9.1: Lubridate and more
+▶ Liza Wood (@wood__liza)
+🔗 https://www.youtube.com/watch?v=CVgeZf8Av0I"
+UC3xfbCMLCw1Hh4dWop3XtHg;FggD93l7NmA;2021-11-15T20:48:19Z;"📺 New #rstats video: Tom Bliss | R in Sports Analytics - Player Tracking Data & Big Data Bowl | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=FggD93l7NmA"
+UCDgj5-mFohWZ5irWSFMFcng;aJ3l4TjLWyI;2021-11-16T03:41:52Z;"📺 New #rstats video: R-Ladies Boulder (English) - Reproducible Code & Visualization Best Practices - Lara Southard, PhD
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#coding #programming
+🔗 https://www.youtube.com/watch?v=aJ3l4TjLWyI"
+UCyHEww8_SCdxZvEnkCfi55w;rWbJJURVoUw;2021-11-16T15:00:20Z;"📺 New #rstats video: Write & Run SQL Query in R (Example) | RMarkdown & dplyr Package | File Access & Server Management
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=rWbJJURVoUw"
+UC1ZIcF31fEzBO6akL_HHkBg;KxybJ_zVJUA;2021-11-16T15:53:51Z;"📺 New #rstats video: EDA with the tidyverse: Typical, unusual, and missing values
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstudio #eda #dsincubator
+🔗 https://www.youtube.com/watch?v=KxybJ_zVJUA"
