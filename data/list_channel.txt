@@ -84,4 +84,5 @@ UCpSo0ZG5FtMyKwGnHaGnvrA;Aaron Maxwell;
 UCB_noR4lYmbKJozwJuPStbg;John Little;john_little
 UCYTxHFYjftv-kxhogQuwXhA;Jasper Tjaden;JasperTjaden
 UC1ZIcF31fEzBO6akL_HHkBg;Mauro Lepore;mauro_lepore
-UCPX8v44wDBhUfwQflBEJI0w; R-Ladies Gaborone;RLadiesGaborone
+UCPX8v44wDBhUfwQflBEJI0w;R-Ladies Gaborone;RLadiesGaborone
+UC-vtwz7ueU2dtnHk5e-WblA;Colin Quirk;ColinTQuirk
