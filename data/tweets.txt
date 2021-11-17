@@ -3502,3 +3502,23 @@ UC1ZIcF31fEzBO6akL_HHkBg;KxybJ_zVJUA;2021-11-16T15:53:51Z;"📺 New #rstats vide
 🗣 🇬🇧
 #rstudio #eda #dsincubator
 🔗 https://www.youtube.com/watch?v=KxybJ_zVJUA"
+UCPque9BaFV9p0hcgImrYBzg;4bPekjzIYiU;2021-11-16T16:48:39Z;"📺 New #rstats video: Getting Started with Unit Testing in R
+▶ R-Ladies Philly (@RLadiesPhilly)
+🔗 https://www.youtube.com/watch?v=4bPekjzIYiU"
+UCCaChdLMTYMxyawR_Qf-kYA;8AK_qPbK4MA;2021-11-17T04:34:18Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapters 13 & 14 (2021-11-10) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=8AK_qPbK4MA"
+UCfB2mPM4oU5pMgh9gbEqpWA;XjrckO1xqH8;2021-11-17T09:08:43Z;"📺 New #rstats video: October 2021 - R in a changing climate
+▶ EdinbR (@edinb_r)
+🗣 🇬🇧
+#rlang #rmeetups #email #covid #dashboard #matrix
+🔗 https://www.youtube.com/watch?v=XjrckO1xqH8"
+UCFXPzW7RxP6RfQGpRn7WXNw;rV9QMh0wBcw;2021-05-11T16:45:30Z;"📺 #rstats video: w7p1: Midterm review
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=rV9QMh0wBcw"
+UCC3CCtUrSSQoJkxodRKr89g;fcu4NqDcO4c;2020-11-11T20:41:38Z;"📺 #rstats video: Tidy Tuesday in Thirty (2020-11-10)
+▶ Lisa Lendway - Statistics & Data Science (@lisalendway)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=fcu4NqDcO4c"
