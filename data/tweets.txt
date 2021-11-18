@@ -3522,3 +3522,26 @@ UCC3CCtUrSSQoJkxodRKr89g;fcu4NqDcO4c;2020-11-11T20:41:38Z;"📺 #rstats video: T
 ▶ Lisa Lendway - Statistics & Data Science (@lisalendway)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=fcu4NqDcO4c"
+UCyHEww8_SCdxZvEnkCfi55w;MamTVYkvPNo;2021-11-17T15:00:10Z;"📺 New #rstats video: Change Index Numbers of Data Frame Rows (R Example) | Set Order & Reset | rownames & nrow Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=MamTVYkvPNo"
+UCBsXfUO__nzMnlaLLUx7DFQ;IPZvxagHVyw;2021-11-17T22:00:11Z;"📺 New #rstats video: Simulating Random Walks
+▶ Probability!
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=IPZvxagHVyw"
+UC_R5smHVXRYGhZYDJsnXTwg;A8ePOTOSGg0;2021-11-18T04:31:02Z;"📺 New #rstats video: Package Management at Roche
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rconsortium
+🔗 https://www.youtube.com/watch?v=A8ePOTOSGg0"
+UCfB2mPM4oU5pMgh9gbEqpWA;DjyzTORJ5R8;2021-11-18T09:58:27Z;"📺 New #rstats video: November 2021 - DecaRbonisation and climate target modelling
+▶ EdinbR (@edinb_r)
+🗣 🇬🇧
+#rlang #rmeetups #email #covid #dashboard #matrix
+🔗 https://www.youtube.com/watch?v=DjyzTORJ5R8"
+UCCaChdLMTYMxyawR_Qf-kYA;xYCQwAzeUEQ;2021-03-06T20:14:01Z;"📺 #rstats video: R for Data Science Book Club: Chapter 12: Tidy data (2021-03-03) (r4ds04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=xYCQwAzeUEQ"
