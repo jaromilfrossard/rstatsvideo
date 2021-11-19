@@ -1,88 +1,88 @@
 id_channel;name_channel;id_twitter
-UCWI1xyk6Jb4t2OOyP2LS4DQ;John Muschelli;StrictlyStat
+UCpSo0ZG5FtMyKwGnHaGnvrA;Aaron Maxwell;
+UCQYM-t2ut2zXr4d7TIFya1A;Alison Hill;apreshill
 UCnwYO3Sz_emBTC1sTZ6TlsQ;Andrew Couch;Andr3wCouch
-UCeiiqmVK07qhY-wvg3IZiZQ;David Robinson;drob
-UC_R5smHVXRYGhZYDJsnXTwg;R Consortium;RConsortium
-UCYgIy7zeC7v6iZhx0-NywBw;satRdays;satRdays_org
-UCwLy_PYrnCEhCU-Ay2F5Drw;Why R? Foundation;whyRconf
-UCTTBgWyJl2HrrhQOOc710kA;Julia Silge;juliasilge
-UC3xfbCMLCw1Hh4dWop3XtHg;RStudio;rstudio
-UCT9SgxpakGSH-yfRj_QhzIQ;Thomas Lin Pedersen;thomasp85
-UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;thinkR_fr
-UC2-hKemnrmVCH_29duyJ26A;Lander Analytics;LanderAnalytics
-UCwQ7lkY6YWzZjT807Itbvtw;Shiny DeveloperSeries;theRcast
-UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham;hadleywickham
-UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
-UCFXPzW7RxP6RfQGpRn7WXNw;Daniel Anderson;datalorax_
-UCF9ymC7Dpjwr0lge2QR_A5Q;webin-R;
-UCGuktEl5InrcxPfCjmPWxsA;Riffomonas Project;PatSchloss
-UCMdihazndR0f9XBoSXWqnYg;Statistics of DOOM;aggieerin
+UCgXBQIFJ_Rmq3UhWL_yrkxQ;Applied Epi;
+UCULDYwwVDYo1Pd3uLB33cHg;bernogarcia;bernogarcia1
+UCTZXht1RTL2Duc3eU8MYGzQ;Bruno Rodrigues;brodriguesco
+UCqQ_cxcNu1ekqHXDc-MbU_w;Business Science;bizScienc
 UCKFp00-PRnuc1Dx4DaUmJBg;Chad C. Williams;WilliamsNeuro
-UCPzO5TjnYnBzfUVj6fI3pdw;Vivian Codes;
-UCxdCZGywhd2R5BiOP8vOgqg;R Programming - DDS;ddata_script
-UCC3CCtUrSSQoJkxodRKr89g;Lisa Lendway - Statistics & Data Science;lisalendway
+UC7C4YZ-9itQW7Nl4RVKDflg;Cleveland R User Group;
+UC-vtwz7ueU2dtnHk5e-WblA;Colin Quirk;ColinTQuirk
+UCFXPzW7RxP6RfQGpRn7WXNw;Daniel Anderson;datalorax_
+UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
+UCeYbe13SKAaIyuXtO1_cbpA;DASA.VicUni;
+UCb5aI-GwJm3ZxlwtCsLu78Q;Data Science with Tom;
+UCo7yZB1Pz_V9infLSUnfjUg;dataAnalysisR;
 UCBV194XNr6CIQCCuw1v2rMQ;dataslice;dataslice
-UC6wfyYnDaebrARFWhWdcItA;R Stats;
+UCeiiqmVK07qhY-wvg3IZiZQ;David Robinson;drob
+UCfB2mPM4oU5pMgh9gbEqpWA;EdinbR;edinb_r
+UCJamxO-DE27EEZtWrNG34mA;Futbol AnalysR;futbolanalysr
+UCXuX-kQ1TbKHWeB75NgmhlA;Genomics Boot Camp;GaborM_ABG
+UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham;hadleywickham
+UCWFju94W4ecD4qNRWW4ztLQ;INWT Statistics;INWT_Statistics
+UCYTxHFYjftv-kxhogQuwXhA;Jasper Tjaden;JasperTjaden
+UCE2WK5bvNtDblu4NO9PGtJA;Jesse Mostipak;kierisi
+UC3mcThQVORlwCY4k1vB0FmQ;Jim Hester;jimhester_
+UCB_noR4lYmbKJozwJuPStbg;John Little;john_little
+UCWI1xyk6Jb4t2OOyP2LS4DQ;John Muschelli;StrictlyStat
+UCTTBgWyJl2HrrhQOOc710kA;Julia Silge;juliasilge
+UCmBDds7HAhpG6ZUj9FC2s9Q;Lacey Maths & Stats Consultancy;seanwithafada
+UC2-hKemnrmVCH_29duyJ26A;Lander Analytics;LanderAnalytics
+UCU5ZiUm-OLbVGW7NP0e-eFQ;Learn RStats;
+UCxB1IGhLzlEOikTL-aDwqFg;Leonardo Collado Torres;lcolladotor
+UCC3CCtUrSSQoJkxodRKr89g;Lisa Lendway - Statistics & Data Science;lisalendway
+UCKJFCIbcGs2a5RGt8RjdbFA;Liza Wood;wood__liza
+UCcCMO7sHb8O_TJUd34sQ_Ng;Lulus CommentdansR;
+UCkNvd1JigrH2A_YLKSgFnQQ;Mango Solutions;MangoTheCat
+UCYNVcihAKkRW-bhzIrguvVw;math et al;
+UC1ZIcF31fEzBO6akL_HHkBg;Mauro Lepore;mauro_lepore
+UCMwM-3tg_-Pbx8hKO78q5EA;NHSR Community;NHSrCommunity
+UCBsXfUO__nzMnlaLLUx7DFQ;Probability!;
 UCY98oWVfQEZ_i7R_0JqIRZA;R- Ladies Amsterdam;RLadiesAMS
-UClC5yNEjMoE3MmbK-mrV8Ow;R-Ladies Melbourne;RLadiesMelb
+UCktFo5XoX5QZMWb2Gb3KY2A;R-Ladies Abuja;RLadiesAbuja
+UC9UK90FN2Q1cl0J5Kl4-7Mg;R-Ladies Baltimore;RLadiesBmore
+UC9oOCJe8kwkZ_6IgTmet9oQ;R-Ladies Brisbane;RLadiesBrisbane
+UCPX8v44wDBhUfwQflBEJI0w;R-Ladies Gaborone;RLadiesGaborone
 UCDgj5-mFohWZ5irWSFMFcng;R-Ladies Global;RLadiesGlobal
 UCIbS1KNK7jbcbQVNt7lF62A;R-Ladies Irvine;RLadiesIrvine
-UCoL2FUq0Yo3RcjGG0Vf2qmg;R-Ladies Perth;RLadiesPerth
-UCQ7DcXWJm3es06U7lGmBDkw;R Ladies STL;RLadiesSTL
-UCOFcXLjW9atcEuCa5kbOPSw;RLadies Santa Fe;RLadiesSantaFe
-UCkrf5iL8ef1QHe--zstechA;RLadies Sydney;RLadiesSydney
 UCgmESmRO796bbzOxFNPtXWw;R-Ladies Lausanne;RLadiesLausanne
 UCJlLo_WBovtoVUNXQvr3UiA;R-Ladies Lisboa;RLadiesLx
-UCCaChdLMTYMxyawR_Qf-kYA;R4DS Online Learning Community;R4DScommunity
-UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen;
-UCfJyQ3P2k_SuqfxVdqIEQNw;R Programming 101;101Programming
-UCU5ZiUm-OLbVGW7NP0e-eFQ;Learn RStats;
-UC_8_NCqWecqv8zjQE4ZwRwA;R User Group Nepal;rugnepal
-UCTZXht1RTL2Duc3eU8MYGzQ;Bruno Rodrigues;brodriguesco
-UCKMekE_4UfWvZDuBWenG8WA;StatistikinDD;StatistikInDD
-UCfoktGmvJ6rnME7mSP_Ww2g;R-Ladies Tunis;RLadiesTunis
-UCWFju94W4ecD4qNRWW4ztLQ;INWT Statistics;INWT_Statistics
-UCULDYwwVDYo1Pd3uLB33cHg;bernogarcia;bernogarcia1
-UCxB1IGhLzlEOikTL-aDwqFg;Leonardo Collado Torres;lcolladotor
-UCyHEww8_SCdxZvEnkCfi55w;Statistics Globe;JoachimSchork
-UCMwM-3tg_-Pbx8hKO78q5EA;NHSR Community;NHSrCommunity
-UC9UK90FN2Q1cl0J5Kl4-7Mg;R-Ladies Baltimore;RLadiesBmore
-UCX50s91yTrcu5Ap_B7JBnFg;R-Ladies Vancouver;RLadiesVan
+UClC5yNEjMoE3MmbK-mrV8Ow;R-Ladies Melbourne;RLadiesMelb
+UCoL2FUq0Yo3RcjGG0Vf2qmg;R-Ladies Perth;RLadiesPerth
 UCPque9BaFV9p0hcgImrYBzg;R-Ladies Philly;RLadiesPhilly
-UC9oOCJe8kwkZ_6IgTmet9oQ;R-Ladies Brisbane;RLadiesBrisbane
-UCktFo5XoX5QZMWb2Gb3KY2A;R-Ladies Abuja;RLadiesAbuja
-UCE2WK5bvNtDblu4NO9PGtJA;Jesse Mostipak;kierisi
-UC7VV1Ix1-8jncW7hTRZ50bg;satRday Neuchâtel;satRdayNeuCH
-UCXuX-kQ1TbKHWeB75NgmhlA;Genomics Boot Camp;GaborM_ABG
-UCJamxO-DE27EEZtWrNG34mA;Futbol AnalysR;futbolanalysr
-UCQYM-t2ut2zXr4d7TIFya1A;Alison Hill;apreshill
-UCmBDds7HAhpG6ZUj9FC2s9Q;Lacey Maths & Stats Consultancy;seanwithafada
-UCo7yZB1Pz_V9infLSUnfjUg;dataAnalysisR;
-UCBsXfUO__nzMnlaLLUx7DFQ;Probability!;
-UCeYbe13SKAaIyuXtO1_cbpA;DASA.VicUni;
-UCcCMO7sHb8O_TJUd34sQ_Ng;Lulus CommentdansR;
-UCfB2mPM4oU5pMgh9gbEqpWA;EdinbR;edinb_r
-UC2M4LiU11tjZfL86yfufSKA;Sukaesi Marianti;
-UCkNvd1JigrH2A_YLKSgFnQQ;Mango Solutions;MangoTheCat
-UCyf1AvRK4gmfRUJjeBNMauA;Tunis R User Group;TunisRUserGroup
-UCdFC653IaBVC5kwj7CGo2sQ;RappA;rappa753
-UC7C4YZ-9itQW7Nl4RVKDflg;Cleveland R User Group;
-UCb5aI-GwJm3ZxlwtCsLu78Q;Data Science with Tom;
+UCfoktGmvJ6rnME7mSP_Ww2g;R-Ladies Tunis;RLadiesTunis
+UCX50s91yTrcu5Ap_B7JBnFg;R-Ladies Vancouver;RLadiesVan
+UC_R5smHVXRYGhZYDJsnXTwg;R Consortium;RConsortium
 UCT2TrH2M4zbRJZMH6iusyBQ;R in Pharma;rinpharma
-UC3mcThQVORlwCY4k1vB0FmQ;Jim Hester;jimhester_
-UCgXBQIFJ_Rmq3UhWL_yrkxQ;Applied Epi;
 UCYuJ4Q65HlyQKO5cZXg7qDw;R Ladies Ankara;RLadiesAnkara
-UCrmJdnPmle514qkK3lLOsVQ;RJ Studio;
-UCKJFCIbcGs2a5RGt8RjdbFA;Liza Wood;wood__liza
-UCqQ_cxcNu1ekqHXDc-MbU_w;Business Science;bizScienc
-UCZQlpKYQPlf2QNVdSv_TRdg;UseR Oslo;OURmeetup
-UCcKPp7AI7ZTBf60WqXo3Bpg; Salt Lake City R Users Group;slcrug
-UCYNVcihAKkRW-bhzIrguvVw;math et al;
+UCQ7DcXWJm3es06U7lGmBDkw;R Ladies STL;RLadiesSTL
+UCxdCZGywhd2R5BiOP8vOgqg;R Programming - DDS;ddata_script
+UCfJyQ3P2k_SuqfxVdqIEQNw;R Programming 101;101Programming
+UC6wfyYnDaebrARFWhWdcItA;R Stats;
 UC8bO8eVpfEK8LbqH0oxyc3Q;R User Group at Harvard Data Science Initiative;
+UC_8_NCqWecqv8zjQE4ZwRwA;R User Group Nepal;rugnepal
+UCCaChdLMTYMxyawR_Qf-kYA;R4DS Online Learning Community;R4DScommunity
+UCdFC653IaBVC5kwj7CGo2sQ;RappA;rappa753
+UCGuktEl5InrcxPfCjmPWxsA;Riffomonas Project;PatSchloss
+UCrmJdnPmle514qkK3lLOsVQ;RJ Studio;
+UCOFcXLjW9atcEuCa5kbOPSw;RLadies Santa Fe;RLadiesSantaFe
+UCkrf5iL8ef1QHe--zstechA;RLadies Sydney;RLadiesSydney
+UC3xfbCMLCw1Hh4dWop3XtHg;RStudio;rstudio
+UCcKPp7AI7ZTBf60WqXo3Bpg;Salt Lake City R Users Group;slcrug
+UC7VV1Ix1-8jncW7hTRZ50bg;satRday Neuchâtel;satRdayNeuCH
+UCYgIy7zeC7v6iZhx0-NywBw;satRdays;satRdays_org
+UCwQ7lkY6YWzZjT807Itbvtw;Shiny DeveloperSeries;theRcast
+UCyHEww8_SCdxZvEnkCfi55w;Statistics Globe;JoachimSchork
+UCMdihazndR0f9XBoSXWqnYg;Statistics of DOOM;aggieerin
+UCKMekE_4UfWvZDuBWenG8WA;StatistikinDD;StatistikInDD
+UC2M4LiU11tjZfL86yfufSKA;Sukaesi Marianti;
+UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;thinkR_fr
+UCT9SgxpakGSH-yfRj_QhzIQ;Thomas Lin Pedersen;thomasp85
 UCP8l94xtoemCH_GxByvTuFQ;TidyX;tidy_explained
-UCpSo0ZG5FtMyKwGnHaGnvrA;Aaron Maxwell;
-UCB_noR4lYmbKJozwJuPStbg;John Little;john_little
-UCYTxHFYjftv-kxhogQuwXhA;Jasper Tjaden;JasperTjaden
-UC1ZIcF31fEzBO6akL_HHkBg;Mauro Lepore;mauro_lepore
-UCPX8v44wDBhUfwQflBEJI0w;R-Ladies Gaborone;RLadiesGaborone
-UC-vtwz7ueU2dtnHk5e-WblA;Colin Quirk;ColinTQuirk
+UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen;
+UCyf1AvRK4gmfRUJjeBNMauA;Tunis R User Group;TunisRUserGroup
+UCZQlpKYQPlf2QNVdSv_TRdg;UseR Oslo;OURmeetup
+UCPzO5TjnYnBzfUVj6fI3pdw;Vivian Codes;
+UCF9ymC7Dpjwr0lge2QR_A5Q;webin-R;
+UCwLy_PYrnCEhCU-Ay2F5Drw;Why R? Foundation;whyRconf

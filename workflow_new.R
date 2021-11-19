@@ -37,6 +37,10 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
                                   id_twitter = col_character()),
                                 lazy = FALSE)
 
+tb_channel%>%
+  arrange(name_channel)%>%
+  readr::write_delim(file="data/list_channel.txt", delim=";",na = "")
+
 #update channels videos
 walk(tb_channel$id_channel, update_channel_video)
 
