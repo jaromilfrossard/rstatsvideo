@@ -37,18 +37,23 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
                                   id_twitter = col_character()),
                                 lazy = FALSE)
 
-tb_channel%>%
-  arrange(name_channel)%>%
-  readr::write_delim(file="data/list_channel.txt", delim=";",na = "")
+
+# tb_channel%>%
+#   arrange(name_channel)%>%
+#   readr::write_delim(file="data/list_channel.txt", delim=";",na = "")
+
+new_channels = tb_channel%>%
+  filter(!(id_channel%in%list.files("data/channels")))%>%
+  pull(id_channel)
 
 #update channels videos
 walk(tb_channel$id_channel, update_channel_video)
 
-#update_channel_video(id = "UCDgj5-mFohWZ5irWSFMFcng")
+#update_channel_video(id = "UCU3ePTnZQurDkYgPK61DAOw")
 
 # tb_channel%>%
 #   tail()
-# validate_channel("UC-vtwz7ueU2dtnHk5e-WblA") 
+# validate_channel("UCU3ePTnZQurDkYgPK61DAOw") 
 
 validate_new_videos()
 
