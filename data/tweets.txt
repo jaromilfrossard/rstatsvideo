@@ -3545,3 +3545,37 @@ UCCaChdLMTYMxyawR_Qf-kYA;xYCQwAzeUEQ;2021-03-06T20:14:01Z;"📺 #rstats video: R
 ▶ R4DS Online Learning Community (@R4DScommunity)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=xYCQwAzeUEQ"
+UCyHEww8_SCdxZvEnkCfi55w;GOA508h6rTk;2021-11-18T15:00:07Z;"📺 New #rstats video: Select Odd & Even Rows & Columns from Data Frame in R (4 Examples) | seq_len, nrow & ncol Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=GOA508h6rTk"
+UC3xfbCMLCw1Hh4dWop3XtHg;4Gt1VIP07nc;2021-11-18T15:28:16Z;"📺 New #rstats video: Bryan Butler | R in Marketing - Survey Design | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=4Gt1VIP07nc"
+UCGuktEl5InrcxPfCjmPWxsA;jAl0fRqxK3s;2021-11-18T17:00:25Z;"📺 New #rstats video: Using dplyr's join functions in R to filter and merge data frames (CC164)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rjoinfunctionsfilter #dplyrinnerjoin #dplyrfulljoin #dplyrleftjoin #dplyrrightjoin
+🔗 https://www.youtube.com/watch?v=jAl0fRqxK3s"
+UCKMekE_4UfWvZDuBWenG8WA;Yhz0TKP_CUc;2021-11-18T22:18:36Z;"📺 New #rstats video: How to Plot Statistical Group Comparisons in R: ggstatsplot
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#statisticalanalysis #dataviz #datavisualization #ggplot2 #ggstatsplot #visualizingstatisticalresults
+🔗 https://www.youtube.com/watch?v=Yhz0TKP_CUc"
+UC8bO8eVpfEK8LbqH0oxyc3Q;GdR_S8bYaag;2021-11-19T02:10:46Z;"📺 New #rstats video: Cooking Your Data with Recipes in R
+▶ R User Group at Harvard Data Science Initiative
+🔗 https://www.youtube.com/watch?v=GdR_S8bYaag"
+UCBsXfUO__nzMnlaLLUx7DFQ;8-TqJicCxyQ;2021-11-19T10:00:08Z;"📺 New #rstats video: Simulations: Monty Hall
+▶ Probability!
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=8-TqJicCxyQ"
+UCwQ7lkY6YWzZjT807Itbvtw;QzmrhPmKByA;2021-11-19T13:51:40Z;"📺 New #rstats video: Episode 24: Illustrating the myPaintings Masterpiece
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=QzmrhPmKByA"
+UCyHEww8_SCdxZvEnkCfi55w;08iO5PNRqIo;2021-11-19T15:00:02Z;"📺 New #rstats video: Remove Labels from ggplot2 Facet Plot in R (Example) | Delete Box & Text | facet_grid, element_blank
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=08iO5PNRqIo"
