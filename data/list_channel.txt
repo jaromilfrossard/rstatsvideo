@@ -43,26 +43,34 @@ UCY98oWVfQEZ_i7R_0JqIRZA;R- Ladies Amsterdam;RLadiesAMS
 UCktFo5XoX5QZMWb2Gb3KY2A;R-Ladies Abuja;RLadiesAbuja
 UC9UK90FN2Q1cl0J5Kl4-7Mg;R-Ladies Baltimore;RLadiesBmore
 UCEw9Q55DDo1OIHrb_V5r-KA;R-Ladies Barcelona;RLadiesBCN
+UCHITDNNHzEXfD8AzSFQOh9A;R-Ladies Barranquilla;
 UC9oOCJe8kwkZ_6IgTmet9oQ;R-Ladies Brisbane;RLadiesBrisbane
+UCYjjz8ANtLZNu9u4P6tHh9g;R-Ladies Ecuador;RLadiesBquilla
+UCAzHeCFKu0uoRIFHRoLgoBA;R-Ladies EskişehiR;RLadiesEskisehR
 UCPX8v44wDBhUfwQflBEJI0w;R-Ladies Gaborone;RLadiesGaborone
 UCDgj5-mFohWZ5irWSFMFcng;R-Ladies Global;RLadiesGlobal
 UCIbS1KNK7jbcbQVNt7lF62A;R-Ladies Irvine;RLadiesIrvine
 UCdaVFEwp9vOvqUCpbCHY7cw;R-Ladies Jakarta;RLadiesJakarta
 UCrf8aQYGogbz0_7TTQVL21w;R-Ladies La Paz;RLadiesLaPaz
 UCgmESmRO796bbzOxFNPtXWw;R-Ladies Lausanne;RLadiesLausanne
+UCGjjzr5QxkGqPmVu4HYIyjg;R-ladies Lavras;
 UCJlLo_WBovtoVUNXQvr3UiA;R-Ladies Lisboa;RLadiesLx
 UClC5yNEjMoE3MmbK-mrV8Ow;R-Ladies Melbourne;RLadiesMelb
 UCoL2FUq0Yo3RcjGG0Vf2qmg;R-Ladies Perth;RLadiesPerth
 UCPque9BaFV9p0hcgImrYBzg;R-Ladies Philly;RLadiesPhilly
 UCFZ-jFG9a9Tx0_4EIX-L7bA;R-Ladies Puebla;R-Ladies Puebla
 UCGwTYiK7vTePhPpDRgQAq_A;R-Ladies Rio;RLadiesRio
+UCiEloyxyXZluv7p46DGCqQQ;R-Ladies Teresina;RLadiesTeresina
 UCfoktGmvJ6rnME7mSP_Ww2g;R-Ladies Tunis;RLadiesTunis
 UCtuMKU3a96iqTe1b7JNfhDw;R-Ladies Urmia;RLadiesUrmia
 UCX50s91yTrcu5Ap_B7JBnFg;R-Ladies Vancouver;RLadiesVan
+UCxk3XVMK_-dYf8di9_AzypA;R-Ladies Xalapa;RLadiesXalapa
 UC_R5smHVXRYGhZYDJsnXTwg;R Consortium;RConsortium
 UCT2TrH2M4zbRJZMH6iusyBQ;R in Pharma;rinpharma
 UCYuJ4Q65HlyQKO5cZXg7qDw;R Ladies Ankara;RLadiesAnkara
+UCB7N0JYEOoT2IPLuImsx-3w;R Ladies Bogor;RLadiesBogor
 UCPPJGnA5GWIppotd_gbRqXA;R Ladies Niterói;rladiesniteroi
+UCDCOvchmfUW7gFP5CrSIXrw;R Ladies POA;RLadiesPOA
 UCQ7DcXWJm3es06U7lGmBDkw;R Ladies STL;RLadiesSTL
 UCxdCZGywhd2R5BiOP8vOgqg;R Programming - DDS;ddata_script
 UCfJyQ3P2k_SuqfxVdqIEQNw;R Programming 101;101Programming
@@ -73,10 +81,14 @@ UCCaChdLMTYMxyawR_Qf-kYA;R4DS Online Learning Community;R4DScommunity
 UCdFC653IaBVC5kwj7CGo2sQ;RappA;rappa753
 UCGuktEl5InrcxPfCjmPWxsA;Riffomonas Project;PatSchloss
 UCrmJdnPmle514qkK3lLOsVQ;RJ Studio;
+UCJpq9UV9k12H8j3D5ba7y-g;RLadies Algiers;RLadiesAlgiers
 UCtpGCWyRdscfs6KflWjACKw;RLadies Belo Horizonte;RLadiesBH
+UCvt6lv8yMrBV8YgsAoQykHw;RLadies Goiânia;rladiesgyn
+UC8yKJ1YfBipuyzvn4ciaNRQ;RLadies Medellin;RLadiesMedellin
 UCrG34lup96IfDweTSDkPHDA;RLadies Mexico;
 UCaEblc_jq-64PGroox6EALg;Rladies Natal;RLadiesNatal
 UCrT2YmRak5iRXI_-RyXtEuA;RLadies Querétaro;RLadies_Qro
+UCmxRvwPXXLdcv_lWkIqB1yA;RLadies Ribeirão Preto;rladiesrp
 UCOFcXLjW9atcEuCa5kbOPSw;RLadies Santa Fe;RLadiesSantaFe
 UCU3ePTnZQurDkYgPK61DAOw;RLadies São Paulo;RLadiesSaoPaulo
 UCkrf5iL8ef1QHe--zstechA;RLadies Sydney;RLadiesSydney

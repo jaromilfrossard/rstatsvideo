@@ -42,18 +42,18 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
 #   arrange(name_channel)%>%
 #   readr::write_delim(file="data/list_channel.txt", delim=";",na = "")
 
-new_channels = tb_channel%>%
-  filter(!(id_channel%in%list.files("data/channels")))%>%
-  pull(id_channel)
+# new_channels = tb_channel%>%
+#   filter(!(id_channel%in%list.files("data/channels")))%>%
+#   pull(id_channel)
 
 #update channels videos
 walk(tb_channel$id_channel, update_channel_video)
 
-#update_channel_video(id = "UCU3ePTnZQurDkYgPK61DAOw")
+#update_channel_video(id = "UC8yKJ1YfBipuyzvn4ciaNRQ")
 
 # tb_channel%>%
 #   tail()
-# validate_channel("UCU3ePTnZQurDkYgPK61DAOw") 
+# validate_channel("UC8yKJ1YfBipuyzvn4ciaNRQ") 
 
 validate_new_videos()
 
