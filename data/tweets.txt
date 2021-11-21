@@ -3601,3 +3601,24 @@ UCB_noR4lYmbKJozwJuPStbg;FK5UKBT-8iw;2020-12-08T18:07:19Z;"📺 #rstats video: a
 🗣 🇬🇧
 #assignment #pipes #tidyverse #r
 🔗 https://www.youtube.com/watch?v=FK5UKBT-8iw"
+UCyHEww8_SCdxZvEnkCfi55w;DkWjP587CVo;2021-11-20T15:00:13Z;"📺 New #rstats video: Split Character String into Chunks in R (2 Examples) | Cut, Divide & Chop | substring() & strsplit()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=DkWjP587CVo"
+UCC3CCtUrSSQoJkxodRKr89g;0OtY38LVy-o;2020-08-19T03:06:51Z;"📺 #rstats video: Intro to ggplot()
+▶ Lisa Lendway - Statistics & Data Science (@lisalendway)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=0OtY38LVy-o"
+UCcCMO7sHb8O_TJUd34sQ_Ng;zikdc9UVBuc;2020-06-07T08:24:37Z;"📺 #rstats video: Personnaliser les axes d'un graphe dans R avec axis() mtext(), et title()|Comment dans R?|caps19
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#personnaliserlesaxesdansr #plot #lines #line #xaxt #yaxt #mtext #statistiques #logicielr
+🔗 https://www.youtube.com/watch?v=zikdc9UVBuc"
+UCJPwNOsvugkB2ImVCiaLytA;76uZETtc7Gg;2021-03-05T22:32:04Z;"📺 #rstats video: Stats Apps Tutorials: 5. Descriptive statistics in Excel, JASP, SPSS, and R
+▶ Tony Carlsen
+🔗 https://www.youtube.com/watch?v=76uZETtc7Gg"
+UCoL2FUq0Yo3RcjGG0Vf2qmg;xkYL1zK8Y74;2019-03-12T10:17:01Z;"📺 #rstats video: R Beginner Workshop Series: Workshop 3
+▶ R-Ladies Perth (@RLadiesPerth)
+#rladiesrladiesperthrstats #hangoutsonair #hoa
+🔗 https://www.youtube.com/watch?v=xkYL1zK8Y74"
