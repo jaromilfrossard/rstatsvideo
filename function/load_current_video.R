@@ -9,7 +9,8 @@ load_current_video <- function(dir ="data/channels/"){
       read_delim(file = paste0(dir,id,"/video.txt"),delim=";",
                  col_types = cols(
                    id_video = col_character(),
-                   ymd_hms_video = col_datetime()))%>%
+                   ymd_hms_video = col_datetime()),
+                 lazy=F)%>%
         mutate(ymd_hms_video = ymd_hms(ymd_hms_video))
     }))%>%
     unnest(videos)%>%

@@ -58,7 +58,7 @@ UCJlLo_WBovtoVUNXQvr3UiA;R-Ladies Lisboa;RLadiesLx
 UClC5yNEjMoE3MmbK-mrV8Ow;R-Ladies Melbourne;RLadiesMelb
 UCoL2FUq0Yo3RcjGG0Vf2qmg;R-Ladies Perth;RLadiesPerth
 UCPque9BaFV9p0hcgImrYBzg;R-Ladies Philly;RLadiesPhilly
-UCFZ-jFG9a9Tx0_4EIX-L7bA;R-Ladies Puebla;R-Ladies Puebla
+UCFZ-jFG9a9Tx0_4EIX-L7bA;R-Ladies Puebla;RLadiesPuebla
 UCGwTYiK7vTePhPpDRgQAq_A;R-Ladies Rio;RLadiesRio
 UCiEloyxyXZluv7p46DGCqQQ;R-Ladies Teresina;RLadiesTeresina
 UCfoktGmvJ6rnME7mSP_Ww2g;R-Ladies Tunis;RLadiesTunis

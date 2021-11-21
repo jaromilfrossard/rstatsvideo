@@ -6,7 +6,7 @@ follow_channels <- function( file_channel = "data/list_channel.txt"){
                               id_channel = col_character(),
                               name_channel = col_character(),
                               id_twitter = col_character()
-                            ))
+                            ),lazy = F)
   
   
   
