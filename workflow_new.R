@@ -9,6 +9,7 @@ library(lubridate)
 library(glue)
 library(rtweet)
 library(gert)
+#library(textcat)
 
 source("function/create_channels_directory.R")
 source("function/update_channel_video.R")

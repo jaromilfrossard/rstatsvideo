@@ -51,6 +51,7 @@ write_tweet_url <- function(id_video){
 
 
 write_tweet_lang <- function(lang){
+  #https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
   
   if(is.na(lang)){
     NA_character_
@@ -60,6 +61,8 @@ write_tweet_lang <- function(lang){
     glue("\U001F5E3 \U001F1EC\U001F1E7")
   }else if(lang %in%"de"){
     glue("\U001F5E3 \U001F1E9\U001F1EA")
+  }else if(lang %in%"pt"){
+    glue("\U001F5E3  \U001F1F5\U001F1F9")
   }else if(lang %in%"tr"){
     glue("\U001F5E3 \U001F1F9\U001F1F7")
   }else if(lang %in%c("es","es-419")){
