@@ -3622,3 +3622,26 @@ UCoL2FUq0Yo3RcjGG0Vf2qmg;xkYL1zK8Y74;2019-03-12T10:17:01Z;"📺 #rstats video: R
 ▶ R-Ladies Perth (@RLadiesPerth)
 #rladiesrladiesperthrstats #hangoutsonair #hoa
 🔗 https://www.youtube.com/watch?v=xkYL1zK8Y74"
+UCyHEww8_SCdxZvEnkCfi55w;ZVNZp4xtGqU;2021-11-21T15:00:18Z;"📺 New #rstats video: R Help – Error in if (NA) { : missing value where TRUE/FALSE needed | How to Reproduce & Debug
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=ZVNZp4xtGqU"
+UCP8l94xtoemCH_GxByvTuFQ;YZqbOATpjM4;2021-11-21T19:42:35Z;"📺 New #rstats video: TidyX Episode 84 | Tidymodels - Workflow Sets and model selection
+▶ TidyX (@tidy_explained)
+#programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=YZqbOATpjM4"
+UCfoktGmvJ6rnME7mSP_Ww2g;EZDr9BtfGik;2021-03-29T10:43:29Z;"📺 #rstats video: R-Ladies Tunis | Workshop: Epidemiology for Bioinformaticians animated by Chloe Mirzayi
+▶ R-Ladies Tunis (@RLadiesTunis)
+🗣 🇬🇧
+#rstudio #r4bioinfo #bioinformatics #bioconductor #onlinemeetup #workshop #datamodeling
+🔗 https://www.youtube.com/watch?v=EZDr9BtfGik"
+UCMdihazndR0f9XBoSXWqnYg;nzEiQ6injPY;2015-08-24T00:31:54Z;"📺 #rstats video: R - Functions Lecture
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rprogram #statistics #rprogramminglanguage #functions #mean #standarddeviation #variance #histograms
+🔗 https://www.youtube.com/watch?v=nzEiQ6injPY"
+UC2-hKemnrmVCH_29duyJ26A;Be5QwA-yDJE;2020-10-06T13:53:37Z;"📺 #rstats video: Dr. Jon Krohn - Deep Learning Battle: TensorFlow 2 vs PyTorch
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=Be5QwA-yDJE"
