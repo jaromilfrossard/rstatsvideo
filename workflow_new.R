@@ -50,11 +50,8 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
 #update channels videos
 walk(tb_channel$id_channel, update_channel_video)
 
-#update_channel_video(id = "UC-qm48zb2P7NVxk-tBa7MFg")
-
-# tb_channel%>%
-#   tail()
-# validate_channel("UC-qm48zb2P7NVxk-tBa7MFg") 
+# update_channel_video(id = "UCAu9zxmEgQdWYkl84BiziSQ")
+# validate_channel("UCAu9zxmEgQdWYkl84BiziSQ") 
 
 validate_new_videos()
 
