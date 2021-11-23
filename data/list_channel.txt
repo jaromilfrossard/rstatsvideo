@@ -8,6 +8,7 @@ UCTZXht1RTL2Duc3eU8MYGzQ;Bruno Rodrigues;brodriguesco
 UCqQ_cxcNu1ekqHXDc-MbU_w;Business Science;bizScienc
 UCKFp00-PRnuc1Dx4DaUmJBg;Chad C. Williams;WilliamsNeuro
 UC7C4YZ-9itQW7Nl4RVKDflg;Cleveland R User Group;
+UCBYwP7mrBxJSZbPg-U3uR-A;CodeR;
 UC-vtwz7ueU2dtnHk5e-WblA;Colin Quirk;ColinTQuirk
 UCFXPzW7RxP6RfQGpRn7WXNw;Daniel Anderson;datalorax_
 UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
