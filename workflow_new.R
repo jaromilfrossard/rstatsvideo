@@ -47,14 +47,19 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
 #   filter(!(id_channel%in%list.files("data/channels")))%>%
 #   pull(id_channel)
 
+# tb_channel<- 
+#   tb_channel%>%
+#   mutate(exist = map_lgl(id_channel,channel_exist))
+
 #update channels videos
 walk(tb_channel$id_channel, update_channel_video)
+
+  
 
 # update_channel_video(id = "UCAu9zxmEgQdWYkl84BiziSQ")
 # validate_channel("UCAu9zxmEgQdWYkl84BiziSQ") 
 
 validate_new_videos()
-
 
 videos <- choose_videos()
 

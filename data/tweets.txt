@@ -3645,3 +3645,26 @@ UC2-hKemnrmVCH_29duyJ26A;Be5QwA-yDJE;2020-10-06T13:53:37Z;"📺 #rstats video: D
 ▶ Lander Analytics (@LanderAnalytics)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=Be5QwA-yDJE"
+UCyHEww8_SCdxZvEnkCfi55w;X02wApMJOek;2021-11-22T15:00:31Z;"📺 New #rstats video: cut Function in R (Example) | How to Set breaks Argument | Convert Numeric Value to Factorial Ranges
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=X02wApMJOek"
+UCGuktEl5InrcxPfCjmPWxsA;vd_XG0yBm9s;2021-11-22T17:00:26Z;"📺 New #rstats video: Visualizing the same data four ways wiht ggplot2: slope, dumbbell, scatter, and dot charts (CC165)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#ggplot2 #ggplot2scatterplot #ggplot2slopeplot #ggplot2dotchart
+🔗 https://www.youtube.com/watch?v=vd_XG0yBm9s"
+UCB_noR4lYmbKJozwJuPStbg;Cn-72tbRNFc;2021-11-22T21:38:40Z;"📺 New #rstats video: Designing a Reproducible Workflow with R and GitHub
+▶ John Little (@john_little)
+🗣 🇬🇧
+#git #reproducibility #versioncontrol #r #rstudio #rfun
+🔗 https://www.youtube.com/watch?v=Cn-72tbRNFc"
+UCKMekE_4UfWvZDuBWenG8WA;lsgA6AH5dnM;2021-11-23T09:52:57Z;"📺 New #rstats video: lapply: How to Replace for loops in R to create Several Plots
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#for #forloop #lapply #jennybryan #functionalprogramming #tidyverse #ggplot2 #purrr #walk
+🔗 https://www.youtube.com/watch?v=lsgA6AH5dnM"
+UCcKPp7AI7ZTBf60WqXo3Bpg;3O2IwXdQ10s;2018-05-10T19:31:40Z;"📺 #rstats video: Interfacing Databases with R
+▶ Salt Lake City R Users Group (@slcrug)
+🔗 https://www.youtube.com/watch?v=3O2IwXdQ10s"
