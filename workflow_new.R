@@ -49,8 +49,8 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
 #   filter(!(id_channel%in%list.files("data/channels")))%>%
 #   pull(id_channel)
 
-# update_channel_video(id = "UCF4fux_L7cMhA4ojOx8B1HQ")
-# validate_channel("UCF4fux_L7cMhA4ojOx8B1HQ") 
+# update_channel_video(id = new_channels[6])
+# validate_channel(new_channels[6]) 
 
 
 #update channels videos

@@ -1,11 +1,13 @@
 id_channel;name_channel;id_twitter
 UCpSo0ZG5FtMyKwGnHaGnvrA;Aaron Maxwell;
+UC_bfGqjzgx4-N8TEQlJTaNQ;Abuja R User Group;AbujaRUG
 UCQYM-t2ut2zXr4d7TIFya1A;Alison Hill;apreshill
 UCnwYO3Sz_emBTC1sTZ6TlsQ;Andrew Couch;Andr3wCouch
 UCgXBQIFJ_Rmq3UhWL_yrkxQ;Applied Epi;
 UCULDYwwVDYo1Pd3uLB33cHg;bernogarcia;bernogarcia1
 UCTZXht1RTL2Duc3eU8MYGzQ;Bruno Rodrigues;brodriguesco
 UCqQ_cxcNu1ekqHXDc-MbU_w;Business Science;bizScienc
+UCDR9i4RB_ZbnM8QXp4NC9uQ;CalgaryR R User Group;
 UCKFp00-PRnuc1Dx4DaUmJBg;Chad C. Williams;WilliamsNeuro
 UC7C4YZ-9itQW7Nl4RVKDflg;Cleveland R User Group;
 UCBYwP7mrBxJSZbPg-U3uR-A;CodeR;
@@ -36,6 +38,7 @@ UCxB1IGhLzlEOikTL-aDwqFg;Leonardo Collado Torres;lcolladotor
 UCC3CCtUrSSQoJkxodRKr89g;Lisa Lendway - Statistics & Data Science;lisalendway
 UCKJFCIbcGs2a5RGt8RjdbFA;Liza Wood;wood__liza
 UCcCMO7sHb8O_TJUd34sQ_Ng;Lulus CommentdansR;
+UCGicmkdbKCzYjBtijfPxHhQ;Malaysia R User Group
 UCkNvd1JigrH2A_YLKSgFnQQ;Mango Solutions;MangoTheCat
 UCYNVcihAKkRW-bhzIrguvVw;math et al;
 UC1ZIcF31fEzBO6akL_HHkBg;Mauro Lepore;mauro_lepore
@@ -69,6 +72,7 @@ UCtuMKU3a96iqTe1b7JNfhDw;R-Ladies Urmia;RLadiesUrmia
 UCX50s91yTrcu5Ap_B7JBnFg;R-Ladies Vancouver;RLadiesVan
 UCxk3XVMK_-dYf8di9_AzypA;R-Ladies Xalapa;RLadiesXalapa
 UC_R5smHVXRYGhZYDJsnXTwg;R Consortium;RConsortium
+UCA2w7SQxsYH0NKGS8vmAqbg;R in Grenoble;
 UCT2TrH2M4zbRJZMH6iusyBQ;R in Pharma;rinpharma
 UCYuJ4Q65HlyQKO5cZXg7qDw;R Ladies Ankara;RLadiesAnkara
 UCB7N0JYEOoT2IPLuImsx-3w;R Ladies Bogor;RLadiesBogor
@@ -80,6 +84,7 @@ UCfJyQ3P2k_SuqfxVdqIEQNw;R Programming 101;101Programming
 UC6wfyYnDaebrARFWhWdcItA;R Stats;
 UC8bO8eVpfEK8LbqH0oxyc3Q;R User Group at Harvard Data Science Initiative;
 UC_8_NCqWecqv8zjQE4ZwRwA;R User Group Nepal;rugnepal
+UC-nYzfrbDhiA03hww0PCpXg;R Users Group - Ecuador;users_group
 UCCaChdLMTYMxyawR_Qf-kYA;R4DS Online Learning Community;R4DScommunity
 UCdFC653IaBVC5kwj7CGo2sQ;RappA;rappa753
 UCGuktEl5InrcxPfCjmPWxsA;Riffomonas Project;PatSchloss
@@ -101,6 +106,7 @@ UCcKPp7AI7ZTBf60WqXo3Bpg;Salt Lake City R Users Group;slcrug
 UC7VV1Ix1-8jncW7hTRZ50bg;satRday Neuchâtel;satRdayNeuCH
 UCYgIy7zeC7v6iZhx0-NywBw;satRdays;satRdays_org
 UCwQ7lkY6YWzZjT807Itbvtw;Shiny DeveloperSeries;theRcast
+UCOdX7FBvpMPknrC6gtm0y_w;Southern California R Users Group
 UCyHEww8_SCdxZvEnkCfi55w;Statistics Globe;JoachimSchork
 UC-qm48zb2P7NVxk-tBa7MFg;Statistics Lectures UNIL: Peter Hilpert;
 UCMdihazndR0f9XBoSXWqnYg;Statistics of DOOM;aggieerin
@@ -110,6 +116,7 @@ UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;thinkR_fr
 UCT9SgxpakGSH-yfRj_QhzIQ;Thomas Lin Pedersen;thomasp85
 UCP8l94xtoemCH_GxByvTuFQ;TidyX;tidy_explained
 UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen;
+UCNpws2MZ2_VhABXs_BamVBA;R-Toulouse RUG;RUG_Toulouse
 UCyf1AvRK4gmfRUJjeBNMauA;Tunis R User Group;TunisRUserGroup
 UCZQlpKYQPlf2QNVdSv_TRdg;UseR Oslo;OURmeetup
 UCPzO5TjnYnBzfUVj6fI3pdw;Vivian Codes;
