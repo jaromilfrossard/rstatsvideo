@@ -58,7 +58,7 @@ walk(tb_channel$id_channel[-51], update_channel_video)
 
   
 
-# update_channel_video(id = "UCAu9zxmEgQdWYkl84BiziSQ")
+# update_channel_video(id = "UCO5Aa1E7pSh5w2pxPgkPDog")
 # validate_channel("UCAu9zxmEgQdWYkl84BiziSQ") 
 
 validate_new_videos()
