@@ -3668,3 +3668,57 @@ UCKMekE_4UfWvZDuBWenG8WA;lsgA6AH5dnM;2021-11-23T09:52:57Z;"📺 New #rstats vide
 UCcKPp7AI7ZTBf60WqXo3Bpg;3O2IwXdQ10s;2018-05-10T19:31:40Z;"📺 #rstats video: Interfacing Databases with R
 ▶ Salt Lake City R Users Group (@slcrug)
 🔗 https://www.youtube.com/watch?v=3O2IwXdQ10s"
+UCyHEww8_SCdxZvEnkCfi55w;uoB_4fH0Dj4;2021-11-23T15:00:26Z;"📺 New #rstats video: Extract Frequency Counts from Histogram in R (Example) | How to Get Count of Bars | hist() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=uoB_4fH0Dj4"
+UC2M4LiU11tjZfL86yfufSKA;WN6eLWRLpgk;2021-11-23T16:36:43Z;"📺 New #rstats video: R Programming - Rasch, 1PL, 2PL, 3PL using ltm package - dichotomous IRT model
+▶ Sukaesi Marianti
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=WN6eLWRLpgk"
+UCCaChdLMTYMxyawR_Qf-kYA;RiACZPhm53Y;2021-11-23T17:52:24Z;"📺 New #rstats video: ggplot2 Book Club Chapter 6 & 7 (2021-11-08) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=RiACZPhm53Y"
+UCCaChdLMTYMxyawR_Qf-kYA;SV-fN7qYPso;2021-11-23T21:22:47Z;"📺 New #rstats video: ggplot2 Book Club Chapter 7: Networks (2021-11-15) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=SV-fN7qYPso"
+UCeiiqmVK07qhY-wvg3IZiZQ;89l_3Y53qMM;2021-11-23T22:06:06Z;"📺 New #rstats video: Tidy Tuesday live screencast: Analyzing Doctor Who in R
+▶ David Robinson (@drob)
+🔗 https://www.youtube.com/watch?v=89l_3Y53qMM"
+UCCaChdLMTYMxyawR_Qf-kYA;iKvD5Mas8Ow;2021-11-23T22:17:14Z;"📺 New #rstats video: ggplot2 Book Club Chapter 8: Annotations (2021-11-22) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=iKvD5Mas8Ow"
+UCCaChdLMTYMxyawR_Qf-kYA;3PriAsFD5Ps;2021-11-23T22:59:33Z;"📺 New #rstats video: ISLR Book Club: Chapter 4 Classification Lab (2021-11-16) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=3PriAsFD5Ps"
+UCCaChdLMTYMxyawR_Qf-kYA;_W0MGfmpzYY;2021-11-23T23:02:18Z;"📺 New #rstats video: ISLR Book Club: Chapter 4 Classification (2021-11-09) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=_W0MGfmpzYY"
+UCCaChdLMTYMxyawR_Qf-kYA;ZjFSODq2Ryk;2021-11-23T23:02:59Z;"📺 New #rstats video: ISLR Book Club: Chapter 4 Classification (2021-11-23) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=ZjFSODq2Ryk"
+UCCaChdLMTYMxyawR_Qf-kYA;yS3AD132I2w;2021-11-23T23:12:32Z;"📺 New #rstats video: R for Data Science Book Club: Chapters 29-30: Rmarkdown (2021-11-09) (r4ds03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=yS3AD132I2w"
+UCCaChdLMTYMxyawR_Qf-kYA;q2d3uBHO3Tk;2021-11-24T05:54:46Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapters 14 & 15 (2021-11-17) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=q2d3uBHO3Tk"
+UCXuX-kQ1TbKHWeB75NgmhlA;6ng8BeL04Qg;2021-11-24T13:00:06Z;"📺 New #rstats video: Update the phenotype column in PLINK
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#plink #genotypedata #snpgenotypes #snpgenotyping #singlenucleotidepolymorphism #phenotypeandgenotype #phenotypeupdateplink
+🔗 https://www.youtube.com/watch?v=6ng8BeL04Qg"
+UCyHEww8_SCdxZvEnkCfi55w;YGwKGhTqy_o;2021-11-24T15:00:30Z;"📺 New #rstats video: which Function in R (5 Examples) | How to Apply to Vector & Data Frame | Logical Operator & length()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=YGwKGhTqy_o"

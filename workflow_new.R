@@ -11,18 +11,20 @@ library(rtweet)
 library(gert)
 #library(textcat)
 
-source("function/create_channels_directory.R")
-source("function/update_channel_video.R")
-source("function/load_current_video.R")
-source("function/video_url.R")
-source("function/tibble_video_info.R")
-source("function/choose_videos.R")
-source("function/write_tweet.R")
-source("function/post_videos.R")
-source("function/follow_channels.R")
-source("function/validate_new_videos.R")
-source("function/validate_channel.R")
+source("function/channel_exist.R")
 source("function/check_videos.R")
+source("function/choose_videos.R")
+source("function/create_channels_directory.R")
+source("function/follow_channels.R")
+source("function/load_current_video.R")
+source("function/tibble_video_info.R")
+source("function/update_channel_video.R")
+source("function/video_url.R")
+source("function/post_videos.R")
+source("function/validate_channel.R")
+source("function/validate_new_videos.R")
+source("function/write_tweet.R")
+
 
 auth_as("rstatsvideo")
 source("youtube_oauth.R")
@@ -47,12 +49,12 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
 #   filter(!(id_channel%in%list.files("data/channels")))%>%
 #   pull(id_channel)
 
-# tb_channel<- 
-#   tb_channel%>%
-#   mutate(exist = map_lgl(id_channel,channel_exist))
+tb_channel<-
+  tb_channel%>%
+  mutate(exist = map_lgl(id_channel,channel_exist))
 
 #update channels videos
-walk(tb_channel$id_channel, update_channel_video)
+walk(tb_channel$id_channel[-51], update_channel_video)
 
   
 
