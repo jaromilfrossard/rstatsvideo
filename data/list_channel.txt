@@ -58,6 +58,7 @@ UCgmESmRO796bbzOxFNPtXWw;R-Ladies Lausanne;RLadiesLausanne
 UCGjjzr5QxkGqPmVu4HYIyjg;R-ladies Lavras;
 UCJlLo_WBovtoVUNXQvr3UiA;R-Ladies Lisboa;RLadiesLx
 UClC5yNEjMoE3MmbK-mrV8Ow;R-Ladies Melbourne;RLadiesMelb
+UCRth2ImB1T-_saYc5YBTcyA;R-Ladies Nairobi;RLadiesNairobi
 UCoL2FUq0Yo3RcjGG0Vf2qmg;R-Ladies Perth;RLadiesPerth
 UCPque9BaFV9p0hcgImrYBzg;R-Ladies Philly;RLadiesPhilly
 UCFZ-jFG9a9Tx0_4EIX-L7bA;R-Ladies Puebla;RLadiesPuebla
@@ -91,6 +92,7 @@ UCrG34lup96IfDweTSDkPHDA;RLadies Mexico;
 UCaEblc_jq-64PGroox6EALg;Rladies Natal;RLadiesNatal
 UCrT2YmRak5iRXI_-RyXtEuA;RLadies Querétaro;RLadies_Qro
 UCmxRvwPXXLdcv_lWkIqB1yA;RLadies Ribeirão Preto;rladiesrp
+UCF4fux_L7cMhA4ojOx8B1HQ;RLadies San José CR;rladies_sjcr
 UCOFcXLjW9atcEuCa5kbOPSw;RLadies Santa Fe;RLadiesSantaFe
 UCU3ePTnZQurDkYgPK61DAOw;RLadies São Paulo;RLadiesSaoPaulo
 UCkrf5iL8ef1QHe--zstechA;RLadies Sydney;RLadiesSydney
