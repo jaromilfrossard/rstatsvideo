@@ -38,6 +38,8 @@ source("youtube_oauth.R")
 
 update_performance()
 
-knitr::knit("index.Rmd")
+
+rmarkdown::render("index.Rmd")
+
 
 
