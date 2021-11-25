@@ -2,7 +2,7 @@
 # file_perf = "data/performance.csv";
 # file_channel_to_rm = "data/list_channel_to_rm.txt";
 # file_video_to_rm = "data/list_video_to_rm.txt";
-# credit = 100;
+# credit = 10;
 # 
 
 
@@ -139,6 +139,7 @@ update_performance <- function(file_channel = "data/list_channel.txt",
     tb_perf_update<-
       tb_perf_update%>%
       mutate(title_video = map_chr(url_video,function(url){
+        message(glue("harvesting title: {url}"))
         Sys.sleep(runif(1,0,0.1))
         rvest::read_html(url)%>%
           html_elements("title")%>%

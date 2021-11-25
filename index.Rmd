@@ -58,7 +58,8 @@ tb_perf_video <-
   mutate(url_twitter = case_when(!is.na(id_twitter)~glue("<a href=https://twitter.com/{id_twitter}>@{id_twitter}</a>"),
                                  TRUE~"-"))%>%
   mutate(name_channel = as.factor(name_channel))%>%
-  select(Channel = channel, Twitter =url_twitter, Video = video, `Number of views` =  count_view,
+  mutate(date = ymd(as_date(ymd_hms_video)))%>%
+  select(Channel = channel, Twitter =url_twitter, Video = video,Date=date, `Number of views` =  count_view,
           `Number of comments` =  count_comment)
 
 

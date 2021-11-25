@@ -36,7 +36,7 @@ auth_as("rstatsvideo")
 source("youtube_oauth.R")
 
 
-update_performance(credit = 10)
+update_performance()
 
 knitr::knit("index.Rmd")
 
