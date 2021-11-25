@@ -39,7 +39,7 @@ source("youtube_oauth.R")
 update_performance()
 
 
-rmarkdown::render("index.Rmd")
+rmarkdown::render("index.Rmd",output_file = "docs/index.html")
 
 
 
