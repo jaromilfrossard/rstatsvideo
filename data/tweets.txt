@@ -3722,3 +3722,57 @@ UCyHEww8_SCdxZvEnkCfi55w;YGwKGhTqy_o;2021-11-24T15:00:30Z;"📺 New #rstats vide
 🗣 🇬🇧
 #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=YGwKGhTqy_o"
+UCGuktEl5InrcxPfCjmPWxsA;_5i4HDrKM8I;2021-11-24T17:00:26Z;"📺 New #rstats video: Using the patchwork R package to combine two ggplot2 plots into one figure (CC166)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rpatchwork #rpatchworktitle #rpatchworkpackage #rpatchworkspacebetweenplots
+🔗 https://www.youtube.com/watch?v=_5i4HDrKM8I"
+UCDgj5-mFohWZ5irWSFMFcng;hq1BxHRuS3o;2021-11-24T19:34:38Z;"📺 New #rstats video: R-Ladies Coventry (English) - Introduction to data wrangling with the tidyverse - Bodo Winter
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#coding #programming
+🔗 https://www.youtube.com/watch?v=hq1BxHRuS3o"
+UCCaChdLMTYMxyawR_Qf-kYA;OTMrqc8Q7FY;2021-11-24T19:46:45Z;"📺 New #rstats video: Regression and Other Stories: Chapter 12 Transformation and regression (2021-11-09) (ros01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=OTMrqc8Q7FY"
+UCCaChdLMTYMxyawR_Qf-kYA;0l5EzfcXEhI;2021-11-24T19:53:29Z;"📺 New #rstats video: Regression and Other Stories: Chapter 12 Continued (2021-11-23) (ros01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=0l5EzfcXEhI"
+UCCaChdLMTYMxyawR_Qf-kYA;T-x6XBrauvU;2021-11-24T20:13:18Z;"📺 New #rstats video: Engineering Production Grade Shiny Apps Book Club Chapter 12 (2021-11-10) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=T-x6XBrauvU"
+UCCaChdLMTYMxyawR_Qf-kYA;BMjdI5sokKA;2021-11-24T20:15:18Z;"📺 New #rstats video: Engineering Production Grade Shiny Apps Book Club Chapter 13 (2021-11-17) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=BMjdI5sokKA"
+UCCaChdLMTYMxyawR_Qf-kYA;gEaGKdVGaM4;2021-11-24T20:30:30Z;"📺 New #rstats video: Engineering Production Grade Shiny Apps Book Club Chapter 14 (2021-11-24) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=gEaGKdVGaM4"
+UCCaChdLMTYMxyawR_Qf-kYA;g4KlSZNofTQ;2021-11-24T20:36:58Z;"📺 New #rstats video: Tidytext Book Club: Chapter 6: Topic modeling (2021-11-17) (tidytext01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=g4KlSZNofTQ"
+UCCaChdLMTYMxyawR_Qf-kYA;_-IIa879XrM;2021-11-24T20:40:47Z;"📺 New #rstats video: Tidytext Book Club: Chapter 4: Relationships between words (2021-11-10) (tidytext01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=_-IIa879XrM"
+UCCaChdLMTYMxyawR_Qf-kYA;RpZoQR2xwME;2021-11-24T20:56:46Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 14: Strings Part 1 (2021-11-13) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=RpZoQR2xwME"
+UCCaChdLMTYMxyawR_Qf-kYA;DNwioC-SgKQ;2021-11-24T21:02:35Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 5: Data Transformation (2021-11-12) (r4ds06)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=DNwioC-SgKQ"
+UCCaChdLMTYMxyawR_Qf-kYA;A-_URHkvxNA;2021-11-24T21:03:10Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 14: Strings Part 2 (2021-11-20) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=A-_URHkvxNA"
+UCCaChdLMTYMxyawR_Qf-kYA;3SLN7bQQkDY;2021-11-24T21:06:48Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 5: Data Transformation part 2 (2021-11-19) (r4ds06)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=3SLN7bQQkDY"
