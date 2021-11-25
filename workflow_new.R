@@ -9,15 +9,20 @@ library(lubridate)
 library(glue)
 library(rtweet)
 library(gert)
+library(rvest)
+
 #library(textcat)
 
 source("function/channel_exist.R")
+source("function/channel_url.R")
+
 source("function/check_videos.R")
 source("function/choose_videos.R")
 source("function/create_channels_directory.R")
 source("function/follow_channels.R")
 source("function/load_current_video.R")
 source("function/tibble_video_info.R")
+source("function/tibble_video_stats.R")
 source("function/update_channel_video.R")
 source("function/video_url.R")
 source("function/post_videos.R")
@@ -45,12 +50,12 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
 #   arrange(name_channel)%>%
 #   readr::write_delim(file="data/list_channel.txt", delim=";",na = "")
 
-# new_channels = tb_channel%>%
-#   filter(!(id_channel%in%list.files("data/channels")))%>%
-#   pull(id_channel)
+new_channels = tb_channel%>%
+  filter(!(id_channel%in%list.files("data/channels")))%>%
+  pull(id_channel)
 
-# update_channel_video(id = new_channels[6])
-# validate_channel(new_channels[6]) 
+# update_channel_video(id = new_channels[1])
+# validate_channel(new_channels[1]) 
 
 
 #update channels videos
