@@ -102,24 +102,65 @@ Column {.tabset}
 -------------------------------------
 
 
-### All Youtube Videos by channel
-
+### All Youtube Videos from R-Ladies channels
 
 
 ```{r}
 gg<-
   tb_perf%>%
+  filter(str_detect(name_channel,fixed("ladies",ignore_case = TRUE)))%>%
   mutate(name_channel= factor(name_channel,ordered = T),
          name_channel=fct_rev(name_channel))%>%
          #,
          #name_channel = reorder(name_channel,name_channel,length)
          #)%>%
   ggplot(aes(x = ymd_hms_video, y = name_channel,color = name_channel))+
+  scale_x_datetime(limits = range(tb_perf$ymd_hms_video))+
   geom_point_interactive(aes(tooltip = title_video,
                              onclick = paste0('window.open("', url_video , '")'),
                              data_id = id_video),
                          show.legend = F)+
-  labs(title = "All #rstats videos - Click to access the video", 
+  labs(title = "R-Ladies channels - Click to access the video", 
+       x = "Release date",y = "")+
+  #scale_y_reverse()+
+  theme_bw()+
+  theme(axis.text.y = element_text(size=2),
+        axis.text.x = element_text(size=4),
+        axis.title.x = element_text(size=5),
+        panel.grid.minor.y = element_line(size=1))
+girafe(code = print(gg),
+       pointsize = 1,
+       options = list(
+         opts_sizing(rescale = TRUE, width = 1)),
+       height_svg = 2.4)
+```
+
+
+
+
+
+
+
+
+### All Youtube Videos
+
+
+```{r}
+gg<-
+  tb_perf%>%
+  filter(!str_detect(name_channel,fixed("ladies",ignore_case = TRUE)))%>%
+  mutate(name_channel= factor(name_channel,ordered = T),
+         name_channel=fct_rev(name_channel))%>%
+         #,
+         #name_channel = reorder(name_channel,name_channel,length)
+         #)%>%
+  ggplot(aes(x = ymd_hms_video, y = name_channel,color = name_channel))+
+  scale_x_datetime(limits = range(tb_perf$ymd_hms_video))+
+  geom_point_interactive(aes(tooltip = title_video,
+                             onclick = paste0('window.open("', url_video , '")'),
+                             data_id = id_video),
+                         show.legend = F)+
+  labs(title = "Other channels - Click to access the video", 
        x = "Release date",y = "")+
   #scale_y_reverse()+
   theme_bw()+
