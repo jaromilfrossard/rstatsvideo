@@ -3776,3 +3776,23 @@ UCCaChdLMTYMxyawR_Qf-kYA;3SLN7bQQkDY;2021-11-24T21:06:48Z;"📺 New #rstats vide
 ▶ R4DS Online Learning Community (@R4DScommunity)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=3SLN7bQQkDY"
+UCyHEww8_SCdxZvEnkCfi55w;YIjVMBVWPHc;2021-11-25T15:00:30Z;"📺 New #rstats video: Draw ggplot2 Legend without Plot in R (Example) | Extract Graph Legends | grid, gridExtra & cowplot
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=YIjVMBVWPHc"
+UCMwM-3tg_-Pbx8hKO78q5EA;k1lwmCQ61eE;2021-11-26T10:27:56Z;"📺 New #rstats video: NHS-R Conference 2021 - Day 1
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=k1lwmCQ61eE"
+UC_R5smHVXRYGhZYDJsnXTwg;FZ0LcJbxPF0;2018-07-12T06:07:13Z;"📺 #rstats video: Extending R with C++: Motivation, Introduction and Examples - Part 2
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=FZ0LcJbxPF0"
+UCCaChdLMTYMxyawR_Qf-kYA;5nfLL7eEGag;2021-01-16T19:03:21Z;"📺 #rstats video: R for Data Science Book Club: Chapter 7 (2021-01-13) (r4ds04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=5nfLL7eEGag"
+UCAu9zxmEgQdWYkl84BiziSQ;LXB0sm-hzTI;2020-03-05T19:59:15Z;"📺 #rstats video: 8- Matrisler 2- Temel R Programlama
+▶ Eskisehir R User Group
+🔗 https://www.youtube.com/watch?v=LXB0sm-hzTI"

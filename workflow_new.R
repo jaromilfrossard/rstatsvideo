@@ -50,9 +50,9 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
 #   arrange(name_channel)%>%
 #   readr::write_delim(file="data/list_channel.txt", delim=";",na = "")
 
-new_channels = tb_channel%>%
-  filter(!(id_channel%in%list.files("data/channels")))%>%
-  pull(id_channel)
+# new_channels = tb_channel%>%
+#   filter(!(id_channel%in%list.files("data/channels")))%>%
+#   pull(id_channel)
 
 # update_channel_video(id = new_channels[1])
 # validate_channel(new_channels[1]) 

@@ -10,7 +10,7 @@ update_performance <- function(file_channel = "data/list_channel.txt",
                                file_perf = "data/performance.csv",
                                file_channel_to_rm = "data/list_channel_to_rm.txt",
                                file_video_to_rm = "data/list_video_to_rm.txt",
-                               credit = 100
+                               credit = 200
                                ){
   
   
@@ -156,8 +156,8 @@ update_performance <- function(file_channel = "data/list_channel.txt",
     
   }
   
-  
-  write_delim(tb_perf, file= file_perf, delim = ";")
+  tb_perf
+  #write_delim(tb_perf, file= file_perf, delim = ";")
   
   
   }

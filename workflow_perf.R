@@ -36,8 +36,9 @@ auth_as("rstatsvideo")
 source("youtube_oauth.R")
 
 
-update_performance()
+tb_perf <- update_performance()
 
+write_delim(tb_perf, file= "data/performance.csv", delim = ";")
 
 rmarkdown::render("index.Rmd",output_file = "docs/index.html")
 
