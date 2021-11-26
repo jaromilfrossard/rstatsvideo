@@ -34,7 +34,6 @@ library(forcats)
 
 ```{r,include=FALSE}
 
-date_update <- as_date(file.info("data/performance.csv")[,"mtime"])
 
 
 tb_perf<- readr::read_delim("data/performance.csv", delim =";",col_types = cols(
@@ -44,6 +43,10 @@ tb_perf<- readr::read_delim("data/performance.csv", delim =";",col_types = cols(
   count_comment = col_integer(), url_channel = col_character(),
   url_video = col_character(), ymd_update = col_date(format = "")
 ),lazy = F)
+
+
+date_update <- min(tb_perf$ymd_update)
+
 
 tb_perf<-
   tb_perf%>%
@@ -90,7 +93,7 @@ tb_perf_channel%>%
     search = list( caseInsensitive = TRUE),
     pageLength = 20
   ),
-  caption = glue("Date: {date_update}"))
+  caption = glue("Oldest update: {date_update}"))
 
 ```
 
@@ -186,7 +189,7 @@ tb_perf_video%>%
     search = list( caseInsensitive = TRUE),
     pageLength = 20
   ),
-  caption = glue("Date: {date_update}"))
+  caption = glue("Oldest update: {date_update}"))
 
 ```
 
