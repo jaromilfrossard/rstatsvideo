@@ -4,7 +4,6 @@
 # rstatsvideo
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
 Brain of the twitter bot `rstatsvideo` twitter bot
@@ -15,8 +14,8 @@ on “data/channel.txt”.
 
 ### Most productive channels
 
-![](README_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-3-1.svg)<!-- -->
 
 ### Most viewed videos
 
-![](README_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-4-1.svg)<!-- -->

@@ -40,7 +40,7 @@ tb_perf<- readr::read_delim("data/performance.csv", delim =";",col_types = cols(
   id_video = col_character(), ymd_hms_video = col_datetime(format = ""),
   id_twitter = col_character(), count_view = col_integer(),
   count_comment = col_integer(), url_channel = col_character(),
-  url_video = col_character(), today = col_date(format = "")
+  url_video = col_character(), ymd_update = col_date(format = "")
 ),lazy = F)
 
 tb_perf_channel <-
@@ -61,7 +61,7 @@ num_format = comma_format(accuracy = 1, big.mark = " ", decimal.mark = ".")
 
 ### Most productive channels
 
-```{r echo=FALSE}
+```{r echo=FALSE,dev="svg"}
 gg_channel<-
   tb_perf_channel%>%
   arrange(desc(count_video))%>%
@@ -75,7 +75,7 @@ gg_channel<-
                      labels = num_format)+
   theme_bw()+
   labs(title = "Top 10: Most productive channels", 
-       subtitle = glue("Data collected {{tb_perf$today[1]}} using {tuber}",.open = "{{", .close="}}"),
+       subtitle = glue("Data collected using {tuber}",.open = "{{", .close="}}"),
        y= "Number of videos",x ="")+
   theme(legend.position = "none")
 gg_channel
@@ -88,7 +88,7 @@ gg_channel
 
 
 
-```{r echo=FALSE}
+```{r echo=FALSE, dev="svg"}
 options(scipen = 999)
 gg_video<-
   tb_perf%>%
@@ -109,7 +109,7 @@ gg_video<-
                      labels = num_format)+
   theme_bw()+
   labs(title = "Top 10: Most viewed videos", 
-       subtitle = glue("Data collected {{tb_perf$today[1]}} using {tuber}",.open = "{{", .close="}}"),
+       subtitle = glue("Data collected using {tuber}",.open = "{{", .close="}}"),
        y= "Total of views",x ="")+
   theme(legend.position = "none")
 gg_video
