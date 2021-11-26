@@ -1,9 +1,9 @@
-# file_channel = "data/list_channel.txt";
-# file_perf = "data/performance.csv";
-# file_channel_to_rm = "data/list_channel_to_rm.txt";
-# file_video_to_rm = "data/list_video_to_rm.txt";
-# credit = 10;
-# 
+file_channel = "data/list_channel.txt";
+file_perf = "data/performance.csv";
+file_channel_to_rm = "data/list_channel_to_rm.txt";
+file_video_to_rm = "data/list_video_to_rm.txt";
+credit = 10;
+
 
 
 update_performance <- function(file_channel = "data/list_channel.txt",
@@ -25,7 +25,7 @@ update_performance <- function(file_channel = "data/list_channel.txt",
                            ),
                            lazy = FALSE)
   
-  tb_perf<- readr::read_delim(file_perf, delim =";",col_types = cols(
+  tb_perf <- readr::read_delim(file_perf, delim =";",col_types = cols(
     name_channel = col_character(), id_channel = col_character(),
     id_video = col_character(), ymd_hms_video = col_datetime(format = ""),
     id_twitter = col_character(), count_view = col_integer(),
@@ -65,11 +65,18 @@ update_performance <- function(file_channel = "data/list_channel.txt",
                                lazy = FALSE)
   
   
+  ### anti join (remove)
+  
   videos <-
     videos%>%
     anti_join(tb_channel_to_rm, by = c("id_channel"="id_channel"))%>%
     anti_join(tb_video_to_rm,by =c("id_channel" = "id_channel","id_video"="id_video"))%>%
     left_join(tb_channel, by = c("name_channel" = "name_channel", "id_channel" ="id_channel"))
+  
+  tb_perf <- 
+    tb_perf%>%
+    anti_join(tb_channel_to_rm, by = c("id_channel"="id_channel"))%>%
+    anti_join(tb_video_to_rm,by =c("id_channel" = "id_channel","id_video"="id_video"))
   
   
   
@@ -82,8 +89,6 @@ update_performance <- function(file_channel = "data/list_channel.txt",
                              "id_twitter" = "id_twitter" ))
   
   
-  
-  #####replacename
   
   
   
