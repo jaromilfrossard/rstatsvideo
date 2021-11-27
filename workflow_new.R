@@ -27,6 +27,7 @@ source("function/update_channel_video.R")
 source("function/video_url.R")
 source("function/post_videos.R")
 source("function/validate_channel.R")
+source("function/validate_new_channels.R")
 source("function/validate_new_videos.R")
 source("function/write_tweet.R")
 

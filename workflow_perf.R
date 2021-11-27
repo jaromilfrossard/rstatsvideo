@@ -36,7 +36,10 @@ auth_as("rstatsvideo")
 source("youtube_oauth.R")
 
 
-tb_perf <- update_performance()
+tb_perf <- update_performance(50)
+
+
+
 
 write_delim(tb_perf, file= "data/performance.csv", delim = ";")
 

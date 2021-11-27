@@ -1,16 +1,16 @@
-file_channel = "data/list_channel.txt";
-file_perf = "data/performance.csv";
-file_channel_to_rm = "data/list_channel_to_rm.txt";
-file_video_to_rm = "data/list_video_to_rm.txt";
-credit = 10;
+# file_channel = "data/list_channel.txt";
+# file_perf = "data/performance.csv";
+# file_channel_to_rm = "data/list_channel_to_rm.txt";
+# file_video_to_rm = "data/list_video_to_rm.txt";
+# credit = 10;
 
 
 
-update_performance <- function(file_channel = "data/list_channel.txt",
+update_performance <- function(credit = 200,
+                               file_channel = "data/list_channel.txt",
                                file_perf = "data/performance.csv",
                                file_channel_to_rm = "data/list_channel_to_rm.txt",
-                               file_video_to_rm = "data/list_video_to_rm.txt",
-                               credit = 200
+                               file_video_to_rm = "data/list_video_to_rm.txt"
                                ){
   
   
