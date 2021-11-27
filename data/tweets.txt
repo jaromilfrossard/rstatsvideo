@@ -3796,3 +3796,22 @@ UCCaChdLMTYMxyawR_Qf-kYA;5nfLL7eEGag;2021-01-16T19:03:21Z;"📺 #rstats video: R
 UCAu9zxmEgQdWYkl84BiziSQ;LXB0sm-hzTI;2020-03-05T19:59:15Z;"📺 #rstats video: 8- Matrisler 2- Temel R Programlama
 ▶ Eskisehir R User Group
 🔗 https://www.youtube.com/watch?v=LXB0sm-hzTI"
+UCyHEww8_SCdxZvEnkCfi55w;9VoibBA98Sw;2021-11-26T15:00:09Z;"📺 New #rstats video: R Error: Object of Type Closure is not Subsettable in R (2 Examples) | How to Reproduce, Debug & Fix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=9VoibBA98Sw"
+UCP8l94xtoemCH_GxByvTuFQ;fnvetzLIuB4;2020-06-21T18:09:19Z;"📺 #rstats video: TidyX Episode 15 | Juneteenth and Census Tables
+▶ TidyX (@tidy_explained)
+🔗 https://www.youtube.com/watch?v=fnvetzLIuB4"
+UC-nYzfrbDhiA03hww0PCpXg;tE8cgL1P-U0;2017-11-24T21:42:50Z;"📺 #rstats video: Introducción a Markdown - Creación de informes y presentaciones con rmarkdown
+▶ R Users Group - Ecuador (@users_group)
+#comunidad #usuarios #rstudio #rproject #ecuador #rusersgroup #rusers #usuariosder #rgroup
+🔗 https://www.youtube.com/watch?v=tE8cgL1P-U0"
+UCDgj5-mFohWZ5irWSFMFcng;By5DdLa3SmU;2020-11-14T15:29:53Z;"📺 #rstats video: R-Ladies Tbilisi (ქართულად) - Titanic Challenge
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇪🇸
+🔗 https://www.youtube.com/watch?v=By5DdLa3SmU"
+UC_R5smHVXRYGhZYDJsnXTwg;JOIKy_89c-o;2018-07-16T01:05:23Z;"📺 #rstats video: Applications with R and Docker - Part 1
+▶ R Consortium (@RConsortium)
+🔗 https://www.youtube.com/watch?v=JOIKy_89c-o"
