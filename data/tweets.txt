@@ -3815,3 +3815,24 @@ UCDgj5-mFohWZ5irWSFMFcng;By5DdLa3SmU;2020-11-14T15:29:53Z;"📺 #rstats video: R
 UC_R5smHVXRYGhZYDJsnXTwg;JOIKy_89c-o;2018-07-16T01:05:23Z;"📺 #rstats video: Applications with R and Docker - Part 1
 ▶ R Consortium (@RConsortium)
 🔗 https://www.youtube.com/watch?v=JOIKy_89c-o"
+UCyHEww8_SCdxZvEnkCfi55w;lc95jeg5Sec;2021-11-27T15:00:23Z;"📺 New #rstats video: Compare Character Strings with Logical Operator Conditionally in R (Example) | %in% Operator, ifelse
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=lc95jeg5Sec"
+UCCaChdLMTYMxyawR_Qf-kYA;mYTD9DbM174;2021-11-27T18:15:50Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 7: Exploratory Data Analysis (2021-11-26) (r4ds06)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=mYTD9DbM174"
+UCTTBgWyJl2HrrhQOOc710kA;T8SSxIo-9Rg;2021-11-27T20:58:09Z;"📺 New #rstats video: Predicting viewership for Doctor Who episodes
+▶ Julia Silge (@juliasilge)
+🔗 https://www.youtube.com/watch?v=T8SSxIo-9Rg"
+UCXuX-kQ1TbKHWeB75NgmhlA;RAwtI1GyPpY;2021-01-31T08:00:05Z;"📺 #rstats video: How to solve an install error in R tidyverse (and other R packages)
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#howtoanalysedata #visualizationinr #genetics #visualizarion #education #science #tutorial #training
+🔗 https://www.youtube.com/watch?v=RAwtI1GyPpY"
+UCCaChdLMTYMxyawR_Qf-kYA;24fuHYagf9k;2021-03-06T22:04:11Z;"📺 #rstats video: R para Ciencia de Datos Club de Lectura: Capítulo 12 (2021-03-02) (r4ds_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=24fuHYagf9k"

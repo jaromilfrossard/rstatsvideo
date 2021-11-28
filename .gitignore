@@ -9,6 +9,7 @@ test.R
 data/channels/
 youtube_oauth.R
 analyse_performance.R
+analyse_tweet.R
 get_social.R
 data/performance.csv
 img/

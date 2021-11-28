@@ -32,11 +32,11 @@ source("function/validate_new_videos.R")
 source("function/write_tweet.R")
 
 
-auth_as("rstatsvideo")
+#auth_as("rstatsvideo")
 source("youtube_oauth.R")
 
 
-tb_perf <- update_performance(50)
+tb_perf <- update_performance(5)
 
 
 
