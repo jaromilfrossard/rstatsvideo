@@ -5,7 +5,7 @@ UCQYM-t2ut2zXr4d7TIFya1A;Alison Hill;apreshill
 UCnwYO3Sz_emBTC1sTZ6TlsQ;Andrew Couch;Andr3wCouch
 UCgXBQIFJ_Rmq3UhWL_yrkxQ;Applied Epi;
 UCULDYwwVDYo1Pd3uLB33cHg;bernogarcia;bernogarcia1
-UCWApflfx7nUcvvYMZ2SAbCQ;BIG Bioinformatics
+UCWApflfx7nUcvvYMZ2SAbCQ;BIG Bioinformatics;
 UCTZXht1RTL2Duc3eU8MYGzQ;Bruno Rodrigues;brodriguesco
 UCqQ_cxcNu1ekqHXDc-MbU_w;Business Science;bizScienc
 UCDR9i4RB_ZbnM8QXp4NC9uQ;CalgaryR R User Group;
@@ -39,7 +39,7 @@ UCxB1IGhLzlEOikTL-aDwqFg;Leonardo Collado Torres;lcolladotor
 UCC3CCtUrSSQoJkxodRKr89g;Lisa Lendway - Statistics & Data Science;lisalendway
 UCKJFCIbcGs2a5RGt8RjdbFA;Liza Wood;wood__liza
 UCcCMO7sHb8O_TJUd34sQ_Ng;Lulus CommentdansR;
-UCGicmkdbKCzYjBtijfPxHhQ;Malaysia R User Group
+UCGicmkdbKCzYjBtijfPxHhQ;Malaysia R User Group;
 UCkNvd1JigrH2A_YLKSgFnQQ;Mango Solutions;MangoTheCat
 UCYNVcihAKkRW-bhzIrguvVw;math et al;
 UC1ZIcF31fEzBO6akL_HHkBg;Mauro Lepore;mauro_lepore
@@ -107,7 +107,7 @@ UCcKPp7AI7ZTBf60WqXo3Bpg;Salt Lake City R Users Group;slcrug
 UC7VV1Ix1-8jncW7hTRZ50bg;satRday Neuchâtel;satRdayNeuCH
 UCYgIy7zeC7v6iZhx0-NywBw;satRdays;satRdays_org
 UCwQ7lkY6YWzZjT807Itbvtw;Shiny DeveloperSeries;theRcast
-UCOdX7FBvpMPknrC6gtm0y_w;Southern California R Users Group
+UCOdX7FBvpMPknrC6gtm0y_w;Southern California R Users Group;
 UCrB-uourf2vxGeBnGjQrA0w;STAT 545;STAT545
 UCC0n35R84-ufqPstR1YtCxA;Stat Pharm;
 UCyHEww8_SCdxZvEnkCfi55w;Statistics Globe;JoachimSchork
