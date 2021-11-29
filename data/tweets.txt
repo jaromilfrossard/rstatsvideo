@@ -3836,3 +3836,20 @@ UCCaChdLMTYMxyawR_Qf-kYA;24fuHYagf9k;2021-03-06T22:04:11Z;"📺 #rstats video: R
 ▶ R4DS Online Learning Community (@R4DScommunity)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=24fuHYagf9k"
+UC_bfGqjzgx4-N8TEQlJTaNQ;Es-s_WL6Sww;2021-11-28T14:25:51Z;"📺 New #rstats video: Geospatial Visualization in R with Rami Krispin
+▶ Abuja R User Group (@AbujaRUG)
+🔗 https://www.youtube.com/watch?v=Es-s_WL6Sww"
+UCyHEww8_SCdxZvEnkCfi55w;uwWMq2OmiDU;2021-11-28T15:00:21Z;"📺 New #rstats video: Plot Only One Variable in ggplot2 Plot in R (2 Examples) | Draw Scatterplot | qplot() & seq_along()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=uwWMq2OmiDU"
+UCktFo5XoX5QZMWb2Gb3KY2A;AFuKaZQGnLk;2021-11-28T17:14:48Z;"📺 New #rstats video: Geospatial Visualization in R with Rami Krispin
+▶ R-Ladies Abuja (@RLadiesAbuja)
+🔗 https://www.youtube.com/watch?v=AFuKaZQGnLk"
+UCKJFCIbcGs2a5RGt8RjdbFA;DNF4ZwfobiQ;2021-11-29T05:12:04Z;"📺 New #rstats video: Week 10.1: Iteration with for loops
+▶ Liza Wood (@wood__liza)
+🔗 https://www.youtube.com/watch?v=DNF4ZwfobiQ"
+UCKJFCIbcGs2a5RGt8RjdbFA;DVaACfvnFJs;2021-11-29T05:29:32Z;"📺 New #rstats video: Week 10.2: Iteration with map functions
+▶ Liza Wood (@wood__liza)
+🔗 https://www.youtube.com/watch?v=DVaACfvnFJs"
