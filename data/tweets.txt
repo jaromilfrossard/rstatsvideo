@@ -3853,3 +3853,27 @@ UCKJFCIbcGs2a5RGt8RjdbFA;DNF4ZwfobiQ;2021-11-29T05:12:04Z;"📺 New #rstats vide
 UCKJFCIbcGs2a5RGt8RjdbFA;DVaACfvnFJs;2021-11-29T05:29:32Z;"📺 New #rstats video: Week 10.2: Iteration with map functions
 ▶ Liza Wood (@wood__liza)
 🔗 https://www.youtube.com/watch?v=DVaACfvnFJs"
+UCyHEww8_SCdxZvEnkCfi55w;IiArM49kI2g;2021-11-29T15:00:11Z;"📺 New #rstats video: Extract Values & Names from table Object in R (Example) | Get Row | table(), as.numeric() & names()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=IiArM49kI2g"
+UCKMekE_4UfWvZDuBWenG8WA;_ypkrGyqyZ4;2021-11-29T15:14:40Z;"📺 New #rstats video: Automate Textual Reports of Statistical Models in R! report / easystats
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#statisticalreports #statisticalreporting #modeldescription #lm #linearmodel #linearregression
+🔗 https://www.youtube.com/watch?v=_ypkrGyqyZ4"
+UCGuktEl5InrcxPfCjmPWxsA;YkjjQUSutFg;2021-11-29T17:00:20Z;"📺 New #rstats video: Getting and giving help in a R discussion forum: How to alter borders on plotting symbols (CC167)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#helpinr #halpinr #rstudiocommunity #rdiscussionforum #rstackoverflow
+🔗 https://www.youtube.com/watch?v=YkjjQUSutFg"
+UCF9ymC7Dpjwr0lge2QR_A5Q;-bdMv2aAqUY;2021-01-28T18:08:46Z;"📺 #rstats video: webin-R #06 : régression logistique (partie 1)
+▶ webin-R
+🗣 🇫🇷
+🔗 https://www.youtube.com/watch?v=-bdMv2aAqUY"
+UCMdihazndR0f9XBoSXWqnYg;cfl441A17Dk;2016-02-23T21:02:41Z;"📺 #rstats video: R - Chapter 6: Z Scores - Lecture Part 2
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstudio #rprogram #statistics #zscores #normaldistribution
+🔗 https://www.youtube.com/watch?v=cfl441A17Dk"

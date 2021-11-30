@@ -36,7 +36,7 @@ source("function/write_tweet.R")
 source("youtube_oauth.R")
 
 
-tb_perf <- update_performance(5)
+tb_perf <- update_performance(100)
 
 
 
