@@ -3877,3 +3877,36 @@ UCMdihazndR0f9XBoSXWqnYg;cfl441A17Dk;2016-02-23T21:02:41Z;"📺 #rstats video: R
 🗣 🇬🇧
 #rstudio #rprogram #statistics #zscores #normaldistribution
 🔗 https://www.youtube.com/watch?v=cfl441A17Dk"
+UCyHEww8_SCdxZvEnkCfi55w;IFA4dIMTQXs;2021-11-30T15:00:07Z;"📺 New #rstats video: Plot Mean in ggplot2 Barplot in R (Example) | Show Averages in geom_bar | Barchart Graphic Tutorial
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=IFA4dIMTQXs"
+UC1ZIcF31fEzBO6akL_HHkBg;HJCUlCgEnqM;2021-11-30T15:44:27Z;"📺 New #rstats video: EDA: Unusual and missing values
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstudio
+🔗 https://www.youtube.com/watch?v=HJCUlCgEnqM"
+UCCaChdLMTYMxyawR_Qf-kYA;mGE639JpneE;2021-11-30T16:52:43Z;"📺 New #rstats video: ggplot2 Book Club Chapter 9: Arranging Plots (2021-11-29) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=mGE639JpneE"
+UCCaChdLMTYMxyawR_Qf-kYA;Obt6EZeBfIw;2021-11-30T17:08:41Z;"📺 New #rstats video: ISLR Book Club: Chapter 5 Resampling Methods (2021-11-30) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=Obt6EZeBfIw"
+UCMwM-3tg_-Pbx8hKO78q5EA;QbuXObUVTaw;2021-11-30T18:24:18Z;"📺 New #rstats video: NHS-R Workshop:  Regression Modelling, November 2021
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=QbuXObUVTaw"
+UCMwM-3tg_-Pbx8hKO78q5EA;sE0hKSgMZfM;2021-11-30T18:24:30Z;"📺 New #rstats video: NHS-R Conference 2021 Workshop Week - RMarkdown, Thomas Mock, RStudio
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=sE0hKSgMZfM"
+UCCaChdLMTYMxyawR_Qf-kYA;OiDgo_ZQZYc;2021-11-30T23:28:49Z;"📺 New #rstats video: Regression and Other Stories: Chapter 12 Continued (2021-11-30) (ros01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=OiDgo_ZQZYc"
+UCrf8aQYGogbz0_7TTQVL21w;ksxUVdmqWxU;2021-12-01T02:17:00Z;"📺 New #rstats video: Introducción a R Markdown ' Informes ' Reportes y Dashboards
+▶ R-Ladies La Paz (@RLadiesLaPaz)
+🔗 https://www.youtube.com/watch?v=ksxUVdmqWxU"
