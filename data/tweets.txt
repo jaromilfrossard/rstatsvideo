@@ -3910,3 +3910,35 @@ UCCaChdLMTYMxyawR_Qf-kYA;OiDgo_ZQZYc;2021-11-30T23:28:49Z;"📺 New #rstats vide
 UCrf8aQYGogbz0_7TTQVL21w;ksxUVdmqWxU;2021-12-01T02:17:00Z;"📺 New #rstats video: Introducción a R Markdown ' Informes ' Reportes y Dashboards
 ▶ R-Ladies La Paz (@RLadiesLaPaz)
 🔗 https://www.youtube.com/watch?v=ksxUVdmqWxU"
+UCyHEww8_SCdxZvEnkCfi55w;nR8heBb8CME;2021-12-01T15:00:22Z;"📺 New #rstats video: Introduction to the plotly Package in R (Example) | Draw Interactive Plots | Create Web-Based Graphs
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=nR8heBb8CME"
+UCMwM-3tg_-Pbx8hKO78q5EA;aeTgh91EgTs;2021-12-01T15:34:21Z;"📺 New #rstats video: NHS-R Workshop: Shiny (Part 2 of 2) - November 2021
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=aeTgh91EgTs"
+UCxB1IGhLzlEOikTL-aDwqFg;13bIatqNHH8;2021-12-01T16:01:06Z;"📺 New #rstats video: [2021-10-29] Bioconductor 3.14 release overview
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#bioconductor #version314
+🔗 https://www.youtube.com/watch?v=13bIatqNHH8"
+UCxB1IGhLzlEOikTL-aDwqFg;f3F8yTREzKA;2021-12-01T16:26:39Z;"📺 New #rstats video: [2021-11-12] Accessing DNA genotype data
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#bioconductor #dnagenotype #vcf #variantannotation
+🔗 https://www.youtube.com/watch?v=f3F8yTREzKA"
+UCCaChdLMTYMxyawR_Qf-kYA;JkacZOrB1QY;2021-12-01T21:27:05Z;"📺 New #rstats video: Engineering Production Grade Shiny Apps Book Club Chapter 15 (2021-12-01) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=JkacZOrB1QY"
+UCCaChdLMTYMxyawR_Qf-kYA;hQmenCdKY0E;2021-12-01T22:32:31Z;"📺 New #rstats video: Tidytext Book Club: Chapter 7: Case study: comparing Twitter archives (2021-12-01) (tidytext01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=hQmenCdKY0E"
+UCDgj5-mFohWZ5irWSFMFcng;7p7Atrx9jCI;2021-12-02T05:41:54Z;"📺 New #rstats video: R-Ladies Auckland (English) - A jouRney: where R can take you - Emma Vitz
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#coding #programming
+🔗 https://www.youtube.com/watch?v=7p7Atrx9jCI"
