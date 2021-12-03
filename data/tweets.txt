@@ -3942,3 +3942,36 @@ UCDgj5-mFohWZ5irWSFMFcng;7p7Atrx9jCI;2021-12-02T05:41:54Z;"📺 New #rstats vide
 🗣 🇬🇧
 #coding #programming
 🔗 https://www.youtube.com/watch?v=7p7Atrx9jCI"
+UCDgj5-mFohWZ5irWSFMFcng;603Sc3f6JwQ;2021-12-02T13:16:59Z;"📺 New #rstats video: R-Ladies Johannesburg (Eng) - Introduction to the {arrow} package - Nic Crane
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#coding #programming
+🔗 https://www.youtube.com/watch?v=603Sc3f6JwQ"
+UCyHEww8_SCdxZvEnkCfi55w;4Q9ykgf6rBg;2021-12-02T15:00:02Z;"📺 New #rstats video: Add Mean & Median to Histogram in R (4 Examples) | Base R & ggplot2 | hist, abline & text Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=4Q9ykgf6rBg"
+UCGuktEl5InrcxPfCjmPWxsA;wWABGUGv-Bg;2021-12-02T17:00:43Z;"📺 New #rstats video: R vs Python: Which should you learn for reproducible data science (CC168)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rvspython #rorpython #pythonvsr #rvspythonformachinelearning #rvspythondatascience
+🔗 https://www.youtube.com/watch?v=wWABGUGv-Bg"
+UCwLy_PYrnCEhCU-Ay2F5Drw;eC1-B2RLGwk;2021-12-02T20:02:10Z;"📺 New #rstats video: Why R? Webinar 049 - Recent developments of Joint Models for longitudinal and survival data using R
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=eC1-B2RLGwk"
+UCyf1AvRK4gmfRUJjeBNMauA;8cI0K3c-3rQ;2021-12-02T21:24:53Z;"📺 New #rstats video: 🔴 Watch LIVE: Exploration of Tidy Network Data Using {tidygraph} in R
+▶ Tunis R User Group (@TunisRUserGroup)
+🔗 https://www.youtube.com/watch?v=8cI0K3c-3rQ"
+UC8bO8eVpfEK8LbqH0oxyc3Q;UiuA5sBEcFk;2021-12-03T00:07:25Z;"📺 New #rstats video: Introduction to ggplot2
+▶ R User Group at Harvard Data Science Initiative
+🔗 https://www.youtube.com/watch?v=UiuA5sBEcFk"
+UCQYM-t2ut2zXr4d7TIFya1A;-ce-T48lR8A;2021-12-03T00:54:38Z;"📺 New #rstats video: Day 01: Postcards || rmarkdown + postcards + Netlify || #12daysofdusting
+▶ Alison Hill (@apreshill)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=-ce-T48lR8A"
+UCQYM-t2ut2zXr4d7TIFya1A;fPSWqdJr_EY;2021-12-03T01:36:34Z;"📺 New #rstats video: Day 02: Postcards with distill || rmarkdown + postcards + distill + Netlify || #12daysofdusting
+▶ Alison Hill (@apreshill)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=fPSWqdJr_EY"
