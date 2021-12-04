@@ -3975,3 +3975,32 @@ UCQYM-t2ut2zXr4d7TIFya1A;fPSWqdJr_EY;2021-12-03T01:36:34Z;"📺 New #rstats vide
 ▶ Alison Hill (@apreshill)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=fPSWqdJr_EY"
+UCfJyQ3P2k_SuqfxVdqIEQNw;3iz-2iM4RFE;2021-12-03T12:15:22Z;"📺 New #rstats video: Explore your data using R programming
+▶ R Programming 101 (@101Programming)
+🔗 https://www.youtube.com/watch?v=3iz-2iM4RFE"
+UCyHEww8_SCdxZvEnkCfi55w;BMi69T8MSeE;2021-12-03T15:00:05Z;"📺 New #rstats video: message() vs. warning() vs. stop() Functions in R (Example) | How to Create Error & Warning Messages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=BMi69T8MSeE"
+UCMwM-3tg_-Pbx8hKO78q5EA;UfGrLJ7S3sc;2021-12-03T15:02:21Z;"📺 New #rstats video: NHS-R Workshop: Introduction to changepoint analysis with R-  November 2021
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=UfGrLJ7S3sc"
+UC3xfbCMLCw1Hh4dWop3XtHg;PSiAwbRmYaA;2021-12-03T16:19:02Z;"📺 New #rstats video: Suteja Kanura | R in Retail: ML Ops - Machine Learning as an Engineering Discipline | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=PSiAwbRmYaA"
+UCxB1IGhLzlEOikTL-aDwqFg;AJFN-eSQyKs;2021-12-03T16:20:21Z;"📺 New #rstats video: [2021-12-03] Understanding the structure of SpatialExperiment objects
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#bioconductor #spatialexperiment #spatiallibd
+🔗 https://www.youtube.com/watch?v=AJFN-eSQyKs"
+UCMwM-3tg_-Pbx8hKO78q5EA;rRL8rT97S0I;2021-12-03T18:01:06Z;"📺 New #rstats video: NHS-R Workshop: Further changepoint analysis techniques –December 2021
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=rRL8rT97S0I"
+UCQYM-t2ut2zXr4d7TIFya1A;x4VYi9q3gLw;2021-12-04T05:28:38Z;"📺 New #rstats video: Day 03: xaringan || rmarkdown + xaringan Netlify #12daysofdusting
+▶ Alison Hill (@apreshill)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=x4VYi9q3gLw"
