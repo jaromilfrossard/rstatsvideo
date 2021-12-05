@@ -4004,3 +4004,24 @@ UCQYM-t2ut2zXr4d7TIFya1A;x4VYi9q3gLw;2021-12-04T05:28:38Z;"📺 New #rstats vide
 ▶ Alison Hill (@apreshill)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=x4VYi9q3gLw"
+UCyHEww8_SCdxZvEnkCfi55w;IfMhUih2YGg;2021-12-04T15:00:08Z;"📺 New #rstats video: Difference Between facet_grid & facet_wrap ggplot2 Functions in R (2 Examples) | Visualize Groups
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=IfMhUih2YGg"
+UCC0n35R84-ufqPstR1YtCxA;ASVDS8pO1V8;2021-12-04T17:16:21Z;"📺 New #rstats video: How to run R script from PHP on Linux Ubuntu
+▶ Stat Pharm
+🗣 🇬🇧
+#howtorunrscriptfromphponlinuxubuntu #runrscriptfromphponlinuxubuntu #runrfromphponlinuxubuntu #runrfromphp #ubuntu
+🔗 https://www.youtube.com/watch?v=ASVDS8pO1V8"
+UCQYM-t2ut2zXr4d7TIFya1A;_ptrgqx2zUs;2021-12-05T06:29:02Z;"📺 New #rstats video: Day 04: bookdown || rmarkdown + bookdown + GitHub actions + renv + Netlify #12daysofdusting
+▶ Alison Hill (@apreshill)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=_ptrgqx2zUs"
+UCo7yZB1Pz_V9infLSUnfjUg;4v2m1aal_Kw;2021-06-26T09:03:50Z;"📺 #rstats video: Wordcloud2 in R - Excellent Text Display
+▶ dataAnalysisR
+#wordcloud2 #textanalytics #documenttermmatrix
+🔗 https://www.youtube.com/watch?v=4v2m1aal_Kw"
+UCqQ_cxcNu1ekqHXDc-MbU_w;An1bUIg-nVM;2020-09-03T14:05:45Z;"📺 #rstats video: How to Read Multiple CSV Files with For-Loop in R
+▶ Business Science (@bizScienc)
+🔗 https://www.youtube.com/watch?v=An1bUIg-nVM"
