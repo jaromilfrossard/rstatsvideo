@@ -123,6 +123,7 @@ UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen;
 UCNpws2MZ2_VhABXs_BamVBA;R-Toulouse RUG;RUG_Toulouse
 UCyf1AvRK4gmfRUJjeBNMauA;Tunis R User Group;TunisRUserGroup
 UCZQlpKYQPlf2QNVdSv_TRdg;UseR Oslo;OURmeetup
+UC_sejq_JJ49KiiK4qh5r-wg;Universe of Data Science;unidatascience
 UCPzO5TjnYnBzfUVj6fI3pdw;Vivian Codes;
 UCF9ymC7Dpjwr0lge2QR_A5Q;webin-R;
 UCwLy_PYrnCEhCU-Ay2F5Drw;Why R? Foundation;whyRconf
