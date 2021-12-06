@@ -4025,3 +4025,26 @@ UCo7yZB1Pz_V9infLSUnfjUg;4v2m1aal_Kw;2021-06-26T09:03:50Z;"📺 #rstats video: W
 UCqQ_cxcNu1ekqHXDc-MbU_w;An1bUIg-nVM;2020-09-03T14:05:45Z;"📺 #rstats video: How to Read Multiple CSV Files with For-Loop in R
 ▶ Business Science (@bizScienc)
 🔗 https://www.youtube.com/watch?v=An1bUIg-nVM"
+UCyHEww8_SCdxZvEnkCfi55w;YC0wPK84QTY;2021-12-05T15:00:30Z;"📺 New #rstats video: R.Version Function in R (Example) | Which Version is Currently Running | R.version.string in RStudio
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=YC0wPK84QTY"
+UCP8l94xtoemCH_GxByvTuFQ;69RfA9hZANg;2021-12-05T19:30:01Z;"📺 New #rstats video: TidyX Episode 85 |  Tidymodels - Tuning Workflow Sets
+▶ TidyX (@tidy_explained)
+#programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=69RfA9hZANg"
+UCRth2ImB1T-_saYc5YBTcyA;CcABisUF5RU;2021-12-06T06:32:04Z;"📺 New #rstats video: R-Ladies Nairobi (English) - Introduction to creating maps with leaflet - Dr Laurie Baker
+▶ R-Ladies Nairobi (@RLadiesNairobi)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=CcABisUF5RU"
+UCXuX-kQ1TbKHWeB75NgmhlA;Zdp50Zu9LKk;2021-05-19T07:00:21Z;"📺 #rstats video: How to compute LD with PLINK | Genomics
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#geneticcode #animalbreeding #dna #genome #genetics #genomics #genotypes #snp #plink #genotypedata #genomicdata #visualization
+🔗 https://www.youtube.com/watch?v=Zdp50Zu9LKk"
+UCcCMO7sHb8O_TJUd34sQ_Ng;wgJ3kBMuVIE;2021-08-07T12:24:12Z;"📺 #rstats video: Mon secret pour trouver facilement les points de characters dans R
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#plot #pch #lespointsdecharacters #rstudio #commentdansr
+🔗 https://www.youtube.com/watch?v=wgJ3kBMuVIE"
