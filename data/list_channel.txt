@@ -20,6 +20,7 @@ UCb5aI-GwJm3ZxlwtCsLu78Q;Data Science with Tom;
 UCo7yZB1Pz_V9infLSUnfjUg;dataAnalysisR;
 UCBV194XNr6CIQCCuw1v2rMQ;dataslice;dataslice
 UCeiiqmVK07qhY-wvg3IZiZQ;David Robinson;drob
+UC4_hSKmvUG4w0w270AH5bXQ;Derek Sollberger;DerekSollberger
 UCfB2mPM4oU5pMgh9gbEqpWA;EdinbR;edinb_r
 UCAu9zxmEgQdWYkl84BiziSQ;Eskisehir R User Group;
 UCJamxO-DE27EEZtWrNG34mA;Futbol AnalysR;futbolanalysr
