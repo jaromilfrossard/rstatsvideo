@@ -39,6 +39,7 @@ UCxB1IGhLzlEOikTL-aDwqFg;Leonardo Collado Torres;lcolladotor
 UCC3CCtUrSSQoJkxodRKr89g;Lisa Lendway - Statistics & Data Science;lisalendway
 UCKJFCIbcGs2a5RGt8RjdbFA;Liza Wood;wood__liza
 UCcCMO7sHb8O_TJUd34sQ_Ng;Lulus CommentdansR;
+UCOfk4nX5sx1UpnuXPVzXokw;Makerere Epidemiology and Statistical center;
 UCGicmkdbKCzYjBtijfPxHhQ;Malaysia R User Group;
 UCkNvd1JigrH2A_YLKSgFnQQ;Mango Solutions;MangoTheCat
 UCYNVcihAKkRW-bhzIrguvVw;math et al;
