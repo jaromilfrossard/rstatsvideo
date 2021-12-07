@@ -4048,3 +4048,27 @@ UCcCMO7sHb8O_TJUd34sQ_Ng;wgJ3kBMuVIE;2021-08-07T12:24:12Z;"📺 #rstats video: M
 🗣 🇫🇷
 #plot #pch #lespointsdecharacters #rstudio #commentdansr
 🔗 https://www.youtube.com/watch?v=wgJ3kBMuVIE"
+UCMdihazndR0f9XBoSXWqnYg;Z7hSlBpDOvs;2015-08-24T01:32:49Z;"📺 #rstats video: R - Subsetting Lecture
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#subsetting #statisticsfieldofstudy #rprogramminglanguage
+🔗 https://www.youtube.com/watch?v=Z7hSlBpDOvs"
+UCyHEww8_SCdxZvEnkCfi55w;V1fjrmMJaW8;2021-12-06T15:00:23Z;"📺 New #rstats video: Divide Legend of ggplot2 Plot in R (Example) | Split in Multiple Parts | gridExtra & cowplot Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=V1fjrmMJaW8"
+UCGuktEl5InrcxPfCjmPWxsA;tg71cJsX7BU;2021-12-06T17:00:41Z;"📺 New #rstats video: Using the R scan function to read non-rectangular data (CC169)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rscanfunction #rscan #rreadcsv #rreadtsv #scanfunction #rirregulardata #scanirregulardata
+🔗 https://www.youtube.com/watch?v=tg71cJsX7BU"
+UCKMekE_4UfWvZDuBWenG8WA;8PBhOV9NbYg;2021-12-06T17:17:05Z;"📺 New #rstats video: How To Quickly Explore Data in R: DataExplorer
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#dataviz #missingvalues #dataexplorer #boxuancui #pca #principalcomponentanalysis #correlation #distributions
+🔗 https://www.youtube.com/watch?v=8PBhOV9NbYg"
+UCQYM-t2ut2zXr4d7TIFya1A;Jz8IjTjttXk;2021-12-06T22:51:38Z;"📺 New #rstats video: Day 05: blogdown || rmarkdown + blogdown + Netlify #12daysofdusting
+▶ Alison Hill (@apreshill)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=Jz8IjTjttXk"
