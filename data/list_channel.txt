@@ -111,6 +111,7 @@ UCwQ7lkY6YWzZjT807Itbvtw;Shiny DeveloperSeries;theRcast
 UCOdX7FBvpMPknrC6gtm0y_w;Southern California R Users Group;
 UCrB-uourf2vxGeBnGjQrA0w;STAT 545;STAT545
 UCC0n35R84-ufqPstR1YtCxA;Stat Pharm;
+UCXgpDUq8cVyEj3ZbZcKtkbA;Statistical Learning Group;
 UCyHEww8_SCdxZvEnkCfi55w;Statistics Globe;JoachimSchork
 UC-qm48zb2P7NVxk-tBa7MFg;Statistics Lectures UNIL: Peter Hilpert;
 UCMdihazndR0f9XBoSXWqnYg;Statistics of DOOM;aggieerin
