@@ -122,6 +122,7 @@ UCKMekE_4UfWvZDuBWenG8WA;StatistikinDD;StatistikInDD
 UC2M4LiU11tjZfL86yfufSKA;Sukaesi Marianti;
 UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;thinkR_fr
 UCT9SgxpakGSH-yfRj_QhzIQ;Thomas Lin Pedersen;thomasp85
+UCvCEl2-_Q2gGxqisyYngXIA;Thomas Mock;thomas_mock
 UCP8l94xtoemCH_GxByvTuFQ;TidyX;tidy_explained
 UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen;
 UCNpws2MZ2_VhABXs_BamVBA;R-Toulouse RUG;RUG_Toulouse
