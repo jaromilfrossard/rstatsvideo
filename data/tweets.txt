@@ -4072,3 +4072,39 @@ UCQYM-t2ut2zXr4d7TIFya1A;Jz8IjTjttXk;2021-12-06T22:51:38Z;"📺 New #rstats vide
 ▶ Alison Hill (@apreshill)
 🗣 🇬🇧
 🔗 https://www.youtube.com/watch?v=Jz8IjTjttXk"
+UC4_hSKmvUG4w0w270AH5bXQ;wPiitF3Jg08;2021-12-07T05:46:38Z;"📺 New #rstats video: Advent of Code 2021, Day 7 (in R, for novices)
+▶ Derek Sollberger (@DerekSollberger)
+🔗 https://www.youtube.com/watch?v=wPiitF3Jg08"
+UC3xfbCMLCw1Hh4dWop3XtHg;fmgSVRWgXDg;2021-12-07T13:45:14Z;"📺 New #rstats video: James Blair | Using RStudio on Amazon SageMaker | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=fmgSVRWgXDg"
+UCyHEww8_SCdxZvEnkCfi55w;MhBp-QT4uec;2021-12-07T15:00:18Z;"📺 New #rstats video: R Error: Could not Find Function X (2 Examples) | How to Fix this Message | Replicate, Debug & Avoid
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=MhBp-QT4uec"
+UC1ZIcF31fEzBO6akL_HHkBg;WBmLuUV5BEE;2021-12-07T15:44:28Z;"📺 New #rstats video: Tidy EDA: Covariation between one categorical variable and one continuous variable
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstudio #dsincubator #tidyeda
+🔗 https://www.youtube.com/watch?v=WBmLuUV5BEE"
+UC2-hKemnrmVCH_29duyJ26A;_CCpFuGjV0Y;2021-12-07T15:56:28Z;"📺 New #rstats video: Max Kuhn - What's new and upcoming with tidymodels
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=_CCpFuGjV0Y"
+UCT2TrH2M4zbRJZMH6iusyBQ;LwP21KMV3MA;2021-12-07T20:58:40Z;"📺 New #rstats video: R/Pharma 2021 Day 1.  Rich Iannone.  The gt Package: Past, Present, and Future
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=LwP21KMV3MA"
+UCT2TrH2M4zbRJZMH6iusyBQ;xksxuvXVimM;2021-12-07T20:59:25Z;"📺 New #rstats video: R/Pharma 2021 Day 1.  Coline Zeballos.  R Package Validation at Roche
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=xksxuvXVimM"
+UCT2TrH2M4zbRJZMH6iusyBQ;g_rAoiDf_ac;2021-12-07T21:00:36Z;"📺 New #rstats video: R/Pharma 2021 Day 1.  Juliane Manitz.  Risk-based Assessment of R packages at Merck KGaA/EMD Serono
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=g_rAoiDf_ac"
+UCT2TrH2M4zbRJZMH6iusyBQ;HICBeSqD6kI;2021-12-07T21:01:37Z;"📺 New #rstats video: R/Pharma 2021 Day 1.  Yujie Zhao.  Interactive Forest Plot for DMC Safety Monitoring
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=HICBeSqD6kI"
+UCT2TrH2M4zbRJZMH6iusyBQ;N7Bw8c3D5fU;2021-12-07T21:02:15Z;"📺 New #rstats video: R/Pharma 2021 Day 1.  Thomas Neitmann.  Introducing {admiral}—The ADaM in R Asset Library
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=N7Bw8c3D5fU"

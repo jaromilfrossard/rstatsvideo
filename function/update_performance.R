@@ -3,7 +3,7 @@
 # file_channel_to_rm = "data/list_channel_to_rm.txt";
 # file_video_to_rm = "data/list_video_to_rm.txt";
 # credit = 10;
-
+# 
 
 
 update_performance <- function(credit = 200,
@@ -95,6 +95,7 @@ update_performance <- function(credit = 200,
   
   ##### update new
   if(nrow(videos_new)>0L){
+    message("Updating new videos")
     tb_perf_new <-
       videos_new%>%
       slice(seq_len(min(nrow(videos_new),credit)))%>%
@@ -126,14 +127,132 @@ update_performance <- function(credit = 200,
   }
   
   if(credit >0L){
+    message("Updating 7 days old videos")
     
-    tb_perf_update<- 
-    tb_perf%>%
-      arrange(ymd_update)%>%
+    out<- update_new_performance(tb_perf,
+                                 min_days_update = 3,
+                                 max_days_video = 7,
+                                 credit = credit)
+    
+    tb_perf = out$data
+    credit = out$credit
+    
+  }
+  
+  
+  if(credit >0L){
+    message("Updating 30 days old videos")
+    
+    out<- update_new_performance(tb_perf,
+                                 min_days_update = 7,
+                                 max_days_video = 30,
+                                 credit = credit)
+    
+    tb_perf = out$data
+    credit = out$credit
+    
+  }
+  
+  if(credit >0L){
+    
+    message("Updating oldest days old videos")
+    out<- update_new_performance(tb_perf,
+                                 min_days_update = 30,
+                                 max_days_video = Inf,
+                                 credit = credit,
+                                 newest = F
+                                 )
+    
+    tb_perf = out$data
+    credit = out$credit
+    
+  }
+  tb_perf
+  
+  }
+  
+  
+  
+  
+  # if(credit >0L){
+  #   
+  #   tb_perf_update<- 
+  #   tb_perf%>%
+  #     arrange(ymd_update)%>%
+  #     slice(seq_len(credit))%>%
+  #     select(name_channel,id_channel,id_video,ymd_hms_video,id_twitter)%>%
+  #     mutate(stats = map(id_video,tibble_video_stats))%>%
+  #     unnest(stats)
+  #   
+  #   tb_perf_update <-
+  #     tb_perf_update%>%
+  #     mutate(url_channel = map_chr(id_channel,channel_url),
+  #            url_video = map_chr(id_video,video_url),
+  #            ymd_update = lubridate::today())
+  #   
+  #   tb_perf_update<-
+  #     tb_perf_update%>%
+  #     mutate(title_video = map_chr(url_video,function(url){
+  #       message(glue("harvesting title: {url}"))
+  #       Sys.sleep(runif(1,0,0.1))
+  #       rvest::read_html(url)%>%
+  #         html_elements("title")%>%
+  #         html_text()
+  #     }))
+  #   
+  #   tb_perf<- 
+  #     tb_perf%>%
+  #     filter(!(id_video%in%tb_perf_update$id_video))%>%
+  #     bind_rows( tb_perf_update)
+  #   
+  #   
+  #   
+  #   
+  # }
+  
+
+  #write_delim(tb_perf, file= file_perf, delim = ";")
+  
+  
+  # }
+  
+  
+  
+update_new_performance <- function(data,
+                                   min_days_update,
+                                   max_days_video,
+                                   credit,
+                                   newest = T){
+  
+
+  
+  tb_perf_update<-
+    data%>%
+    filter(today()-ymd_update>min_days_update,
+           today()-as_date(ymd_hms_video)<max_days_video)
+  
+  
+  if(nrow(tb_perf_update)>0L){
+    
+    used_credit = min(credit, nrow(tb_perf_update))
+    
+    if(newest){
+    tb_perf_update<-
+      tb_perf_update%>%
+      arrange(desc(ymd_hms_video))
+    }else{
+      tb_perf_update<-
+        tb_perf_update%>%
+        arrange(ymd_update)
+    }
+    tb_perf_update<-
+      tb_perf_update%>%
       slice(seq_len(credit))%>%
       select(name_channel,id_channel,id_video,ymd_hms_video,id_twitter)%>%
       mutate(stats = map(id_video,tibble_video_stats))%>%
       unnest(stats)
+    
+    credit = credit-used_credit
     
     tb_perf_update <-
       tb_perf_update%>%
@@ -151,23 +270,16 @@ update_performance <- function(credit = 200,
           html_text()
       }))
     
-    tb_perf<- 
-      tb_perf%>%
+    data<- 
+      data%>%
       filter(!(id_video%in%tb_perf_update$id_video))%>%
       bind_rows( tb_perf_update)
     
-    
-    
-    
   }
   
-  tb_perf
-  #write_delim(tb_perf, file= file_perf, delim = ";")
-  
-  
-  }
+  return(list(data = data, credit = credit))
   
   
   
-  
+}
 
