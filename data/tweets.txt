@@ -4108,3 +4108,33 @@ UCT2TrH2M4zbRJZMH6iusyBQ;HICBeSqD6kI;2021-12-07T21:01:37Z;"📺 New #rstats vide
 UCT2TrH2M4zbRJZMH6iusyBQ;N7Bw8c3D5fU;2021-12-07T21:02:15Z;"📺 New #rstats video: R/Pharma 2021 Day 1.  Thomas Neitmann.  Introducing {admiral}—The ADaM in R Asset Library
 ▶ R in Pharma (@rinpharma)
 🔗 https://www.youtube.com/watch?v=N7Bw8c3D5fU"
+UCT2TrH2M4zbRJZMH6iusyBQ;1P4xv8wIWTA;2021-12-07T21:02:43Z;"📺 New #rstats video: R/Pharma 2021 Day 1.  Volha Tryputsen.  R/Shiny tools for Immune Fitness Exploration
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=1P4xv8wIWTA"
+UCT2TrH2M4zbRJZMH6iusyBQ;Oi79JiY1sA4;2021-12-07T21:03:12Z;"📺 New #rstats video: R/Pharma 2021 Day 1.  Pawel Rucki.  5 testing packages to make your package better!
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=Oi79JiY1sA4"
+UCT2TrH2M4zbRJZMH6iusyBQ;SZT94n5vnwA;2021-12-07T21:03:42Z;"📺 New #rstats video: R/Pharma 2021 Day 1.  Charlotte Soneson.  Interactive & collaborative exploration of transcriptomics
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=SZT94n5vnwA"
+UCT2TrH2M4zbRJZMH6iusyBQ;bnRdI6jvGpM;2021-12-07T21:14:39Z;"📺 New #rstats video: R/Pharma 2021 Day 1.  Mike Smith.  There’s only one R in Pfizer
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=bnRdI6jvGpM"
+UCT2TrH2M4zbRJZMH6iusyBQ;OHsxdDY0xrQ;2021-12-07T21:14:59Z;"📺 New #rstats video: R/Pharma 2021 Day 1.  Kevin Snyder.  SENDing Toxicology Study Data Analysis into the 21st Century
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=OHsxdDY0xrQ"
+UCT2TrH2M4zbRJZMH6iusyBQ;M8tQqj_hu6U;2021-12-07T21:39:47Z;"📺 New #rstats video: R/Pharma 2021 Day 2.  Chirag Patel.  Opening Remarks
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=M8tQqj_hu6U"
+UCT2TrH2M4zbRJZMH6iusyBQ;fHO6PpJoL2k;2021-12-07T21:43:30Z;"📺 New #rstats video: R/Pharma 2021 Day 2.  Regis James.  Intermap: An integrative multiomics approach
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=fHO6PpJoL2k"
+UCT2TrH2M4zbRJZMH6iusyBQ;orAlJ321hOc;2021-12-07T21:44:35Z;"📺 New #rstats video: R/Pharma 2021 Day 2.  Max Kuhn.  Survival analysis with tidymodels: The censored package
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=orAlJ321hOc"
+UCT2TrH2M4zbRJZMH6iusyBQ;vgvLs98yTIM;2021-12-07T21:46:33Z;"📺 New #rstats video: R/Pharma 2021 Day 2.  Monika Huhn.  OneView – Unlock the full potential of drug repositioning
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=vgvLs98yTIM"
+UCT2TrH2M4zbRJZMH6iusyBQ;9jRr62u_Kz8;2021-12-07T21:48:20Z;"📺 New #rstats video: R/Pharma 2021 Day 2.  Annekathrin Ludt.  GeneTonic: enjoying the interpretation of your RNA-seq data
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=9jRr62u_Kz8"
