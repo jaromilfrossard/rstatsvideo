@@ -4168,3 +4168,33 @@ UCT2TrH2M4zbRJZMH6iusyBQ;HVd5iGTNLGE;2021-12-07T22:04:13Z;"📺 New #rstats vide
 UCT2TrH2M4zbRJZMH6iusyBQ;9Qm_b-hGAac;2021-12-07T22:05:02Z;"📺 New #rstats video: R/Pharma 2021 Day 3.  David Granjon.  Outstanding User Interfaces with Shiny
 ▶ R in Pharma (@rinpharma)
 🔗 https://www.youtube.com/watch?v=9Qm_b-hGAac"
+UCT2TrH2M4zbRJZMH6iusyBQ;0PsyMbd9RTA;2021-12-07T22:06:29Z;"📺 New #rstats video: R/Pharma 2021 Day 3.  James Black.  Smoothing the path to open source and pan-pharma code collab.
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=0PsyMbd9RTA"
+UCT2TrH2M4zbRJZMH6iusyBQ;Ivy9Ljg-3Go;2021-12-07T22:07:29Z;"📺 New #rstats video: R/Pharma 2021 Day 3.  Eric Nantz.  The New Roads Leading to Shiny Nirvana
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=Ivy9Ljg-3Go"
+UCT2TrH2M4zbRJZMH6iusyBQ;JaD6wbIGocQ;2021-12-07T22:08:26Z;"📺 New #rstats video: R/Pharma 2021 Day 3.  Afshin Mashadi-Hossein.  Data-as-a-Product
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=JaD6wbIGocQ"
+UCT2TrH2M4zbRJZMH6iusyBQ;qvZR8Prlfuw;2021-12-07T22:09:43Z;"📺 New #rstats video: R/Pharma 2021 Day 3.  Marly Gotti.  Risk assessment of R packages using Risk Assessment Shiny App
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=qvZR8Prlfuw"
+UCT2TrH2M4zbRJZMH6iusyBQ;k1eMbbh443Q;2021-12-07T22:12:19Z;"📺 New #rstats video: R/Pharma 2021 Day 3.  Rikke Nørmark Mortensen.  Auto generation of PowerPoint for clinical trials
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=k1eMbbh443Q"
+UCT2TrH2M4zbRJZMH6iusyBQ;uqe8mFvOjUA;2021-12-07T22:13:42Z;"📺 New #rstats video: R/Pharma 2021 Day 3.  Nan Xiao.  Reimagine the R package distribution system
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=uqe8mFvOjUA"
+UCT2TrH2M4zbRJZMH6iusyBQ;qy4mQTO0tCc;2021-12-07T22:14:39Z;"📺 New #rstats video: R/Pharma 2021 Day 3.  Maya Gans.  Summary Table Rewind: From Source to Summary and Back Again
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=qy4mQTO0tCc"
+UCT2TrH2M4zbRJZMH6iusyBQ;TFIwKu3wsdM;2021-12-07T22:15:27Z;"📺 New #rstats video: R/Pharma 2021 Day 3.  Keaven M Anderson.  The gsDesign Shiny app for clinical trial design
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=TFIwKu3wsdM"
+UCwQ7lkY6YWzZjT807Itbvtw;agwgiLpiBFo;2021-12-08T05:40:26Z;"📺 New #rstats video: Episode 25: Colin Fay is back!
+▶ Shiny DeveloperSeries (@theRcast)
+🔗 https://www.youtube.com/watch?v=agwgiLpiBFo"
+UCcKPp7AI7ZTBf60WqXo3Bpg;Xa9Y99Gpmaw;2021-12-08T08:02:05Z;"📺 New #rstats video: SLC-RUG December: Pins - where have you been all my life?
+▶ Salt Lake City R Users Group (@slcrug)
+🔗 https://www.youtube.com/watch?v=Xa9Y99Gpmaw"
