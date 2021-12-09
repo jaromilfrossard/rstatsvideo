@@ -4138,3 +4138,33 @@ UCT2TrH2M4zbRJZMH6iusyBQ;vgvLs98yTIM;2021-12-07T21:46:33Z;"📺 New #rstats vide
 UCT2TrH2M4zbRJZMH6iusyBQ;9jRr62u_Kz8;2021-12-07T21:48:20Z;"📺 New #rstats video: R/Pharma 2021 Day 2.  Annekathrin Ludt.  GeneTonic: enjoying the interpretation of your RNA-seq data
 ▶ R in Pharma (@rinpharma)
 🔗 https://www.youtube.com/watch?v=9jRr62u_Kz8"
+UCT2TrH2M4zbRJZMH6iusyBQ;oTjeYOrrTOY;2021-12-07T21:50:39Z;"📺 New #rstats video: R/Pharma 2021 Day 2.  Ning Leng.  R Consortium Pharma Working Groups Overview and Updates
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=oTjeYOrrTOY"
+UCT2TrH2M4zbRJZMH6iusyBQ;4YDDXQFCdwE;2021-12-07T21:52:11Z;"📺 New #rstats video: R/Pharma 2021 Day 2.  Adam Skubala.  Industrialized ML and Explainable AI for Late Phase Trails
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=4YDDXQFCdwE"
+UCT2TrH2M4zbRJZMH6iusyBQ;youXxTgYvIs;2021-12-07T21:53:35Z;"📺 New #rstats video: R/Pharma 2021 Day 2.  Donald Musgrove.  bayesDP
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=youXxTgYvIs"
+UCT2TrH2M4zbRJZMH6iusyBQ;NW9qp5QOlIU;2021-12-07T21:55:04Z;"📺 New #rstats video: R/Pharma 2021 Day 2.  Ben Straub.  Creating an End to End R Package Toolkit for Clinical Reporting
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=NW9qp5QOlIU"
+UCT2TrH2M4zbRJZMH6iusyBQ;t4bT9h5jGsA;2021-12-07T21:55:58Z;"📺 New #rstats video: R/Pharma 2021 Day 2.  Robert Kirk DeLisle.  Making Python Objects R-like with PyR
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=t4bT9h5jGsA"
+UCT2TrH2M4zbRJZMH6iusyBQ;-SEVV3Dvkec;2021-12-07T21:58:02Z;"📺 New #rstats video: R/Pharma 2021 Day 2.  David Benkeser.  R at Warp Speed: Reproducible coding for COVID vaccine trials
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=-SEVV3Dvkec"
+UCT2TrH2M4zbRJZMH6iusyBQ;MWFv1hsEcws;2021-12-07T21:59:11Z;"📺 New #rstats video: R/Pharma 2021 Day 2.  Ardalan Mishani.  Democratizing Shiny App Development: DataPipeline Framework
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=MWFv1hsEcws"
+UCT2TrH2M4zbRJZMH6iusyBQ;d3QNh6xkyIQ;2021-12-07T22:03:10Z;"📺 New #rstats video: R/Pharma 2021 Day 3.  Heather Crandall / Paul Schuette.  Submitting Data to CDER: What Comes Next?
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=d3QNh6xkyIQ"
+UCT2TrH2M4zbRJZMH6iusyBQ;HVd5iGTNLGE;2021-12-07T22:04:13Z;"📺 New #rstats video: R/Pharma 2021 Day 3.  Marie Vendettouli.  Using {valtools} for software validation separate from dev
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=HVd5iGTNLGE"
+UCT2TrH2M4zbRJZMH6iusyBQ;9Qm_b-hGAac;2021-12-07T22:05:02Z;"📺 New #rstats video: R/Pharma 2021 Day 3.  David Granjon.  Outstanding User Interfaces with Shiny
+▶ R in Pharma (@rinpharma)
+🔗 https://www.youtube.com/watch?v=9Qm_b-hGAac"
