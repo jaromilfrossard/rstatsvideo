@@ -4198,3 +4198,50 @@ UCwQ7lkY6YWzZjT807Itbvtw;agwgiLpiBFo;2021-12-08T05:40:26Z;"📺 New #rstats vide
 UCcKPp7AI7ZTBf60WqXo3Bpg;Xa9Y99Gpmaw;2021-12-08T08:02:05Z;"📺 New #rstats video: SLC-RUG December: Pins - where have you been all my life?
 ▶ Salt Lake City R Users Group (@slcrug)
 🔗 https://www.youtube.com/watch?v=Xa9Y99Gpmaw"
+UCKMekE_4UfWvZDuBWenG8WA;O4-I6eWSgms;2021-12-08T13:50:03Z;"📺 New #rstats video: More Fun Analyzing Data in R: Shiny Gadgets - A Lesser Known Side of Shiny
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#shiny #shinygadget #shinyapp #dataviz #datavisualization #outlierdetection #labelledplot
+🔗 https://www.youtube.com/watch?v=O4-I6eWSgms"
+UCyHEww8_SCdxZvEnkCfi55w;Lc2BajMNvb0;2021-12-08T15:00:26Z;"📺 New #rstats video: plotly Barplot in R (Example) | Draw Interactive Barchart | Grouped, Stacked & Horizontal Bargraph
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Lc2BajMNvb0"
+UCDgj5-mFohWZ5irWSFMFcng;_DrfZzD_3nc;2021-12-09T13:09:27Z;"📺 New #rstats video: R-Ladies Freiburg (English) - Level up your ggplot: What is the deal with theme()?
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#coding #programming
+🔗 https://www.youtube.com/watch?v=_DrfZzD_3nc"
+UCDgj5-mFohWZ5irWSFMFcng;t8sxun6UmWA;2021-12-09T14:10:22Z;"📺 New #rstats video: R-Ladies Freiburg (English) - Level up your ggplot: How do I use custom fonts?
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#coding #programming
+🔗 https://www.youtube.com/watch?v=t8sxun6UmWA"
+UCDgj5-mFohWZ5irWSFMFcng;If3LgW69Tx4;2021-12-09T14:36:05Z;"📺 New #rstats video: R-Ladies Freiburg (English) - Level up your ggplot: Adding labels, arrows and other annotations
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#coding #programming
+🔗 https://www.youtube.com/watch?v=If3LgW69Tx4"
+UCyHEww8_SCdxZvEnkCfi55w;v0UL2uE1bV4;2021-12-09T15:00:34Z;"📺 New #rstats video: Overlay ggplot2 Density Plots in R (2 Examples) | Draw Multiple Densities | Change Opacity of Graph
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=v0UL2uE1bV4"
+UCGuktEl5InrcxPfCjmPWxsA;EiQkBW7Ycr4;2021-12-09T17:00:08Z;"📺 New #rstats video: Creating a vector in base R with the c, :, seq, and rep functions (CC170)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#baservector #seqfunction #cfunction #repfunction #function #rletters #rmonths #rseq #rc #rrep
+🔗 https://www.youtube.com/watch?v=EiQkBW7Ycr4"
+UCMwM-3tg_-Pbx8hKO78q5EA;_broZee5Y6s;2021-12-09T17:09:34Z;"📺 New #rstats video: Introduction to Machine Learning and Image Processing with R, December 2021
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=_broZee5Y6s"
+UC4_hSKmvUG4w0w270AH5bXQ;fg4GJYMhAyY;2021-12-10T06:36:37Z;"📺 New #rstats video: Advent of Code 2021, Day 10 (in R, hacked for novices like me)
+▶ Derek Sollberger (@DerekSollberger)
+🔗 https://www.youtube.com/watch?v=fg4GJYMhAyY"
+UCwLy_PYrnCEhCU-Ay2F5Drw;x4AYgq526JU;2021-12-10T08:18:48Z;"📺 New #rstats video: Why R? 2021 | Predictive analysis and modelling football results using machine learning approach
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#machinelearning #whyr #conference #predictiveanalysis #football
+🔗 https://www.youtube.com/watch?v=x4AYgq526JU"
