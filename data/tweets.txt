@@ -4245,3 +4245,53 @@ UCwLy_PYrnCEhCU-Ay2F5Drw;x4AYgq526JU;2021-12-10T08:18:48Z;"📺 New #rstats vide
 🗣 🇬🇧
 #machinelearning #whyr #conference #predictiveanalysis #football
 🔗 https://www.youtube.com/watch?v=x4AYgq526JU"
+UCwLy_PYrnCEhCU-Ay2F5Drw;2aRupJEGxGo;2021-12-10T09:02:30Z;"📺 New #rstats video: Why R? 2021 | Keynote | Feature-based Time Series Forecasting
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#forecasting #rlanguage #whyr #conference #featurebased #machinelearning
+🔗 https://www.youtube.com/watch?v=2aRupJEGxGo"
+UCwLy_PYrnCEhCU-Ay2F5Drw;v2QIuB-TjZo;2021-12-10T09:31:26Z;"📺 New #rstats video: Why R? 2021 | Forecasting | Feasts & fables: modern tools for time series analysis
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#forecasting #robhyndman #feasts #fables #timeseries #whyr #rlanguage
+🔗 https://www.youtube.com/watch?v=v2QIuB-TjZo"
+UCwLy_PYrnCEhCU-Ay2F5Drw;AkkZZ3By0lA;2021-12-10T11:08:32Z;"📺 New #rstats video: Why R? 2021 | Pearson | Applications of AI in the learning business
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#machinelearning #pearson #artificialintelligence #education #applications
+🔗 https://www.youtube.com/watch?v=AkkZZ3By0lA"
+UCwLy_PYrnCEhCU-Ay2F5Drw;-whjn0UBqnA;2021-12-10T11:37:58Z;"📺 New #rstats video: Why R? 2021 | Pearson | The science of data annotation
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#machinelearning #datamanipulations #artificialintelligence #pearson #whyr #whyrconference
+🔗 https://www.youtube.com/watch?v=-whjn0UBqnA"
+UCwLy_PYrnCEhCU-Ay2F5Drw;lY_wpKpSjVU;2021-12-10T12:01:31Z;"📺 New #rstats video: Why R? 2021 | Pearson | Semantic information extraction
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#semantic #information #extraction #machinelearning #pearson #artificialintelligence
+🔗 https://www.youtube.com/watch?v=lY_wpKpSjVU"
+UCwLy_PYrnCEhCU-Ay2F5Drw;74tbFrpxi-E;2021-12-10T12:53:04Z;"📺 New #rstats video: Why R? 2021 | Jumping Rivers | R in Production: 7 Steps to reliable, maintainable infrastructure?
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rlanguage #whyr #jumpingrivers #production #7steps #infrastructure
+🔗 https://www.youtube.com/watch?v=74tbFrpxi-E"
+UCwLy_PYrnCEhCU-Ay2F5Drw;kxKGhxI6ek8;2021-12-10T13:08:57Z;"📺 New #rstats video: Why R? 2021 | Jumping Rivers | Don't reinvent the wheel: using managed services
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#jumpingrivers #rlanguage #whyr #microservices
+🔗 https://www.youtube.com/watch?v=kxKGhxI6ek8"
+UCwLy_PYrnCEhCU-Ay2F5Drw;JxlORG7-6Eg;2021-12-10T13:49:01Z;"📺 New #rstats video: Why R? 2021 | Jumping Rivers | Hands on with RStudio Connect
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rlanguage #whyr #jumpingrivers #rstudioconnect
+🔗 https://www.youtube.com/watch?v=JxlORG7-6Eg"
+UCyHEww8_SCdxZvEnkCfi55w;bocd9UE2oAg;2021-12-10T15:00:19Z;"📺 New #rstats video: sign Function in R (Example) | How to Return Positive & Negative Values | Vector & Data Frame Column
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=bocd9UE2oAg"
+UCwLy_PYrnCEhCU-Ay2F5Drw;EDhhbG_N6bo;2021-12-10T15:35:28Z;"📺 New #rstats video: Why R? 2021 | Invited | How to become an R/Shiny Developer?
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#shiny #rlanguge #whyr #whyrconference #appsilon
+🔗 https://www.youtube.com/watch?v=EDhhbG_N6bo"
