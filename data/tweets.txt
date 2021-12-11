@@ -4295,3 +4295,53 @@ UCwLy_PYrnCEhCU-Ay2F5Drw;EDhhbG_N6bo;2021-12-10T15:35:28Z;"📺 New #rstats vide
 🗣 🇬🇧
 #shiny #rlanguge #whyr #whyrconference #appsilon
 🔗 https://www.youtube.com/watch?v=EDhhbG_N6bo"
+UCwLy_PYrnCEhCU-Ay2F5Drw;lwFdVjIKF48;2021-12-10T16:09:13Z;"📺 New #rstats video: Why R? 2021 | OmicNavigator: organize, share, and explore the results of genomics experiments
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#johnblischak #whyrconference #genomicexperiments #genomics #experiments
+🔗 https://www.youtube.com/watch?v=lwFdVjIKF48"
+UCwLy_PYrnCEhCU-Ay2F5Drw;vyA2EiIz4pI;2021-12-10T16:38:37Z;"📺 New #rstats video: Why R? 2021 | Invited | Packages for Using R With Python, Tableau, and Other Tools
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstudio #whyr #whyrconference #python #tableau
+🔗 https://www.youtube.com/watch?v=vyA2EiIz4pI"
+UCwLy_PYrnCEhCU-Ay2F5Drw;tb293RUblCs;2021-12-10T17:30:47Z;"📺 New #rstats video: Why R? 2021 | Fields visualization in R: level-plots generation as a scientific communication quest
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rlanguage #levelplots #scientific #visualizations
+🔗 https://www.youtube.com/watch?v=tb293RUblCs"
+UCwLy_PYrnCEhCU-Ay2F5Drw;t3DEWf7VimU;2021-12-10T17:31:14Z;"📺 New #rstats video: Why R? 2021 | RStudio Keynote | Teaching and learning R in the cloud with RStudio Cloud
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstudio #connect #whyr #rlanguage #teaching
+🔗 https://www.youtube.com/watch?v=t3DEWf7VimU"
+UCwLy_PYrnCEhCU-Ay2F5Drw;mEHoIW0_IoE;2021-12-10T17:49:44Z;"📺 New #rstats video: Why R? 2021 | FairPAN - makes networks fair again
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#fairpan #networks #xai #hubert #ruczynski #rlanguage #conference
+🔗 https://www.youtube.com/watch?v=mEHoIW0_IoE"
+UCwLy_PYrnCEhCU-Ay2F5Drw;mfvmRALnEy4;2021-12-10T18:02:19Z;"📺 New #rstats video: Why R? 2021 | Running R from PostgreSQL and Vice-versa
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#postgress #postgresql #rlanguage #jose #whyr
+🔗 https://www.youtube.com/watch?v=mfvmRALnEy4"
+UCwLy_PYrnCEhCU-Ay2F5Drw;eMUhdWmgmsY;2021-12-10T18:18:13Z;"📺 New #rstats video: Why R? 2021 R package for the estimation of production frontiers through machine learning techniques
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rlanguage #eta #rpackage #whyr #whyrconference #victor
+🔗 https://www.youtube.com/watch?v=eMUhdWmgmsY"
+UC_R5smHVXRYGhZYDJsnXTwg;S7sHaakq0_o;2021-12-10T18:34:00Z;"📺 New #rstats video: Speaking Different Languages – Clinical Statistical Modelling in a World with Choice
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rconsortium
+🔗 https://www.youtube.com/watch?v=S7sHaakq0_o"
+UCwLy_PYrnCEhCU-Ay2F5Drw;2zIpCZ1GDd0;2021-12-10T18:46:16Z;"📺 New #rstats video: Why R? 2021 | R as and Enterprise Dashboard: Hyper Architecture R Dashboard at Healthcare
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#nasser #rlanguage #whyr #conference #enterprise #dashboard #healthcare
+🔗 https://www.youtube.com/watch?v=2zIpCZ1GDd0"
+UCwLy_PYrnCEhCU-Ay2F5Drw;MCf7XGHd6Vg;2021-12-10T18:49:45Z;"📺 New #rstats video: Why R? 2021 | A random forest algorithm as an inference test for survival curves comparison
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#lubomir #stepanek #whyr #rlanguage #randomforest #survival
+🔗 https://www.youtube.com/watch?v=MCf7XGHd6Vg"

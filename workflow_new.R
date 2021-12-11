@@ -56,6 +56,9 @@ validate_new_channels()
 
 #update channels videos
 
+
+walk(tb_channel$id_channel, update_channel_video)
+
 walk(tb_channel$id_channel[109:133], update_channel_video)
 
 validate_new_videos()
