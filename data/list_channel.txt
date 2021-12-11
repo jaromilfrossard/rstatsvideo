@@ -36,6 +36,7 @@ UCWI1xyk6Jb4t2OOyP2LS4DQ;John Muschelli;StrictlyStat
 UCTTBgWyJl2HrrhQOOc710kA;Julia Silge;juliasilge
 UCmBDds7HAhpG6ZUj9FC2s9Q;Lacey Maths & Stats Consultancy;seanwithafada
 UC2-hKemnrmVCH_29duyJ26A;Lander Analytics;LanderAnalytics
+UCt950nC6jlh2ELDRPigWOkg;LatinR;LatinR_Conf
 UCU5ZiUm-OLbVGW7NP0e-eFQ;Learn RStats;
 UCxB1IGhLzlEOikTL-aDwqFg;Leonardo Collado Torres;lcolladotor
 UCC3CCtUrSSQoJkxodRKr89g;Lisa Lendway - Statistics & Data Science;lisalendway
