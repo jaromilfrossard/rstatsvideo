@@ -4345,3 +4345,37 @@ UCwLy_PYrnCEhCU-Ay2F5Drw;MCf7XGHd6Vg;2021-12-10T18:49:45Z;"📺 New #rstats vide
 🗣 🇬🇧
 #lubomir #stepanek #whyr #rlanguage #randomforest #survival
 🔗 https://www.youtube.com/watch?v=MCf7XGHd6Vg"
+UCwLy_PYrnCEhCU-Ay2F5Drw;lG40vF-fuDU;2021-12-10T19:10:11Z;"📺 New #rstats video: Why R? 2021 | Why people ask so frequently ""is R worse than Python?"". Is it?
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#kamilsijko #sijko #rlanguage #python #whyr #whyrconference #worse #better #datascience
+🔗 https://www.youtube.com/watch?v=lG40vF-fuDU"
+UCDR9i4RB_ZbnM8QXp4NC9uQ;boMFyx27hGM;2021-12-10T21:55:19Z;"📺 New #rstats video: Introduction to Shiny App in R
+▶ CalgaryR R User Group
+🔗 https://www.youtube.com/watch?v=boMFyx27hGM"
+UCCaChdLMTYMxyawR_Qf-kYA;93MbbtczA7M;2021-12-10T22:20:29Z;"📺 New #rstats video: Tidy Modeling with R Book Club: Introduction (2021-12-03) (tmwr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=93MbbtczA7M"
+UCCaChdLMTYMxyawR_Qf-kYA;2ySAk-lgT88;2021-12-10T22:34:00Z;"📺 New #rstats video: R for Data Science Book Club: Chapter 15: Factors (2021-12-04) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=2ySAk-lgT88"
+UCCaChdLMTYMxyawR_Qf-kYA;9Kv67Ar8Fvw;2021-12-11T00:18:05Z;"📺 New #rstats video: Mastering Shiny Book Club: Chapter 16: Escaping the graph (2021-12-08) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=9Kv67Ar8Fvw"
+UC4_hSKmvUG4w0w270AH5bXQ;C7bQBJQUwxw;2021-12-11T06:09:41Z;"📺 New #rstats video: Advent of Code 2021, Day 11 (in R, for novices)
+▶ Derek Sollberger (@DerekSollberger)
+🔗 https://www.youtube.com/watch?v=C7bQBJQUwxw"
+UCO5Aa1E7pSh5w2pxPgkPDog;opm9FF-2tHo;2021-12-11T11:50:28Z;"📺 New #rstats video: All you need is love...and R
+▶ R-Ladies Gaborone (@RLadiesGaborone)
+🔗 https://www.youtube.com/watch?v=opm9FF-2tHo"
+UCyHEww8_SCdxZvEnkCfi55w;B9KTX4X0V5U;2021-12-11T15:00:04Z;"📺 New #rstats video: par Function in R (3 Examples) | How to Apply mfrow, mar & bg Arguments | plot & dev.off Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=B9KTX4X0V5U"
+UC4_hSKmvUG4w0w270AH5bXQ;qjc87wRkeR0;2021-12-12T07:40:20Z;"📺 New #rstats video: Advent of Code 2021, Day 12: almost complete path-finding (in R, by this novice)
+▶ Derek Sollberger (@DerekSollberger)
+🔗 https://www.youtube.com/watch?v=qjc87wRkeR0"
