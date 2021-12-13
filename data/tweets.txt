@@ -4403,3 +4403,42 @@ UCCaChdLMTYMxyawR_Qf-kYA;Stp-UpgdQTE;2021-12-12T22:26:22Z;"📺 New #rstats vide
 UC4_hSKmvUG4w0w270AH5bXQ;ljuuCclGJUQ;2021-12-13T05:55:01Z;"📺 New #rstats video: Advent of Code 2021, Day 13 (in R, for beginners)
 ▶ Derek Sollberger (@DerekSollberger)
 🔗 https://www.youtube.com/watch?v=ljuuCclGJUQ"
+UCPque9BaFV9p0hcgImrYBzg;lkjcghesAhc;2021-12-13T13:34:37Z;"📺 New #rstatsvideo: Building R Packages at Work: R-Ladies Philly December 2021
+▶ R-Ladies Philly (@RLadiesPhilly)
+#rstats
+🔗 https://www.youtube.com/watch?v=lkjcghesAhc"
+UC3xfbCMLCw1Hh4dWop3XtHg;vIiQJY5V__E;2021-12-13T13:41:55Z;"📺 New #rstatsvideo: Daniela Garcia & Julieta Nieva | R en la Administración Pública & R Markdown | RStudio
+▶ RStudio (@rstudio)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=vIiQJY5V__E"
+UCyHEww8_SCdxZvEnkCfi55w;ScZlxBqUTkI;2021-12-13T15:00:29Z;"📺 New #rstatsvideo: Join Data Frames with Base R vs. dplyr (Example) | Fastest Merge | Inner, Full Outer, Left & Right
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=ScZlxBqUTkI"
+UCGuktEl5InrcxPfCjmPWxsA;UfRcwI-NEJc;2021-12-13T17:00:18Z;"📺 New #rstatsvideo: Using base R to access and remove values from a vector (CC171)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #baservector #rvector #baser #rstudiovector #vectorbracket #vectorlogical #namedvectorr
+🔗 https://www.youtube.com/watch?v=UfRcwI-NEJc"
+UCF9ymC7Dpjwr0lge2QR_A5Q;52AN4vHK3-c;2021-12-13T18:12:07Z;"📺 New #rstatsvideo: webin-R #22 : Tableaux statistiques avec gtsummary
+▶ webin-R
+🗣 🇫🇷
+#rstats
+🔗 https://www.youtube.com/watch?v=52AN4vHK3-c"
+UCCaChdLMTYMxyawR_Qf-kYA;U8-Lj0AKgZw;2021-12-13T18:57:31Z;"📺 New #rstatsvideo: Tidy Modeling with R Book Club: Chapter 1 (2021-12-10) (tmwr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=U8-Lj0AKgZw"
+UCCaChdLMTYMxyawR_Qf-kYA;dNtF8-lZ_pA;2021-12-13T19:09:43Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 8: Workflow: projects (2021-12-10) (r4ds06)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=dNtF8-lZ_pA"
+UCCaChdLMTYMxyawR_Qf-kYA;FpynCQNFIXs;2021-12-13T19:20:22Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 2: Statistical Learning (2021-12-09) (islr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=FpynCQNFIXs"
