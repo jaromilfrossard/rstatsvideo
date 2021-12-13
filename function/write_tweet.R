@@ -29,9 +29,9 @@ write_tweet <- function(name_channel, id_twitter, id_video, new_video){
 
 write_tweet_header <- function(title_video,new_video){
   if(new_video){
-    glue("\U0001f4fa New #rstats video: {title_video}")
+    glue("\U0001f4fa New #rstatsvideo: {title_video}")
   }else{
-    glue("\U0001f4fa #rstats video: {title_video}")
+    glue("\U0001f4fa #rstatsvideo: {title_video}")
   }
 }
 
@@ -82,7 +82,9 @@ write_tweet_hashtag <- function(hashtag, max_len){
     str_remove_all("[[:punct:]]")%>%
     str_remove_all(fixed(" "))%>%
     tolower()
-  hi <- hi[!(hi%in%c("rstats",""))]
+  hi <- c("rstats",hi)
+  
+  #hi <- hi[!(hi%in%c("rstats",""))]
   hi <- paste0("#", na.omit(hi))
   hi <- unique(hi)
   hi <- paste(hi[cumsum(nchar(hi)+1)<(max_len+2)],collapse = " ")
