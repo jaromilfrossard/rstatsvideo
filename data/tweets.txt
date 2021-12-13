@@ -4379,3 +4379,27 @@ UCyHEww8_SCdxZvEnkCfi55w;B9KTX4X0V5U;2021-12-11T15:00:04Z;"📺 New #rstats vide
 UC4_hSKmvUG4w0w270AH5bXQ;qjc87wRkeR0;2021-12-12T07:40:20Z;"📺 New #rstats video: Advent of Code 2021, Day 12: almost complete path-finding (in R, by this novice)
 ▶ Derek Sollberger (@DerekSollberger)
 🔗 https://www.youtube.com/watch?v=qjc87wRkeR0"
+UCyHEww8_SCdxZvEnkCfi55w;7ubTU_RYTzI;2021-12-12T15:00:07Z;"📺 New #rstats video: R Error: $-Operator is Invalid for Atomic Vectors (Examples) | is.atomic & is.recursive Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=7ubTU_RYTzI"
+UCP8l94xtoemCH_GxByvTuFQ;yCAZwD3r8bw;2021-12-12T19:30:03Z;"📺 New #rstats video: TidyX Episode 86 | Tidymodels - Julia Silge and Tune Racing
+▶ TidyX (@tidy_explained)
+#programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=yCAZwD3r8bw"
+UCCaChdLMTYMxyawR_Qf-kYA;JMDQsvVqMT8;2021-12-12T22:02:36Z;"📺 New #rstats video: ISLR Book Club: Chapter 5 Continued (2021-12-07) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=JMDQsvVqMT8"
+UCCaChdLMTYMxyawR_Qf-kYA;lxkk5MCWREQ;2021-12-12T22:13:10Z;"📺 New #rstats video: ggplot2 Book Club: Internals (2021-12-06) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=lxkk5MCWREQ"
+UCCaChdLMTYMxyawR_Qf-kYA;Stp-UpgdQTE;2021-12-12T22:26:22Z;"📺 New #rstats video: Tidytext Book Club: Chapters 8-9: Case studies (2021-12-08) (tidytext01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+🔗 https://www.youtube.com/watch?v=Stp-UpgdQTE"
+UC4_hSKmvUG4w0w270AH5bXQ;ljuuCclGJUQ;2021-12-13T05:55:01Z;"📺 New #rstats video: Advent of Code 2021, Day 13 (in R, for beginners)
+▶ Derek Sollberger (@DerekSollberger)
+🔗 https://www.youtube.com/watch?v=ljuuCclGJUQ"
