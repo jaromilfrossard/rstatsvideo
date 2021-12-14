@@ -4442,3 +4442,25 @@ UCCaChdLMTYMxyawR_Qf-kYA;FpynCQNFIXs;2021-12-13T19:20:22Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=FpynCQNFIXs"
+UC_R5smHVXRYGhZYDJsnXTwg;a6sTwkQGt3E;2018-07-12T06:23:11Z;"📺 #rstatsvideo: Quantile Generalized Additive Models: moving beyond Gaussianity - Part 1
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=a6sTwkQGt3E"
+UCwLy_PYrnCEhCU-Ay2F5Drw;vPDDpwGfvLc;2020-06-11T19:07:42Z;"📺 #rstatsvideo: Why R? Webinar 011  E. Hodgess - Using R with High Performance Tools on a Windows Laptop
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstats #whyr #datascience #machinelearning #computations #programming #rdatascience
+🔗 https://www.youtube.com/watch?v=vPDDpwGfvLc"
+UCT2TrH2M4zbRJZMH6iusyBQ;5mLkY046RKg;2020-11-02T02:52:00Z;"📺 #rstatsvideo: R/Pharma 2020 Day 3.  Stefan Pinkert.  X-Omics Platform
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=5mLkY046RKg"
+UCrmJdnPmle514qkK3lLOsVQ;qhGWCRO6trw;2021-12-14T00:30:00Z;"📺 New #rstatsvideo: #R | Convolutional Neural Network | #ConvNet #CIFAR #NeuralNetwork #DeepLearning #MachineLearning
+▶ RJ Studio
+#rstats #convnet #convnetcnn #cnninr #convolutionalneuralnetwork #convolutionneuralnetworkr
+🔗 https://www.youtube.com/watch?v=qhGWCRO6trw"
+UC4_hSKmvUG4w0w270AH5bXQ;9NkmU65LCD0;2021-12-14T07:08:15Z;"📺 New #rstatsvideo: Advent of Code 2021, Day 14 (in R, with commentary)
+▶ Derek Sollberger (@DerekSollberger)
+#rstats
+🔗 https://www.youtube.com/watch?v=9NkmU65LCD0"
