@@ -4464,3 +4464,32 @@ UC4_hSKmvUG4w0w270AH5bXQ;9NkmU65LCD0;2021-12-14T07:08:15Z;"📺 New #rstatsvideo
 ▶ Derek Sollberger (@DerekSollberger)
 #rstats
 🔗 https://www.youtube.com/watch?v=9NkmU65LCD0"
+UCyHEww8_SCdxZvEnkCfi55w;v6LYSk16oX4;2021-12-14T15:00:34Z;"📺 New #rstatsvideo: R ggplot2 Error: geom_point requires the following missing aesthetics: x, y | aes & qplot Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=v6LYSk16oX4"
+UC1ZIcF31fEzBO6akL_HHkBg;k8GykC4ZXW0;2021-12-14T15:39:14Z;"📺 New #rstatsvideo: Tidy EDA: Covariation between two categorical variables and between two continuous variables
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio #dsincubator #eda
+🔗 https://www.youtube.com/watch?v=k8GykC4ZXW0"
+UCCaChdLMTYMxyawR_Qf-kYA;MsyBfczbBao;2021-12-14T17:03:35Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 6: Linear Model Selection and Regularization (2021-12-14) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=MsyBfczbBao"
+UCCaChdLMTYMxyawR_Qf-kYA;EvKchS3X6cg;2021-12-14T17:07:34Z;"📺 New #rstatsvideo: ggplot2 Book Club: Chapter 10: Position scales and axes (2021-12-13) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EvKchS3X6cg"
+UCCaChdLMTYMxyawR_Qf-kYA;J8QU4RBdi5c;2021-12-14T17:13:46Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 16: Dates and times (2021-12-11) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=J8QU4RBdi5c"
+UC7C4YZ-9itQW7Nl4RVKDflg;9cn_hePC4Xk;2021-12-15T04:13:07Z;"📺 New #rstatsvideo: Gravity Model of European Soccer Player Transfers by Andres Rodriguez
+▶ Cleveland R User Group
+#rstats
+🔗 https://www.youtube.com/watch?v=9cn_hePC4Xk"
