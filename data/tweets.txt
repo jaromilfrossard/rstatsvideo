@@ -4493,3 +4493,25 @@ UC7C4YZ-9itQW7Nl4RVKDflg;9cn_hePC4Xk;2021-12-15T04:13:07Z;"📺 New #rstatsvideo
 ▶ Cleveland R User Group
 #rstats
 🔗 https://www.youtube.com/watch?v=9cn_hePC4Xk"
+UCqQ_cxcNu1ekqHXDc-MbU_w;9WxuOCIYhsM;2019-06-11T19:17:23Z;"📺 #rstatsvideo: Adding Product Images To Your Shiny Web App | DS4B 102-R
+▶ Business Science (@bizScienc)
+#rstats #shiny #images
+🔗 https://www.youtube.com/watch?v=9WxuOCIYhsM"
+UCyHEww8_SCdxZvEnkCfi55w;xYqD_97ncCs;2021-12-15T15:00:41Z;"📺 New #rstatsvideo: plotly Histogram in R (Example) | How to Create & Draw Interactive Plot | Grouped & Overlaid Density
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=xYqD_97ncCs"
+UCfJyQ3P2k_SuqfxVdqIEQNw;sV5lwAJ7vnQ;2021-12-15T17:36:25Z;"📺 New #rstatsvideo: Clean you data with R.   R programming for beginners.
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=sV5lwAJ7vnQ"
+UCCaChdLMTYMxyawR_Qf-kYA;5wL02PXgQiY;2021-12-15T19:21:29Z;"📺 New #rstatsvideo: Engineering Production Grade Shiny Apps Book Club Chapter 15 part 2 (2021-12-15) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=5wL02PXgQiY"
+UCTTBgWyJl2HrrhQOOc710kA;2i0Cu8MMGRc;2021-12-15T20:24:44Z;"📺 New #rstatsvideo: Topic modeling for Spice Girls lyrics
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=2i0Cu8MMGRc"
