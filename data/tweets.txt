@@ -4515,3 +4515,32 @@ UCTTBgWyJl2HrrhQOOc710kA;2i0Cu8MMGRc;2021-12-15T20:24:44Z;"📺 New #rstatsvideo
 ▶ Julia Silge (@juliasilge)
 #rstats
 🔗 https://www.youtube.com/watch?v=2i0Cu8MMGRc"
+UCMwM-3tg_-Pbx8hKO78q5EA;hxRx7ozLNKw;2021-12-16T14:49:53Z;"📺 New #rstatsvideo: NHS R Webinar - Building a TidyModels Classification Model from Scratch, December 2021
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hxRx7ozLNKw"
+UCyHEww8_SCdxZvEnkCfi55w;ClFNsZaVNFk;2021-12-16T15:00:06Z;"📺 New #rstatsvideo: Move Position of Barplot Legend in R (Example) | Change Barchart Location | legend.text, args.legend
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=ClFNsZaVNFk"
+UCGuktEl5InrcxPfCjmPWxsA;aixOiaLyoq0;2021-12-16T17:00:01Z;"📺 New #rstatsvideo: Creating and using a matrix using base R (CC172)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #basermatrix #basermatrices #rmatrix #rmatrices #rdataframes #baser #rvector #rvectors #rstudiomatrices
+🔗 https://www.youtube.com/watch?v=aixOiaLyoq0"
+UCZQlpKYQPlf2QNVdSv_TRdg;0ffTH93JwlQ;2021-12-16T17:55:54Z;"📺 New #rstatsvideo: Wrapping Packages in R with {devtools} and Friends
+▶ UseR Oslo (@OURmeetup)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=0ffTH93JwlQ"
+UCQYM-t2ut2zXr4d7TIFya1A;FoXVMapspdU;2021-12-17T01:58:02Z;"📺 New #rstatsvideo: Day 06: flexdashboard + bslib || rmarkdown + flexdashboard + bslib + Netlify #12daysofdusting
+▶ Alison Hill (@apreshill)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=FoXVMapspdU"
+UC4_hSKmvUG4w0w270AH5bXQ;uvZ28jj7Los;2021-12-17T08:26:30Z;"📺 New #rstatsvideo: Advent of Code 2021, Day 17 (in R, for beginners)
+▶ Derek Sollberger (@DerekSollberger)
+#rstats
+🔗 https://www.youtube.com/watch?v=uvZ28jj7Los"

@@ -45,6 +45,7 @@ write_delim(tb_perf, file= "data/performance.csv", delim = ";")
 
 
 rmarkdown::render("index.Rmd",output_file = "docs/index.html")
+#rmarkdown::render("README.Rmd",output_file = "README.md")
 
 
 
