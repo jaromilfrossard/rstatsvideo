@@ -4544,3 +4544,27 @@ UC4_hSKmvUG4w0w270AH5bXQ;uvZ28jj7Los;2021-12-17T08:26:30Z;"📺 New #rstatsvideo
 ▶ Derek Sollberger (@DerekSollberger)
 #rstats
 🔗 https://www.youtube.com/watch?v=uvZ28jj7Los"
+UC1ZIcF31fEzBO6akL_HHkBg;g1PRMaTFYdk;2019-11-06T12:54:44Z;"📺 #rstatsvideo: `usethis::pr_sync()` (live ds-incubator meetup)
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio #dsincubator #meetup #live #git #github
+🔗 https://www.youtube.com/watch?v=g1PRMaTFYdk"
+UCeiiqmVK07qhY-wvg3IZiZQ;7NTowAZeeC0;2021-03-09T22:14:23Z;"📺 #rstatsvideo: Tidy Tuesday live screencast: Analyzing the Bechdel test in R
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=7NTowAZeeC0"
+UC9UK90FN2Q1cl0J5Kl4-7Mg;4s5yAxa99cE;2021-12-17T14:49:53Z;"📺 New #rstatsvideo: R-Ladies Baltimore | Using Git and Github in RStudio | Lendway
+▶ R-Ladies Baltimore (@RLadiesBmore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=4s5yAxa99cE"
+UCyHEww8_SCdxZvEnkCfi55w;dqxULSNea4I;2021-12-17T15:00:31Z;"📺 New #rstatsvideo: Set Axis Limits of Plot in R (Example) | How to Change xlim & ylim Range | Draw Base R Scatterplot
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=dqxULSNea4I"
+UCNpws2MZ2_VhABXs_BamVBA;q97X7j0sqaY;2021-12-17T15:22:22Z;"📺 New #rstatsvideo: Bioconductor et le package R {epistack}.
+▶ R-Toulouse RUG (@RUG_Toulouse)
+🗣 🇫🇷
+#rstats
+🔗 https://www.youtube.com/watch?v=q97X7j0sqaY"
