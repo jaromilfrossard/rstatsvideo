@@ -4568,3 +4568,25 @@ UCNpws2MZ2_VhABXs_BamVBA;q97X7j0sqaY;2021-12-17T15:22:22Z;"📺 New #rstatsvideo
 🗣 🇫🇷
 #rstats
 🔗 https://www.youtube.com/watch?v=q97X7j0sqaY"
+UCMdihazndR0f9XBoSXWqnYg;wT2z0zEK-yw;2016-06-01T18:33:21Z;"📺 #rstatsvideo: R - Full Structural Equation Model Example
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rprogram #rstudio #sem #structuralequationmodeling #fullmodels #measurementmodel #cfa #lavaan #sempath
+🔗 https://www.youtube.com/watch?v=wT2z0zEK-yw"
+UCkrf5iL8ef1QHe--zstechA;Y9a6zFBGWUc;2019-04-17T02:51:33Z;"📺 #rstatsvideo: Clean It Up Lesson 1 Video 1 #RYouWithMe by R-Ladies Sydney
+▶ RLadies Sydney (@RLadiesSydney)
+#rstats #rladies #ryouwithme #cleanitup
+🔗 https://www.youtube.com/watch?v=Y9a6zFBGWUc"
+UC3xfbCMLCw1Hh4dWop3XtHg;f45F36fPg6I;2019-11-14T08:00:05Z;"📺 #rstatsvideo: Wes McKinney | Ursa Labs and Apache Arrow in 2019 | RStudio (2019)
+▶ RStudio (@rstudio)
+#rstats #wesmckinney #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=f45F36fPg6I"
+UCyHEww8_SCdxZvEnkCfi55w;GzfW08SARaQ;2021-12-18T15:00:06Z;"📺 New #rstatsvideo: R Error: Subscript Out of Bounds (Example) | Reproduce & Solve Message | How to Fix, Debug & Avoid
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=GzfW08SARaQ"
+UCtuMKU3a96iqTe1b7JNfhDw;_6kWT072J-I;2021-12-19T07:15:23Z;"📺 New #rstatsvideo: Introduction to Rladies Urmia Book Club and scheduling (in Persian) - Book: R for data science-2
+▶ R-Ladies Urmia (@RLadiesUrmia)
+#rstats
+🔗 https://www.youtube.com/watch?v=_6kWT072J-I"
