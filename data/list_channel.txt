@@ -131,5 +131,6 @@ UCyf1AvRK4gmfRUJjeBNMauA;Tunis R User Group;TunisRUserGroup
 UCZQlpKYQPlf2QNVdSv_TRdg;UseR Oslo;OURmeetup
 UC_sejq_JJ49KiiK4qh5r-wg;Universe of Data Science;unidatascience
 UCPzO5TjnYnBzfUVj6fI3pdw;Vivian Codes;
+UCcGXGFClRdnrwXsPHi7P4ZA;Yury Zablotski;yuzaR___
 UCF9ymC7Dpjwr0lge2QR_A5Q;webin-R;
 UCwLy_PYrnCEhCU-Ay2F5Drw;Why R? Foundation;whyRconf
