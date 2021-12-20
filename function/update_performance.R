@@ -130,7 +130,7 @@ update_performance <- function(credit = 200,
     message("Updating 7 days old videos")
     
     out<- update_new_performance(tb_perf,
-                                 min_days_update = 3,
+                                 min_days_update = 2,
                                  max_days_video = 7,
                                  credit = credit)
     
@@ -144,7 +144,7 @@ update_performance <- function(credit = 200,
     message("Updating 30 days old videos")
     
     out<- update_new_performance(tb_perf,
-                                 min_days_update = 7,
+                                 min_days_update = 5,
                                  max_days_video = 30,
                                  credit = credit)
     
@@ -157,7 +157,7 @@ update_performance <- function(credit = 200,
     
     message("Updating oldest days old videos")
     out<- update_new_performance(tb_perf,
-                                 min_days_update = 30,
+                                 min_days_update = 20,
                                  max_days_video = Inf,
                                  credit = credit,
                                  newest = F
