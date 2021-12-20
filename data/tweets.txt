@@ -4590,3 +4590,26 @@ UCtuMKU3a96iqTe1b7JNfhDw;_6kWT072J-I;2021-12-19T07:15:23Z;"📺 New #rstatsvideo
 ▶ R-Ladies Urmia (@RLadiesUrmia)
 #rstats
 🔗 https://www.youtube.com/watch?v=_6kWT072J-I"
+UCyHEww8_SCdxZvEnkCfi55w;AGigRQ4XESY;2021-12-19T15:00:04Z;"📺 New #rstatsvideo: Add Marginal Plot to ggplot2 Scatterplot Using ggExtra Package in R (Example) | ggMarginal Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=AGigRQ4XESY"
+UCxB1IGhLzlEOikTL-aDwqFg;2A_Zm1ej6Gc;2021-12-19T18:45:28Z;"📺 New #rstatsvideo: [2021-12-10] Introduction to data.table and dtplyr
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #datatable #dtplyr #tidyverse
+🔗 https://www.youtube.com/watch?v=2A_Zm1ej6Gc"
+UCCaChdLMTYMxyawR_Qf-kYA;aQHyWOEvJAI;2021-12-19T19:36:56Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Chapters 17 & 18 (2021-12-15) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=aQHyWOEvJAI"
+UCP8l94xtoemCH_GxByvTuFQ;lLzR2xQlKXs;2021-12-19T19:38:44Z;"📺 New #rstatsvideo: TidyX Episode 87 | Advent of Code Day 6 - Efficient Problem Solving
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=lLzR2xQlKXs"
+UCOfk4nX5sx1UpnuXPVzXokw;zzUpNm3C8zU;2021-12-20T06:30:50Z;"📺 New #rstatsvideo: Running python in Rstudio
+▶ Makerere Epidemiology and Statistical center
+#rstats
+🔗 https://www.youtube.com/watch?v=zzUpNm3C8zU"
