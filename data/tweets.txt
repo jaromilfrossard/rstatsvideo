@@ -4613,3 +4613,27 @@ UCOfk4nX5sx1UpnuXPVzXokw;zzUpNm3C8zU;2021-12-20T06:30:50Z;"📺 New #rstatsvideo
 ▶ Makerere Epidemiology and Statistical center
 #rstats
 🔗 https://www.youtube.com/watch?v=zzUpNm3C8zU"
+UCyHEww8_SCdxZvEnkCfi55w;Cl65-ti2ci8;2021-12-20T15:00:12Z;"📺 New #rstatsvideo: Increase Space Between ggplot2 Facet Plot Panels in R (Example) | theme() Function & panel.spacing
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Cl65-ti2ci8"
+UCGuktEl5InrcxPfCjmPWxsA;hG7SSfBXVuM;2021-12-20T17:00:22Z;"📺 New #rstatsvideo: For loops in R: a tutorial on how to simplify your code without compromising performance (CC173)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #forloopsrtutorial #rforloops #rfor #rtutorial #rstudiotutorial
+🔗 https://www.youtube.com/watch?v=hG7SSfBXVuM"
+UCwQ7lkY6YWzZjT807Itbvtw;SkFLHbHrPD4;2021-12-20T17:48:31Z;"📺 New #rstatsvideo: Peeling back the curtain of Movie Vue R (Part 1)
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=SkFLHbHrPD4"
+UCF9ymC7Dpjwr0lge2QR_A5Q;yPSIrTlfGS0;2021-12-20T18:12:39Z;"📺 New #rstatsvideo: webin-R #23 : Tableaux statistiques avec gtsummary (2)
+▶ webin-R
+🗣 🇫🇷
+#rstats
+🔗 https://www.youtube.com/watch?v=yPSIrTlfGS0"
+UC2-hKemnrmVCH_29duyJ26A;WDGb-JvIORk;2021-12-20T18:57:14Z;"📺 New #rstatsvideo: Wendy Martinez - The Journey Continues: Using R at a U.S. Government Agency
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=WDGb-JvIORk"
