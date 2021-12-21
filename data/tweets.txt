@@ -4662,3 +4662,43 @@ UC2-hKemnrmVCH_29duyJ26A;F_tXZOn9pE0;2021-12-20T18:57:39Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=F_tXZOn9pE0"
+UC2-hKemnrmVCH_29duyJ26A;-6TlzhRA9vA;2021-12-20T18:57:41Z;"📺 New #rstatsvideo: Alex Gold - Reliably Reproducible R-Tifacts
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-6TlzhRA9vA"
+UC2-hKemnrmVCH_29duyJ26A;uYa798eNB7g;2021-12-20T18:57:46Z;"📺 New #rstatsvideo: Marck Vaisman - Creating and Managing Your University Course with R
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=uYa798eNB7g"
+UC2-hKemnrmVCH_29duyJ26A;Pt6FYgFejvc;2021-12-20T18:57:58Z;"📺 New #rstatsvideo: Tommy Jones - tidylda: Latent Dirichlet Allocation Using 'tidyverse' Conventions
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Pt6FYgFejvc"
+UC2-hKemnrmVCH_29duyJ26A;b3d8kxIh0vI;2021-12-20T18:58:04Z;"📺 New #rstatsvideo: Jasmine Ye Han - A Data Journalist’s R Toolbox
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=b3d8kxIh0vI"
+UC2-hKemnrmVCH_29duyJ26A;s3ZKvxD9A7Q;2021-12-20T18:58:12Z;"📺 New #rstatsvideo: Mayari Montes de Oca - What works to support refugee children? Using BART for impact evaluation
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=s3ZKvxD9A7Q"
+UC2-hKemnrmVCH_29duyJ26A;XJhRvb1y6zI;2021-12-20T18:58:17Z;"📺 New #rstatsvideo: Abhijit Dasgupta - Multilingual pipelines for data analyses: R as glue
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=XJhRvb1y6zI"
+UC2-hKemnrmVCH_29duyJ26A;gBZ9r_7wUjs;2021-12-20T18:58:19Z;"📺 New #rstatsvideo: Sydney Coston - Using R Shiny to visualize stem cell treatment data over time
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=gBZ9r_7wUjs"
+UCQYM-t2ut2zXr4d7TIFya1A;oBtDgW9u7Nw;2021-12-20T23:41:47Z;"📺 New #rstatsvideo: Day 07: blogdown + #HugoApero || rmarkdown + blogdown + #HugoApero + Netlify #12daysofdusting
+▶ Alison Hill (@apreshill)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=oBtDgW9u7Nw"
