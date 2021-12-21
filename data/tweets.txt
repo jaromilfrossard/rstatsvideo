@@ -4637,3 +4637,28 @@ UC2-hKemnrmVCH_29duyJ26A;WDGb-JvIORk;2021-12-20T18:57:14Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=WDGb-JvIORk"
+UC2-hKemnrmVCH_29duyJ26A;bqESMOn7EVY;2021-12-20T18:57:21Z;"📺 New #rstatsvideo: Asmae Toumi - Using data and R to improve substance use disorder care: the startup experience
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=bqESMOn7EVY"
+UC2-hKemnrmVCH_29duyJ26A;AyGmyZWh10A;2021-12-20T18:57:23Z;"📺 New #rstatsvideo: Coline Zeballos - Ensuring the quality of your R packages for regulatory submissions
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=AyGmyZWh10A"
+UC2-hKemnrmVCH_29duyJ26A;9HZDQiDqd7c;2021-12-20T18:57:26Z;"📺 New #rstatsvideo: David Shor - Bayesian statistics, government, and the 2020 election
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9HZDQiDqd7c"
+UC2-hKemnrmVCH_29duyJ26A;8X_Zjn8JGV0;2021-12-20T18:57:37Z;"📺 New #rstatsvideo: Jared P. Lander - Using {targets}, {arrow}, Docker, Postgres and the Command Line for Medium Data
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=8X_Zjn8JGV0"
+UC2-hKemnrmVCH_29duyJ26A;F_tXZOn9pE0;2021-12-20T18:57:39Z;"📺 New #rstatsvideo: Brook Frye & Ben Witte - Data and Decision Making in the Legislative Process
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=F_tXZOn9pE0"
