@@ -4702,3 +4702,28 @@ UCQYM-t2ut2zXr4d7TIFya1A;oBtDgW9u7Nw;2021-12-20T23:41:47Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=oBtDgW9u7Nw"
+UC3xfbCMLCw1Hh4dWop3XtHg;C4nUnublO-U;2017-11-29T18:19:15Z;"📺 #rstatsvideo: RcppParallel Overview | RStudio Webinar - 2016
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rcpp #rcppparallel #rcppr #rstudiowebinar #rstudio
+🔗 https://www.youtube.com/watch?v=C4nUnublO-U"
+UCMdihazndR0f9XBoSXWqnYg;z2OnOk4_w3E;2018-04-13T04:36:11Z;"📺 #rstatsvideo: MOTE - Single t (Shiny App)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #singlesample #singlet #ttest #rstudio #rprogram #shiny #confidenceinterval #effectsize #cohend
+🔗 https://www.youtube.com/watch?v=z2OnOk4_w3E"
+UCB_noR4lYmbKJozwJuPStbg;Sm3uuVVtXak;2020-12-08T17:55:04Z;"📺 #rstatsvideo: R Markdown (part of the Rfun Introduction to R series)
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #rmarkdown #markdown #tidyverse #r
+🔗 https://www.youtube.com/watch?v=Sm3uuVVtXak"
+UCyHEww8_SCdxZvEnkCfi55w;Kk5PuKul2i4;2021-12-21T15:00:25Z;"📺 New #rstatsvideo: seq Function in R (5 Examples) | How to Apply from, to, by & length.out | Create Sequence of Values
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Kk5PuKul2i4"
+UC1ZIcF31fEzBO6akL_HHkBg;Hv6DzT6Z2yA;2021-12-21T16:01:29Z;"📺 New #rstatsvideo: Tidy EDA: Patterns and models
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio #eda #dsincubator
+🔗 https://www.youtube.com/watch?v=Hv6DzT6Z2yA"
