@@ -4727,3 +4727,28 @@ UC1ZIcF31fEzBO6akL_HHkBg;Hv6DzT6Z2yA;2021-12-21T16:01:29Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rstudio #eda #dsincubator
 🔗 https://www.youtube.com/watch?v=Hv6DzT6Z2yA"
+UCfJyQ3P2k_SuqfxVdqIEQNw;9kYUGMg_14s;2018-12-14T16:31:17Z;"📺 #rstatsvideo: R programming for beginners -  Why you should use R
+▶ R Programming 101 (@101Programming)
+🗣 🇬🇧
+#rstats #rprogramming #datascience #statistics #machinelearning #ai #statisticalsoftware #stata #spss #data
+🔗 https://www.youtube.com/watch?v=9kYUGMg_14s"
+UCwLy_PYrnCEhCU-Ay2F5Drw;jPQJTVa-GsQ;2020-04-17T07:06:09Z;"📺 #rstatsvideo: Why R? Webinar 003 - Heidi Seibold - Teaching Machine Learning online
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstats #machinelearning #mltutorials #moocs #rprogramming #whyr #datascience #computations #programming
+🔗 https://www.youtube.com/watch?v=jPQJTVa-GsQ"
+UCBsXfUO__nzMnlaLLUx7DFQ;a3mCuyBJwOM;2021-09-01T00:41:57Z;"📺 #rstatsvideo: For Loops
+▶ Probability!
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=a3mCuyBJwOM"
+UCyHEww8_SCdxZvEnkCfi55w;YmOLkr_gGZw;2021-12-22T15:00:16Z;"📺 New #rstatsvideo: plotly Scatterplot in R (Example) | Draw Interactive XY-Plot | Change Shape of Dots, Size & Opacity
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=YmOLkr_gGZw"
+UC2-hKemnrmVCH_29duyJ26A;dxJek4-hpBo;2021-12-22T17:21:08Z;"📺 New #rstatsvideo: Boriana P. Pratt - Running simulations in Parallel in R with doParallel package
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=dxJek4-hpBo"
