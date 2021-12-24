@@ -4752,3 +4752,39 @@ UC2-hKemnrmVCH_29duyJ26A;dxJek4-hpBo;2021-12-22T17:21:08Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=dxJek4-hpBo"
+UCKMekE_4UfWvZDuBWenG8WA;eux3NzJR8O0;2021-12-23T12:22:50Z;"📺 New #rstatsvideo: How to Visualize Missing Data in R: naniar
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#rstats #dataviz #missingvalue #missingatrandom #missingnotatrandom #mnar #mar #ggplot2 #naniar #na #imputingmissingvalues
+🔗 https://www.youtube.com/watch?v=eux3NzJR8O0"
+UCyHEww8_SCdxZvEnkCfi55w;8E_uPLf2Jc4;2021-12-23T15:00:08Z;"📺 New #rstatsvideo: Convert Categorical Variable to Numeric in R (Example) | Vector & Column | sapply & unclass Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=8E_uPLf2Jc4"
+UCGuktEl5InrcxPfCjmPWxsA;DZN5nXtEHcg;2021-12-23T17:00:18Z;"📺 New #rstatsvideo: Indexing and looping over lists in R, a tutorial (CC174)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rliststutorial #rlist #rlisttutorial #rlisttutrial #rlapply #baser #rstudiolapply #rstudiolist
+🔗 https://www.youtube.com/watch?v=DZN5nXtEHcg"
+UCwQ7lkY6YWzZjT807Itbvtw;1NpYU63pYJA;2021-12-23T17:35:16Z;"📺 New #rstatsvideo: More shinylearning dev: Down rabbit holes of CSS and exploring truelle
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=1NpYU63pYJA"
+UCwQ7lkY6YWzZjT807Itbvtw;CUIJvmCYKQA;2021-12-23T17:39:03Z;"📺 New #rstatsvideo: shinylearning dev: Dynamic template generation
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=CUIJvmCYKQA"
+UCwQ7lkY6YWzZjT807Itbvtw;RgK6rsJmkM0;2021-12-23T17:55:04Z;"📺 New #rstatsvideo: More shinylearning dev and a few stories!
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=RgK6rsJmkM0"
+UCyHEww8_SCdxZvEnkCfi55w;SrIVkSASOFc;2021-12-23T23:00:13Z;"📺 New #rstatsvideo: Remove Border of ggplot2 geom_label Text Annotation in R | Draw Example Scatterplot | label.size=NA
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=SrIVkSASOFc"
+UCrmJdnPmle514qkK3lLOsVQ;51dqhpUMDJ0;2021-12-23T23:56:42Z;"📺 New #rstatsvideo: #R | MultiLayer Neural Network | #tidyverse #MNIST #NeuralNetwork #DeepLearning #MachineLearning
+▶ RJ Studio
+#rstats #다층신경 #다층신경망 #다층신경망r #mnistdata #mnistclassification #mnistdeeplearning #mnistneuralnetwork
+🔗 https://www.youtube.com/watch?v=51dqhpUMDJ0"
