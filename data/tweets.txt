@@ -4788,3 +4788,26 @@ UCrmJdnPmle514qkK3lLOsVQ;51dqhpUMDJ0;2021-12-23T23:56:42Z;"📺 New #rstatsvideo
 ▶ RJ Studio
 #rstats #다층신경 #다층신경망 #다층신경망r #mnistdata #mnistclassification #mnistdeeplearning #mnistneuralnetwork
 🔗 https://www.youtube.com/watch?v=51dqhpUMDJ0"
+UC2-hKemnrmVCH_29duyJ26A;4vu8h_Zh8Wg;2019-06-19T14:54:22Z;"📺 #rstatsvideo: Amanda Dobbyn -  This Talk is on Fire: Using Twitter and Google to Track Fires in NYC
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=4vu8h_Zh8Wg"
+UCAu9zxmEgQdWYkl84BiziSQ;Itm92RDBzew;2020-04-09T16:12:13Z;"📺 #rstatsvideo: 2- Serpilme Diyagramı - ggplot2 ile Veri Görselleştirme | R Programlama
+▶ Eskisehir R User Group
+#rstats
+🔗 https://www.youtube.com/watch?v=Itm92RDBzew"
+UCYNVcihAKkRW-bhzIrguvVw;79hzUJ656yo;2020-06-08T20:12:53Z;"📺 #rstatsvideo: Rao Blackwellization of Gibbs Sampler + R Demo
+▶ math et al
+🗣 🇬🇧
+#rstats #raoblackwell #raoblackwellization #gibbssampler #gibbssampling #raoblackwellizationofgibbssampler #gibbs #montecarlo #montecarlosimulation
+🔗 https://www.youtube.com/watch?v=79hzUJ656yo"
+UCP8l94xtoemCH_GxByvTuFQ;ze2spg3LcxU;2020-09-13T21:44:58Z;"📺 #rstatsvideo: TidyX Episode 27 | LIX and ShinyCARMELO - Part 2
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #shiny #rshiny #ui
+🔗 https://www.youtube.com/watch?v=ze2spg3LcxU"
+UCCaChdLMTYMxyawR_Qf-kYA;0TclsXa085Y;2021-03-24T22:00:31Z;"📺 #rstatsvideo: Advanced R Book Club: Chapter 21: Translating R code (2021-03-22) (advr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=0TclsXa085Y"
