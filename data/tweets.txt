@@ -4811,3 +4811,27 @@ UCCaChdLMTYMxyawR_Qf-kYA;0TclsXa085Y;2021-03-24T22:00:31Z;"📺 #rstatsvideo: Ad
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=0TclsXa085Y"
+UC_R5smHVXRYGhZYDJsnXTwg;XEaRjvps5aM;2019-08-03T13:49:26Z;"📺 #rstatsvideo: useR! 2019 Toulouse - Talk Multivariate Data Analysis - Michael Friendly
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=XEaRjvps5aM"
+UC1ZIcF31fEzBO6akL_HHkBg;OieR0VDxSRk;2021-09-07T15:15:00Z;"📺 #rstatsvideo: docker: use cases
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio #dsincubator
+🔗 https://www.youtube.com/watch?v=OieR0VDxSRk"
+UCbDOKk931538Jt32sSErrcA;At_qSwqltto;2021-12-25T08:06:18Z;"📺 New #rstatsvideo: Outlier Detection with boxplot in R
+▶ Bilal Kurban (@bilalkurban)
+🗣 🇬🇧
+#rstats #datavisualization #r #rstudio #outlierdetection #boxplot #outlier
+🔗 https://www.youtube.com/watch?v=At_qSwqltto"
+UCyHEww8_SCdxZvEnkCfi55w;KyuhXHS99xg;2021-12-25T15:00:27Z;"📺 New #rstatsvideo: Filter Vector in R (Example) | How to Subset & Extract Particular Elements | Logical & %in% Operator
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=KyuhXHS99xg"
+UCbDOKk931538Jt32sSErrcA;Z9Z3KxkAwoE;2021-12-26T08:34:28Z;"📺 New #rstatsvideo: Create a new column with row means in an R dataframe
+▶ Bilal Kurban (@bilalkurban)
+#rstats
+🔗 https://www.youtube.com/watch?v=Z9Z3KxkAwoE"
