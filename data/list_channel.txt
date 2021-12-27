@@ -1,6 +1,7 @@
 id_channel;name_channel;id_twitter
 UCpSo0ZG5FtMyKwGnHaGnvrA;Aaron Maxwell;
 UC_bfGqjzgx4-N8TEQlJTaNQ;Abuja R User Group;AbujaRUG
+UCGn6055dyd5pSmVtHTukQIg;Alexander Rauhut;
 UCQYM-t2ut2zXr4d7TIFya1A;Alison Hill;apreshill
 UCnwYO3Sz_emBTC1sTZ6TlsQ;Andrew Couch;Andr3wCouch
 UCgXBQIFJ_Rmq3UhWL_yrkxQ;Applied Epi;
@@ -10,6 +11,7 @@ UCWApflfx7nUcvvYMZ2SAbCQ;BIG Bioinformatics;
 UCTZXht1RTL2Duc3eU8MYGzQ;Bruno Rodrigues;brodriguesco
 UCqQ_cxcNu1ekqHXDc-MbU_w;Business Science;bizScienc
 UCDR9i4RB_ZbnM8QXp4NC9uQ;CalgaryR R User Group;
+UCyZCfIET7753bs5WpmKI_qQ;CARVALHO RIBEIRO;
 UCKFp00-PRnuc1Dx4DaUmJBg;Chad C. Williams;WilliamsNeuro
 UC7C4YZ-9itQW7Nl4RVKDflg;Cleveland R User Group;
 UCBYwP7mrBxJSZbPg-U3uR-A;CodeR;
