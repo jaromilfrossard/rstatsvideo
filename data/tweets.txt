@@ -4835,3 +4835,26 @@ UCbDOKk931538Jt32sSErrcA;Z9Z3KxkAwoE;2021-12-26T08:34:28Z;"📺 New #rstatsvideo
 ▶ Bilal Kurban (@bilalkurban)
 #rstats
 🔗 https://www.youtube.com/watch?v=Z9Z3KxkAwoE"
+UCYgIy7zeC7v6iZhx0-NywBw;ot2urgT8Uxk;2018-10-17T15:42:42Z;"📺 #rstatsvideo: That's not data science - Mara Averick - SatRday Amsterdam
+▶ satRdays (@satRdays_org)
+#rstats
+🔗 https://www.youtube.com/watch?v=ot2urgT8Uxk"
+UCyHEww8_SCdxZvEnkCfi55w;h_VeG9WBFXw;2021-12-26T15:00:47Z;"📺 New #rstatsvideo: Add Axes to Plot Using axis Function in R (4 Examples) | Modify Ticks & Labels | Change Text & Value
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=h_VeG9WBFXw"
+UCP8l94xtoemCH_GxByvTuFQ;UmyEUjrXIig;2021-12-26T21:07:41Z;"📺 New #rstatsvideo: TidyX Episode 88 | Advent of Code Day 7, For Loops and Lookup Vectors
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=UmyEUjrXIig"
+UCcGXGFClRdnrwXsPHi7P4ZA;x5RcZlc-w4A;2021-12-27T11:06:34Z;"📺 New #rstatsvideo: R demo | One Sample T-Test & One Sample Wilcoxon Test | How to conduct, visualize and interpret
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #clearlyexplained #datascience #dataanalysis #forbeginners
+🔗 https://www.youtube.com/watch?v=x5RcZlc-w4A"
+UCbDOKk931538Jt32sSErrcA;w_oKCnA-lhY;2021-12-27T11:13:39Z;"📺 New #rstatsvideo: Outlier Detection with Mahalanobis Charts in R
+▶ Bilal Kurban (@bilalkurban)
+🗣 🇬🇧
+#rstats #outlier #datavisualization #rproject #rstudio #outlierdetection #datascience
+🔗 https://www.youtube.com/watch?v=w_oKCnA-lhY"
