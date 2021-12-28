@@ -4858,3 +4858,25 @@ UCbDOKk931538Jt32sSErrcA;w_oKCnA-lhY;2021-12-27T11:13:39Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #outlier #datavisualization #rproject #rstudio #outlierdetection #datascience
 🔗 https://www.youtube.com/watch?v=w_oKCnA-lhY"
+UCYgIy7zeC7v6iZhx0-NywBw;K-AFdjYunO8;2018-10-17T15:41:45Z;"📺 #rstatsvideo: An exploration of NSE and tidyeval - Edwin Thoen - SatRday Amsterdam
+▶ satRdays (@satRdays_org)
+#rstats
+🔗 https://www.youtube.com/watch?v=K-AFdjYunO8"
+UC3xfbCMLCw1Hh4dWop3XtHg;6VTs7UaMyaw;2020-09-23T07:00:01Z;"📺 #rstatsvideo: Claus Wilke | Spruce up your ggplot2 visualizations with formatted text | RStudio (2020)
+▶ RStudio (@rstudio)
+#rstats #clauswilke #rstudioconf2020 #ggtext #rstudio #datascience #machinelearning #python #stats
+🔗 https://www.youtube.com/watch?v=6VTs7UaMyaw"
+UCxB1IGhLzlEOikTL-aDwqFg;I26Dr3b8TzQ;2021-01-15T01:44:36Z;"📺 #rstatsvideo: [2020-07-24] R functions
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #purrr #functionalprogramming
+🔗 https://www.youtube.com/watch?v=I26Dr3b8TzQ"
+UCTZXht1RTL2Duc3eU8MYGzQ;aBhmKIjHJM4;2021-12-27T14:52:37Z;"📺 New #rstatsvideo: Generating Excel files from R - avoids having to use Excel!
+▶ Bruno Rodrigues (@brodriguesco)
+#rstats #functionalprogramming
+🔗 https://www.youtube.com/watch?v=aBhmKIjHJM4"
+UCyHEww8_SCdxZvEnkCfi55w;fcILpZAI49A;2021-12-27T15:00:36Z;"📺 New #rstatsvideo: summary Function in R (3 Examples) | Descriptive Statistics of Vector, Data Frame & Regression Model
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=fcILpZAI49A"
