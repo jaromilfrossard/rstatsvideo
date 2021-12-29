@@ -4880,3 +4880,26 @@ UCyHEww8_SCdxZvEnkCfi55w;fcILpZAI49A;2021-12-27T15:00:36Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=fcILpZAI49A"
+UCBV194XNr6CIQCCuw1v2rMQ;rfH7pCFvFT0;2021-12-28T14:00:17Z;"📺 New #rstatsvideo: Linear Regression Plots in R
+▶ dataslice (@dataslice)
+🗣 🇬🇧
+#rstats #linearregressionplotsinr #residualsvsleverage #residualsvsfittedvalues #spreadlocation #simplelinearregression #multiplelinearregression
+🔗 https://www.youtube.com/watch?v=rfH7pCFvFT0"
+UCyHEww8_SCdxZvEnkCfi55w;vfgneLwa59g;2021-12-28T15:00:25Z;"📺 New #rstatsvideo: log Function in R (5 Examples) | How to Calculate Natural, Binary & Common Logarithm | Change Base
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=vfgneLwa59g"
+UCGn6055dyd5pSmVtHTukQIg;XNSVHbRbjv0;2021-12-28T16:00:26Z;"📺 New #rstatsvideo: Advent of Code 2021: Day 14 in R
+▶ Alexander Rauhut
+#rstats
+🔗 https://www.youtube.com/watch?v=XNSVHbRbjv0"
+UCQYM-t2ut2zXr4d7TIFya1A;48C03--M4HE;2021-12-28T20:17:41Z;"📺 New #rstatsvideo: Day 08: Solo patterns || blogdown + GitHub + Netlify Deploy Previews / Branch Deploys
+▶ Alison Hill (@apreshill)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=48C03--M4HE"
+UCrmJdnPmle514qkK3lLOsVQ;SKUBNMl_iS4;2021-12-28T23:18:47Z;"📺 New #rstatsvideo: #R | 6 types of JOIN | #tidyverse #DataAnalysis #r4ds #Joins #KeyValue #RelationalData
+▶ RJ Studio
+#rstats #join #leftjoin #rightjoin #innerjoin #joinsinr #semijoin #antijoin #relationaldatainr
+🔗 https://www.youtube.com/watch?v=SKUBNMl_iS4"
