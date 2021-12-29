@@ -13,3 +13,4 @@ analyse_tweet.R
 get_social.R
 data/performance.csv
 img/
+app/
