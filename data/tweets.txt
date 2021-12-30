@@ -4903,3 +4903,28 @@ UCrmJdnPmle514qkK3lLOsVQ;SKUBNMl_iS4;2021-12-28T23:18:47Z;"📺 New #rstatsvideo
 ▶ RJ Studio
 #rstats #join #leftjoin #rightjoin #innerjoin #joinsinr #semijoin #antijoin #relationaldatainr
 🔗 https://www.youtube.com/watch?v=SKUBNMl_iS4"
+UC2-hKemnrmVCH_29duyJ26A;fy2z6wzuJ3U;2018-08-15T22:32:49Z;"📺 #rstatsvideo: Automated Versus Do-it-Yourself Methods for Causal Inference
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=fy2z6wzuJ3U"
+UCCaChdLMTYMxyawR_Qf-kYA;VXzFEZ3LMJU;2020-08-26T18:17:48Z;"📺 #rstatsvideo: R for Data Science Book Club: Chapters 4-5: Workflow & Data Transformation (2020-08-24) Pt2 (r4ds02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VXzFEZ3LMJU"
+UCB_noR4lYmbKJozwJuPStbg;GJUcnEV_6O0;2020-12-08T18:31:47Z;"📺 #rstatsvideo: Join or merge data (part of the Rfun Introduction to R series)
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #leftjoin #join #merge #data #tidyverse #r
+🔗 https://www.youtube.com/watch?v=GJUcnEV_6O0"
+UCCaChdLMTYMxyawR_Qf-kYA;N0DBBFZ5t6A;2021-02-22T21:17:55Z;"📺 #rstatsvideo: R for Data Science Book Club: Chapter 23: Model basics (2021-02-01) (r4ds02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=N0DBBFZ5t6A"
+UCyHEww8_SCdxZvEnkCfi55w;ndn58q9czCk;2021-12-29T15:00:29Z;"📺 New #rstatsvideo: plotly Boxplot in R (Example) | Draw Box-and-Whisker Plot | Color, Mean Lines, Notches & Orientation
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=ndn58q9czCk"
