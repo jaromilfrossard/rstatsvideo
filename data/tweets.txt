@@ -4928,3 +4928,27 @@ UCyHEww8_SCdxZvEnkCfi55w;ndn58q9czCk;2021-12-29T15:00:29Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=ndn58q9czCk"
+UC1ZIcF31fEzBO6akL_HHkBg;o9ZHNEl8UI8;2020-03-03T15:41:54Z;"📺 #rstatsvideo: Watch out for type inconsistent code
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio #dsincubator #vctrs
+🔗 https://www.youtube.com/watch?v=o9ZHNEl8UI8"
+UCFZ-jFG9a9Tx0_4EIX-L7bA;AzNt99IfwKA;2021-03-31T14:48:36Z;"📺 #rstatsvideo: Conociendo ROpenSci con Melina Vidoni
+▶ R-Ladies Puebla (@RLadiesPuebla)
+#rstats
+🔗 https://www.youtube.com/watch?v=AzNt99IfwKA"
+UCyHEww8_SCdxZvEnkCfi55w;UQEk9GSKkh0;2021-12-30T15:00:44Z;"📺 New #rstatsvideo: split & unsplit Functions in R (2 Examples) | Divide & Reassemble Data | Vector Object into Chunks
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=UQEk9GSKkh0"
+UCQYM-t2ut2zXr4d7TIFya1A;GiBy91iCbZA;2021-12-31T04:43:41Z;"📺 New #rstatsvideo: Day 10: Pair patterns || GitHub + GitHub Desktop #12DaysOfDusting
+▶ Alison Hill (@apreshill)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GiBy91iCbZA"
+UCQYM-t2ut2zXr4d7TIFya1A;yXFu_upDL2o;2021-12-31T04:49:20Z;"📺 New #rstatsvideo: Day 09: Hugo Apéro from scratch || rmarkdown + blogdown + Netlify #12DaysOfDusting
+▶ Alison Hill (@apreshill)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=yXFu_upDL2o"
