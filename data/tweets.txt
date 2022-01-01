@@ -4952,3 +4952,27 @@ UCQYM-t2ut2zXr4d7TIFya1A;yXFu_upDL2o;2021-12-31T04:49:20Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=yXFu_upDL2o"
+UCWI1xyk6Jb4t2OOyP2LS4DQ;Nou4onWr2wI;2015-11-24T20:29:05Z;"📺 #rstatsvideo: Data Science Lab: Quantmod package and GitHub
+▶ John Muschelli (@StrictlyStat)
+🗣 🇬🇧
+#rstats #githubwebsite #gitsoftware
+🔗 https://www.youtube.com/watch?v=Nou4onWr2wI"
+UCC0n35R84-ufqPstR1YtCxA;AHWuzRvB-Tk;2018-02-19T23:35:51Z;"📺 #rstatsvideo: Pharmacometrics using R: PKPDsim Walkthrough Part 1
+▶ Stat Pharm
+#rstats #pharmacometrics #usingr #pkpdsim #rforpharmacometrics
+🔗 https://www.youtube.com/watch?v=AHWuzRvB-Tk"
+UCKMekE_4UfWvZDuBWenG8WA;W119zlfvulI;2020-07-12T12:40:21Z;"📺 #rstatsvideo: data.table vs. dplyr, dtplyr: Benchmarks / Geschwindigkeits-Vergleiche
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇩🇪
+#rstats #dplyr #datatable #dtplyr #benchmark #microbenchmark #tidyverse
+🔗 https://www.youtube.com/watch?v=W119zlfvulI"
+UCAzHeCFKu0uoRIFHRoLgoBA;nuA1qTs0IAo;2021-03-04T08:34:05Z;"📺 #rstatsvideo: ggplot2- Part 2 (Türkçe)
+▶ R-Ladies EskişehiR (@RLadiesEskisehR)
+🗣 🇹🇷
+#rstats
+🔗 https://www.youtube.com/watch?v=nuA1qTs0IAo"
+UCyHEww8_SCdxZvEnkCfi55w;8HFM0X5TQU0;2021-12-31T15:00:51Z;"📺 New #rstatsvideo: Add Table to ggplot2 Plot in R (Example) | Draw & Annotate Data within Graph Area | ggpmisc Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=8HFM0X5TQU0"
