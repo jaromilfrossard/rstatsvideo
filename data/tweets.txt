@@ -4976,3 +4976,28 @@ UCyHEww8_SCdxZvEnkCfi55w;8HFM0X5TQU0;2021-12-31T15:00:51Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=8HFM0X5TQU0"
+UCwLy_PYrnCEhCU-Ay2F5Drw;2FWuJAGcFcI;2021-03-03T20:05:53Z;"📺 #rstatsvideo: Why R? World 6: Tuli Amutenya (Namibia)
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2FWuJAGcFcI"
+UCyHEww8_SCdxZvEnkCfi55w;IjHZILQjPFc;2022-01-01T15:00:57Z;"📺 New #rstatsvideo: Split Character String at Whitespace in R (2 Examples) | One & Multiple Spaces | strsplit() & scan()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=IjHZILQjPFc"
+UCQYM-t2ut2zXr4d7TIFya1A;y0PS5CXBAGs;2022-01-01T21:46:11Z;"📺 New #rstatsvideo: Day 11: Creating a data package & site || rmarkdown + usethis + pkgdown + Netlify #12DaysOfDusting
+▶ Alison Hill (@apreshill)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=y0PS5CXBAGs"
+UCCaChdLMTYMxyawR_Qf-kYA;5YmZiyVgUeg;2022-01-02T01:10:36Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Chapter 18 (part 2) & 19 (part 1) (2021-12-22) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=5YmZiyVgUeg"
+UCCaChdLMTYMxyawR_Qf-kYA;BTpK8lan97E;2022-01-02T01:35:28Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Chapter 19: Shiny Modules (part 2) (2021-12-29) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=BTpK8lan97E"
