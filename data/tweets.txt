@@ -5001,3 +5001,26 @@ UCCaChdLMTYMxyawR_Qf-kYA;BTpK8lan97E;2022-01-02T01:35:28Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=BTpK8lan97E"
+UCC0n35R84-ufqPstR1YtCxA;Z-EWMHiNTDE;2017-06-16T16:08:32Z;"📺 #rstatsvideo: Longitudinal Networks: Introduction to ndtv R Package
+▶ Stat Pharm
+#rstats #longitudinalnetworks #ndtv #visualization #network #dynamics
+🔗 https://www.youtube.com/watch?v=Z-EWMHiNTDE"
+UC3xfbCMLCw1Hh4dWop3XtHg;yf0bZAE0ocY;2021-02-19T17:00:26Z;"📺 #rstatsvideo: Shelmith Kariuki | rKenyaCensus Package | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology #coding #connect
+🔗 https://www.youtube.com/watch?v=yf0bZAE0ocY"
+UCyHEww8_SCdxZvEnkCfi55w;8GLsh7dRSds;2022-01-02T15:00:33Z;"📺 New #rstatsvideo: Change Background Color of ggplot2 Text Label Annotation in R (Example) | annotate() & geom_label()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=8GLsh7dRSds"
+UCwQ7lkY6YWzZjT807Itbvtw;8crXv5SBDLE;2022-01-03T07:23:53Z;"📺 New #rstatsvideo: Episode 27: Peeling back the curtain of Movie Vue R (Part 2)
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=8crXv5SBDLE"
+UCcGXGFClRdnrwXsPHi7P4ZA;eXczd0ewVgE;2022-01-03T09:23:19Z;"📺 New #rstatsvideo: R demo | Correlation | Pearson, Spearman, Robust | How to conduct, visualise and interpret
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #clearlyexplained #datascience #dataanalysis #forbeginners #stats
+🔗 https://www.youtube.com/watch?v=eXczd0ewVgE"
