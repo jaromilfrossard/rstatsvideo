@@ -5024,3 +5024,37 @@ UCcGXGFClRdnrwXsPHi7P4ZA;eXczd0ewVgE;2022-01-03T09:23:19Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statistics #clearlyexplained #datascience #dataanalysis #forbeginners #stats
 🔗 https://www.youtube.com/watch?v=eXczd0ewVgE"
+UCyHEww8_SCdxZvEnkCfi55w;VKRotP6gFts;2022-01-03T15:00:40Z;"📺 New #rstatsvideo: Convert Dates to Year/Quarter Format in R (3 Examples) | lubridate & zoo Packages | paste & sprintf
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=VKRotP6gFts"
+UCGuktEl5InrcxPfCjmPWxsA;UGYGEAv-b0s;2022-01-03T17:00:19Z;"📺 New #rstatsvideo: How to write an if else block in R and how its different from ifelse and if_else (CC175)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #ifelseblockr #ifalseblockr #ifelseifelseblock #ifelsestatmentr #ifelser
+🔗 https://www.youtube.com/watch?v=UGYGEAv-b0s"
+UCCaChdLMTYMxyawR_Qf-kYA;9YTfQO38XCk;2022-01-03T21:32:54Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 2: Statistical Learning Lab (2021-12-16) (islr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9YTfQO38XCk"
+UCCaChdLMTYMxyawR_Qf-kYA;d2Wva4Vhk1I;2022-01-03T21:45:25Z;"📺 New #rstatsvideo: Tidy Modeling with R Book Club: Chapter 2 (2021-12-17) (tmwr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=d2Wva4Vhk1I"
+UCCaChdLMTYMxyawR_Qf-kYA;LSkVSJasHPY;2022-01-03T22:13:08Z;"📺 New #rstatsvideo: ggplot2 Book Club: Chapter 10-11 (2021-12-20) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LSkVSJasHPY"
+UCCaChdLMTYMxyawR_Qf-kYA;oQ-Jh9oHPbU;2022-01-03T22:46:10Z;"📺 New #rstatsvideo: ggplot2 Book Club: Chapter 11 & TidyTuesday Discussion (2022-01-03) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=oQ-Jh9oHPbU"
+UCrmJdnPmle514qkK3lLOsVQ;M01AanlfjY8;2022-01-03T23:40:28Z;"📺 New #rstatsvideo: #R | ""Industry-level"" ResNet-50 classifies 🐦 ⌨️ 🎹  | #ResNet #ImageNet #ConvNet #NeuralNetwork
+▶ RJ Studio
+#rstats #resnetneuralnetwork #resnet50 #resnet #resnetclassifier #resnet50classifier #deeplearningresnet
+🔗 https://www.youtube.com/watch?v=M01AanlfjY8"
