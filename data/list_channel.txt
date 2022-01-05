@@ -80,6 +80,7 @@ UCfoktGmvJ6rnME7mSP_Ww2g;R-Ladies Tunis;RLadiesTunis
 UCtuMKU3a96iqTe1b7JNfhDw;R-Ladies Urmia;RLadiesUrmia
 UCX50s91yTrcu5Ap_B7JBnFg;R-Ladies Vancouver;RLadiesVan
 UCxk3XVMK_-dYf8di9_AzypA;R-Ladies Xalapa;RLadiesXalapa
+UCNpws2MZ2_VhABXs_BamVBA;R-Toulouse RUG;RUG_Toulouse
 UC_R5smHVXRYGhZYDJsnXTwg;R Consortium;RConsortium
 UCysnKC1GQycHyOSZ_7Ob9vw;R for Ecologists;lukanegoita
 UCSoUNu8x-HblqqOK_EwdZGw;R for the Rest of Us;rfortherest
@@ -131,8 +132,8 @@ UCT9SgxpakGSH-yfRj_QhzIQ;Thomas Lin Pedersen;thomasp85
 UCvCEl2-_Q2gGxqisyYngXIA;Thomas Mock;thomas_mock
 UCP8l94xtoemCH_GxByvTuFQ;TidyX;tidy_explained
 UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen;
-UCNpws2MZ2_VhABXs_BamVBA;R-Toulouse RUG;RUG_Toulouse
 UCyf1AvRK4gmfRUJjeBNMauA;Tunis R User Group;TunisRUserGroup
+UCmU-94bz7OxehQnkQ1VlUMg;Udemy Free Course;
 UCZQlpKYQPlf2QNVdSv_TRdg;UseR Oslo;OURmeetup
 UC_sejq_JJ49KiiK4qh5r-wg;Universe of Data Science;unidatascience
 UCPzO5TjnYnBzfUVj6fI3pdw;Vivian Codes;
