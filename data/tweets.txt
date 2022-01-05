@@ -5058,3 +5058,27 @@ UCrmJdnPmle514qkK3lLOsVQ;M01AanlfjY8;2022-01-03T23:40:28Z;"📺 New #rstatsvideo
 ▶ RJ Studio
 #rstats #resnetneuralnetwork #resnet50 #resnet #resnetclassifier #resnet50classifier #deeplearningresnet
 🔗 https://www.youtube.com/watch?v=M01AanlfjY8"
+UCpSo0ZG5FtMyKwGnHaGnvrA;vWUf7vK5Mco;2018-10-15T14:22:25Z;"📺 #rstatsvideo: Machine learning with caret and R for spatial predictions Part 1
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #machinelearning #rsoftware #caret #geospatial #spatialanalytics
+🔗 https://www.youtube.com/watch?v=vWUf7vK5Mco"
+UCtpGCWyRdscfs6KflWjACKw;sFkZqyX97R0;2020-07-13T20:00:55Z;"📺 #rstatsvideo: We R Ladies - Funções e Estruturas Condicionais no R com Larissa Sayuri
+▶ RLadies Belo Horizonte (@RLadiesBH)
+🗣  🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=sFkZqyX97R0"
+UCCaChdLMTYMxyawR_Qf-kYA;rQwOosOJpaY;2021-03-06T20:10:31Z;"📺 #rstatsvideo: Advanced R Book Club: Chapter 25: Rewriting R code in C++ (2021-03-04) (advr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=rQwOosOJpaY"
+UCqQ_cxcNu1ekqHXDc-MbU_w;uojdfPZZBUE;2021-05-11T09:00:16Z;"📺 #rstatsvideo: ggside: Plot Linear Regression using Marginal Distributions (ggplot2 extension)
+▶ Business Science (@bizScienc)
+#rstats #ggplot2 #ggplot #ggplotinr #seaborn #jointplot #sideplot #ggplottutorial #rtutorial
+🔗 https://www.youtube.com/watch?v=uojdfPZZBUE"
+UCyHEww8_SCdxZvEnkCfi55w;TYUyXrwmPOM;2022-01-04T15:00:35Z;"📺 New #rstatsvideo: pivot_longer & pivot_wider Functions of tidyr Package in R | Reshape Data from Wide to Long Format
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=TYUyXrwmPOM"
