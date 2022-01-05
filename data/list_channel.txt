@@ -113,6 +113,7 @@ UCF4fux_L7cMhA4ojOx8B1HQ;RLadies San José CR;rladies_sjcr
 UCOFcXLjW9atcEuCa5kbOPSw;RLadies Santa Fe;RLadiesSantaFe
 UCU3ePTnZQurDkYgPK61DAOw;RLadies São Paulo;RLadiesSaoPaulo
 UCkrf5iL8ef1QHe--zstechA;RLadies Sydney;RLadiesSydney
+UCv3be7W260HXd2BoK9KihMQ;ronak shah;shahronak47
 UC3xfbCMLCw1Hh4dWop3XtHg;RStudio;rstudio
 UCcKPp7AI7ZTBf60WqXo3Bpg;Salt Lake City R Users Group;slcrug
 UC7VV1Ix1-8jncW7hTRZ50bg;satRday Neuchâtel;satRdayNeuCH
