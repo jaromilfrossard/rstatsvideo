@@ -5082,3 +5082,25 @@ UCyHEww8_SCdxZvEnkCfi55w;TYUyXrwmPOM;2022-01-04T15:00:35Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=TYUyXrwmPOM"
+UCC0n35R84-ufqPstR1YtCxA;9AfWa8hud8k;2019-04-14T20:15:02Z;"📺 #rstatsvideo: Clinical Research Informatics: Step by Step Part 11
+▶ Stat Pharm
+#rstats #runrscriptfromphp #runrfromphp
+🔗 https://www.youtube.com/watch?v=9AfWa8hud8k"
+UCmBDds7HAhpG6ZUj9FC2s9Q;6s8P3YNtBZw;2020-09-07T16:15:09Z;"📺 #rstatsvideo: Power Analysis in G*Power & RStudio (t-test)
+▶ Lacey Maths & Stats Consultancy (@seanwithafada)
+#rstats #goodpracticeinstatisticalanalysis #poweranalysis #gpower #rstudio #powerplots #powerprofileplots #ttest
+🔗 https://www.youtube.com/watch?v=6s8P3YNtBZw"
+UCP8l94xtoemCH_GxByvTuFQ;043acxJjsOo;2021-03-28T19:01:44Z;"📺 #rstatsvideo: TidyX Episode 54 | MLB Pitch Classification 2 - KNN, Caret, & UMAP
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=043acxJjsOo"
+UCyHEww8_SCdxZvEnkCfi55w;Y6cORo1-2Io;2022-01-05T15:00:29Z;"📺 New #rstatsvideo: plotly Line Plot in R (Example) | Draw an Interactive Curve Chart | Color, Type & Overlaid Points
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Y6cORo1-2Io"
+UCKMekE_4UfWvZDuBWenG8WA;xncnZ4X0J4I;2022-01-05T18:53:21Z;"📺 New #rstatsvideo: Iterating over Several Vectors at Once in R: MAGIC & purrr
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#rstats #lapply #purrr #map #mapchr #randomletters #magic #functionalprogramming #rprogramming #iteration
+🔗 https://www.youtube.com/watch?v=xncnZ4X0J4I"
