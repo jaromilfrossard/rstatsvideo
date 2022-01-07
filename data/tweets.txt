@@ -5104,3 +5104,26 @@ UCKMekE_4UfWvZDuBWenG8WA;xncnZ4X0J4I;2022-01-05T18:53:21Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #lapply #purrr #map #mapchr #randomletters #magic #functionalprogramming #rprogramming #iteration
 🔗 https://www.youtube.com/watch?v=xncnZ4X0J4I"
+UCeiiqmVK07qhY-wvg3IZiZQ;ImpXawPNCfM;2020-07-29T10:45:24Z;"📺 #rstatsvideo: Tidy Tuesday live screencast: Analyzing penguins in R
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=ImpXawPNCfM"
+UC3xfbCMLCw1Hh4dWop3XtHg;kee91QUJfBI;2020-11-01T08:00:05Z;"📺 #rstatsvideo: Amanda Gadrow | Lessons about R I learned from my cat | RStudio (2020)
+▶ RStudio (@rstudio)
+#rstats #rstudioconf2020 #amandagadrow #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization
+🔗 https://www.youtube.com/watch?v=kee91QUJfBI"
+UCyHEww8_SCdxZvEnkCfi55w;4cHczErx4RU;2022-01-06T15:00:08Z;"📺 New #rstatsvideo: Estimate Linear Model with Fixed Intercept in R (2 Examples) | Specify Known Value | lm & summary
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=4cHczErx4RU"
+UCGuktEl5InrcxPfCjmPWxsA;yL3GfwSp0t4;2022-01-06T17:00:40Z;"📺 New #rstatsvideo: Changing the row and column names of matrices with tools from base R  (CC176)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rgetandsetattributes #attr #str #attributes #colnames #rownames #rattributes
+🔗 https://www.youtube.com/watch?v=yL3GfwSp0t4"
+UCSoUNu8x-HblqqOK_EwdZGw;I8pPqvd21eM;2022-01-07T08:06:53Z;"📺 New #rstatsvideo: Live stream: making multipage tables in R
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=I8pPqvd21eM"
