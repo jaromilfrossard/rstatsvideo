@@ -5127,3 +5127,26 @@ UCSoUNu8x-HblqqOK_EwdZGw;I8pPqvd21eM;2022-01-07T08:06:53Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=I8pPqvd21eM"
+UCt950nC6jlh2ELDRPigWOkg;7Ao4rVpu1S8;2020-09-29T17:15:09Z;"📺 #rstatsvideo: R en Temas de Industria
+▶ LatinR (@LatinR_Conf)
+#rstats
+🔗 https://www.youtube.com/watch?v=7Ao4rVpu1S8"
+UCEw9Q55DDo1OIHrb_V5r-KA;MrWQjhyIXo8;2022-01-07T13:12:09Z;"📺 New #rstatsvideo: Model tasting with Tidymodels (R-Ladies Barcelona December 2021 virtual meetup)
+▶ R-Ladies Barcelona (@RLadiesBCN)
+#rstats
+🔗 https://www.youtube.com/watch?v=MrWQjhyIXo8"
+UCyHEww8_SCdxZvEnkCfi55w;c4FKRevUcT4;2022-01-07T15:00:32Z;"📺 New #rstatsvideo: layout Function in R (Example) | How to Arrange Grid of Plots in Base R | Create Matrix of Graphics
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=c4FKRevUcT4"
+UCCaChdLMTYMxyawR_Qf-kYA;9rsY29U0218;2022-01-07T17:02:33Z;"📺 New #rstatsvideo: Engineering Production Grade Shiny Apps Book Club Chapter 16 (2022-01-05) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9rsY29U0218"
+UCCaChdLMTYMxyawR_Qf-kYA;PwJknyq61NQ;2022-01-07T21:19:38Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 3: ""Linear Regression (2022-01-06) (islr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=PwJknyq61NQ"
