@@ -5150,3 +5150,36 @@ UCCaChdLMTYMxyawR_Qf-kYA;PwJknyq61NQ;2022-01-07T21:19:38Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=PwJknyq61NQ"
+UC_sejq_JJ49KiiK4qh5r-wg;BwST8SpZ0uM;2022-01-08T13:09:58Z;"📺 New #rstatsvideo: 16 Different Methods for Correlation Analysis in R
+▶ Universe of Data Science (@unidatascience)
+#rstats #correlationanalysisinr
+🔗 https://www.youtube.com/watch?v=BwST8SpZ0uM"
+UCyHEww8_SCdxZvEnkCfi55w;EZhUNhSIomE;2022-01-08T15:00:07Z;"📺 New #rstatsvideo: How to Solve a System of Equations in R (Example) | solve() Function | Two Matrices, Identity Matrix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=EZhUNhSIomE"
+UCCaChdLMTYMxyawR_Qf-kYA;FbPjR_Iimwk;2022-01-08T19:47:46Z;"📺 New #rstatsvideo: Tidy Modeling with R Book Club: Chapter 3 (2022-01-07) (tmwr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=FbPjR_Iimwk"
+UCCaChdLMTYMxyawR_Qf-kYA;QKB9wy-2_Ps;2022-01-08T19:56:37Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 11: Data Import (2022-01-07) (r4ds06)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=QKB9wy-2_Ps"
+UCCaChdLMTYMxyawR_Qf-kYA;JW1DilkJ3-0;2022-01-08T20:05:26Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 18: Pipes (2022-01-08) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=JW1DilkJ3-0"
+UCrmJdnPmle514qkK3lLOsVQ;LhNggEp4tt4;2022-01-08T22:37:10Z;"📺 New #rstatsvideo: #R | ViewPipeSteps Package! + Addins to RSTUDIO | #PipeOperator #RPackage #RStudio #Tidyverse
+▶ RJ Studio
+#rstats #파이프코딩 #pipeoperatorr #pipinginr #rstudioaddin #viewpipesteps #viewpipestepsr #viewpipestep
+🔗 https://www.youtube.com/watch?v=LhNggEp4tt4"
+UCv3be7W260HXd2BoK9KihMQ;gKjPbdD7n2Y;2022-01-09T12:10:56Z;"📺 New #rstatsvideo: R Tutorial episode 19 - select function in dplyr R
+▶ ronak shah (@shahronak47)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=gKjPbdD7n2Y"
