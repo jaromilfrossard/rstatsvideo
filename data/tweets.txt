@@ -5183,3 +5183,27 @@ UCv3be7W260HXd2BoK9KihMQ;gKjPbdD7n2Y;2022-01-09T12:10:56Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=gKjPbdD7n2Y"
+UCyHEww8_SCdxZvEnkCfi55w;8g-7gCLSMrQ;2019-12-07T08:00:01Z;"📺 #rstatsvideo: Extract Column of Tibble in R (Example) | Convert Variable to Vector | pull Function dplyr Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=8g-7gCLSMrQ"
+UCyHEww8_SCdxZvEnkCfi55w;ChqOWz8aZGw;2022-01-09T15:00:12Z;"📺 New #rstatsvideo: unique Function in R (2 Examples) | Remove Duplicate Data Frame Rows | Keep Distinct Vector Elements
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=ChqOWz8aZGw"
+UCCaChdLMTYMxyawR_Qf-kYA;nwAg54rA3xs;2022-01-09T20:16:16Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Chapter 21: Testing (2022-01-05) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=nwAg54rA3xs"
+UCP8l94xtoemCH_GxByvTuFQ;8wCAfhlD9So;2022-01-09T21:37:22Z;"📺 New #rstatsvideo: Episode 89 | Model Tables for Research
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=8wCAfhlD9So"
+UCcGXGFClRdnrwXsPHi7P4ZA;ffhQil7KhSo;2022-01-10T07:13:02Z;"📺 New #rstatsvideo: R demo | Correlation Matrix | How to conduct, visualise and interpret
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #clearlyexplained #datascience #dataanalysis #forbeginners #stats
+🔗 https://www.youtube.com/watch?v=ffhQil7KhSo"
