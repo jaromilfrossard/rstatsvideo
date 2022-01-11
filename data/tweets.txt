@@ -5207,3 +5207,27 @@ UCcGXGFClRdnrwXsPHi7P4ZA;ffhQil7KhSo;2022-01-10T07:13:02Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statistics #clearlyexplained #datascience #dataanalysis #forbeginners #stats
 🔗 https://www.youtube.com/watch?v=ffhQil7KhSo"
+UC_R5smHVXRYGhZYDJsnXTwg;NNCD5g-wI9U;2018-07-14T21:45:54Z;"📺 #rstatsvideo: Adventures with R: Two stories of analyses and a new perspective on data
+▶ R Consortium (@RConsortium)
+#rstats
+🔗 https://www.youtube.com/watch?v=NNCD5g-wI9U"
+UCyHEww8_SCdxZvEnkCfi55w;NMhTeuafGOw;2022-01-10T15:00:11Z;"📺 New #rstatsvideo: strsplit Function in R (3 Examples) | How to Split a Character String into Chunks | Specify Pattern
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=NMhTeuafGOw"
+UCGuktEl5InrcxPfCjmPWxsA;3uK1OzA7CTs;2022-01-10T17:00:02Z;"📺 New #rstatsvideo: A tutorial for writing functions in R (CC177)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #writingrfunctions #wirtingrfunctions #rfunctions #rstudiofunctions #rfunctiondefault #rfunctioncall #rfunctionbody
+🔗 https://www.youtube.com/watch?v=3uK1OzA7CTs"
+UCysnKC1GQycHyOSZ_7Ob9vw;K418swtFnik;2022-01-10T18:33:45Z;"📺 New #rstatsvideo: R Markdown TUTORIAL | A powerful tool for LEARNING R (IN 45 MINUTES)
+▶ R for Ecologists (@lukanegoita)
+🗣 🇬🇧
+#rstats #learnr #onlinecourse #rcode #rlanguage #rprogramming #rprogramminglanguage
+🔗 https://www.youtube.com/watch?v=K418swtFnik"
+UCKMekE_4UfWvZDuBWenG8WA;sExPE9vm0Ls;2022-01-10T20:03:34Z;"📺 New #rstatsvideo: R Programming / dplyr: Error in select (...): unused arguments
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#rstats #dplyr #select #mass #boston #tidyverse #error #debugging #functionprecedence #nameconflict
+🔗 https://www.youtube.com/watch?v=sExPE9vm0Ls"
