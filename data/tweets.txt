@@ -5231,3 +5231,53 @@ UCKMekE_4UfWvZDuBWenG8WA;sExPE9vm0Ls;2022-01-10T20:03:34Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #dplyr #select #mass #boston #tidyverse #error #debugging #functionprecedence #nameconflict
 🔗 https://www.youtube.com/watch?v=sExPE9vm0Ls"
+UCyZCfIET7753bs5WpmKI_qQ;kHbNqGMrqBQ;2022-01-11T14:38:43Z;"📺 New #rstatsvideo: Tutorial R | Redução de dimensões usando mínimos quadrados parciais PLS
+▶ CARVALHO RIBEIRO
+🗣  🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=kHbNqGMrqBQ"
+UCyHEww8_SCdxZvEnkCfi55w;TDKyTT1kAMQ;2022-01-11T15:00:42Z;"📺 New #rstatsvideo: Get & Set Working Directory in R (3 Examples) | getwd & setwd Functions | Change File Path of Folder
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=TDKyTT1kAMQ"
+UC1ZIcF31fEzBO6akL_HHkBg;ytCTzUoQg90;2022-01-11T15:47:31Z;"📺 New #rstatsvideo: Overview
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #webdata #dsincubator
+🔗 https://www.youtube.com/watch?v=ytCTzUoQg90"
+UCCaChdLMTYMxyawR_Qf-kYA;sBElE41XG2Q;2022-01-11T17:53:26Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 6: Linear Model Selection and Regularization (2022-01-11) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=sBElE41XG2Q"
+UCCaChdLMTYMxyawR_Qf-kYA;93G1FZu_k6k;2022-01-11T18:30:32Z;"📺 New #rstatsvideo: ggplot2 Book Club: Chapter 11 & 12 (2022-01-10) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=93G1FZu_k6k"
+UC3xfbCMLCw1Hh4dWop3XtHg;DQSFOaFLI0M;2022-01-11T22:02:42Z;"📺 New #rstatsvideo: An inclusive solution for teaching and learning R during the COVID pandemic
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=DQSFOaFLI0M"
+UCSoUNu8x-HblqqOK_EwdZGw;nuETMQv3CVY;2022-01-11T22:14:29Z;"📺 New #rstatsvideo: The Tidyverse
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=nuETMQv3CVY"
+UCSoUNu8x-HblqqOK_EwdZGw;z2x-0JD0lm8;2022-01-11T22:17:45Z;"📺 New #rstatsvideo: RMarkdown Example
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=z2x-0JD0lm8"
+UCSoUNu8x-HblqqOK_EwdZGw;lYcJJTJCO0M;2022-01-11T22:23:55Z;"📺 New #rstatsvideo: crosstabs
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=lYcJJTJCO0M"
+UCSoUNu8x-HblqqOK_EwdZGw;jGEHQbGjjwQ;2022-01-11T22:27:17Z;"📺 New #rstatsvideo: An Important Workflow Tip
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=jGEHQbGjjwQ"
