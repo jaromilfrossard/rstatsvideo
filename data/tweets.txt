@@ -5281,3 +5281,38 @@ UCSoUNu8x-HblqqOK_EwdZGw;jGEHQbGjjwQ;2022-01-11T22:27:17Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=jGEHQbGjjwQ"
+UCSoUNu8x-HblqqOK_EwdZGw;RVkQ7TbcoWQ;2022-01-11T22:29:38Z;"📺 New #rstatsvideo: Grammar of Graphics
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=RVkQ7TbcoWQ"
+UCSoUNu8x-HblqqOK_EwdZGw;vpmmgxMNyxg;2022-01-11T22:31:43Z;"📺 New #rstatsvideo: Themes
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vpmmgxMNyxg"
+UCSoUNu8x-HblqqOK_EwdZGw;Sbx6DNAqaP4;2022-01-11T22:34:31Z;"📺 New #rstatsvideo: Facets
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Sbx6DNAqaP4"
+UCMdihazndR0f9XBoSXWqnYg;rEvULMNlDt4;2022-01-12T14:28:21Z;"📺 New #rstatsvideo: R & Python - Introduction to Natural Language Processing
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown
+🔗 https://www.youtube.com/watch?v=rEvULMNlDt4"
+UCyHEww8_SCdxZvEnkCfi55w;txHkNr29w20;2022-01-12T15:00:59Z;"📺 New #rstatsvideo: Fuzzy Matching in R (Example) | Approximate String, Name & Text Search | adist(), agrep() & amatch()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=txHkNr29w20"
+UCFXPzW7RxP6RfQGpRn7WXNw;RAobho8AgUY;2022-01-12T21:05:53Z;"📺 New #rstatsvideo: w2: Intro to visualizations & working w/text data
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=RAobho8AgUY"
+UCCaChdLMTYMxyawR_Qf-kYA;XHz5s_T6MQU;2022-01-12T23:13:12Z;"📺 New #rstatsvideo: Engineering Production Grade Shiny Apps Book Club Chapter 17 (2022-01-12) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=XHz5s_T6MQU"
