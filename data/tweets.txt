@@ -5316,3 +5316,26 @@ UCCaChdLMTYMxyawR_Qf-kYA;XHz5s_T6MQU;2022-01-12T23:13:12Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=XHz5s_T6MQU"
+UCAu9zxmEgQdWYkl84BiziSQ;Ernlx6FItN8;2020-04-09T18:06:43Z;"📺 #rstatsvideo: 3- Regresyon Doğrusu - ggplot2 ile Veri Görselleştirme  | R Programlama
+▶ Eskisehir R User Group (@eskisehiR_users)
+#rstats #rprogramlama
+🔗 https://www.youtube.com/watch?v=Ernlx6FItN8"
+UCyHEww8_SCdxZvEnkCfi55w;7mr4Pf2CvSU;2022-01-13T15:00:08Z;"📺 New #rstatsvideo: R Programming Tutorial for Beginners (Examples) | Learn Basics | Statistics & Data Science Course
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=7mr4Pf2CvSU"
+UCGuktEl5InrcxPfCjmPWxsA;GeN-qqNLLsM;2022-01-13T17:00:18Z;"📺 New #rstatsvideo: Three approaches to organize your R project (CC178)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #organizerproject #rprojectorganization #rfilecopy #rfilerename #rfileremove #rdircreate #rfilecreate #gitmv
+🔗 https://www.youtube.com/watch?v=GeN-qqNLLsM"
+UCKMekE_4UfWvZDuBWenG8WA;Yr5DksyQn6A;2022-01-13T18:06:25Z;"📺 New #rstatsvideo: R Programming: Object of Type 'Closure' is Not Subsettable
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#rstats #errormessage #object #environments #namespaces #hadleywickham #jennybryan #closure
+🔗 https://www.youtube.com/watch?v=Yr5DksyQn6A"
+UCyf1AvRK4gmfRUJjeBNMauA;rC45qs7uPfc;2022-01-14T07:38:46Z;"📺 New #rstatsvideo: Introduction to Rtistry Using {ggplot2} in R
+▶ Tunis R User Group (@TunisRUserGroup)
+#rstats
+🔗 https://www.youtube.com/watch?v=rC45qs7uPfc"
