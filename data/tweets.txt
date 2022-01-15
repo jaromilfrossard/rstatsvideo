@@ -5339,3 +5339,27 @@ UCyf1AvRK4gmfRUJjeBNMauA;rC45qs7uPfc;2022-01-14T07:38:46Z;"📺 New #rstatsvideo
 ▶ Tunis R User Group (@TunisRUserGroup)
 #rstats
 🔗 https://www.youtube.com/watch?v=rC45qs7uPfc"
+UCMwM-3tg_-Pbx8hKO78q5EA;a3eJXwonbU8;2020-08-20T18:32:58Z;"📺 #rstatsvideo: Reshaping and Combining Data in R
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats #dplyr #tidyr
+🔗 https://www.youtube.com/watch?v=a3eJXwonbU8"
+UCyHEww8_SCdxZvEnkCfi55w;8sUpawEfjSU;2021-07-17T14:00:07Z;"📺 #rstatsvideo: Convert Logical to Dummy Vector in R (Example) | Replace TRUE/FALSE by 0/1 | as.numeric & as.logical
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=8sUpawEfjSU"
+UCyHEww8_SCdxZvEnkCfi55w;NQ4XIt27JSo;2022-01-14T15:00:47Z;"📺 New #rstatsvideo: Draw Grouped ggplot2 Barplot with Text Labels in R (Example) | How to Specify Position of geom_text
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=NQ4XIt27JSo"
+UCTZXht1RTL2Duc3eU8MYGzQ;R7WiF2Vcb2o;2022-01-14T21:02:35Z;"📺 New #rstatsvideo: Generating Rmarkdown source with knit_expand (+ learn about iwalk/imap!)
+▶ Bruno Rodrigues (@brodriguesco)
+#rstats #functionalprogramming
+🔗 https://www.youtube.com/watch?v=R7WiF2Vcb2o"
+UCCaChdLMTYMxyawR_Qf-kYA;VIhrd7LqxFk;2022-01-14T21:53:33Z;"📺 New #rstatsvideo: SMLTAR Book Club: Cohort 1 Chapter 1: Language and Modeling (2022-01-14) (smltar01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VIhrd7LqxFk"
