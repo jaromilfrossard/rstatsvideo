@@ -5363,3 +5363,26 @@ UCCaChdLMTYMxyawR_Qf-kYA;VIhrd7LqxFk;2022-01-14T21:53:33Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=VIhrd7LqxFk"
+UCPque9BaFV9p0hcgImrYBzg;80VIvZZegY8;2020-06-11T14:19:45Z;"📺 #rstatsvideo: ""6 R packages to add to your workflow"", with Jinyi Kuang, and ""Intro to R"" with Tess Cherlin
+▶ R-Ladies Philly (@RLadiesPhilly)
+#rstats
+🔗 https://www.youtube.com/watch?v=80VIvZZegY8"
+UCyHEww8_SCdxZvEnkCfi55w;Phib0IUNdg8;2022-01-15T15:00:47Z;"📺 New #rstatsvideo: How to Split a Date-Time Column into Separate Variables in R (Example) | as.Date, format, as.POSIXct
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Phib0IUNdg8"
+UCCaChdLMTYMxyawR_Qf-kYA;ikeiX0W7Xuc;2022-01-15T22:30:49Z;"📺 New #rstatsvideo: Tidy Modeling with R Book Club: Chapter 4 (2022-01-14) (tmwr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ikeiX0W7Xuc"
+UCCaChdLMTYMxyawR_Qf-kYA;OUeMNQVaEvE;2022-01-15T22:42:21Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 3: ""Linear Regression (2022-01-13) (islr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=OUeMNQVaEvE"
+UCrmJdnPmle514qkK3lLOsVQ;p0AE3L482Zc;2022-01-15T22:47:09Z;"📺 New #rstatsvideo: #R | vroom Package! 🏎💨  Reading 1.23 GB/sec !! | #DataReader #rData #Tidyverse #RPackage
+▶ RJ Studio
+#rstats #vroomrpackage #vroompackage #readingdatafast #fastestdatareader #datareader #부릉패키지 #데이터읽기
+🔗 https://www.youtube.com/watch?v=p0AE3L482Zc"
