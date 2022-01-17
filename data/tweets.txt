@@ -5386,3 +5386,26 @@ UCrmJdnPmle514qkK3lLOsVQ;p0AE3L482Zc;2022-01-15T22:47:09Z;"📺 New #rstatsvideo
 ▶ RJ Studio
 #rstats #vroomrpackage #vroompackage #readingdatafast #fastestdatareader #datareader #부릉패키지 #데이터읽기
 🔗 https://www.youtube.com/watch?v=p0AE3L482Zc"
+UCCaChdLMTYMxyawR_Qf-kYA;oz3GftZaLoU;2020-09-26T08:50:40Z;"📺 #rstatsvideo: R for Data Science Book Club: Chapter 11: Data import (2020-09-21) (r4ds02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=oz3GftZaLoU"
+UCwQ7lkY6YWzZjT807Itbvtw;XqLx233W97U;2022-01-16T14:17:47Z;"📺 New #rstatsvideo: Episode 28: The transformative effects of Shiny with the coronaSweeper app
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=XqLx233W97U"
+UCyHEww8_SCdxZvEnkCfi55w;H8vOseRhEOU;2022-01-16T15:00:52Z;"📺 New #rstatsvideo: Add Text to Plot Using text() Function in Base R (Examples) | Color & Size | Multiple Text Elements
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=H8vOseRhEOU"
+UCP8l94xtoemCH_GxByvTuFQ;rAJ7GNELv7k;2022-01-16T19:30:07Z;"📺 New #rstatsvideo: TidyX Episode 90 | Rmarkdown Guide - Formatting
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=rAJ7GNELv7k"
+UCSoUNu8x-HblqqOK_EwdZGw;wuGGdVzz4Co;2022-01-17T02:06:18Z;"📺 New #rstatsvideo: A Chat About Tidy Data
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wuGGdVzz4Co"
