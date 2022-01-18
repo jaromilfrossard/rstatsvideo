@@ -33,6 +33,7 @@ UCXuX-kQ1TbKHWeB75NgmhlA;Genomics Boot Camp;GaborM_ABG
 UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham;hadleywickham
 UCWFju94W4ecD4qNRWW4ztLQ;INWT Statistics;INWT_Statistics
 UCYTxHFYjftv-kxhogQuwXhA;Jasper Tjaden;JasperTjaden
+UC9Sm1qcdzyGVjQMgWsW4pcw;Jennifer Sloane;jfsloane
 UCE2WK5bvNtDblu4NO9PGtJA;Jesse Mostipak;kierisi
 UC3mcThQVORlwCY4k1vB0FmQ;Jim Hester;jimhester_
 UCB_noR4lYmbKJozwJuPStbg;John Little;john_little
