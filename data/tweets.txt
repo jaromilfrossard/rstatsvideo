@@ -5409,3 +5409,31 @@ UCSoUNu8x-HblqqOK_EwdZGw;wuGGdVzz4Co;2022-01-17T02:06:18Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=wuGGdVzz4Co"
+UCyHEww8_SCdxZvEnkCfi55w;iNFeryx2aeo;2022-01-17T15:00:39Z;"📺 New #rstatsvideo: R Warning Message: NAs Introduced by Coercion in R (Example) | Convert Character to Numeric | gsub()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=iNFeryx2aeo"
+UCDR9i4RB_ZbnM8QXp4NC9uQ;2ArYlTbnsb4;2022-01-17T16:59:33Z;"📺 New #rstatsvideo: Validation of the underlying construct of survey instruments
+▶ CalgaryR R User Group
+#rstats
+🔗 https://www.youtube.com/watch?v=2ArYlTbnsb4"
+UCGuktEl5InrcxPfCjmPWxsA;StqDYjM6ULo;2022-01-17T17:00:20Z;"📺 New #rstatsvideo: Using paths in R and why you shouldn't be using setwd (CC179)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rusingpaths #ruseingpaths #rsetwd #rstudiosetwd #rpaths #rprojfile #rstudiorproj #rsetwdnotworking
+🔗 https://www.youtube.com/watch?v=StqDYjM6ULo"
+UCTXUFl30vDC32UrohjWB8kQ;v-MthVyb5Ug;2022-01-17T19:16:44Z;"📺 New #rstatsvideo: Rstudio ggplot tutorial (create a timeline using ggplot)
+▶ Matthew Peterson (@ecomattp)
+#rstats
+🔗 https://www.youtube.com/watch?v=v-MthVyb5Ug"
+UCCaChdLMTYMxyawR_Qf-kYA;e5rO37mHrKQ;2022-01-17T19:55:21Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 12: Tidy data (2022-01-14) (r4ds06)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=e5rO37mHrKQ"
+UCCaChdLMTYMxyawR_Qf-kYA;B5097Rbsafc;2022-01-17T20:02:28Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 19: Functions (2022-01-15) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=B5097Rbsafc"
