@@ -5437,3 +5437,27 @@ UCCaChdLMTYMxyawR_Qf-kYA;B5097Rbsafc;2022-01-17T20:02:28Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=B5097Rbsafc"
+UCwLy_PYrnCEhCU-Ay2F5Drw;VdD0nHbcyk4;2020-09-26T15:15:01Z;"📺 #rstatsvideo: Why R? 2020 Keynote - Jan Vitek - How I Learned to Love Failing at Compiling R
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstats #whyr #datascience #machinelearning #computations #programming #rdatascience
+🔗 https://www.youtube.com/watch?v=VdD0nHbcyk4"
+UCCaChdLMTYMxyawR_Qf-kYA;h8aGFPVj3C8;2021-03-30T16:09:06Z;"📺 #rstatsvideo: Tidy Modeling with R Book Club: Chapter 1 (Software for modeling) (2021-03-29) (tmwr03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=h8aGFPVj3C8"
+UCyHEww8_SCdxZvEnkCfi55w;QvcivcGAH1E;2022-01-18T15:00:27Z;"📺 New #rstatsvideo: dist Function in R (4 Examples) | Compute Euclidean & Manhattan Distance | Diagonal & Upper Matrix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=QvcivcGAH1E"
+UC1ZIcF31fEzBO6akL_HHkBg;sPE6MLGUPy4;2022-01-18T16:01:20Z;"📺 New #rstatsvideo: Scrapping
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio #dsincubator #dswebdata
+🔗 https://www.youtube.com/watch?v=sPE6MLGUPy4"
+UCtuMKU3a96iqTe1b7JNfhDw;mOwoee_Ei4k;2022-01-19T08:37:01Z;"📺 New #rstatsvideo: Data transformation with dplyr and Exploratory Data Analysis-Book club Session3
+▶ R-Ladies Urmia (@RLadiesUrmia)
+#rstats
+🔗 https://www.youtube.com/watch?v=mOwoee_Ei4k"
