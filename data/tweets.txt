@@ -5461,3 +5461,26 @@ UCtuMKU3a96iqTe1b7JNfhDw;mOwoee_Ei4k;2022-01-19T08:37:01Z;"📺 New #rstatsvideo
 ▶ R-Ladies Urmia (@RLadiesUrmia)
 #rstats
 🔗 https://www.youtube.com/watch?v=mOwoee_Ei4k"
+UCeiiqmVK07qhY-wvg3IZiZQ;sD993H5FBIY;2019-08-12T12:58:07Z;"📺 #rstatsvideo: Tidy Tuesday screencast: analyzing Bob Ross paintings in R
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=sD993H5FBIY"
+UCyHEww8_SCdxZvEnkCfi55w;zvTVt4b2tSw;2022-01-19T15:00:43Z;"📺 New #rstatsvideo: Insert Rows for Missing Dates in R (Example) | Add Empty Row | as.Date & pad Function [padr Package]
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=zvTVt4b2tSw"
+UCfJyQ3P2k_SuqfxVdqIEQNw;kg9Kgvv9-0g;2022-01-19T15:13:54Z;"📺 New #rstatsvideo: Manipulate your data.   Data wrangling.   R programmning for beginners.
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=kg9Kgvv9-0g"
+UCMdihazndR0f9XBoSXWqnYg;FPAk9pBS9uo;2022-01-19T19:53:02Z;"📺 New #rstatsvideo: R & Python - Processing Raw Text Part 1
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing
+🔗 https://www.youtube.com/watch?v=FPAk9pBS9uo"
+UCKMekE_4UfWvZDuBWenG8WA;ziE7QaLfbqg;2022-01-19T21:38:42Z;"📺 New #rstatsvideo: How to Draw Barplots in R: Base R & ggplot2 (Ft. @Statistics Globe)
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#rstats #dataviz #ggplot2 #baser #barplot #stackedbarplot #groupedbarplot #legend #geombar #tidyverse
+🔗 https://www.youtube.com/watch?v=ziE7QaLfbqg"
