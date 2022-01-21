@@ -5484,3 +5484,49 @@ UCKMekE_4UfWvZDuBWenG8WA;ziE7QaLfbqg;2022-01-19T21:38:42Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #dataviz #ggplot2 #baser #barplot #stackedbarplot #groupedbarplot #legend #geombar #tidyverse
 🔗 https://www.youtube.com/watch?v=ziE7QaLfbqg"
+UCwQ7lkY6YWzZjT807Itbvtw;k435XcvwE-8;2022-01-20T13:26:27Z;"📺 New #rstatsvideo: Traveling down the meta-programing roads in shinylearning!
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=k435XcvwE-8"
+UCwQ7lkY6YWzZjT807Itbvtw;tIQ_RGaI0Lg;2022-01-20T13:35:12Z;"📺 New #rstatsvideo: A snapshot of shinylearning refinements
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=tIQ_RGaI0Lg"
+UCwQ7lkY6YWzZjT807Itbvtw;hpcfrkFfLPY;2022-01-20T13:41:36Z;"📺 New #rstatsvideo: Function-loading rabbit holes in shinylearning
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=hpcfrkFfLPY"
+UCwQ7lkY6YWzZjT807Itbvtw;ReNFjQwrfXM;2022-01-20T13:44:00Z;"📺 New #rstatsvideo: Adding a Feedback Module to shinycal!
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=ReNFjQwrfXM"
+UCMwM-3tg_-Pbx8hKO78q5EA;UxS5JyKZJxg;2022-01-20T14:02:05Z;"📺 New #rstatsvideo: NHS-R Webinar - Designing a Shiny dashboard using a Raspberry Pi cluster server, January 2022
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=UxS5JyKZJxg"
+UCyHEww8_SCdxZvEnkCfi55w;p-3t1VGPTzE;2022-01-20T15:00:38Z;"📺 New #rstatsvideo: Integrate Function in R (Example) | How to Apply integrate() to Get Integral | User-Defined Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=p-3t1VGPTzE"
+UCGuktEl5InrcxPfCjmPWxsA;og-7bG2i9TU;2022-01-20T17:00:43Z;"📺 New #rstatsvideo: What's the difference between a matrix, data frame, and tibble in R? (CC180)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rdataframe #rtibble #rdistancematrix #rmatrix #rasdataframe #rastibble #rasdist
+🔗 https://www.youtube.com/watch?v=og-7bG2i9TU"
+UCSoUNu8x-HblqqOK_EwdZGw;I_fMEjtPv9g;2022-01-21T04:36:08Z;"📺 New #rstatsvideo: Tidy Data
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=I_fMEjtPv9g"
+UCSoUNu8x-HblqqOK_EwdZGw;OG20YwmCNis;2022-01-21T04:44:13Z;"📺 New #rstatsvideo: Merging Data
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=OG20YwmCNis"
+UCSoUNu8x-HblqqOK_EwdZGw;OnPL8g44sWY;2022-01-21T04:46:11Z;"📺 New #rstatsvideo: Exporting Data
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=OnPL8g44sWY"
