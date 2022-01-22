@@ -60,7 +60,6 @@ validate_new_channels()
 
 walk(tb_channel$id_channel, update_channel_video)
 
-walk(tb_channel$id_channel[138:139], update_channel_video)
 
 validate_new_videos()
 

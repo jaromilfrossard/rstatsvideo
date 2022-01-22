@@ -5530,3 +5530,27 @@ UCSoUNu8x-HblqqOK_EwdZGw;OnPL8g44sWY;2022-01-21T04:46:11Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=OnPL8g44sWY"
+UCcGXGFClRdnrwXsPHi7P4ZA;YRlIkNKazF8;2022-01-21T10:30:21Z;"📺 New #rstatsvideo: R demo | Paired Wilcoxon Signed Rank Test | How to conduct, visualise and interpret
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #clearlyexplained #datascience #dataanalysis #forbeginners #stats
+🔗 https://www.youtube.com/watch?v=YRlIkNKazF8"
+UCyHEww8_SCdxZvEnkCfi55w;pMooLPTqVd8;2022-01-21T15:00:27Z;"📺 New #rstatsvideo: How to Create a Package in R (Example) | Ft. @StatistikinDD | RStudio Tutorial for Your Own Library
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=pMooLPTqVd8"
+UCTTBgWyJl2HrrhQOOc710kA;w-lF65hKtrQ;2022-01-21T18:55:33Z;"📺 New #rstatsvideo: Predict ratings for chocolate with tidymodels
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=w-lF65hKtrQ"
+UC3xfbCMLCw1Hh4dWop3XtHg;liyJparRz2c;2022-01-21T19:05:27Z;"📺 New #rstatsvideo: RStudio Cloud Demo with Dr. Mine Çetinkaya-Rundel
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=liyJparRz2c"
+UCKMekE_4UfWvZDuBWenG8WA;7CHdzysKb2U;2022-01-21T21:33:04Z;"📺 New #rstatsvideo: R Programming Romance - including some MAGIC!
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#rstats #romance #purrr #tidyverse #map #map2 #pmap #iteration #functionalprogramming #magic #magicnumbers #setseed #s3
+🔗 https://www.youtube.com/watch?v=7CHdzysKb2U"
