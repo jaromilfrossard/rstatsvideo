@@ -5554,3 +5554,52 @@ UCKMekE_4UfWvZDuBWenG8WA;7CHdzysKb2U;2022-01-21T21:33:04Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #romance #purrr #tidyverse #map #map2 #pmap #iteration #functionalprogramming #magic #magicnumbers #setseed #s3
 🔗 https://www.youtube.com/watch?v=7CHdzysKb2U"
+UCktFo5XoX5QZMWb2Gb3KY2A;oTfMbFKpO7E;2022-01-22T14:08:14Z;"📺 New #rstatsvideo: Creating Personal Website using R blogdown package by Aarathy Babu
+▶ R-Ladies Abuja (@RLadiesAbuja)
+#rstats
+🔗 https://www.youtube.com/watch?v=oTfMbFKpO7E"
+UCyHEww8_SCdxZvEnkCfi55w;zfOW_J4akI4;2022-01-22T15:00:29Z;"📺 New #rstatsvideo: optimize Function in R (Example) | One Dimensional Optimization | Plot User-Defined Function Curve
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=zfOW_J4akI4"
+UCCaChdLMTYMxyawR_Qf-kYA;WiNOetacoQ0;2022-01-22T16:29:09Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 6: Linear Model Selection and Regularization Lab (2022-01-18) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=WiNOetacoQ0"
+UCCaChdLMTYMxyawR_Qf-kYA;0PTj3_TUyx4;2022-01-22T16:52:07Z;"📺 New #rstatsvideo: Engineering Production Grade Shiny Apps Book Club Chapter 17 (2022-01-19) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=0PTj3_TUyx4"
+UCCaChdLMTYMxyawR_Qf-kYA;IMeAnVZgtb8;2022-01-22T18:18:44Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 4: Classification (2022-01-20) (islr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=IMeAnVZgtb8"
+UCCaChdLMTYMxyawR_Qf-kYA;2u1I6dVvQhE;2022-01-22T18:23:43Z;"📺 New #rstatsvideo: Statistical Rethinking Book Club: Chapter 1 (2022-01-19) (statrethink01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2u1I6dVvQhE"
+UCbDOKk931538Jt32sSErrcA;PldkPbFZmQ8;2022-01-22T19:45:17Z;"📺 New #rstatsvideo: Outlier Detection with Z-Score in R
+▶ Bilal Kurban (@bilalkurban)
+🗣 🇬🇧
+#rstats #datascience #r #rstudio #outlierdetection #outlier
+🔗 https://www.youtube.com/watch?v=PldkPbFZmQ8"
+UCCaChdLMTYMxyawR_Qf-kYA;tdMUrdEKZWc;2022-01-22T21:04:09Z;"📺 New #rstatsvideo: Tidy Modeling with R Book Club: Chapter 5 (2022-01-21) (tmwr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=tdMUrdEKZWc"
+UCCaChdLMTYMxyawR_Qf-kYA;P5FlxEhWE74;2022-01-22T21:10:36Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 13: Relational data (2022-01-21) (r4ds06)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=P5FlxEhWE74"
+UCCaChdLMTYMxyawR_Qf-kYA;uPxx19lmR_A;2022-01-22T21:19:24Z;"📺 New #rstatsvideo: SMLTAR Book Club: Chapter 2: Tokenization (2022-01-21) (smltar01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=uPxx19lmR_A"
