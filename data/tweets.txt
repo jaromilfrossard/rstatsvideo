@@ -5603,3 +5603,36 @@ UCCaChdLMTYMxyawR_Qf-kYA;uPxx19lmR_A;2022-01-22T21:19:24Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=uPxx19lmR_A"
+UCCaChdLMTYMxyawR_Qf-kYA;rsRImj294pM;2022-01-22T21:29:34Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapters 19 & 20 (2022-01-22) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=rsRImj294pM"
+UCCaChdLMTYMxyawR_Qf-kYA;eguok48Piyg;2022-01-22T22:24:18Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Chapters 21 (part 2) & 22 (2022-01-12) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=eguok48Piyg"
+UCCaChdLMTYMxyawR_Qf-kYA;UwrBxS39E3g;2022-01-22T23:21:35Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Chapter 23: Performance (2022-01-19) (mshiny02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=UwrBxS39E3g"
+UCrmJdnPmle514qkK3lLOsVQ;v3pUiKDJMh0;2022-01-22T23:29:16Z;"📺 New #rstatsvideo: #R | YOLO Object Detection | #YOLO #ObjectDetection #Darknet #NeuralNetwork #ComputerVision
+▶ RJ Studio
+#rstats #yoloobjectdetect #objectdetection #yoloclassification #yoloimage #imageobjectdetect #객체검출 #객체검출욜로
+🔗 https://www.youtube.com/watch?v=v3pUiKDJMh0"
+UCyHEww8_SCdxZvEnkCfi55w;tRTo9p2nL88;2022-01-23T15:00:36Z;"📺 New #rstatsvideo: Add Label to Straight Line in ggplot2 Plot in R (2 Examples) | Labeling Lines | Horizontal, Vertical
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=tRTo9p2nL88"
+UCP8l94xtoemCH_GxByvTuFQ;qH0YrXM07uU;2022-01-23T19:30:03Z;"📺 New #rstatsvideo: TidyX Episode 91 | Rmarkdown Guide - Code Chunk Options & Figure Options
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=qH0YrXM07uU"
+UCyZCfIET7753bs5WpmKI_qQ;2l-BTAiCxJw;2022-01-24T00:45:07Z;"📺 New #rstatsvideo: Tutorial R | Modelos preditivos usando mínimos quadrados parciais PLS
+▶ CARVALHO RIBEIRO
+🗣  🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=2l-BTAiCxJw"
