@@ -5636,3 +5636,25 @@ UCyZCfIET7753bs5WpmKI_qQ;2l-BTAiCxJw;2022-01-24T00:45:07Z;"📺 New #rstatsvideo
 🗣  🇵🇹
 #rstats
 🔗 https://www.youtube.com/watch?v=2l-BTAiCxJw"
+UCC0n35R84-ufqPstR1YtCxA;Cwa6RlqbIRk;2017-10-06T07:39:57Z;"📺 #rstatsvideo: Sentiment Analysis of Arabic Text using R
+▶ Stat Pharm
+#rstats #sentiment #analysis #arabic #text #usingr #machinelearning #svm
+🔗 https://www.youtube.com/watch?v=Cwa6RlqbIRk"
+UCTTBgWyJl2HrrhQOOc710kA;UwSBDLcUQP0;2021-04-29T01:05:58Z;"📺 #rstatsvideo: Estimate change in CEO departures with bootstrap resampling
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=UwSBDLcUQP0"
+UCyHEww8_SCdxZvEnkCfi55w;vum34BPzD8k;2022-01-24T15:00:54Z;"📺 New #rstatsvideo: Find Index Position of First Non-NA Value (Example) | Identify & Return | which() & is.na() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=vum34BPzD8k"
+UC3xfbCMLCw1Hh4dWop3XtHg;vRbUM0n_nb8;2022-01-24T15:45:50Z;"📺 New #rstatsvideo: Ralph Asher & Laura Darby Rose | R in Supply Chain Management | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vRbUM0n_nb8"
+UCEbPGn_boFJj7_sPh37mBfA;OUcRp2-VE3w;2022-01-24T17:32:08Z;"📺 New #rstatsvideo: STAC33: Tutorial 2
+▶ Nnenna Asidianya (@asidianya)
+#rstats
+🔗 https://www.youtube.com/watch?v=OUcRp2-VE3w"
