@@ -71,10 +71,11 @@ videos <- choose_videos(max_tweet = 10)
 # videos<-load_current_video()
 # 
 # videos%>%
-#   filter(id_channel=="UCYuJ4Q65HlyQKO5cZXg7qDw")%>%
-#   mutate(infos = map(id_video,tibble_video_infos))%>%
-#   unnest(infos)%>%
-#   pull(lang_video)
+#   filter(id_channel=="UCFT7Tgi7UAzR-eyzjoxBzxA")%>%
+#   check_videos()
+
+
+
 # 
 # tibble_video_infos(id_video)
 # i = 4
