@@ -1,0 +1,4 @@
+"countries" "gdp" "population"
+"1" "thailand" 9 60
+"2" "singapour" 8 8
+"3" "vietnam" 2 80
