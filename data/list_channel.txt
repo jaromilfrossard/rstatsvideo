@@ -106,6 +106,7 @@ UCGuktEl5InrcxPfCjmPWxsA;Riffomonas Project;PatSchloss
 UCrmJdnPmle514qkK3lLOsVQ;RJ Studio;
 UCJpq9UV9k12H8j3D5ba7y-g;RLadies Algiers;RLadiesAlgiers
 UCtpGCWyRdscfs6KflWjACKw;RLadies Belo Horizonte;RLadiesBH
+UCFT7Tgi7UAzR-eyzjoxBzxA;RLadies Cuernavaca;RLadiesCuerna
 UCvt6lv8yMrBV8YgsAoQykHw;RLadies Goiânia;rladiesgyn
 UC8yKJ1YfBipuyzvn4ciaNRQ;RLadies Medellin;RLadiesMedellin
 UCrG34lup96IfDweTSDkPHDA;RLadies Mexico;
