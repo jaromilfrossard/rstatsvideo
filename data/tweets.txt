@@ -5658,3 +5658,32 @@ UCEbPGn_boFJj7_sPh37mBfA;OUcRp2-VE3w;2022-01-24T17:32:08Z;"📺 New #rstatsvideo
 ▶ Nnenna Asidianya (@asidianya)
 #rstats
 🔗 https://www.youtube.com/watch?v=OUcRp2-VE3w"
+UCyHEww8_SCdxZvEnkCfi55w;VhjUetvBqdg;2022-01-25T15:00:27Z;"📺 New #rstatsvideo: How to Set Column Names within the aggregate Function in R (2 Examples) |  setNames & list Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=VhjUetvBqdg"
+UCX50s91yTrcu5Ap_B7JBnFg;5bi6h57ywAg;2022-01-25T15:13:09Z;"📺 New #rstatsvideo: R-Ladies Vancouver (Eng) - Git/Github workshop - Shannon Lo
+▶ R-Ladies Vancouver (@RLadiesVan)
+🗣 🇬🇧
+#rstats #education #tidyverse #rladies #stem
+🔗 https://www.youtube.com/watch?v=5bi6h57ywAg"
+UC1ZIcF31fEzBO6akL_HHkBg;pCo14eM-KkQ;2022-01-25T15:39:05Z;"📺 New #rstatsvideo: webdata: Using APIs
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio #dsincubator #webdata
+🔗 https://www.youtube.com/watch?v=pCo14eM-KkQ"
+UCFXPzW7RxP6RfQGpRn7WXNw;extYHn4bW_o;2022-01-25T20:09:19Z;"📺 New #rstatsvideo: w4: Visual perception
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=extYHn4bW_o"
+UCDgj5-mFohWZ5irWSFMFcng;zH5jaOcm30c;2022-01-25T21:57:53Z;"📺 New #rstatsvideo: R-Ladies Sydney (English) - My Favourite Things about R- Jen Richmond
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=zH5jaOcm30c"
+UC9UK90FN2Q1cl0J5Kl4-7Mg;ZYfzNzxdkYQ;2022-01-26T02:00:26Z;"📺 New #rstatsvideo: R-Ladies Baltimore and Washington DC | Intoduction to Bookdown | Tyner
+▶ R-Ladies Baltimore (@RLadiesBmore)
+#rstats
+🔗 https://www.youtube.com/watch?v=ZYfzNzxdkYQ"
