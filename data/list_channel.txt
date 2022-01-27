@@ -22,7 +22,7 @@ UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
 UCeYbe13SKAaIyuXtO1_cbpA;DASA.VicUni;
 UCb5aI-GwJm3ZxlwtCsLu78Q;Data Science with Tom;
 UCo7yZB1Pz_V9infLSUnfjUg;dataAnalysisR;
-UCi9RPnuGJq1dRduPXerufxA;datapointier;
+UCi9RPnuGJq1dRduPXerufxA;datapointier;datapointier
 UCBV194XNr6CIQCCuw1v2rMQ;dataslice;dataslice
 UCeiiqmVK07qhY-wvg3IZiZQ;David Robinson;drob
 UC4_hSKmvUG4w0w270AH5bXQ;Derek Sollberger;DerekSollberger
