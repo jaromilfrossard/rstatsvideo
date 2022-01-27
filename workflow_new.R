@@ -71,7 +71,7 @@ videos <- choose_videos(max_tweet = 10)
 # videos<-load_current_video()
 # 
 # videos%>%
-#   filter(id_channel=="UCFT7Tgi7UAzR-eyzjoxBzxA")%>%
+#   filter(id_channel=="UClGaKSIiaYp8o2SB3D3aS_A")%>%
 #   check_videos()
 
 
