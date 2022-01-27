@@ -1,4 +1,4 @@
-follow_channels <- function( file_channel = "data/list_channel.txt"){
+follow_channels <- function( file_channel = "data/list_channel.txt",silent=TRUE){
   
   
   tb_channels <- read_delim(file = file_channel,delim=";",
@@ -28,6 +28,8 @@ follow_channels <- function( file_channel = "data/list_channel.txt"){
     pull(id_twitter)
   
   
-  walk(new_following,post_follow)
+  walk(new_following,\(x){
+    if(!silent){message(x)}
+    post_follow(x)})
   
 }

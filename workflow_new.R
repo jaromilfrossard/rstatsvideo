@@ -101,7 +101,7 @@ videos%>%
 
 
 ##follow new channels
-follow_channels()
+follow_channels(silent=F)
 
 
 commit_message <- paste0("Update ", format(Sys.Date(), "%Y_%m_%d"))
