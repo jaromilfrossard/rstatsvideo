@@ -5687,3 +5687,27 @@ UC9UK90FN2Q1cl0J5Kl4-7Mg;ZYfzNzxdkYQ;2022-01-26T02:00:26Z;"📺 New #rstatsvideo
 ▶ R-Ladies Baltimore (@RLadiesBmore)
 #rstats
 🔗 https://www.youtube.com/watch?v=ZYfzNzxdkYQ"
+UCyHEww8_SCdxZvEnkCfi55w;3G-ISF-s418;2021-02-15T15:00:01Z;"📺 #rstatsvideo: R Sums of Rows & Columns in Data Frame or Matrix (Examples) | rowSums & colSums Functions in RStudio
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=3G-ISF-s418"
+UC3xfbCMLCw1Hh4dWop3XtHg;MrW5XFf7aps;2022-01-26T14:28:08Z;"📺 New #rstatsvideo: Isabella Velásquez | Building a Blog with R | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=MrW5XFf7aps"
+UCyHEww8_SCdxZvEnkCfi55w;fxz-9MIcdKw;2022-01-26T15:00:50Z;"📺 New #rstatsvideo: unit Function in R (Example) | How to Create a Unit Object with the grid Package | cm, m, km Metrics
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=fxz-9MIcdKw"
+UCMdihazndR0f9XBoSXWqnYg;9CdStoYdk9Y;2022-01-26T16:20:35Z;"📺 New #rstatsvideo: R & Python - Processing Raw Text Part 2
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing
+🔗 https://www.youtube.com/watch?v=9CdStoYdk9Y"
+UCTXUFl30vDC32UrohjWB8kQ;IKoh4oiKtsg;2022-01-27T01:12:36Z;"📺 New #rstatsvideo: RStudio ggplot2 tutorial (multi-line timeline)
+▶ Matthew Peterson (@ecomattp)
+#rstats
+🔗 https://www.youtube.com/watch?v=IKoh4oiKtsg"
