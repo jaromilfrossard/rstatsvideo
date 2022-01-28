@@ -5711,3 +5711,48 @@ UCTXUFl30vDC32UrohjWB8kQ;IKoh4oiKtsg;2022-01-27T01:12:36Z;"📺 New #rstatsvideo
 ▶ Matthew Peterson (@ecomattp)
 #rstats
 🔗 https://www.youtube.com/watch?v=IKoh4oiKtsg"
+UCyHEww8_SCdxZvEnkCfi55w;m1vM8Geh2b0;2022-01-27T15:00:41Z;"📺 New #rstatsvideo: Reverse Axis Limits of Plot in Base R & ggplot2 (2 Examples) | Change Scale | rev & range Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=m1vM8Geh2b0"
+UCCaChdLMTYMxyawR_Qf-kYA;EvpA_jXAe2g;2022-01-27T16:48:08Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 7: Moving Beyond Linearity (2022-01-25) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EvpA_jXAe2g"
+UCCaChdLMTYMxyawR_Qf-kYA;1nGCfzLoP80;2022-01-27T16:55:25Z;"📺 New #rstatsvideo: Statistical Rethinking Book Club: Chapter 3 (2022-01-26) (statrethink01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=1nGCfzLoP80"
+UCGuktEl5InrcxPfCjmPWxsA;x9WGX8F1UPA;2022-01-27T17:00:40Z;"📺 New #rstatsvideo: An alternative to Rstudio? Make your own R IDE: integrated development environment (CC182)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rintegrateddevelopmentenvironment #rintergrateddevelopmentenvironment
+🔗 https://www.youtube.com/watch?v=x9WGX8F1UPA"
+UCCaChdLMTYMxyawR_Qf-kYA;qo1fFRxbjbk;2022-01-27T17:01:50Z;"📺 New #rstatsvideo: ggplot2 Book Club: Chapter 13 (2022-01-24) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=qo1fFRxbjbk"
+UC3xfbCMLCw1Hh4dWop3XtHg;z0UGmMOxl-c;2022-01-27T18:00:23Z;"📺 New #rstatsvideo: Rich Iannone || Making Beautiful Tables with {gt} || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology
+🔗 https://www.youtube.com/watch?v=z0UGmMOxl-c"
+UCi9RPnuGJq1dRduPXerufxA;GGBlm21dyBE;2022-01-27T18:37:17Z;"📺 New #rstatsvideo: R Programming 2022 [4]: Tidyverse columns (mutate, across, case_when), ggplot scales, faceting
+▶ datapointier (@datapointier)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GGBlm21dyBE"
+UCCaChdLMTYMxyawR_Qf-kYA;tJjejzPj7P4;2022-01-27T18:55:48Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 4: Classification (2022-01-27) (islr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=tJjejzPj7P4"
+UCDgj5-mFohWZ5irWSFMFcng;fHwpwRmcfI4;2022-01-27T22:07:23Z;"📺 New #rstatsvideo: R-Ladies Freiburg (English) Best of 2021: Data Wrangling with dyplyr / the tidyverse!
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=fHwpwRmcfI4"
