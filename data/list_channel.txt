@@ -20,6 +20,7 @@ UCFXPzW7RxP6RfQGpRn7WXNw;Daniel Anderson;datalorax_
 UCRj2c2p6aoUdbW4R7IBYHqw;Daniel Baller;danielpballer
 UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
 UCeYbe13SKAaIyuXtO1_cbpA;DASA.VicUni;
+UC9ykygrgYWoUdwaMA3qhRaw;Data Garden;
 UCb5aI-GwJm3ZxlwtCsLu78Q;Data Science with Tom;
 UCo7yZB1Pz_V9infLSUnfjUg;dataAnalysisR;
 UCi9RPnuGJq1dRduPXerufxA;datapointier;datapointier
@@ -60,6 +61,7 @@ UCYNVcihAKkRW-bhzIrguvVw;math et al;
 UC1ZIcF31fEzBO6akL_HHkBg;Mauro Lepore;mauro_lepore
 UCEbPGn_boFJj7_sPh37mBfA;Nnenna Asidianya;asidianya
 UCMwM-3tg_-Pbx8hKO78q5EA;NHSR Community;NHSrCommunity
+UCoCfOfaj2c4sMxFv_nglycw;Open Data Science Deutschland;
 UCBsXfUO__nzMnlaLLUx7DFQ;Probability!;
 UCY98oWVfQEZ_i7R_0JqIRZA;R- Ladies Amsterdam;RLadiesAMS
 UCktFo5XoX5QZMWb2Gb3KY2A;R-Ladies Abuja;RLadiesAbuja
@@ -138,6 +140,7 @@ UC-qm48zb2P7NVxk-tBa7MFg;Statistics Lectures UNIL: Peter Hilpert;
 UCMdihazndR0f9XBoSXWqnYg;Statistics of DOOM;aggieerin
 UCKMekE_4UfWvZDuBWenG8WA;StatistikinDD;StatistikInDD
 UC2M4LiU11tjZfL86yfufSKA;Sukaesi Marianti;
+UCY66vV1WTk_2lHg24cuJrtg;The Data Digest;DigestData
 UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;thinkR_fr
 UCT9SgxpakGSH-yfRj_QhzIQ;Thomas Lin Pedersen;thomasp85
 UCvCEl2-_Q2gGxqisyYngXIA;Thomas Mock;thomas_mock
