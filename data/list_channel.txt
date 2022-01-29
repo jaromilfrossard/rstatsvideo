@@ -130,6 +130,7 @@ UCISHpKq_20peU3G1xwtXjjQ;Samer Hijjazi;
 UCcKPp7AI7ZTBf60WqXo3Bpg;Salt Lake City R Users Group;slcrug
 UC7VV1Ix1-8jncW7hTRZ50bg;satRday Neuchâtel;satRdayNeuCH
 UCYgIy7zeC7v6iZhx0-NywBw;satRdays;satRdays_org
+UCDozrYAxG1rTopPRA6GVYAg;ScitecEducation;
 UCwQ7lkY6YWzZjT807Itbvtw;Shiny DeveloperSeries;theRcast
 UCOdX7FBvpMPknrC6gtm0y_w;Southern California R Users Group;
 UCrB-uourf2vxGeBnGjQrA0w;STAT 545;STAT545
