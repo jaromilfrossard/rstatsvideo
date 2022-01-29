@@ -5756,3 +5756,31 @@ UCDgj5-mFohWZ5irWSFMFcng;fHwpwRmcfI4;2022-01-27T22:07:23Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #coding #programming
 🔗 https://www.youtube.com/watch?v=fHwpwRmcfI4"
+UCyHEww8_SCdxZvEnkCfi55w;UjtGPiYP85I;2022-01-28T15:00:59Z;"📺 New #rstatsvideo: replace Function in R (Example) | How to Apply x, list & values Arguments | Exchange Value in Data
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=UjtGPiYP85I"
+UCNpws2MZ2_VhABXs_BamVBA;iKGaGQeV18k;2022-01-28T15:05:20Z;"📺 New #rstatsvideo: {SOMbrero} : un package R pour les cartes auto-organisatrices
+▶ R-Toulouse RUG (@RUG_Toulouse)
+🗣 🇫🇷
+#rstats
+🔗 https://www.youtube.com/watch?v=iKGaGQeV18k"
+UCTTBgWyJl2HrrhQOOc710kA;HTJ0nt3codo;2022-01-28T17:05:11Z;"📺 New #rstatsvideo: Feature engineering & interpretability for xgboost with board game ratings
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=HTJ0nt3codo"
+UCxB1IGhLzlEOikTL-aDwqFg;-6sZyp0hNwU;2022-01-28T18:59:36Z;"📺 New #rstatsvideo: [2022-01-28] Asking for help with R and JHPCE
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #jhpce #askingforhelp #reprex
+🔗 https://www.youtube.com/watch?v=-6sZyp0hNwU"
+UCCaChdLMTYMxyawR_Qf-kYA;JSQsTfdIB_U;2022-01-28T23:37:58Z;"📺 New #rstatsvideo: Tidy Modeling with R Book Club: Chapter 6 (2022-01-28) (tmwr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=JSQsTfdIB_U"
+UCrmJdnPmle514qkK3lLOsVQ;StzBRoso1tQ;2022-01-29T07:16:15Z;"📺 New #rstatsvideo: #R | Tesseract OCR Engine | #OCR #Tesseract #TextExtraction #ImageToText #ComputerVision
+▶ RJ Studio
+#rstats #ocr #ocrtextextraction #textextractioninr #광학문자인식 #테서랙트 #ocrengine #imagetoword
+🔗 https://www.youtube.com/watch?v=StzBRoso1tQ"
