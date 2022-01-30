@@ -35,6 +35,7 @@ UCAu9zxmEgQdWYkl84BiziSQ;Eskisehir R User Group;eskisehiR_users
 UCJamxO-DE27EEZtWrNG34mA;Futbol AnalysR;futbolanalysr
 UCXuX-kQ1TbKHWeB75NgmhlA;Genomics Boot Camp;GaborM_ABG
 UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham;hadleywickham
+UCPVGs5EBtrhK5gENc1GACOA;Hansel Ochoa Montero;
 UClGaKSIiaYp8o2SB3D3aS_A;InsiderMiner;
 UCWFju94W4ecD4qNRWW4ztLQ;INWT Statistics;INWT_Statistics
 UCYTxHFYjftv-kxhogQuwXhA;Jasper Tjaden;JasperTjaden
@@ -60,6 +61,7 @@ UCTXUFl30vDC32UrohjWB8kQ;Matthew Peterson;ecomattp
 UCgdZkOZfmrAFHkDHYI5taVw;Matthew Ross;
 UCYNVcihAKkRW-bhzIrguvVw;math et al;
 UC1ZIcF31fEzBO6akL_HHkBg;Mauro Lepore;mauro_lepore
+UCWOMdzXlQgRu6f-plf9DTcg;Miguel Bustos;
 UCEbPGn_boFJj7_sPh37mBfA;Nnenna Asidianya;asidianya
 UCMwM-3tg_-Pbx8hKO78q5EA;NHSR Community;NHSrCommunity
 UCoCfOfaj2c4sMxFv_nglycw;Open Data Science Deutschland;
@@ -128,6 +130,7 @@ UCkrf5iL8ef1QHe--zstechA;RLadies Sydney;RLadiesSydney
 UCv3be7W260HXd2BoK9KihMQ;ronak shah;shahronak47
 UC3xfbCMLCw1Hh4dWop3XtHg;RStudio;rstudio
 UCISHpKq_20peU3G1xwtXjjQ;Samer Hijjazi;
+UCTKiybNLjigMcV7_22Hiz0A;Salt City Data Community;saltcitydata
 UCcKPp7AI7ZTBf60WqXo3Bpg;Salt Lake City R Users Group;slcrug
 UC7VV1Ix1-8jncW7hTRZ50bg;satRday Neuchâtel;satRdayNeuCH
 UCYgIy7zeC7v6iZhx0-NywBw;satRdays;satRdays_org
