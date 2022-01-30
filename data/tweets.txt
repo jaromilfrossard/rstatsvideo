@@ -5784,3 +5784,24 @@ UCrmJdnPmle514qkK3lLOsVQ;StzBRoso1tQ;2022-01-29T07:16:15Z;"📺 New #rstatsvideo
 ▶ RJ Studio
 #rstats #ocr #ocrtextextraction #textextractioninr #광학문자인식 #테서랙트 #ocrengine #imagetoword
 🔗 https://www.youtube.com/watch?v=StzBRoso1tQ"
+UCYtwfTEnBj_xuSIuffr8-XQ;qmoZnf_3mIk;2022-01-29T14:08:32Z;"📺 New #rstatsvideo: HTML Slides using R Package xaringan | Ajay Koli
+▶ Ajay Koli (@ajay_kolii)
+#rstats
+🔗 https://www.youtube.com/watch?v=qmoZnf_3mIk"
+UCyHEww8_SCdxZvEnkCfi55w;ZnClurcO6k8;2022-01-29T15:00:39Z;"📺 New #rstatsvideo: Draw ggplot2 Legend at the Bottom & with Two Rows in R (Example) | guides and guide_legend Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=ZnClurcO6k8"
+UCaonzTNPMjkxcBRqhe3qHyQ;KEuaSYvQGeQ;2022-01-29T18:42:21Z;"📺 New #rstatsvideo: Subsetting objects in R
+▶ Joe Guinness (@JoeGuinnesss)
+#rstats
+🔗 https://www.youtube.com/watch?v=KEuaSYvQGeQ"
+UC_bfGqjzgx4-N8TEQlJTaNQ;u-ljxyiDyTI;2022-01-30T07:44:23Z;"📺 New #rstatsvideo: Right Start Programming with R language
+▶ Abuja R User Group (@AbujaRUG)
+#rstats
+🔗 https://www.youtube.com/watch?v=u-ljxyiDyTI"
+UC9oOCJe8kwkZ_6IgTmet9oQ;AsIzd1f-JUA;2022-01-30T09:53:20Z;"📺 New #rstatsvideo: R Ladies Brisbane Nov 2021: Writing your manuscript in R markdown
+▶ R-Ladies Brisbane (@RLadiesBrisbane)
+#rstats
+🔗 https://www.youtube.com/watch?v=AsIzd1f-JUA"
