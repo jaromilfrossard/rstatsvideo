@@ -21,6 +21,7 @@ UCFXPzW7RxP6RfQGpRn7WXNw;Daniel Anderson;datalorax_
 UCRj2c2p6aoUdbW4R7IBYHqw;Daniel Baller;danielpballer
 UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
 UCeYbe13SKAaIyuXtO1_cbpA;DASA.VicUni;
+UC0dgTZhVua-2yvtWDfPA_nQ;Data Centric Inc.;
 UC9ykygrgYWoUdwaMA3qhRaw;Data Garden;
 UCb5aI-GwJm3ZxlwtCsLu78Q;Data Science with Tom;
 UCo7yZB1Pz_V9infLSUnfjUg;dataAnalysisR;
