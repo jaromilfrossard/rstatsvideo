@@ -5805,3 +5805,21 @@ UC9oOCJe8kwkZ_6IgTmet9oQ;AsIzd1f-JUA;2022-01-30T09:53:20Z;"📺 New #rstatsvideo
 ▶ R-Ladies Brisbane (@RLadiesBrisbane)
 #rstats
 🔗 https://www.youtube.com/watch?v=AsIzd1f-JUA"
+UCcCMO7sHb8O_TJUd34sQ_Ng;2A0YryoTK9g;2020-07-08T09:29:15Z;"📺 #rstatsvideo: PROBABILITE dans R (Statistiques)| Comment dans R?| R pour Data Analysis| Tuto debutants| Caps33
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#rstats #calculsdeprobabilitesdansr #probabilitesdansr #probabilitesousr #loinormaledansr
+🔗 https://www.youtube.com/watch?v=2A0YryoTK9g"
+UCyHEww8_SCdxZvEnkCfi55w;k7P4V8qS6i0;2022-01-30T15:00:39Z;"📺 New #rstatsvideo: format Function in R (2 Examples) How to Apply digits & nsmall Arguments | Exact & Minimum Number
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=k7P4V8qS6i0"
+UCP8l94xtoemCH_GxByvTuFQ;SDbPsY-_quU;2022-01-30T19:30:02Z;"📺 New #rstatsvideo: TidyX Episode 92 | Rmarkdown Guide - Formatting Tabs for HTML outputs
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=SDbPsY-_quU"
+UCISHpKq_20peU3G1xwtXjjQ;r1B8m9I0omw;2022-01-31T04:11:11Z;"📺 New #rstatsvideo: Web Scraping + Data Cleaning Project Using R - Tom Brady Statistics
+▶ Samer Hijjazi
+#rstats #scraping #webscraping #rprogramming #html #statistics #tombrady #nfl #programming #datacleaning #dataanalysis
+🔗 https://www.youtube.com/watch?v=r1B8m9I0omw"
