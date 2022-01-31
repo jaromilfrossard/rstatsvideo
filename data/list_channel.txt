@@ -104,6 +104,7 @@ UCB7N0JYEOoT2IPLuImsx-3w;R Ladies Bogor;RLadiesBogor
 UCPPJGnA5GWIppotd_gbRqXA;R Ladies Niterói;rladiesniteroi
 UCDCOvchmfUW7gFP5CrSIXrw;R Ladies POA;RLadiesPOA
 UCQ7DcXWJm3es06U7lGmBDkw;R Ladies STL;RLadiesSTL
+UCUIQ5XmiPA8OmjEks1YiD5w;R Ladies Sonora;RLadies_Sonora
 UCxdCZGywhd2R5BiOP8vOgqg;R Programming - DDS;ddata_script
 UCfJyQ3P2k_SuqfxVdqIEQNw;R Programming 101;101Programming
 UC6wfyYnDaebrARFWhWdcItA;R Stats;
