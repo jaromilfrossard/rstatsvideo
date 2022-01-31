@@ -11,7 +11,7 @@ write_tweet <- function(name_channel, id_twitter, id_video, new_video){
   tweet_url <- write_tweet_url(id_video)
   
   
-  current_len = sum(na.omit(nchar(c(tweet_header,tweet_author,tweet_lang,tweet_url))+2))
+  current_len = sum(na.omit(nchar(c(tweet_header,tweet_author,tweet_lang,tweet_url),type = "width")+2))
   tweet_hashtag = write_tweet_hashtag(tb_infos$hashtag[[1]],280-current_len)
   
   tweet_lines <- c(tweet_header,tweet_author,tweet_lang,tweet_hashtag,tweet_url)
@@ -19,8 +19,8 @@ write_tweet <- function(name_channel, id_twitter, id_video, new_video){
   
   tweet <- paste0(tweet_lines,collapse = "\n")
   
-  if(nchar(tweet)>280L){
-    stop(glue("tweet to long {nchar(tweet)}"))
+  if(nchar(tweet,type = "width")>280L){
+    stop(glue("tweet to long {nchar(tweet,type = 'width')}"))
   }
   tweet
   
@@ -89,7 +89,7 @@ write_tweet_hashtag <- function(hashtag, max_len){
   #hi <- hi[!(hi%in%c("rstats",""))]
   hi <- paste0("#", na.omit(hi))
   hi <- unique(hi)
-  hi <- paste(hi[cumsum(nchar(hi)+1)<(max_len+2)],collapse = " ")
+  hi <- paste(hi[cumsum(nchar(hi,"width")+1)<(max_len+2)],collapse = " ")
 
   if(hi=="#"){
     hi = NA_character_

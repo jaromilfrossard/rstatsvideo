@@ -5823,3 +5823,8 @@ UCISHpKq_20peU3G1xwtXjjQ;r1B8m9I0omw;2022-01-31T04:11:11Z;"📺 New #rstatsvideo
 ▶ Samer Hijjazi
 #rstats #scraping #webscraping #rprogramming #html #statistics #tombrady #nfl #programming #datacleaning #dataanalysis
 🔗 https://www.youtube.com/watch?v=r1B8m9I0omw"
+UC5FvzLMVNrTMW-ycrW-4KyA;lq8GcgEmqrI;2022-01-31T11:00:20Z;"📺 New #rstatsvideo: 시계열 첫걸음 3강 - 시계열 자료의 자기상관성, tsible 객체에서 acf 계산과 auto_plot() 함수 사용
+▶ Statistics Playbook
+🗣  🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=lq8GcgEmqrI"
