@@ -5828,3 +5828,26 @@ UC5FvzLMVNrTMW-ycrW-4KyA;lq8GcgEmqrI;2022-01-31T11:00:20Z;"📺 New #rstatsvideo
 🗣  🇰🇷
 #rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
 🔗 https://www.youtube.com/watch?v=lq8GcgEmqrI"
+UCmBDds7HAhpG6ZUj9FC2s9Q;Bbeknz6tpF4;2020-07-31T23:01:41Z;"📺 #rstatsvideo: Checking homogeneity of variances, sphericity and writing RStudio results to Excel
+▶ Lacey Maths & Stats Consultancy (@seanwithafada)
+#rstats #goodpracticeinstatisticalanalysis #repeatedmeasures #anova
+🔗 https://www.youtube.com/watch?v=Bbeknz6tpF4"
+UCyHEww8_SCdxZvEnkCfi55w;v4TqOhGdeWI;2022-01-31T15:00:30Z;"📺 New #rstatsvideo: Plot Only Text in R (2 Examples) | Create Graphic in Base & ggplot2 |  text() & annotate() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=v4TqOhGdeWI"
+UCGuktEl5InrcxPfCjmPWxsA;3toJ2LhvEfw;2022-01-31T17:00:05Z;"📺 New #rstatsvideo: How to write a simple regular expression in R using sub and str_replace (CC183)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rregularexpression #rregluarexpression #rstringr #rsub #rgsub #rstrreplace
+🔗 https://www.youtube.com/watch?v=3toJ2LhvEfw"
+UCEbPGn_boFJj7_sPh37mBfA;Clvm7N4FxNg;2022-01-31T18:05:03Z;"📺 New #rstatsvideo: STAC33: Tutorial 3
+▶ Nnenna Asidianya (@asidianya)
+#rstats
+🔗 https://www.youtube.com/watch?v=Clvm7N4FxNg"
+UC5FvzLMVNrTMW-ycrW-4KyA;MQBKnVJEDBw;2022-02-01T11:04:49Z;"📺 New #rstatsvideo: 시계열 첫걸음 5강 - 시계열 데이터 특성과 모형기초 1 | 백색소음 모형
+▶ Statistics Playbook
+🗣  🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=MQBKnVJEDBw"
