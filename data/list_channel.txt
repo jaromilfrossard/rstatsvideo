@@ -47,6 +47,7 @@ UCaonzTNPMjkxcBRqhe3qHyQ;Joe Guinness;JoeGuinnesss
 UCB_noR4lYmbKJozwJuPStbg;John Little;john_little
 UCWI1xyk6Jb4t2OOyP2LS4DQ;John Muschelli;StrictlyStat
 UCTTBgWyJl2HrrhQOOc710kA;Julia Silge;juliasilge
+UCPUL4sOelS0f3Q-u7Ld29Ew;Kyle Analytics;
 UCmBDds7HAhpG6ZUj9FC2s9Q;Lacey Maths & Stats Consultancy;seanwithafada
 UC2-hKemnrmVCH_29duyJ26A;Lander Analytics;LanderAnalytics
 UCt950nC6jlh2ELDRPigWOkg;LatinR;LatinR_Conf
@@ -66,6 +67,7 @@ UCWOMdzXlQgRu6f-plf9DTcg;Miguel Bustos;
 UCEbPGn_boFJj7_sPh37mBfA;Nnenna Asidianya;asidianya
 UCMwM-3tg_-Pbx8hKO78q5EA;NHSR Community;NHSrCommunity
 UCoCfOfaj2c4sMxFv_nglycw;Open Data Science Deutschland;
+UCwVZbwV_5GQpdUVB0BDmeXg;Parsimony;parsimonyinc
 UCBsXfUO__nzMnlaLLUx7DFQ;Probability!;
 UCY98oWVfQEZ_i7R_0JqIRZA;R- Ladies Amsterdam;RLadiesAMS
 UCktFo5XoX5QZMWb2Gb3KY2A;R-Ladies Abuja;RLadiesAbuja
