@@ -9,6 +9,7 @@ UCgXBQIFJ_Rmq3UhWL_yrkxQ;Applied Epi;
 UCULDYwwVDYo1Pd3uLB33cHg;bernogarcia;bernogarcia1
 UCbDOKk931538Jt32sSErrcA;Bilal Kurban;bilalkurban
 UCWApflfx7nUcvvYMZ2SAbCQ;BIG Bioinformatics;
+UCFX-MipGKF9jCEXaP-59BzQ;BIS15L: Data Science for Biologists;
 UCTZXht1RTL2Duc3eU8MYGzQ;Bruno Rodrigues;brodriguesco
 UCqQ_cxcNu1ekqHXDc-MbU_w;Business Science;bizScienc
 UCDR9i4RB_ZbnM8QXp4NC9uQ;CalgaryR R User Group;

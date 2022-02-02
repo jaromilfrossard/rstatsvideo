@@ -5851,3 +5851,48 @@ UC5FvzLMVNrTMW-ycrW-4KyA;MQBKnVJEDBw;2022-02-01T11:04:49Z;"📺 New #rstatsvideo
 🗣  🇰🇷
 #rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
 🔗 https://www.youtube.com/watch?v=MQBKnVJEDBw"
+UCqQ_cxcNu1ekqHXDc-MbU_w;n27qWulZl1c;2022-02-01T14:30:49Z;"📺 New #rstatsvideo: A new R package for Business Analytics... radiant.
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=n27qWulZl1c"
+UCyHEww8_SCdxZvEnkCfi55w;QrfRa9OG0dY;2022-02-01T15:00:41Z;"📺 New #rstatsvideo: R How to Fix: Error in plot.new() : figure margins too large (Examples) | Change Plot Area | par mar
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=QrfRa9OG0dY"
+UCWOMdzXlQgRu6f-plf9DTcg;_OaPJJca028;2022-02-01T15:14:27Z;"📺 New #rstatsvideo: Hypothesis testing project
+▶ Miguel Bustos
+#rstats
+🔗 https://www.youtube.com/watch?v=_OaPJJca028"
+UC1ZIcF31fEzBO6akL_HHkBg;u29Jb4b86xw;2022-02-01T15:53:33Z;"📺 New #rstatsvideo: webdata: Use case
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio #dsincubator #webdata
+🔗 https://www.youtube.com/watch?v=u29Jb4b86xw"
+UCfJyQ3P2k_SuqfxVdqIEQNw;M5LDAE8mGKo;2022-02-01T18:00:05Z;"📺 New #rstatsvideo: Describe and Summarise your data
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=M5LDAE8mGKo"
+UC3xfbCMLCw1Hh4dWop3XtHg;quvz4xLbW88;2022-02-01T18:00:34Z;"📺 New #rstatsvideo: Winston Chang || Part I: Build a Basic Wordle App with Shiny || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=quvz4xLbW88"
+UCFX-MipGKF9jCEXaP-59BzQ;dYifwxtVEdU;2022-02-02T00:42:25Z;"📺 New #rstatsvideo: BIS 15L: Lab 8, part 2 (screencast)
+▶ BIS15L: Data Science for Biologists
+#rstats
+🔗 https://www.youtube.com/watch?v=dYifwxtVEdU"
+UCFXPzW7RxP6RfQGpRn7WXNw;4nFppkl92l8;2022-02-02T02:00:38Z;"📺 New #rstatsvideo: w5: colors
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=4nFppkl92l8"
+UCcKPp7AI7ZTBf60WqXo3Bpg;Mn9do1qkU6E;2022-02-02T08:16:20Z;"📺 New #rstatsvideo: SLC-RUG February - Community Lightning Talks
+▶ Salt Lake City R Users Group (@slcrug)
+#rstats
+🔗 https://www.youtube.com/watch?v=Mn9do1qkU6E"
+UC5FvzLMVNrTMW-ycrW-4KyA;z4SMTd6a8hY;2022-02-02T11:00:34Z;"📺 New #rstatsvideo: 시계열 첫걸음 6강 - 시계열 기초 모형 2 | 랜덤워크 (random walk) 모형
+▶ Statistics Playbook
+🗣  🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=z4SMTd6a8hY"
