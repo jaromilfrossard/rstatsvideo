@@ -18,6 +18,7 @@ UCKFp00-PRnuc1Dx4DaUmJBg;Chad C. Williams;WilliamsNeuro
 UC7C4YZ-9itQW7Nl4RVKDflg;Cleveland R User Group;
 UCBYwP7mrBxJSZbPg-U3uR-A;CodeR;
 UC-vtwz7ueU2dtnHk5e-WblA;Colin Quirk;ColinTQuirk
+UCb_qPFrtCiD-0apuOqPmODQ;Confused Postdoc;
 UCFXPzW7RxP6RfQGpRn7WXNw;Daniel Anderson;datalorax_
 UCRj2c2p6aoUdbW4R7IBYHqw;Daniel Baller;danielpballer
 UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
@@ -32,6 +33,7 @@ UCeiiqmVK07qhY-wvg3IZiZQ;David Robinson;drob
 UC4_hSKmvUG4w0w270AH5bXQ;Derek Sollberger;DerekSollberger
 UCOTvF8_pnr4J_YpMVbYaLiA;Drew Tyre;drew_tyre
 UCkAyfZ4tAeO0j9dS-_yU7Gw;Dublin Data Science;
+UCN-OX45aSM1VtXkzocx8Ppg;Duke Center for Computational Thinking;duke_cct
 UCfB2mPM4oU5pMgh9gbEqpWA;EdinbR;edinb_r
 UCkcMJvaf6rWOtizaSiUBj1Q;Elizabeth Marshallsay;
 UCAu9zxmEgQdWYkl84BiziSQ;Eskisehir R User Group;eskisehiR_users
