@@ -5896,3 +5896,37 @@ UC5FvzLMVNrTMW-ycrW-4KyA;z4SMTd6a8hY;2022-02-02T11:00:34Z;"📺 New #rstatsvideo
 🗣  🇰🇷
 #rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
 🔗 https://www.youtube.com/watch?v=z4SMTd6a8hY"
+UCcGXGFClRdnrwXsPHi7P4ZA;QRS2z4ZmGTQ;2022-02-02T11:38:34Z;"📺 New #rstatsvideo: R demo | Paired Samples t-Test | How to conduct, visualise and interpret
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #clearlyexplained #datascience #dataanalysis #stats #introductiontostatistics
+🔗 https://www.youtube.com/watch?v=QRS2z4ZmGTQ"
+UCyHEww8_SCdxZvEnkCfi55w;IXtkK4JDn28;2022-02-02T15:00:53Z;"📺 New #rstatsvideo: Convert Date to Day of Week in R (3 Examples) | How to find the Weekday | strftime() & as.POSIXlt()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=IXtkK4JDn28"
+UC3xfbCMLCw1Hh4dWop3XtHg;01VOq_GMEAA;2022-02-02T18:00:33Z;"📺 New #rstatsvideo: Winston Chang || Part II: Handling Duplicate Letters in a Shiny Wordle App || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization
+🔗 https://www.youtube.com/watch?v=01VOq_GMEAA"
+UCwQ7lkY6YWzZjT807Itbvtw;XSBNWfYEwuY;2022-02-03T03:00:11Z;"📺 New #rstatsvideo: Episode 29: Playing fair with the FairSplit Shiny App!
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=XSBNWfYEwuY"
+UCMdihazndR0f9XBoSXWqnYg;imgOa4qtwZk;2022-02-03T03:43:02Z;"📺 New #rstatsvideo: R & Python - Classification Part 1 (2022)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing
+🔗 https://www.youtube.com/watch?v=imgOa4qtwZk"
+UC0dgTZhVua-2yvtWDfPA_nQ;kzVtARIohAc;2022-02-03T05:00:55Z;"📺 New #rstatsvideo: Code Decision Tree in R
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #decisiontreeinr #decisontreeinr #decisiontreealgorithminr #decisiontreeclassifier #decisiontreeusingrpart #decisiontreeinrstudio #decisiontreeanalysis
+🔗 https://www.youtube.com/watch?v=kzVtARIohAc"
+UC5FvzLMVNrTMW-ycrW-4KyA;hdKLQn39pbs;2022-02-03T11:00:31Z;"📺 New #rstatsvideo: 시계열 분석 첫걸음 7강 - 시계열 데이터의 정상성 (stationarity) 에 대하여
+▶ Statistics Playbook
+🗣  🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=hdKLQn39pbs"

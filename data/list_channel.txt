@@ -48,6 +48,7 @@ UC3mcThQVORlwCY4k1vB0FmQ;Jim Hester;jimhester_
 UCaonzTNPMjkxcBRqhe3qHyQ;Joe Guinness;JoeGuinnesss
 UCB_noR4lYmbKJozwJuPStbg;John Little;john_little
 UCWI1xyk6Jb4t2OOyP2LS4DQ;John Muschelli;StrictlyStat
+UCCigEL4N49pgIGszAz_v7Uw;Julian Righ Sampedro;JRigh
 UCTTBgWyJl2HrrhQOOc710kA;Julia Silge;juliasilge
 UCPUL4sOelS0f3Q-u7Ld29Ew;Kyle Analytics;
 UCmBDds7HAhpG6ZUj9FC2s9Q;Lacey Maths & Stats Consultancy;seanwithafada
