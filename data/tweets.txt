@@ -5930,3 +5930,47 @@ UC5FvzLMVNrTMW-ycrW-4KyA;hdKLQn39pbs;2022-02-03T11:00:31Z;"📺 New #rstatsvideo
 🗣  🇰🇷
 #rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
 🔗 https://www.youtube.com/watch?v=hdKLQn39pbs"
+UCTXuqtCYxPVEehq6fJY9GkA;MShlgalohbc;2022-02-03T12:43:17Z;"📺 New #rstatsvideo: Visualização de dados com o pacote ggplot2
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=MShlgalohbc"
+UCyHEww8_SCdxZvEnkCfi55w;bcEdRbWv510;2022-02-03T15:00:49Z;"📺 New #rstatsvideo: Display Only Values in Plot in R (Examples) | Base R & ggplot2 Scatterplot | geom_point & geom_text
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=bcEdRbWv510"
+UCGuktEl5InrcxPfCjmPWxsA;YNmpmmYBICo;2022-02-03T17:00:20Z;"📺 New #rstatsvideo: Creating an advanced regular expression in R with str_replace and separate (CC184)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rregularexpression #rregluarexpression #rregex #rstringr #rstrreplace
+🔗 https://www.youtube.com/watch?v=YNmpmmYBICo"
+UCi9RPnuGJq1dRduPXerufxA;RvQfESoJwjI;2022-02-03T17:46:54Z;"📺 New #rstatsvideo: R Programming 2022 [5]: Saving objects, joins, working with strings, summarize
+▶ datapointier (@datapointier)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=RvQfESoJwjI"
+UC3xfbCMLCw1Hh4dWop3XtHg;v3jHh-IKXLc;2022-02-03T18:00:34Z;"📺 New #rstatsvideo: Winston Chang || Part III: Adding a Keyboard to a Wordle Shiny App || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz
+🔗 https://www.youtube.com/watch?v=v3jHh-IKXLc"
+UCQ2fY9JECnDzjK4JdFdhpCg;471Q7aNPfpA;2022-02-03T20:01:03Z;"📺 New #rstatsvideo: Data Wrangling with R for Social Scientists: tidyr and dplyr
+▶ UCLA Library Data Science Center
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=471Q7aNPfpA"
+UCPJZmlXMcBiKjoVQ4cpAMIg;P_37suL-LcY;2022-02-04T07:00:12Z;"📺 New #rstatsvideo: How to Create a Bar Chart by Month & Year | ggplot2 | R for Excel Users & Beginners
+▶ Dean Chereden (@deanchereden)
+🗣 🇬🇧
+#rstats #excelusers #howto #analytics #rstudio #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=P_37suL-LcY"
+UClC5yNEjMoE3MmbK-mrV8Ow;Fc1RwRskk08;2022-02-04T10:36:53Z;"📺 New #rstatsvideo: Automate your CV using Rmarkdown. Easy as 1, 2, knit!
+▶ R-Ladies Melbourne (@RLadiesMelb)
+🗣 🇬🇧
+#rstats #stats #rstudio #rmarkdown #datadrivencv #pagedown #vitae #rladies #rladiesmelbourne #data
+🔗 https://www.youtube.com/watch?v=Fc1RwRskk08"
+UCZQlpKYQPlf2QNVdSv_TRdg;cjBByCn_PK8;2022-02-04T10:51:46Z;"📺 New #rstatsvideo: Cluster Robust Standard Errors in R with {clubSandwich}
+▶ UseR Oslo (@OURmeetup)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=cjBByCn_PK8"

@@ -19,6 +19,7 @@ UC7C4YZ-9itQW7Nl4RVKDflg;Cleveland R User Group;
 UCBYwP7mrBxJSZbPg-U3uR-A;CodeR;
 UC-vtwz7ueU2dtnHk5e-WblA;Colin Quirk;ColinTQuirk
 UCb_qPFrtCiD-0apuOqPmODQ;Confused Postdoc;
+UCTXuqtCYxPVEehq6fJY9GkA;Curso-R;curso_r
 UCFXPzW7RxP6RfQGpRn7WXNw;Daniel Anderson;datalorax_
 UCRj2c2p6aoUdbW4R7IBYHqw;Daniel Baller;danielpballer
 UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
@@ -30,6 +31,7 @@ UCo7yZB1Pz_V9infLSUnfjUg;dataAnalysisR;
 UCi9RPnuGJq1dRduPXerufxA;datapointier;datapointier
 UCBV194XNr6CIQCCuw1v2rMQ;dataslice;dataslice
 UCeiiqmVK07qhY-wvg3IZiZQ;David Robinson;drob
+UCPJZmlXMcBiKjoVQ4cpAMIg;Dean Chereden;deanchereden
 UC4_hSKmvUG4w0w270AH5bXQ;Derek Sollberger;DerekSollberger
 UCOTvF8_pnr4J_YpMVbYaLiA;Drew Tyre;drew_tyre
 UCkAyfZ4tAeO0j9dS-_yU7Gw;Dublin Data Science;
@@ -162,6 +164,7 @@ UCvCEl2-_Q2gGxqisyYngXIA;Thomas Mock;thomas_mock
 UCP8l94xtoemCH_GxByvTuFQ;TidyX;tidy_explained
 UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen;
 UCyf1AvRK4gmfRUJjeBNMauA;Tunis R User Group;TunisRUserGroup
+UCQ2fY9JECnDzjK4JdFdhpCg;UCLA Library Data Science Center;
 UCmU-94bz7OxehQnkQ1VlUMg;Udemy Free Course;
 UCZQlpKYQPlf2QNVdSv_TRdg;UseR Oslo;OURmeetup
 UC_sejq_JJ49KiiK4qh5r-wg;Universe of Data Science;unidatascience
