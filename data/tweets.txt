@@ -5974,3 +5974,26 @@ UCZQlpKYQPlf2QNVdSv_TRdg;cjBByCn_PK8;2022-02-04T10:51:46Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=cjBByCn_PK8"
+UCCigEL4N49pgIGszAz_v7Uw;aH5WLakSGdI;2022-02-04T13:50:39Z;"📺 New #rstatsvideo: One-sided z-test: power and type II error risk with example in R
+▶ Julian Righ Sampedro (@JRigh)
+#rstats #onesidedtest #ztest #normaldistributionhypothesistesting #powerstatistics #powerfunctionstatistics
+🔗 https://www.youtube.com/watch?v=aH5WLakSGdI"
+UCAI9XVDrTRsT2cjdFLaTnBw;5ujH9I4HgM4;2022-02-04T14:12:38Z;"📺 New #rstatsvideo: R Crash Course - Day 5 (Leiden University, Feb. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=5ujH9I4HgM4"
+UCyHEww8_SCdxZvEnkCfi55w;OIhOENxhM3I;2022-02-04T15:00:13Z;"📺 New #rstatsvideo: Fix R Error: ‘\U’ used without hex digits in character string starting “”C:\U” | Replicate and Solve
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=OIhOENxhM3I"
+UCi9RPnuGJq1dRduPXerufxA;_V7cKw39Fzc;2022-02-04T19:40:06Z;"📺 New #rstatsvideo: R Programming 2022 [5]: Saving objects, joins, working with strings, summarize
+▶ datapointier (@datapointier)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=_V7cKw39Fzc"
+UCKMekE_4UfWvZDuBWenG8WA;LSFm2a0EeJg;2022-02-04T21:35:55Z;"📺 New #rstatsvideo: What Can Go Wrong with Factors in R Programming
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#rstats #factor #factorlevel #convertingfactortonumeric #invalidfactorlevel #nagenerated #recodingfactors
+🔗 https://www.youtube.com/watch?v=LSFm2a0EeJg"
