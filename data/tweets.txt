@@ -5997,3 +5997,32 @@ UCKMekE_4UfWvZDuBWenG8WA;LSFm2a0EeJg;2022-02-04T21:35:55Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #factor #factorlevel #convertingfactortonumeric #invalidfactorlevel #nagenerated #recodingfactors
 🔗 https://www.youtube.com/watch?v=LSFm2a0EeJg"
+UCyHEww8_SCdxZvEnkCfi55w;HeaNI5B_QT4;2022-02-05T15:00:42Z;"📺 New #rstatsvideo: Change Colors of Ranges in ggplot2 Heatmap in R (2 Examples) | Gradient & Categories | geom_tile()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=HeaNI5B_QT4"
+UCrmJdnPmle514qkK3lLOsVQ;I2z3IksDlsU;2022-02-05T22:41:56Z;"📺 New #rstatsvideo: #R | For & While Loops 🔁 | #1Ksubscribe #ForLoop #WhileLoop
+▶ RJ Studio
+#rstats #루프코딩 #forloop #whileloop #1ksubspecial #loopcoding #computingloop #while루프 #for루프 #modulararithmetic #modulus
+🔗 https://www.youtube.com/watch?v=I2z3IksDlsU"
+UCCaChdLMTYMxyawR_Qf-kYA;l07Vo1wMW5s;2022-02-05T23:27:47Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 14: Strings (2022-01-28) (r4ds06)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=l07Vo1wMW5s"
+UCCaChdLMTYMxyawR_Qf-kYA;9tJ6tkOuHic;2022-02-05T23:29:33Z;"📺 New #rstatsvideo: SMLTAR Book Club: Chapter 3: Stop words (2022-01-28) (smltar01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9tJ6tkOuHic"
+UCCaChdLMTYMxyawR_Qf-kYA;k7poFr556To;2022-02-05T23:37:00Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 14: Strings Part 2 (2022-02-04) (r4ds06)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=k7poFr556To"
+UCCaChdLMTYMxyawR_Qf-kYA;YKbHEIffNFY;2022-02-05T23:38:11Z;"📺 New #rstatsvideo: SMLTAR Book Club: Chapter 4: Stemming (2022-02-04) (smltar01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=YKbHEIffNFY"
