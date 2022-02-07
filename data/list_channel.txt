@@ -61,6 +61,7 @@ UC2-hKemnrmVCH_29duyJ26A;Lander Analytics;LanderAnalytics
 UCt950nC6jlh2ELDRPigWOkg;LatinR;LatinR_Conf
 UCU5ZiUm-OLbVGW7NP0e-eFQ;Learn RStats;
 UCxB1IGhLzlEOikTL-aDwqFg;Leonardo Collado Torres;lcolladotor
+UCrpq9hzMQSq0ldVcXlLgpvQ;Liquid Brain;
 UCC3CCtUrSSQoJkxodRKr89g;Lisa Lendway - Statistics & Data Science;lisalendway
 UCKJFCIbcGs2a5RGt8RjdbFA;Liza Wood;wood__liza
 UCcCMO7sHb8O_TJUd34sQ_Ng;Lulus CommentdansR;
@@ -153,6 +154,7 @@ UCrB-uourf2vxGeBnGjQrA0w;STAT 545;STAT545
 UCC0n35R84-ufqPstR1YtCxA;Stat Pharm;
 UCXgpDUq8cVyEj3ZbZcKtkbA;Statistical Learning Group;
 UCyHEww8_SCdxZvEnkCfi55w;Statistics Globe;JoachimSchork
+UCZ38Wl2wAhrdZs_KaESMmiQ;Statistics in Yoruba;
 UC-qm48zb2P7NVxk-tBa7MFg;Statistics Lectures UNIL: Peter Hilpert;
 UCMdihazndR0f9XBoSXWqnYg;Statistics of DOOM;aggieerin
 UC5FvzLMVNrTMW-ycrW-4KyA;Statistics Playbook;

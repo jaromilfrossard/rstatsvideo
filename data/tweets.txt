@@ -6026,3 +6026,36 @@ UCCaChdLMTYMxyawR_Qf-kYA;YKbHEIffNFY;2022-02-05T23:38:11Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=YKbHEIffNFY"
+UCZ38Wl2wAhrdZs_KaESMmiQ;yUjCzd_PZrk;2022-02-06T06:43:00Z;"📺 New #rstatsvideo: R programming in Yoruba 4 -  How to access R datasets |  tidyverse  data manipulation |  t-test
+▶ Statistics in Yoruba
+🗣  Yoruba
+#rstats #statisticsinyoruba #statisticalanalysisinyoruba #rprogramminginyoruba
+🔗 https://www.youtube.com/watch?v=yUjCzd_PZrk"
+UCZ38Wl2wAhrdZs_KaESMmiQ;MQ4oBTN1K5M;2022-02-06T07:12:27Z;"📺 New #rstatsvideo: R programming in Yoruba 5 - Data types in R | Data structure| Changing data from one type to another
+▶ Statistics in Yoruba
+🗣  Yoruba
+#rstats #statisticsinyoruba #statisticalanalysisinyoruba
+🔗 https://www.youtube.com/watch?v=MQ4oBTN1K5M"
+UCZ38Wl2wAhrdZs_KaESMmiQ;ueIuK9J2PEg;2022-02-06T07:47:55Z;"📺 New #rstatsvideo: R programming in Yoruba 6 - Data visualization with ggplot | plots with R | graphs with R
+▶ Statistics in Yoruba
+🗣  Yoruba
+#rstats #statisticsinyoruba #statisticalanalysisinyoruba #rprogramminginyoruba
+🔗 https://www.youtube.com/watch?v=ueIuK9J2PEg"
+UCyHEww8_SCdxZvEnkCfi55w;UMAvTqoKuDs;2022-02-06T15:00:27Z;"📺 New #rstatsvideo: R Error: Non-numeric Argument to Binary Operator | How to Fix (Example) | Reproduce & Avoid Error
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=UMAvTqoKuDs"
+UCY66vV1WTk_2lHg24cuJrtg;qMWLfoqoico;2022-02-06T16:59:25Z;"📺 New #rstatsvideo: How to Create Heatmaps in R with the geom_tile() and heatmap() functions.
+▶ The Data Digest (@DigestData)
+#rstats #heatmap #heatmaps #datavisualization #geomtile #heatmapinr #heatmapinrggplot2 #usmap
+🔗 https://www.youtube.com/watch?v=qMWLfoqoico"
+UCP8l94xtoemCH_GxByvTuFQ;Ted0xbQp6iY;2022-02-06T19:45:01Z;"📺 New #rstatsvideo: TidyX Episode 93 | Rmarkdown Guide - YAML Header
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=Ted0xbQp6iY"
+UC0dgTZhVua-2yvtWDfPA_nQ;Z72bzaS88yo;2022-02-07T05:00:10Z;"📺 New #rstatsvideo: support vector machines Demo Exercise
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #supportvectormachinesdemo #wupportvectormachinesdemo #wupportvectormachines #supportvectormachines
+🔗 https://www.youtube.com/watch?v=Z72bzaS88yo"
