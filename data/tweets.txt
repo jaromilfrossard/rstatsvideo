@@ -6059,3 +6059,52 @@ UC0dgTZhVua-2yvtWDfPA_nQ;Z72bzaS88yo;2022-02-07T05:00:10Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #supportvectormachinesdemo #wupportvectormachinesdemo #wupportvectormachines #supportvectormachines
 🔗 https://www.youtube.com/watch?v=Z72bzaS88yo"
+UC-xerHeYXyvyXWXwBAP2gYA;3jR_MHZrR6A;2022-02-07T09:05:02Z;"📺 New #rstatsvideo: RStudio projects - R project management series (Part I)
+▶ Athanasia Monika Mowinckel (@DrMowinckels)
+🗣 🇬🇧
+#rstats #reproduciblescience #reproducibleresearch
+🔗 https://www.youtube.com/watch?v=3jR_MHZrR6A"
+UCMwM-3tg_-Pbx8hKO78q5EA;RaM6fgwMZIs;2022-02-07T11:38:55Z;"📺 New #rstatsvideo: NHS-R Introduction to RMarkdown Workshop - November 2021, Hansel Palencia
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=RaM6fgwMZIs"
+UCCaChdLMTYMxyawR_Qf-kYA;EfOPxmQ9R-c;2022-02-07T13:33:10Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 20 (2022-01-29) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EfOPxmQ9R-c"
+UCCaChdLMTYMxyawR_Qf-kYA;0rsV1jlxhws;2022-02-07T13:33:22Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 21 (2022-02-05) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=0rsV1jlxhws"
+UCCaChdLMTYMxyawR_Qf-kYA;EMozFk_EA88;2022-02-07T13:33:45Z;"📺 New #rstatsvideo: ggplot2 Book Club: Chapter 14 (2022-01-31) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EMozFk_EA88"
+UCCaChdLMTYMxyawR_Qf-kYA;sEJ-yyypIhU;2022-02-07T13:34:35Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 7: Moving Beyond Linearity (2022-02-01) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=sEJ-yyypIhU"
+UCCaChdLMTYMxyawR_Qf-kYA;i7utiiM8fr8;2022-02-07T13:34:59Z;"📺 New #rstatsvideo: Engineering Production Grade Shiny Apps Book Club Chapter 18 (2022-02-02) (epgs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=i7utiiM8fr8"
+UCaonzTNPMjkxcBRqhe3qHyQ;PAj5onQ_2l4;2022-02-07T14:07:17Z;"📺 New #rstatsvideo: Functions in R
+▶ Joe Guinness (@JoeGuinnesss)
+#rstats
+🔗 https://www.youtube.com/watch?v=PAj5onQ_2l4"
+UCyHEww8_SCdxZvEnkCfi55w;7yTi33wvbIM;2022-02-07T15:00:41Z;"📺 New #rstatsvideo: Change Legend Title in ggplot2 in R (Example) | Modify Text of Plot Legends | scale_color_discrete
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=7yTi33wvbIM"
+UCwVZbwV_5GQpdUVB0BDmeXg;5R0lsuIwibY;2022-02-07T15:07:03Z;"📺 New #rstatsvideo: Fixing Errors in R ☑️ Top 2 Tips for keeping your R Projects error-free!
+▶ Parsimony (@parsimonyinc)
+🗣 🇬🇧
+#rstats #fixingerrorsinrprogramminglanguage #fixingerrorsinr #rprogramming #rprogramminglanguage
+🔗 https://www.youtube.com/watch?v=5R0lsuIwibY"
