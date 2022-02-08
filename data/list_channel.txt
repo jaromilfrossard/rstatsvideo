@@ -32,6 +32,7 @@ UCb5aI-GwJm3ZxlwtCsLu78Q;Data Science with Tom;
 UCo7yZB1Pz_V9infLSUnfjUg;dataAnalysisR;
 UCi9RPnuGJq1dRduPXerufxA;datapointier;datapointier
 UCBV194XNr6CIQCCuw1v2rMQ;dataslice;dataslice
+UCk66R2sZ_ZzaaDYgILxKZ9g;David Granjon;divadnojnarg
 UCeiiqmVK07qhY-wvg3IZiZQ;David Robinson;drob
 UCPJZmlXMcBiKjoVQ4cpAMIg;Dean Chereden;deanchereden
 UC4_hSKmvUG4w0w270AH5bXQ;Derek Sollberger;DerekSollberger
