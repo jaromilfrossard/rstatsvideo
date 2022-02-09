@@ -6108,3 +6108,52 @@ UCwVZbwV_5GQpdUVB0BDmeXg;5R0lsuIwibY;2022-02-07T15:07:03Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #fixingerrorsinrprogramminglanguage #fixingerrorsinr #rprogramming #rprogramminglanguage
 🔗 https://www.youtube.com/watch?v=5R0lsuIwibY"
+UCwVZbwV_5GQpdUVB0BDmeXg;dJRpFnmgRlw;2022-02-07T15:32:26Z;"📺 New #rstatsvideo: How to combine variables from different data files in R 🔄 Combining Columns - R programming language
+▶ Parsimony (@parsimonyinc)
+🗣 🇬🇧
+#rstats #rprogramming #rprogrammingforbeginners #rprogrammingtutorial
+🔗 https://www.youtube.com/watch?v=dJRpFnmgRlw"
+UCGuktEl5InrcxPfCjmPWxsA;ZVddiwrbrr4;2022-02-07T17:00:19Z;"📺 New #rstatsvideo: Reshaping data in R to be long or wide with pivot_longer and pivot_wider (CC185)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rdatalongwide #rpivotwider #rpivotlonger #rdplyr #rtidyverse #rreshape
+🔗 https://www.youtube.com/watch?v=ZVddiwrbrr4"
+UCCaChdLMTYMxyawR_Qf-kYA;lnfMBSgSRcQ;2022-02-07T19:26:05Z;"📺 New #rstatsvideo: Tidy Modeling with R Book Club: Chapter 7 (2022-02-04) (tmwr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=lnfMBSgSRcQ"
+UC3xfbCMLCw1Hh4dWop3XtHg;9Nn9yjpivlE;2022-02-07T20:21:53Z;"📺 New #rstatsvideo: Sjoerd Wierenga & Job Spijker | Shiny in Production | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9Nn9yjpivlE"
+UCCaChdLMTYMxyawR_Qf-kYA;sW8RpF_MZtE;2022-02-07T21:19:33Z;"📺 New #rstatsvideo: Statistical Rethinking Book Club: Chapter 4 (2022-02-02) (statrethink01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=sW8RpF_MZtE"
+UCEbPGn_boFJj7_sPh37mBfA;q9oVcqPpMlw;2022-02-07T21:59:56Z;"📺 New #rstatsvideo: STAC33: Tutorial 4
+▶ Nnenna Asidianya (@asidianya)
+#rstats
+🔗 https://www.youtube.com/watch?v=q9oVcqPpMlw"
+UCCaChdLMTYMxyawR_Qf-kYA;RQfPmCVuPC8;2022-02-07T22:24:24Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 5: Resampling Methods (2022-02-03) (islr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=RQfPmCVuPC8"
+UCcGXGFClRdnrwXsPHi7P4ZA;CL7WlwKz5aw;2022-02-08T14:14:50Z;"📺 New #rstatsvideo: R demo | Repeated Measures ANOVA (One-Way) | How to Conduct, Visualise and Interpret
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #clearlyexplained #datascience #dataanalysis #stats
+🔗 https://www.youtube.com/watch?v=CL7WlwKz5aw"
+UCCaChdLMTYMxyawR_Qf-kYA;PbrfoBulxfU;2022-02-08T14:53:43Z;"📺 New #rstatsvideo: ggplot2 Book Club: Use Case (2022-02-07) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=PbrfoBulxfU"
+UCyHEww8_SCdxZvEnkCfi55w;h0v0Ekhg4Go;2022-02-08T15:00:37Z;"📺 New #rstatsvideo: Concatenate Vector of Character Strings in R (Example) | How to Combine Text Cases | paste & str_c
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=h0v0Ekhg4Go"
