@@ -6157,3 +6157,49 @@ UCyHEww8_SCdxZvEnkCfi55w;h0v0Ekhg4Go;2022-02-08T15:00:37Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=h0v0Ekhg4Go"
+UC1ZIcF31fEzBO6akL_HHkBg;cKAXDJq5ZdA;2022-02-08T15:49:41Z;"📺 New #rstatsvideo: wtf: Holistic workflow (part 1)
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio #dsincubator #wtf
+🔗 https://www.youtube.com/watch?v=cKAXDJq5ZdA"
+UCDozrYAxG1rTopPRA6GVYAg;nGGzyQn6oks;2022-02-08T23:37:00Z;"📺 New #rstatsvideo: ¿Cómo descargar mis archivos de R Studio Cloud?
+▶ ScitecEducation
+#rstats
+🔗 https://www.youtube.com/watch?v=nGGzyQn6oks"
+UCrmJdnPmle514qkK3lLOsVQ;xobbAmp49wY;2022-02-09T06:50:44Z;"📺 New #rstatsvideo: #R | source() to RE-USE work in other scripts | #Reusability #Rscript #CleanCode
+▶ RJ Studio
+#rstats #sourcefunctionr #sourcefunctioninr #reusefunctionsfromotherscript #source함수 #함수재활용
+🔗 https://www.youtube.com/watch?v=xobbAmp49wY"
+UCyHEww8_SCdxZvEnkCfi55w;SyrJfyxXb1c;2022-02-09T15:00:54Z;"📺 New #rstatsvideo: R Error: Object X not Found (2 Examples) | How to Reproduce, Fix & Avoid the Message | Create Data
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=SyrJfyxXb1c"
+UC3xfbCMLCw1Hh4dWop3XtHg;slXcW99ftk4;2022-02-09T18:00:35Z;"📺 New #rstatsvideo: Barret Schloerke || {reactlog} Rundown || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology #coding
+🔗 https://www.youtube.com/watch?v=slXcW99ftk4"
+UCCigEL4N49pgIGszAz_v7Uw;7ncY-MnNa30;2022-02-09T19:23:29Z;"📺 New #rstatsvideo: Chi-squared test of independence with example in R
+▶ Julian Righ Sampedro (@JRigh)
+#rstats #chisquared #chisquare #chi #khisquare #khisquared #testofindependence #independentevents
+🔗 https://www.youtube.com/watch?v=7ncY-MnNa30"
+UCMdihazndR0f9XBoSXWqnYg;vueOHgE3fwY;2022-02-09T19:33:47Z;"📺 New #rstatsvideo: R & Python - Part of Speech Tagging Part 1
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing
+🔗 https://www.youtube.com/watch?v=vueOHgE3fwY"
+UCQ2fY9JECnDzjK4JdFdhpCg;2zcebMftC-8;2022-02-09T22:05:14Z;"📺 New #rstatsvideo: Data visualization for social scientists
+▶ UCLA Library Data Science Center
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2zcebMftC-8"
+UCFXPzW7RxP6RfQGpRn7WXNw;g1i--4u13bA;2022-02-09T23:00:56Z;"📺 New #rstatsvideo: w6: Plot refinement
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=g1i--4u13bA"
+UC9Sm1qcdzyGVjQMgWsW4pcw;vx4SPeNvols;2022-02-10T01:35:27Z;"📺 New #rstatsvideo: R Girls: Introduction to R and RStudio
+▶ Jennifer Sloane (@jfsloane)
+#rstats #rgirls #rprogramming #rcoding #introductiontor #introductiontorstudio #introductiontorprojects #gettingstartedwithr #settingupr
+🔗 https://www.youtube.com/watch?v=vx4SPeNvols"
