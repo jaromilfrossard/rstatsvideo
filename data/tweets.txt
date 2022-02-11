@@ -6203,3 +6203,50 @@ UC9Sm1qcdzyGVjQMgWsW4pcw;vx4SPeNvols;2022-02-10T01:35:27Z;"📺 New #rstatsvideo
 ▶ Jennifer Sloane (@jfsloane)
 #rstats #rgirls #rprogramming #rcoding #introductiontor #introductiontorstudio #introductiontorprojects #gettingstartedwithr #settingupr
 🔗 https://www.youtube.com/watch?v=vx4SPeNvols"
+UC0dgTZhVua-2yvtWDfPA_nQ;JyMBwydhYR8;2022-02-10T05:00:13Z;"📺 New #rstatsvideo: How to create a co-occurrence network
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #cooccurrencenetwork
+🔗 https://www.youtube.com/watch?v=JyMBwydhYR8"
+UCN-OX45aSM1VtXkzocx8Ppg;WbQHWD6DJL8;2022-02-10T05:03:55Z;"📺 New #rstatsvideo: Exploring the POMA Package
+▶ Duke Center for Computational Thinking (@duke_cct)
+#rstats
+🔗 https://www.youtube.com/watch?v=WbQHWD6DJL8"
+UCTXuqtCYxPVEehq6fJY9GkA;FnpKTXkmBRo;2022-02-10T12:39:09Z;"📺 New #rstatsvideo: Usando Python e R no RStudio
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=FnpKTXkmBRo"
+UCAI9XVDrTRsT2cjdFLaTnBw;yCY_9qPKDEI;2022-02-10T13:40:53Z;"📺 New #rstatsvideo: GRS Day 3 (Leiden University, Feb. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=yCY_9qPKDEI"
+UCyHEww8_SCdxZvEnkCfi55w;5AAmKwuR8WE;2022-02-10T15:00:36Z;"📺 New #rstatsvideo: Change Point Size in ggplot2 Scatterplot in R (2 Examples) | Increase/Decrease | Large, Small & Tiny
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=5AAmKwuR8WE"
+UCCaChdLMTYMxyawR_Qf-kYA;_Dpzxz6_mls;2022-02-10T16:00:11Z;"📺 New #rstatsvideo: Statistical Rethinking Book Club: Chapter 5 (2022-02-09) (statrethink01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=_Dpzxz6_mls"
+UCGuktEl5InrcxPfCjmPWxsA;G5Qckqq5Erw;2022-02-10T17:00:17Z;"📺 New #rstatsvideo: Performing principle coordinate analysis (PCoA) in R and visualizing with ggplot2 (CC186)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rprinciplecoordinateanalysis #rpriciplecoordinateanalysis
+🔗 https://www.youtube.com/watch?v=G5Qckqq5Erw"
+UCiJMr_spRePQShPGNCqj7ng;qKDyH3wBj-w;2022-02-10T17:30:06Z;"📺 New #rstatsvideo: Ep. 2 - Marketing Mix Modeling: How to setup Facebook Robyn
+▶ Cassandra
+🗣 🇬🇧
+#rstats #marketingmixmodeling #3rdpartycookies #analytics #attribution #attributionmodeling #marketing #marketinganalytics
+🔗 https://www.youtube.com/watch?v=qKDyH3wBj-w"
+UCiJMr_spRePQShPGNCqj7ng;ohe3Gt0Qu38;2022-02-10T18:00:20Z;"📺 New #rstatsvideo: Ep. 3 - Marketing Mix Modeling: Definitive guide to model Facebook Robyn
+▶ Cassandra
+🗣 🇬🇧
+#rstats #marketingmixmodeling #3rdpartycookies #analytics #attribution #attributionmodeling #marketing
+🔗 https://www.youtube.com/watch?v=ohe3Gt0Qu38"
+UC3xfbCMLCw1Hh4dWop3XtHg;4_tX4IUDJZ0;2022-02-10T18:00:26Z;"📺 New #rstatsvideo: Nick Strayer || Part IV: Styling a Shiny Wordle App with CSS || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=4_tX4IUDJZ0"
