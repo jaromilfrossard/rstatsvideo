@@ -16,6 +16,7 @@ UCTZXht1RTL2Duc3eU8MYGzQ;Bruno Rodrigues;brodriguesco
 UCqQ_cxcNu1ekqHXDc-MbU_w;Business Science;bizScienc
 UCDR9i4RB_ZbnM8QXp4NC9uQ;CalgaryR R User Group;
 UCyZCfIET7753bs5WpmKI_qQ;CARVALHO RIBEIRO;
+UCiJMr_spRePQShPGNCqj7ng;Cassandra;
 UCKFp00-PRnuc1Dx4DaUmJBg;Chad C. Williams;WilliamsNeuro
 UC7C4YZ-9itQW7Nl4RVKDflg;Cleveland R User Group;
 UCBYwP7mrBxJSZbPg-U3uR-A;CodeR;
