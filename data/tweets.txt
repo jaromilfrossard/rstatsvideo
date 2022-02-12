@@ -6250,3 +6250,50 @@ UC3xfbCMLCw1Hh4dWop3XtHg;4_tX4IUDJZ0;2022-02-10T18:00:26Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
 🔗 https://www.youtube.com/watch?v=4_tX4IUDJZ0"
+UCi9RPnuGJq1dRduPXerufxA;c3ZuPANIEAM;2022-02-10T18:55:22Z;"📺 New #rstatsvideo: R Programming 2022 [6]: Joins, summarize, pivoting (part5 continued)
+▶ datapointier (@datapointier)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=c3ZuPANIEAM"
+UCYNVcihAKkRW-bhzIrguvVw;T6Oay7g_Ik8;2022-02-10T22:44:16Z;"📺 New #rstatsvideo: Box-Muller Transform + R Demo
+▶ math et al
+🗣 🇬🇧
+#rstats #boxmuller #boxmullertransform #boxmullertransformation #boxmullerr #boxmullerexample #boxmullercode #boxmullermethod #mathetal #montecarlo
+🔗 https://www.youtube.com/watch?v=T6Oay7g_Ik8"
+UCBsXfUO__nzMnlaLLUx7DFQ;ur_6NyroPsE;2022-02-11T01:00:10Z;"📺 New #rstatsvideo: Simulations: Branching Proceses (Extinction)
+▶ Probability!
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ur_6NyroPsE"
+UCISHpKq_20peU3G1xwtXjjQ;qt5BfWz3920;2022-02-11T05:15:58Z;"📺 New #rstatsvideo: DataEditR Tutorial - Interactively Edit Datasets Using R
+▶ Samer Hijjazi
+#rstats #rprogramming #dataanalysis #programming #webscraping #datacleaning #dataediting #dataeditr #statistics #python #datasets
+🔗 https://www.youtube.com/watch?v=qt5BfWz3920"
+UCPJZmlXMcBiKjoVQ4cpAMIg;NQ-pcuoBvPw;2022-02-11T07:00:13Z;"📺 New #rstatsvideo: How to ‘IF Function’ in R using if_else in dplyr | R for Excel Users & Beginners
+▶ Dean Chereden (@deanchereden)
+🗣 🇬🇧
+#rstats #howto #analytics #rstudio #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=NQ-pcuoBvPw"
+UCyHEww8_SCdxZvEnkCfi55w;vXjsgWNDiNo;2022-02-11T15:00:50Z;"📺 New #rstatsvideo: Format Number of Decimal Places in R (2 Examples) | format() & sprintf() Function | Global R Options
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=vXjsgWNDiNo"
+UCCaChdLMTYMxyawR_Qf-kYA;iDxpBea8AI0;2022-02-11T15:32:54Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 5 lab: Resampling Methods (2022-02-10) (islr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=iDxpBea8AI0"
+UCTTBgWyJl2HrrhQOOc710kA;8PSnKiegGGg;2022-02-11T16:58:24Z;"📺 New #rstatsvideo: Statistical inference for aircraft and rank of Tuskegee airmen
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=8PSnKiegGGg"
+UCnYkdhuQljgCnGNpCZpPfVA;ERVudADkUaw;2022-02-11T18:00:23Z;"📺 New #rstatsvideo: Come si usa il comando pipe in R
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=ERVudADkUaw"
+UCyf1AvRK4gmfRUJjeBNMauA;_tIzFNyYU-g;2022-02-11T20:37:38Z;"📺 New #rstatsvideo: A la découverte de la création des applications R Shiny
+▶ Tunis R User Group (@TunisRUserGroup)
+#rstats
+🔗 https://www.youtube.com/watch?v=_tIzFNyYU-g"
