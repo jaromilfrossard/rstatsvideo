@@ -6297,3 +6297,57 @@ UCyf1AvRK4gmfRUJjeBNMauA;_tIzFNyYU-g;2022-02-11T20:37:38Z;"📺 New #rstatsvideo
 ▶ Tunis R User Group (@TunisRUserGroup)
 #rstats
 🔗 https://www.youtube.com/watch?v=_tIzFNyYU-g"
+UCCaChdLMTYMxyawR_Qf-kYA;ecOWidSqsAQ;2022-02-11T20:41:56Z;"📺 New #rstatsvideo: Tidy Modeling with R Book Club: Chapter 8 (2022-02-11) (tmwr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ecOWidSqsAQ"
+UCQ2fY9JECnDzjK4JdFdhpCg;VgfKbvbRbcY;2022-02-11T21:59:41Z;"📺 New #rstatsvideo: Data cleaning in R (2020 04 17)
+▶ UCLA Library Data Science Center
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VgfKbvbRbcY"
+UCQ2fY9JECnDzjK4JdFdhpCg;MYMDezuQUbA;2022-02-11T22:00:31Z;"📺 New #rstatsvideo: Data Visualization in R ggplot (2020 04 24)
+▶ UCLA Library Data Science Center
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=MYMDezuQUbA"
+UCQ2fY9JECnDzjK4JdFdhpCg;0YkN6GB17VU;2022-02-11T22:01:34Z;"📺 New #rstatsvideo: Intro to R (2020 04 10)
+▶ UCLA Library Data Science Center
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=0YkN6GB17VU"
+UC93s4srvbDK8B9sPskLErfw;0xZF1vp8AL8;2022-02-11T22:12:36Z;"📺 New #rstatsvideo: Creating a Wordle Companion App in R Shiny: Part 4 - Cleaning Up the Server
+▶ Daniel Bonneau
+🗣 🇬🇧
+#rstats #wordle #rstudio #rshiny #webappsinr
+🔗 https://www.youtube.com/watch?v=0xZF1vp8AL8"
+UCCaChdLMTYMxyawR_Qf-kYA;2ZxXAUivrVc;2022-02-11T22:47:59Z;"📺 New #rstatsvideo: SMLTAR Book Club: Chapter 5: Word Embeddings Part 1 (2022-02-11) (smltar01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2ZxXAUivrVc"
+UCrpq9hzMQSq0ldVcXlLgpvQ;edDVBd9ZQ4A;2022-02-12T12:00:13Z;"📺 New #rstatsvideo: Oncoprint Walkthrough (Essential)
+▶ Liquid Brain
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=edDVBd9ZQ4A"
+UCyHEww8_SCdxZvEnkCfi55w;343VCX3ynOA;2022-02-12T15:00:35Z;"📺 New #rstatsvideo: Extract First or Last n Characters from String in R (3 Examples) | Get Leading & Trailing Chars
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=343VCX3ynOA"
+UCCaChdLMTYMxyawR_Qf-kYA;9UuMNJB3KFA;2022-02-12T22:15:28Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 14: Strings Part 3 (2022-02-11) (r4ds06)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9UuMNJB3KFA"
+UCrmJdnPmle514qkK3lLOsVQ;T8EdQftA41E;2022-02-12T23:18:07Z;"📺 New #rstatsvideo: #R | Gaussian Integral, extremely well-known in Stat/Math | #GaussianIntegral #Statistics #LaTeX
+▶ RJ Studio
+#rstats #gaussianintegral #squarerootofpi #polarcoordinatesinr #latexinr #howtowritelatexinr
+🔗 https://www.youtube.com/watch?v=T8EdQftA41E"
+UC93s4srvbDK8B9sPskLErfw;gl7xh63uU2k;2022-02-12T23:31:50Z;"📺 New #rstatsvideo: Creating a Wordle Companion App in R Shiny: Part 5 - Adding Our Word List
+▶ Daniel Bonneau
+🗣 🇬🇧
+#rstats #rshiny #rstudio #wordle #shinywebapps
+🔗 https://www.youtube.com/watch?v=gl7xh63uU2k"
