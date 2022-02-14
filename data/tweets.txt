@@ -6351,3 +6351,25 @@ UC93s4srvbDK8B9sPskLErfw;gl7xh63uU2k;2022-02-12T23:31:50Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rshiny #rstudio #wordle #shinywebapps
 🔗 https://www.youtube.com/watch?v=gl7xh63uU2k"
+UClGaKSIiaYp8o2SB3D3aS_A;_Zi0yjYEXKk;2020-06-22T01:39:13Z;"📺 #rstatsvideo: Using Swirl
+▶ InsiderMiner
+🗣 🇬🇧
+#rstats #datamining #rprogramming #probability #statistics #programming
+🔗 https://www.youtube.com/watch?v=_Zi0yjYEXKk"
+UC3xfbCMLCw1Hh4dWop3XtHg;JThd3YYQXGg;2020-09-14T07:00:07Z;"📺 #rstatsvideo: Sharla Gelfand | Don’t repeat yourself, talk to yourself! Reporting with R | RStudio (2020)
+▶ RStudio (@rstudio)
+#rstats #sharlagelfand #rstudioconf2020 #rstudio #datascience #machinelearning #python #stats
+🔗 https://www.youtube.com/watch?v=JThd3YYQXGg"
+UCyHEww8_SCdxZvEnkCfi55w;MdfGib-wrI8;2022-02-13T15:00:56Z;"📺 New #rstatsvideo: Error: Unexpected ‘,’ or ‘=’ or ‘)’ in R (Examples) | How to Reproduce, Fix & Avoid the Message
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=MdfGib-wrI8"
+UCP8l94xtoemCH_GxByvTuFQ;DkQEpqySylc;2022-02-13T19:45:00Z;"📺 New #rstatsvideo: TidyX Episode 94 | Rmarkdown Guide - Parameterized Reports
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=DkQEpqySylc"
+UCax5WxTJvQjtS9elybDivbA;U-H6EC6Kcz0;2022-02-14T02:39:53Z;"📺 New #rstatsvideo: Getting and Setting Working Directory in R Programming #olakunle4impact #tagng #europe
+▶ Olakunle4impact (@olakunle4impact)
+#rstats #gettingandsettingworkingdirectoryinr #workingdirectoryinr
+🔗 https://www.youtube.com/watch?v=U-H6EC6Kcz0"
