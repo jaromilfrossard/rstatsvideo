@@ -6373,3 +6373,49 @@ UCax5WxTJvQjtS9elybDivbA;U-H6EC6Kcz0;2022-02-14T02:39:53Z;"📺 New #rstatsvideo
 ▶ Olakunle4impact (@olakunle4impact)
 #rstats #gettingandsettingworkingdirectoryinr #workingdirectoryinr
 🔗 https://www.youtube.com/watch?v=U-H6EC6Kcz0"
+UCaonzTNPMjkxcBRqhe3qHyQ;W4mHjSnZVOc;2022-02-14T12:35:16Z;"📺 New #rstatsvideo: R Input/Output - reading data, printing to screen, saving data
+▶ Joe Guinness (@JoeGuinnesss)
+#rstats
+🔗 https://www.youtube.com/watch?v=W4mHjSnZVOc"
+UCCaChdLMTYMxyawR_Qf-kYA;O4cJiSH0zIc;2022-02-14T14:49:59Z;"📺 New #rstatsvideo: Modelado Tidy con R - Club de Lectura: Capítulo 1 (Software para modelado) (2022-02-08) (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=O4cJiSH0zIc"
+UCyHEww8_SCdxZvEnkCfi55w;GDSO_OPLaTo;2022-02-14T15:00:28Z;"📺 New #rstatsvideo: R ggplot2 Error: stat_count() must not be used with a y aesthetic (Example) | geom_bar() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=GDSO_OPLaTo"
+UCYjjz8ANtLZNu9u4P6tHh9g;x4MKREtjz4s;2022-02-14T15:48:53Z;"📺 New #rstatsvideo: Introducción al análisis de redes con R
+▶ R-Ladies Ecuador (@RLadiesBquilla)
+#rstats
+🔗 https://www.youtube.com/watch?v=x4MKREtjz4s"
+UCCigEL4N49pgIGszAz_v7Uw;Ie_i7bb4sVM;2022-02-14T15:49:52Z;"📺 New #rstatsvideo: Moment Generating Function (MGF) of Normal random variables with example in R
+▶ Julian Righ Sampedro (@JRigh)
+#rstats #momentgeneratingfunction #mgf #mgfnormal #probabilitytheory #mathematics
+🔗 https://www.youtube.com/watch?v=Ie_i7bb4sVM"
+UCGuktEl5InrcxPfCjmPWxsA;h7OrVmT7Ja8;2022-02-14T17:00:24Z;"📺 New #rstatsvideo: Running non-metric multidimensional scaling (NMDS) in R with vegan and ggplot2 (CC187)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rnonmetricdimensionalscaling #rnonmetricdimentionalscaling #rnmds
+🔗 https://www.youtube.com/watch?v=h7OrVmT7Ja8"
+UCiJMr_spRePQShPGNCqj7ng;kBtK9gxalag;2022-02-14T18:00:14Z;"📺 New #rstatsvideo: Ep. 4 - Marketing Mix Modeling: Analyzing Facebook Robyn One-Pager output models
+▶ Cassandra
+🗣 🇬🇧
+#rstats #marketingmixmodeling #3rdpartycookies #analytics #attribution #attributionmodeling #marketing
+🔗 https://www.youtube.com/watch?v=kBtK9gxalag"
+UCEbPGn_boFJj7_sPh37mBfA;GEFTAOO47cQ;2022-02-14T18:29:36Z;"📺 New #rstatsvideo: STAC33: Tutorial 5
+▶ Nnenna Asidianya (@asidianya)
+#rstats
+🔗 https://www.youtube.com/watch?v=GEFTAOO47cQ"
+UCwVZbwV_5GQpdUVB0BDmeXg;D2-A-S3kmlU;2022-02-14T18:31:14Z;"📺 New #rstatsvideo: How to aggregate data in R - summarize data by groups
+▶ Parsimony (@parsimonyinc)
+🗣 🇬🇧
+#rstats #rprogramming #rprogrammingforbeginners #rprogrammingtutorial #learnrprogramming #rprogramminglanguage
+🔗 https://www.youtube.com/watch?v=D2-A-S3kmlU"
+UCCaChdLMTYMxyawR_Qf-kYA;CEKPAUWTA3c;2022-02-14T19:56:27Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 21 (2022-02-12) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=CEKPAUWTA3c"
