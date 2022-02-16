@@ -44,6 +44,7 @@ UCN-OX45aSM1VtXkzocx8Ppg;Duke Center for Computational Thinking;duke_cct
 UCfB2mPM4oU5pMgh9gbEqpWA;EdinbR;edinb_r
 UCkcMJvaf6rWOtizaSiUBj1Q;Elizabeth Marshallsay;
 UCAu9zxmEgQdWYkl84BiziSQ;Eskisehir R User Group;eskisehiR_users
+UC5w9xVTs77__zlEeRRQILpw;Federica Gazzelloni;FGazzelloni
 UCJamxO-DE27EEZtWrNG34mA;Futbol AnalysR;futbolanalysr
 UCXuX-kQ1TbKHWeB75NgmhlA;Genomics Boot Camp;GaborM_ABG
 UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham;hadleywickham
