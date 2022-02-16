@@ -6419,3 +6419,51 @@ UCCaChdLMTYMxyawR_Qf-kYA;CEKPAUWTA3c;2022-02-14T19:56:27Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=CEKPAUWTA3c"
+UC93s4srvbDK8B9sPskLErfw;iaA3A9zGqJ4;2022-02-14T22:16:14Z;"📺 New #rstatsvideo: Creating a Wordle Companion App in R Shiny: Part 6 - Storing Wordle's Responses
+▶ Daniel Bonneau
+🗣 🇬🇧
+#rstats #rshiny #rstudio #wordle #rwebapps
+🔗 https://www.youtube.com/watch?v=iaA3A9zGqJ4"
+UC93s4srvbDK8B9sPskLErfw;jaSqp4na150;2022-02-15T00:15:17Z;"📺 New #rstatsvideo: Creating a Wordle Companion App in R Shiny: Part 7 - Filtering Our Word List
+▶ Daniel Bonneau
+🗣 🇬🇧
+#rstats #rshiny #rstudio #wordle #rshinywebapp #shinywebapp #rprogramming
+🔗 https://www.youtube.com/watch?v=jaSqp4na150"
+UC5FvzLMVNrTMW-ycrW-4KyA;yqPDRHMqov0;2022-02-15T11:00:34Z;"📺 New #rstatsvideo: 시계열 분석 첫걸음 - 10강 시계열 데이터 조정 및 변환
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=yqPDRHMqov0"
+UC93s4srvbDK8B9sPskLErfw;q2bwuPwkTls;2022-02-15T13:45:06Z;"📺 New #rstatsvideo: Creating a Wordle Companion App in R Shiny: Part 8 - Functionalizing Our Guesses
+▶ Daniel Bonneau
+🗣 🇬🇧
+#rstats #rshiny #rstudio #shinywebapps #wordle #rshinywebapps
+🔗 https://www.youtube.com/watch?v=q2bwuPwkTls"
+UCyHEww8_SCdxZvEnkCfi55w;T4Y_VAwcIts;2022-02-15T15:00:58Z;"📺 New #rstatsvideo: Group Data Frame by Multiple Columns in R (Example) | group_by & summarize Variable | dplyr Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=T4Y_VAwcIts"
+UC1ZIcF31fEzBO6akL_HHkBg;ek3b0m1iCdk;2022-02-15T15:41:37Z;"📺 New #rstatsvideo: wtf: Holistic workflow (part 2)
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio #dsincubator #wft
+🔗 https://www.youtube.com/watch?v=ek3b0m1iCdk"
+UC3xfbCMLCw1Hh4dWop3XtHg;3gtk8uRrrL4;2022-02-15T18:00:54Z;"📺 New #rstatsvideo: Barret Schloerke || Maximize computing resources using future_promise() || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization
+🔗 https://www.youtube.com/watch?v=3gtk8uRrrL4"
+UCAI9XVDrTRsT2cjdFLaTnBw;RQ8cpPcpTmA;2022-02-15T21:31:48Z;"📺 New #rstatsvideo: GRS Day 6 (Leiden University, Feb. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=RQ8cpPcpTmA"
+UCFXPzW7RxP6RfQGpRn7WXNw;uYj04BODzIc;2022-02-15T22:04:26Z;"📺 New #rstatsvideo: w7: Visualizing uncertainty
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=uYj04BODzIc"
+UCT2TrH2M4zbRJZMH6iusyBQ;p6ilISM_70U;2022-02-15T22:17:19Z;"📺 New #rstatsvideo: Unleash Shiny
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=p6ilISM_70U"
