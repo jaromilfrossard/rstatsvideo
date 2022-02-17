@@ -6467,3 +6467,46 @@ UCT2TrH2M4zbRJZMH6iusyBQ;p6ilISM_70U;2022-02-15T22:17:19Z;"📺 New #rstatsvideo
 ▶ R in Pharma (@rinpharma)
 #rstats
 🔗 https://www.youtube.com/watch?v=p6ilISM_70U"
+UCT2TrH2M4zbRJZMH6iusyBQ;EswcocxWV7M;2022-02-15T22:17:46Z;"📺 New #rstatsvideo: Clinical Tables in gt
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=EswcocxWV7M"
+UCT2TrH2M4zbRJZMH6iusyBQ;wa3NHKazyew;2022-02-15T22:18:10Z;"📺 New #rstatsvideo: SafetyGraphics
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=wa3NHKazyew"
+UCT2TrH2M4zbRJZMH6iusyBQ;lpX-dDM7GYk;2022-02-15T22:18:35Z;"📺 New #rstatsvideo: Tidy Transcriptomics
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=lpX-dDM7GYk"
+UCAI9XVDrTRsT2cjdFLaTnBw;PUcQ27Cb0do;2022-02-16T00:54:22Z;"📺 New #rstatsvideo: GRS Day 6 part 2 (Leiden University, Feb. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=PUcQ27Cb0do"
+UCrmJdnPmle514qkK3lLOsVQ;lOPg-80cCPA;2022-02-16T01:05:38Z;"📺 New #rstatsvideo: #R | Run R on Terminal | #Terminal #RConsole #RTerminal #EfficientWork
+▶ RJ Studio
+#rstats #usingronterminal #rfromterminal #macterminalr #runningronmacosterminal #macosterminalandr #randterminal
+🔗 https://www.youtube.com/watch?v=lOPg-80cCPA"
+UCSoUNu8x-HblqqOK_EwdZGw;ZF008f8Yhy4;2022-02-16T01:25:23Z;"📺 New #rstatsvideo: summarise() ungrouping output message
+▶ R for the Rest of Us (@rfortherest)
+#rstats
+🔗 https://www.youtube.com/watch?v=ZF008f8Yhy4"
+UC0dgTZhVua-2yvtWDfPA_nQ;rfzVEN9q-_I;2022-02-16T12:00:23Z;"📺 New #rstatsvideo: How to create custom lexicon in r
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #createcustomlexiconinr
+🔗 https://www.youtube.com/watch?v=rfzVEN9q-_I"
+UCktFo5XoX5QZMWb2Gb3KY2A;jHrhEZ8GNng;2022-02-16T12:46:33Z;"📺 New #rstatsvideo: RMarkdown: Create Insightful Reports in R by Dr. Thiyanga Talagala
+▶ R-Ladies Abuja (@RLadiesAbuja)
+#rstats
+🔗 https://www.youtube.com/watch?v=jHrhEZ8GNng"
+UCyHEww8_SCdxZvEnkCfi55w;S0HxaZYKII4;2022-02-16T15:00:37Z;"📺 New #rstatsvideo: R Help – Warning: invalid factor level, NA generated | How to Reproduce & Avoid Message (2 Examples)
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=S0HxaZYKII4"
+UCiJMr_spRePQShPGNCqj7ng;NqupuQs4pxA;2022-02-16T18:00:08Z;"📺 New #rstatsvideo: Ep. 5 - Marketing Mix Modeling: Maximize ROI with Facebook Robyn Budget Allocator
+▶ Cassandra
+🗣 🇬🇧
+#rstats #marketingmixmodeling #3rdpartycookies #analytics #attribution #attributionmodeling #marketing
+🔗 https://www.youtube.com/watch?v=NqupuQs4pxA"
