@@ -39,11 +39,11 @@ source("youtube_oauth.R")
 tb_perf <- update_performance(5)
 write_delim(tb_perf, file= "data/performance.csv", delim = ";")
 
+rmarkdown::render("README.Rmd", rmarkdown::md_document(variant = "markdown_github"))
 
 
 
 rmarkdown::render("index.Rmd",output_file = "docs/index.html")
-rmarkdown::render("README.Rmd", rmarkdown::md_document(variant = "markdown_github"))
 
 
 
