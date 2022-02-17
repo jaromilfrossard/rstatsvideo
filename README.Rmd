@@ -54,6 +54,8 @@ tb_perf_channel <-
 
 num_format = comma_format(accuracy = 1, big.mark = " ", decimal.mark = ".")
 
+range_update = tb_perf%>%pull(ymd_update)%>%range()
+
 ```
 
 
@@ -76,7 +78,8 @@ gg_channel<-
   theme_bw()+
   labs(title = "Top 10: Most productive channels", 
        subtitle = glue("Data collected using {tuber}",.open = "{{", .close="}}"),
-       y= "Number of videos",x ="")+
+       y= "Number of videos",x =NULL,
+       caption = glue("Data updated between {range_update[2]}"))+
   theme(legend.position = "none")
 gg_channel
 ```
@@ -110,7 +113,8 @@ gg_video<-
   theme_bw()+
   labs(title = "Top 10: Most viewed videos", 
        subtitle = glue("Data collected using {tuber}",.open = "{{", .close="}}"),
-       y= "Total of views",x ="")+
+       y= "Total of views",x =NULL,
+       caption = glue("Data updated between {range_update[1]} and {range_update[2]}"))+
   theme(legend.position = "none")
 gg_video
 ```

@@ -36,7 +36,7 @@ source("function/write_tweet.R")
 source("youtube_oauth.R")
 
 
-tb_perf <- update_performance(50)
+tb_perf <- update_performance(5)
 write_delim(tb_perf, file= "data/performance.csv", delim = ";")
 
 
