@@ -69,6 +69,8 @@ write_tweet_lang <- function(lang){
     glue("\U001F5E3 \U001F1EE\U001F1F9")
   }else if(lang %in%"ko"){
     glue("\U001F5E3 \U001F1F0\U001F1F7")
+  }else if(lang %in%"ru"){
+    glue("\U001F5E3 \U001F1F7\U001F1FA")
   }else if(lang %in%"yo"){
     glue("\U001F5E3 Yoruba")
   }else if(lang %in%c("es","es-419")){
