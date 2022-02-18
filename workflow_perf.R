@@ -26,7 +26,7 @@ source("function/tibble_video_stats.R")
 source("function/update_channel_video.R")
 source("function/video_url.R")
 source("function/post_videos.R")
-source("function/update_performance.R")
+source("function/update_performance2.R")
 source("function/validate_channel.R")
 source("function/validate_new_videos.R")
 source("function/write_tweet.R")
@@ -36,7 +36,8 @@ source("function/write_tweet.R")
 source("youtube_oauth.R")
 
 
-tb_perf <- update_performance(50)
+tb_perf <- update_performance2(100)
+
 write_delim(tb_perf, file= "data/performance.csv", delim = ";")
 
 rmarkdown::render("README.Rmd", rmarkdown::md_document())
