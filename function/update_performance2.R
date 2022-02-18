@@ -79,13 +79,31 @@ update_performance2 <- function(credit = 200,
     anti_join(tb_video_to_rm,by =c("id_channel" = "id_channel","id_video"="id_video"))
   
   
+  videos
+  
+  tb_perf_new <- 
+    videos%>%
+    anti_join(tb_perf,by = c("name_channel" = "name_channel", "id_channel" ="id_channel",
+                             "id_video" = "id_video",    "ymd_hms_video" = "ymd_hms_video",
+                             "id_twitter" = "id_twitter" ))%>%
+    mutate(count_view = NA_integer_,
+           count_comment = NA_integer_,
+           url_channel = channel_url(id_channel),
+           url_video = video_url(id_video),
+           ymd_update = NA_Date_,
+           title_video = NA_character_)
+  
+  tb_perf <- bind_rows(tb_perf,tb_perf_new)
+  
+  
   #### order and select videos
   tb_perf_update<-
     tb_perf%>%
-    mutate(ratio = as.numeric(today()-ymd_update)/as.numeric(today()-date(ymd_hms_video)))%>%
-    arrange(desc(ratio))%>%
+    mutate(ratio = ratio_date(ymd_update,date(ymd_hms_video)))%>%
+    arrange(desc(ratio),!is.na(ymd_update))%>%
     slice(seq_len(credit))
   
+
   rr <- range(tb_perf_update$ratio)
   message(glue("Updating ration from {round(rr[2],2)} to {round(rr[1],2)}"))
   ### updating stats
@@ -127,3 +145,17 @@ update_performance2 <- function(credit = 200,
 
   
 }
+
+
+ratio_date <- function(date_update, date_release){
+  diff_update  <- as.numeric(today()-date_update)
+  diff_release <- as.numeric(today()-date_release)
+  
+  ratio <- diff_update/diff_release
+  ratio <- ifelse(diff_update==0,0,ratio)
+  ratio <- ifelse(is.na(ratio),Inf,ratio)
+  ratio
+}
+
+
+
