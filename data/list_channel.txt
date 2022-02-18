@@ -172,6 +172,7 @@ UC5FvzLMVNrTMW-ycrW-4KyA;Statistics Playbook;
 UCKMekE_4UfWvZDuBWenG8WA;StatistikinDD;StatistikInDD
 UC2M4LiU11tjZfL86yfufSKA;Sukaesi Marianti;
 UCY66vV1WTk_2lHg24cuJrtg;The Data Digest;DigestData
+UCuV88C_W7BGUCoApABG90Aw;The GRAPH Courses;
 UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;thinkR_fr
 UCT9SgxpakGSH-yfRj_QhzIQ;Thomas Lin Pedersen;thomasp85
 UCvCEl2-_Q2gGxqisyYngXIA;Thomas Mock;thomas_mock
