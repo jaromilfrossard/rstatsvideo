@@ -6510,3 +6510,52 @@ UCiJMr_spRePQShPGNCqj7ng;NqupuQs4pxA;2022-02-16T18:00:08Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #marketingmixmodeling #3rdpartycookies #analytics #attribution #attributionmodeling #marketing
 🔗 https://www.youtube.com/watch?v=NqupuQs4pxA"
+UC3xfbCMLCw1Hh4dWop3XtHg;WisrcQ89igY;2022-02-16T18:00:13Z;"📺 New #rstatsvideo: Carson Sievert || Custom Theming with {bslib} in Shiny and R Markdown using bs_theme() || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse
+🔗 https://www.youtube.com/watch?v=WisrcQ89igY"
+UC5w9xVTs77__zlEeRRQILpw;3R79dGkU5rQ;2022-02-16T22:07:27Z;"📺 New #rstatsvideo: How to make a REPREX with RStudio
+▶ Federica Gazzelloni (@FGazzelloni)
+🗣 🇬🇧
+#rstats #research #investigations #dataanalytics #publictalk #speaking
+🔗 https://www.youtube.com/watch?v=3R79dGkU5rQ"
+UClspbw7f-6Wk0BUiI6H05OQ;jKkqht9ZvLU;2022-02-17T05:58:52Z;"📺 New #rstatsvideo: MMID Coding Workshop - 2022-02-16 Using ggplot to visualize data and statistical results
+▶ MMID Coding Workshop
+🗣 🇬🇧
+#rstats #rstudio #rcoding #rmarkdown #ggplot2 #datavisualization
+🔗 https://www.youtube.com/watch?v=jKkqht9ZvLU"
+UCTXuqtCYxPVEehq6fJY9GkA;d0XQ7jBZo3E;2022-02-17T13:19:18Z;"📺 New #rstatsvideo: {ggplot} qualquer coisa!
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=d0XQ7jBZo3E"
+UCyHEww8_SCdxZvEnkCfi55w;FgYFBNJY3HU;2022-02-17T15:00:35Z;"📺 New #rstatsvideo: Remove Element from List in R (Example) | Delete & Drop Component | NULL Assignment & %in% Operator
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=FgYFBNJY3HU"
+UCMwM-3tg_-Pbx8hKO78q5EA;8UiCqSKlfew;2022-02-17T15:27:00Z;"📺 New #rstatsvideo: NHS-R Webinar: Building Multiple Page Shiny Apps with {brochure} - February 2022
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=8UiCqSKlfew"
+UCGuktEl5InrcxPfCjmPWxsA;xyufizOpc5I;2022-02-17T17:00:28Z;"📺 New #rstatsvideo: Using the vegan R package to ecological distances (CC188)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rveganpackage #rveganpackagetutorial #rvegantutorial #rvegandemo #rveganintroductino
+🔗 https://www.youtube.com/watch?v=xyufizOpc5I"
+UCMwM-3tg_-Pbx8hKO78q5EA;uerf_bY-d4c;2022-02-17T17:50:23Z;"📺 New #rstatsvideo: NHS-R Conference 2021: Intro to R/RStudio - Part 1
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=uerf_bY-d4c"
+UCMwM-3tg_-Pbx8hKO78q5EA;9GESlEIvPDI;2022-02-17T17:51:31Z;"📺 New #rstatsvideo: NHS-R Conference 2021: Intro to R/RStudio Workshop - Part 2
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9GESlEIvPDI"
+UC3xfbCMLCw1Hh4dWop3XtHg;8fNWpCt3xo4;2022-02-17T18:00:46Z;"📺 New #rstatsvideo: Carson Sievert || Developing Shiny Custom Themes in Real Time Using {bslib}| RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization
+🔗 https://www.youtube.com/watch?v=8fNWpCt3xo4"
