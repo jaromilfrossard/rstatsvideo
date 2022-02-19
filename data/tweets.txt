@@ -6559,3 +6559,49 @@ UC3xfbCMLCw1Hh4dWop3XtHg;8fNWpCt3xo4;2022-02-17T18:00:46Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization
 🔗 https://www.youtube.com/watch?v=8fNWpCt3xo4"
+UCCaChdLMTYMxyawR_Qf-kYA;eVN-KYvjv8Y;2022-02-17T19:55:20Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 6: Linear Model Selection and Regularization Part 1 (2022-02-17) (islr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=eVN-KYvjv8Y"
+UCCaChdLMTYMxyawR_Qf-kYA;pubuTNE1uiQ;2022-02-17T19:58:04Z;"📺 New #rstatsvideo: Statistical Rethinking Book Club: Chapter 6 (2022-02-16) (statrethink01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=pubuTNE1uiQ"
+UC3xfbCMLCw1Hh4dWop3XtHg;op4Q_z5juZc;2022-02-17T20:09:41Z;"📺 New #rstatsvideo: Alok Pattani - Google | Sports Analytics Meetup | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=op4Q_z5juZc"
+UCkAyfZ4tAeO0j9dS-_yU7Gw;8DkHMnEv4I8;2022-02-17T21:32:35Z;"📺 New #rstatsvideo: Bayesian Statistics and Buy-Till-You-Die Models - Workshop 2 - Initial Frequency Models
+▶ Dublin Data Science
+#rstats
+🔗 https://www.youtube.com/watch?v=8DkHMnEv4I8"
+UCEbPGn_boFJj7_sPh37mBfA;XhdhqgFPjAk;2022-02-17T21:44:13Z;"📺 New #rstatsvideo: STA304: Mapping with GGMAPs and GGPLOT2
+▶ Nnenna Asidianya (@asidianya)
+#rstats
+🔗 https://www.youtube.com/watch?v=XhdhqgFPjAk"
+UCi9RPnuGJq1dRduPXerufxA;j-eoXIEGQQg;2022-02-17T22:19:57Z;"📺 New #rstatsvideo: R Programming 2022 [7]: Data cleaning and pivoting, start with a plot ""goal"" (part6)
+▶ datapointier (@datapointier)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=j-eoXIEGQQg"
+UCAI9XVDrTRsT2cjdFLaTnBw;_Ki7VDWL3mo;2022-02-17T22:56:07Z;"📺 New #rstatsvideo: GRS Day 8 (Leiden University, Feb. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=_Ki7VDWL3mo"
+UCBsXfUO__nzMnlaLLUx7DFQ;NVO9yaYSt-g;2022-02-18T01:00:10Z;"📺 New #rstatsvideo: Simulations: Branching Processes (Properties)
+▶ Probability!
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=NVO9yaYSt-g"
+UCAI9XVDrTRsT2cjdFLaTnBw;kj4iY9hqa0Y;2022-02-18T01:41:04Z;"📺 New #rstatsvideo: GRS Day 8 part 2 (Leiden University, Feb. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=kj4iY9hqa0Y"
+UCPJZmlXMcBiKjoVQ4cpAMIg;ZXrntzEvoOk;2022-02-18T07:00:10Z;"📺 New #rstatsvideo: How to VLOOKUP in R using left_join | dplyr | R for Excel Users & Beginners
+▶ Dean Chereden (@deanchereden)
+🗣 🇬🇧
+#rstats #howto #analytics #rstudio #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=ZXrntzEvoOk"
