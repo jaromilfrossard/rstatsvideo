@@ -6605,3 +6605,52 @@ UCPJZmlXMcBiKjoVQ4cpAMIg;ZXrntzEvoOk;2022-02-18T07:00:10Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #howto #analytics #rstudio #rprogramming #datascience
 🔗 https://www.youtube.com/watch?v=ZXrntzEvoOk"
+UCZ38Wl2wAhrdZs_KaESMmiQ;lgsIiHMh_wE;2022-02-18T11:21:21Z;"📺 New #rstatsvideo: R programming in Yoruba 7  - How to create nice and beautiful scatter plots with ggplot
+▶ Statistics in Yoruba
+🗣 Yoruba
+#rstats #statisticsinyoruba #statisticalanalysisinyoruba #rprogramminginyoruba
+🔗 https://www.youtube.com/watch?v=lgsIiHMh_wE"
+UCZ38Wl2wAhrdZs_KaESMmiQ;Viuyio55knU;2022-02-18T13:40:58Z;"📺 New #rstatsvideo: R programming in Yoruba 8  - how to create bar chart and histogram with ggplot
+▶ Statistics in Yoruba
+🗣 Yoruba
+#rstats #statisticsinyoruba #statisticalanalysisinyoruba #rprogramminginyoruba
+🔗 https://www.youtube.com/watch?v=Viuyio55knU"
+UCyHEww8_SCdxZvEnkCfi55w;62ImqwbaG7s;2022-02-18T15:00:58Z;"📺 New #rstatsvideo: Remove Legend in ggplot2 (3 Example Codes) | Delete One or All Legends | guides & show.legend Option
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=62ImqwbaG7s"
+UCLIphG_4eXZqf4C6VBg8pUw;0vQoTfzPs3w;2022-02-18T16:52:22Z;"📺 New #rstatsvideo: Основы работы с языком R - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #анализданныхвr #rstudio #rtutorial
+🔗 https://www.youtube.com/watch?v=0vQoTfzPs3w"
+UCiJMr_spRePQShPGNCqj7ng;GTKXEg8ON_U;2022-02-18T18:00:12Z;"📺 New #rstatsvideo: Ep. 6 - Marketing Mix Modeling: Refresh Facebook Robyn Model with new data
+▶ Cassandra
+🗣 🇬🇧
+#rstats #marketingmixmodeling #3rdpartycookies #analytics #attribution #attributionmodeling #marketing
+🔗 https://www.youtube.com/watch?v=GTKXEg8ON_U"
+UC8bO8eVpfEK8LbqH0oxyc3Q;yIqOMHNXxJM;2022-02-18T22:48:34Z;"📺 New #rstatsvideo: R You My Valentine?  Tips and Tricks that make us love R!
+▶ R User Group at Harvard Data Science Initiative
+#rstats
+🔗 https://www.youtube.com/watch?v=yIqOMHNXxJM"
+UCFT7Tgi7UAzR-eyzjoxBzxA;cetjUV4lE0o;2022-02-18T23:02:48Z;"📺 New #rstatsvideo: Febrero 2022: Uso básico de variables y de expresiones aritméticas y lógicas en R
+▶ RLadies Cuernavaca (@RLadiesCuerna)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=cetjUV4lE0o"
+UCCaChdLMTYMxyawR_Qf-kYA;NjYQJ7_HvRQ;2022-02-18T23:20:51Z;"📺 New #rstatsvideo: Tidy Modeling with R Book Club: Chapter 9 (2022-02-18) (tmwr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=NjYQJ7_HvRQ"
+UCCaChdLMTYMxyawR_Qf-kYA;rugILCWVI_s;2022-02-19T00:30:38Z;"📺 New #rstatsvideo: SMLTAR Book Club: Chapter 5: Word Embeddings Part 2 (2022-02-18) (smltar01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=rugILCWVI_s"
+UCLIphG_4eXZqf4C6VBg8pUw;Q7vE3h31pQk;2022-02-19T09:04:43Z;"📺 New #rstatsvideo: Базовые типы данных и структуры - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #основыязыкаr
+🔗 https://www.youtube.com/watch?v=Q7vE3h31pQk"

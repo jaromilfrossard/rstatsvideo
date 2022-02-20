@@ -73,7 +73,7 @@ write_tweet_lang <- function(lang){
     glue("\U001F5E3 \U001F1F7\U001F1FA")
   }else if(lang %in%"yo"){
     glue("\U001F5E3 Yoruba")
-  }else if(lang %in%c("es","es-419")){
+  }else if(lang %in%c("es","es-419","es-MX")){
     glue("\U001F5E3 \U001F1EA\U001F1F8")
   }else if(lang%in%"zxx"){
     NA_character_
