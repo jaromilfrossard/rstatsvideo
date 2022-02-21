@@ -39,6 +39,7 @@ source("youtube_oauth.R")
 tb_perf <- update_performance2(50)
 
 write_delim(tb_perf, file= "data/performance.csv", delim = ";")
+#tb_perf%>%filter(id_video=="ytCTzUoQg90")%>%transmute(del = paste(id_channel,id_video,sep = ";"))
 
 rmarkdown::render("README.Rmd", rmarkdown::md_document())
 

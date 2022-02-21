@@ -6654,3 +6654,50 @@ UCLIphG_4eXZqf4C6VBg8pUw;Q7vE3h31pQk;2022-02-19T09:04:43Z;"📺 New #rstatsvideo
 🗣 🇷🇺
 #rstats #основыязыкаr
 🔗 https://www.youtube.com/watch?v=Q7vE3h31pQk"
+UCMzxf1PB54mTnWJVE8xdGlw;AeFhB3v8XcQ;2022-02-19T11:58:15Z;"📺 New #rstatsvideo: All you need is love...and R.
+▶ R-ladies Gaborone (@RLadiesGaborone)
+#rstats #datascience #research
+🔗 https://www.youtube.com/watch?v=AeFhB3v8XcQ"
+UCrpq9hzMQSq0ldVcXlLgpvQ;zZvt0elwvTQ;2022-02-19T12:00:21Z;"📺 New #rstatsvideo: Subset Clusters in Seurat
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=zZvt0elwvTQ"
+UCyHEww8_SCdxZvEnkCfi55w;v7VhZV50MAY;2022-02-19T15:00:36Z;"📺 New #rstatsvideo: Disable Scientific Notation in R (Examples) | How to Prevent Exponential Numbers | format() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=v7VhZV50MAY"
+UCMzxf1PB54mTnWJVE8xdGlw;gZ517exPzX0;2022-02-19T15:59:26Z;"📺 New #rstatsvideo: R Packages for Data Cleaning
+▶ R-ladies Gaborone (@RLadiesGaborone)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=gZ517exPzX0"
+UCMdihazndR0f9XBoSXWqnYg;jIc-KN_OtO4;2022-02-19T16:49:36Z;"📺 New #rstatsvideo: R & Python - Part of Speech Tagging Part 2
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing
+🔗 https://www.youtube.com/watch?v=jIc-KN_OtO4"
+UCY66vV1WTk_2lHg24cuJrtg;X12BoYpIjyw;2022-02-19T18:15:07Z;"📺 New #rstatsvideo: How to Create Correlation Plots in R
+▶ The Data Digest (@DigestData)
+#rstats #correlogram #correlograminr #correlogramanalysis #howtodrawacorrelograminr #correlograminrstudio
+🔗 https://www.youtube.com/watch?v=X12BoYpIjyw"
+UCcGXGFClRdnrwXsPHi7P4ZA;XSUKSE0cAJs;2022-02-19T19:59:54Z;"📺 New #rstatsvideo: R demo | Friedman Test | How to Conduct, Visualise and Interpret
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #clearlyexplained #datascience #dataanalysis #stats #introductiontostatistics #tutorial
+🔗 https://www.youtube.com/watch?v=XSUKSE0cAJs"
+UCrmJdnPmle514qkK3lLOsVQ;Z78ZpTqws0A;2022-02-19T23:29:02Z;"📺 New #rstatsvideo: #R | Complex and Imaginary Numbers in R | #ComplexNumbers #ImaginaryNumber #Mathematics
+▶ RJ Studio
+#rstats #complexnumber #imaginarynumber #a+bi #complexnumberr #imaginarynumberr #complesr #복소수r #허수r
+🔗 https://www.youtube.com/watch?v=Z78ZpTqws0A"
+UCLIphG_4eXZqf4C6VBg8pUw;C_6Xob19wnc;2022-02-20T07:53:32Z;"📺 New #rstatsvideo: Векторы - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #векторы #именованныевекторы #созданиевекторавr
+🔗 https://www.youtube.com/watch?v=C_6Xob19wnc"
+UCyHEww8_SCdxZvEnkCfi55w;UOfF0LmoSAo;2022-02-20T15:00:29Z;"📺 New #rstatsvideo: Change Position of ggplot2 Plot Title (Examples) | Adjust & Move to Center, Right-Aligned & Vertical
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=UOfF0LmoSAo"
