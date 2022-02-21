@@ -6701,3 +6701,27 @@ UCyHEww8_SCdxZvEnkCfi55w;UOfF0LmoSAo;2022-02-20T15:00:29Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom
 🔗 https://www.youtube.com/watch?v=UOfF0LmoSAo"
+UCCaChdLMTYMxyawR_Qf-kYA;hEjE7PYLCL8;2022-02-20T15:31:38Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 22-23 Part 1 (2022-02-19) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hEjE7PYLCL8"
+UCDgj5-mFohWZ5irWSFMFcng;cWC4pLAtG30;2022-02-20T16:36:31Z;"📺 New #rstatsvideo: Intro to Shiny — Stephanie Hickey — R-Ladies East Lansing (English)
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming #webapp #rshiny
+🔗 https://www.youtube.com/watch?v=cWC4pLAtG30"
+UCDgj5-mFohWZ5irWSFMFcng;RrKB1xLPXY8;2022-02-20T17:00:37Z;"📺 New #rstatsvideo: Accessible Dataviz — Andrea Gomez Vargas, Keke Wu — R-Ladies East Lansing (English)
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming #accessibility #dataviz
+🔗 https://www.youtube.com/watch?v=RrKB1xLPXY8"
+UCDgj5-mFohWZ5irWSFMFcng;86KaMXHuzK4;2022-02-20T17:55:38Z;"📺 New #rstatsvideo: Three reasons to use Tidymodels — Julia Silge — R-Ladies East Lansing (English)
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming #machinelearning #tidymodels #tidydata
+🔗 https://www.youtube.com/watch?v=86KaMXHuzK4"
+UCISHpKq_20peU3G1xwtXjjQ;O34vzdHOaEk;2022-02-21T06:18:46Z;"📺 New #rstatsvideo: How to Create Your Own HexSticker Using R
+▶ Samer Hijjazi
+#rstats #rprogramming #rstudio #hexsticker #hexagonsticker #datascience #dataanalytics #programming #tutorial #rpackage
+🔗 https://www.youtube.com/watch?v=O34vzdHOaEk"

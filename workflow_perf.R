@@ -26,7 +26,9 @@ source("function/tibble_video_stats.R")
 source("function/update_channel_video.R")
 source("function/video_url.R")
 source("function/post_videos.R")
-source("function/update_performance2.R")
+source("function/update_performance_ratio.R")
+source("function/update_performance_oldest.R")
+
 source("function/validate_channel.R")
 source("function/validate_new_videos.R")
 source("function/write_tweet.R")
@@ -36,7 +38,11 @@ source("function/write_tweet.R")
 source("youtube_oauth.R")
 
 
-tb_perf <- update_performance2(50)
+tb_perf <- update_performance_ratio(50)
+
+
+tb_perf <- update_performance_oldest(50)
+
 
 write_delim(tb_perf, file= "data/performance.csv", delim = ";")
 #tb_perf%>%filter(id_video=="ytCTzUoQg90")%>%transmute(del = paste(id_channel,id_video,sep = ";"))
