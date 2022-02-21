@@ -30,6 +30,7 @@ source("function/validate_channel.R")
 source("function/validate_new_channels.R")
 source("function/validate_new_videos.R")
 source("function/write_tweet.R")
+source("function/standardise_language.R")
 
 
 auth_as("rstatsvideo")
