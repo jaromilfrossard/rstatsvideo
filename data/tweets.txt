@@ -6725,3 +6725,41 @@ UCISHpKq_20peU3G1xwtXjjQ;O34vzdHOaEk;2022-02-21T06:18:46Z;"📺 New #rstatsvideo
 ▶ Samer Hijjazi
 #rstats #rprogramming #rstudio #hexsticker #hexagonsticker #datascience #dataanalytics #programming #tutorial #rpackage
 🔗 https://www.youtube.com/watch?v=O34vzdHOaEk"
+UCLIphG_4eXZqf4C6VBg8pUw;fD4Pypxiy1M;2022-02-21T13:07:47Z;"📺 New #rstatsvideo: Сортировка векторов - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #сортировкавектора
+🔗 https://www.youtube.com/watch?v=fD4Pypxiy1M"
+UCaonzTNPMjkxcBRqhe3qHyQ;VEDiHwED_VE;2022-02-21T13:24:36Z;"📺 New #rstatsvideo: R error handling and debugging
+▶ Joe Guinness (@JoeGuinnesss)
+#rstats
+🔗 https://www.youtube.com/watch?v=VEDiHwED_VE"
+UCRth2ImB1T-_saYc5YBTcyA;hJ_GyaJgevU;2022-02-21T13:53:40Z;"📺 New #rstatsvideo: Job hunting for Data Analysts: Why it's hard and what one can do about it by Oscar Baruffa
+▶ R-Ladies Nairobi (@RLadiesNairobi)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hJ_GyaJgevU"
+UCyHEww8_SCdxZvEnkCfi55w;QjsBBr8eJUY;2022-02-21T15:00:37Z;"📺 New #rstatsvideo: sprintf Function (Example) | Return Percent, Leading Blanks, or Zeros | Character String & Numbers
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=QjsBBr8eJUY"
+UCYjjz8ANtLZNu9u4P6tHh9g;vXKM_FEFxZI;2022-02-21T16:36:18Z;"📺 New #rstatsvideo: taller Introducción a ""R"" junto a R-Ladies Milagro
+▶ R-Ladies Ecuador (@RLadiesBquilla)
+#rstats
+🔗 https://www.youtube.com/watch?v=vXKM_FEFxZI"
+UCGuktEl5InrcxPfCjmPWxsA;ht3AX5uZTTQ;2022-02-21T17:00:27Z;"📺 New #rstatsvideo: Rarefying ecological distances with R: Should you?  (CC189)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rarefyingecologicalr #rarefaction #rarefactionmicrobiome #rarefactionr #rarefactionbraycurtis
+🔗 https://www.youtube.com/watch?v=ht3AX5uZTTQ"
+UCwVZbwV_5GQpdUVB0BDmeXg;w0KOr4CE0u4;2022-02-21T22:40:34Z;"📺 New #rstatsvideo: How to create a Bar Chart in R ☑️ Using Bar Charts in R Programming Language
+▶ Parsimony (@parsimonyinc)
+🗣 🇬🇧
+#rstats #barchart #howtocreateabarchartinr #howtomakeabarchartinr #barchartinr
+🔗 https://www.youtube.com/watch?v=w0KOr4CE0u4"
+UCFXPzW7RxP6RfQGpRn7WXNw;1cBa0tqXV6s;2022-02-22T05:02:40Z;"📺 New #rstatsvideo: w8: Fonts, Dashboards, and Websites
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=1cBa0tqXV6s"
