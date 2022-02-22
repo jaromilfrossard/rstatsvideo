@@ -46,7 +46,7 @@ tb_perf <- update_performance_oldest(50)
 
 
 write_delim(tb_perf, file= "data/performance.csv", delim = ";")
-#tb_perf%>%filter(id_video=="ytCTzUoQg90")%>%transmute(del = paste(id_channel,id_video,sep = ";"))
+#tb_perf%>%filter(id_video=="JI9w44UFbps")%>%transmute(del = paste(id_channel,id_video,sep = ";"))
 
 rmarkdown::render("README.Rmd", rmarkdown::md_document())
 
