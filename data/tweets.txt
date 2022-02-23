@@ -6810,3 +6810,41 @@ UC9UK90FN2Q1cl0J5Kl4-7Mg;AbNyTfawJ60;2022-02-23T02:15:43Z;"📺 New #rstatsvideo
 ▶ R-Ladies Baltimore (@RLadiesBmore)
 #rstats
 🔗 https://www.youtube.com/watch?v=AbNyTfawJ60"
+UCLIphG_4eXZqf4C6VBg8pUw;4Vp2nfFC7uY;2022-02-23T02:47:26Z;"📺 New #rstatsvideo: Базовая графика в R - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #тепловаякартавr #ящиксусамивr #диаграммарассеиваниявr
+🔗 https://www.youtube.com/watch?v=4Vp2nfFC7uY"
+UCLIphG_4eXZqf4C6VBg8pUw;siV9Ri3M8us;2022-02-23T03:11:37Z;"📺 New #rstatsvideo: Условные выражения в R - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #тернарныйоператор #условныевыражения
+🔗 https://www.youtube.com/watch?v=siV9Ri3M8us"
+UCLIphG_4eXZqf4C6VBg8pUw;0ADlRJW5AFg;2022-02-23T04:21:08Z;"📺 New #rstatsvideo: Определение функций. Область видимости - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #функциивr
+🔗 https://www.youtube.com/watch?v=0ADlRJW5AFg"
+UC0dgTZhVua-2yvtWDfPA_nQ;xbqZnTlcwhE;2022-02-23T05:00:15Z;"📺 New #rstatsvideo: Simple Examples of how to use the twitter API in r
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #examplesofhowtousethetwitterapiinr #examplesofhowtouisethetwitterapiinr #examplesofhowtousetehtwitterapiinr
+🔗 https://www.youtube.com/watch?v=xbqZnTlcwhE"
+UCnYkdhuQljgCnGNpCZpPfVA;FsKNslglkv8;2022-02-23T12:12:44Z;"📺 New #rstatsvideo: Come formattare l'output R con kableExtra
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=FsKNslglkv8"
+UCfJyQ3P2k_SuqfxVdqIEQNw;rfR9Nrpfnyg;2022-02-23T13:14:50Z;"📺 New #rstatsvideo: Visualize your data using ggplot. R programming is the best platform for creating plots and graphs.
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=rfR9Nrpfnyg"
+UCQ7DcXWJm3es06U7lGmBDkw;93WsFQUuxvA;2022-02-23T14:26:13Z;"📺 New #rstatsvideo: R-Ladies St. Louis Meetup February 22, 2022: Teach Me How to Google
+▶ R Ladies STL (@RLadiesSTL)
+#rstats
+🔗 https://www.youtube.com/watch?v=93WsFQUuxvA"
+UCyHEww8_SCdxZvEnkCfi55w;m9GAonYYf6E;2022-02-23T15:00:40Z;"📺 New #rstatsvideo: Fit Vertical Labels to Plotting Window in R (2 Examples) | ggplot2 Package & Base R | par() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=m9GAonYYf6E"
