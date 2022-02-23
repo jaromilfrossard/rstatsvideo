@@ -113,6 +113,14 @@ update_performance_oldest <- function(credit = 200,
     mutate(stats = map(id_video,tibble_video_stats))%>%
     unnest(stats)
   
+  
+  ####
+  to_delete<- 
+    tb_perf_update%>%
+    filter(is.na(count_view)&is.na(count_comment))%>%
+    transmute(to_delete = glue("{id_channel};{id_video}"))%>%
+    pull(to_delete)
+  
   ###updating date
   
   tb_perf_update <-
@@ -139,6 +147,12 @@ update_performance_oldest <- function(credit = 200,
     tb_perf%>%
     filter(!(id_video%in%tb_perf_update$id_video))%>%
     bind_rows(tb_perf_update)
+  
+  
+  if(length(to_delete)>0){
+    message("Add to video to remove file:")
+    message(paste0(to_delete,collapse = "\n"))
+  }
   
   tb_perf
   

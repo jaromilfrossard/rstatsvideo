@@ -2,7 +2,7 @@
 # file_perf = "data/performance.csv";
 # file_channel_to_rm = "data/list_channel_to_rm.txt";
 # file_video_to_rm = "data/list_video_to_rm.txt";
-# credit = 10;
+# credit = 2;
 
 
 
@@ -79,7 +79,7 @@ update_performance_ratio <- function(credit = 200,
     anti_join(tb_video_to_rm,by =c("id_channel" = "id_channel","id_video"="id_video"))
   
   
-  videos
+  #videos
   
   tb_perf_new <- 
     videos%>%
@@ -104,6 +104,11 @@ update_performance_ratio <- function(credit = 200,
     slice(seq_len(credit))
   
 
+  
+
+  ####
+  
+
   rr <- range(tb_perf_update$ratio)
   message(glue("Updating ratio from {round(rr[2],2)} to {round(rr[1],2)}"))
   ### updating stats
@@ -113,6 +118,15 @@ update_performance_ratio <- function(credit = 200,
     select(name_channel,id_channel,id_video,ymd_hms_video,id_twitter)%>%
     mutate(stats = map(id_video,tibble_video_stats))%>%
     unnest(stats)
+  
+  
+  ####
+  to_delete<- 
+    tb_perf_update%>%
+    filter(is.na(count_view)&is.na(count_comment))%>%
+    transmute(to_delete = glue("{id_channel};{id_video}"))%>%
+    pull(to_delete)
+  
   
   ###updating date
   
@@ -140,6 +154,14 @@ update_performance_ratio <- function(credit = 200,
     tb_perf%>%
     filter(!(id_video%in%tb_perf_update$id_video))%>%
     bind_rows(tb_perf_update)
+  
+  
+  if(length(to_delete)>0){
+    message("Add to video to remove file:")
+    message(paste0(to_delete,collapse = "\n"))
+  }
+
+  
   
   tb_perf
 
