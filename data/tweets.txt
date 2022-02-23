@@ -6763,3 +6763,50 @@ UCFXPzW7RxP6RfQGpRn7WXNw;1cBa0tqXV6s;2022-02-22T05:02:40Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=1cBa0tqXV6s"
+UCqQ_cxcNu1ekqHXDc-MbU_w;XW1ZeJKVnZk;2022-02-22T11:00:14Z;"📺 New #rstatsvideo: My 4 most important explainable model visualizations with modelStudio
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=XW1ZeJKVnZk"
+UCyHEww8_SCdxZvEnkCfi55w;m_etnMeScJo;2022-02-22T15:00:37Z;"📺 New #rstatsvideo: paste & paste0 Functions in R (4 Examples) | Specify Separator | Collapse Character String Vector
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=m_etnMeScJo"
+UC1ZIcF31fEzBO6akL_HHkBg;xW05GsfhuiY;2022-02-22T15:42:44Z;"📺 New #rstatsvideo: wtf: Name and organize files
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #wtf #dsincubator
+🔗 https://www.youtube.com/watch?v=xW05GsfhuiY"
+UCLIphG_4eXZqf4C6VBg8pUw;LbkwGjtQ14s;2022-02-22T15:51:35Z;"📺 New #rstatsvideo: Арифметика векторов - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #векторавr
+🔗 https://www.youtube.com/watch?v=LbkwGjtQ14s"
+UCLIphG_4eXZqf4C6VBg8pUw;w5EVBDLikv8;2022-02-22T16:09:27Z;"📺 New #rstatsvideo: Индексирование векторов - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #векторывr #индексированиевекторов
+🔗 https://www.youtube.com/watch?v=w5EVBDLikv8"
+UC3xfbCMLCw1Hh4dWop3XtHg;VNbab8bro2c;2022-02-22T18:00:32Z;"📺 New #rstatsvideo: Carson Sievert || Customizing Navigation Items in Shiny using {bslib} || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz
+🔗 https://www.youtube.com/watch?v=VNbab8bro2c"
+UCCaChdLMTYMxyawR_Qf-kYA;8NGM8aLRCv0;2022-02-22T20:13:36Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 8: Tree-Based Methods Lab (2022-02-22) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=8NGM8aLRCv0"
+UCCaChdLMTYMxyawR_Qf-kYA;Z0Lvg2EKROE;2022-02-22T22:03:32Z;"📺 New #rstatsvideo: Modelado Tidy con R - Club de Lectura: Capítulo 2 (Una cartilla tidyverse) (2022-02-15) (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=Z0Lvg2EKROE"
+UCeiiqmVK07qhY-wvg3IZiZQ;VOzUHk3aaBw;2022-02-22T22:07:52Z;"📺 New #rstatsvideo: Tidy Tuesday live screencast: Analyzing the World Freedom Index in R
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=VOzUHk3aaBw"
+UC9UK90FN2Q1cl0J5Kl4-7Mg;AbNyTfawJ60;2022-02-23T02:15:43Z;"📺 New #rstatsvideo: R-Ladies Baltimore | Data Privacy Preserving Applications With R
+▶ R-Ladies Baltimore (@RLadiesBmore)
+#rstats
+🔗 https://www.youtube.com/watch?v=AbNyTfawJ60"
