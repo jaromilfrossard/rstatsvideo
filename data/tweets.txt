@@ -6848,3 +6848,27 @@ UCyHEww8_SCdxZvEnkCfi55w;m9GAonYYf6E;2022-02-23T15:00:40Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom
 🔗 https://www.youtube.com/watch?v=m9GAonYYf6E"
+UC3xfbCMLCw1Hh4dWop3XtHg;wTOKZkFGlks;2014-12-09T15:10:04Z;"📺 #rstatsvideo: RStudio Server Professional Architecture
+▶ RStudio (@rstudio)
+#rstats #rstudio #rprograming #ide #architectureindustry #server
+🔗 https://www.youtube.com/watch?v=wTOKZkFGlks"
+UCMdihazndR0f9XBoSXWqnYg;m_C6Hnx1Fms;2022-02-23T15:55:40Z;"📺 New #rstatsvideo: R & Python - Entity Recognition Part 1
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing
+🔗 https://www.youtube.com/watch?v=m_C6Hnx1Fms"
+UC3xfbCMLCw1Hh4dWop3XtHg;7IZDfl-h1rI;2022-02-23T18:00:56Z;"📺 New #rstatsvideo: James Blair || Getting Started with {plumbertableau} || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=7IZDfl-h1rI"
+UClspbw7f-6Wk0BUiI6H05OQ;OGYreVFV89Q;2022-02-23T18:51:33Z;"📺 New #rstatsvideo: MMID Coding Workshop - 2022-02-23 Data visualization using CLUE antiviral drug-repurposing results
+▶ MMID Coding Workshop
+🗣 🇬🇧
+#rstats #rstudio #tableau #clue #drugrepurposing #dataanalysis #rcoding
+🔗 https://www.youtube.com/watch?v=OGYreVFV89Q"
+UCN-OX45aSM1VtXkzocx8Ppg;sd1wGmHuGP4;2022-02-24T05:08:55Z;"📺 New #rstatsvideo: scRNA-seq and SingleCellExperiment
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=sd1wGmHuGP4"
