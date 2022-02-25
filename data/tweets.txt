@@ -6872,3 +6872,61 @@ UCN-OX45aSM1VtXkzocx8Ppg;sd1wGmHuGP4;2022-02-24T05:08:55Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=sd1wGmHuGP4"
+UCTXuqtCYxPVEehq6fJY9GkA;Z1HF1_jh1-g;2022-02-24T12:12:30Z;"📺 New #rstatsvideo: Manipulando datas no R com o pacote lubridate
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=Z1HF1_jh1-g"
+UCyHEww8_SCdxZvEnkCfi55w;9eEN54aPCcA;2022-02-24T15:00:45Z;"📺 New #rstatsvideo: Combine List of Vectors to Single Vector in R (2 Examples) | Convert / Transform | unlist & Reduce
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=9eEN54aPCcA"
+UCLIphG_4eXZqf4C6VBg8pUw;huk6iv6TZvs;2022-02-24T15:50:44Z;"📺 New #rstatsvideo: Циклы в R - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #циклсосчетчиком #циклсусловием #бесконечныйцикл
+🔗 https://www.youtube.com/watch?v=huk6iv6TZvs"
+UCGuktEl5InrcxPfCjmPWxsA;t5qXPIS-ECU;2022-02-24T17:00:36Z;"📺 New #rstatsvideo: Is normalization an acceptable alternative to rarefaction? Nope. (CC190)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #normalizationrarefaction #ecologyrarefaction #ecologynormalization
+🔗 https://www.youtube.com/watch?v=t5qXPIS-ECU"
+UC3xfbCMLCw1Hh4dWop3XtHg;jVh05izjHMI;2022-02-24T18:00:21Z;"📺 New #rstatsvideo: Carson Sievert || Using tagQuery() from {htmltools} to modify HTML snippets in R || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse
+🔗 https://www.youtube.com/watch?v=jVh05izjHMI"
+UCi9RPnuGJq1dRduPXerufxA;IJYgWOfZa-M;2022-02-24T23:03:35Z;"📺 New #rstatsvideo: R Programming 2022 [8]: Lists, functions, purrr map (part 7)
+▶ datapointier (@datapointier)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=IJYgWOfZa-M"
+UCPJZmlXMcBiKjoVQ4cpAMIg;dXTo7W-GPvI;2022-02-25T07:00:10Z;"📺 New #rstatsvideo: How to create a Line Graph & Group by Months & Year | ggplot2 dplyr | R for Excel Users & Beginners
+▶ Dean Chereden (@deanchereden)
+🗣 🇬🇧
+#rstats #howto #analytics #rstudio #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=dXTo7W-GPvI"
+UCISHpKq_20peU3G1xwtXjjQ;qyGYItbMKkM;2022-02-25T08:05:13Z;"📺 New #rstatsvideo: How to Web Scrape Yelp Reviews Using R
+▶ Samer Hijjazi
+#rstats #webscraping #python #rprogramming #scrapy #rvest #selenium #yelp #reviews #datascience #dataanalytics
+🔗 https://www.youtube.com/watch?v=qyGYItbMKkM"
+UC5FvzLMVNrTMW-ycrW-4KyA;51x3K2omB-A;2022-02-25T11:00:02Z;"📺 New #rstatsvideo: 시계열 분석 첫걸음 - 11강 시계열 분해 이해하기 part1 | 이동평균의 이해
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=51x3K2omB-A"
+UC5FvzLMVNrTMW-ycrW-4KyA;vewakE_ri0k;2022-02-25T14:16:06Z;"📺 New #rstatsvideo: 시계열 분해 이해하기 12강 - 고전적인 시계열 분해방법 (가법, 곱법 모형)
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=vewakE_ri0k"
+UCyHEww8_SCdxZvEnkCfi55w;9vi6e03tqtA;2022-02-25T15:00:52Z;"📺 New #rstatsvideo: List All Functions & Objects of a Package in R (Example) | How to Get, Print & View | lsf.str & ls
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=9vi6e03tqtA"
+UCLIphG_4eXZqf4C6VBg8pUw;eEiZxz7iQ_A;2022-02-25T16:45:31Z;"📺 New #rstatsvideo: Функционалы - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #функционалы #lapply #apply #sapply
+🔗 https://www.youtube.com/watch?v=eEiZxz7iQ_A"
