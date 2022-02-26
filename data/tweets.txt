@@ -6930,3 +6930,27 @@ UCLIphG_4eXZqf4C6VBg8pUw;eEiZxz7iQ_A;2022-02-25T16:45:31Z;"📺 New #rstatsvideo
 🗣 🇷🇺
 #rstats #языкr #функционалы #lapply #apply #sapply
 🔗 https://www.youtube.com/watch?v=eEiZxz7iQ_A"
+UC2-hKemnrmVCH_29duyJ26A;PqHb2Cwetxk;2022-02-25T19:44:47Z;"📺 New #rstatsvideo: ZJ Dai - Your laptop is more capable than you think: large data with {disk.frame}
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=PqHb2Cwetxk"
+UCCaChdLMTYMxyawR_Qf-kYA;hv4pCWW2khc;2022-02-25T22:31:58Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 6: Linear Model Selection and Regularization Lab (2022-02-24) (islr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hv4pCWW2khc"
+UCtuMKU3a96iqTe1b7JNfhDw;DzuqmoR0LX8;2022-02-26T00:21:23Z;"📺 New #rstatsvideo: Data Importing Tidying & Joining Chapters(6,7,8,9,10)- Book Club Session 4 (In Persian)
+▶ R-Ladies Urmia (@RLadiesUrmia)
+#rstats
+🔗 https://www.youtube.com/watch?v=DzuqmoR0LX8"
+UCLIphG_4eXZqf4C6VBg8pUw;BSri-zFgBY0;2022-02-26T02:02:25Z;"📺 New #rstatsvideo: Tidyverse. Концепция tidy данных - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #tidyverse #опрятныеданные
+🔗 https://www.youtube.com/watch?v=BSri-zFgBY0"
+UCLIphG_4eXZqf4C6VBg8pUw;6QFkmkqznX8;2022-02-26T02:26:10Z;"📺 New #rstatsvideo: Грамматика данных. Пакет dplyr - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #dplyr #грамматикаданных #summarize #fillter
+🔗 https://www.youtube.com/watch?v=6QFkmkqznX8"
