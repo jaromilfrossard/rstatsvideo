@@ -7003,3 +7003,40 @@ UCTZXht1RTL2Duc3eU8MYGzQ;vUvut7jOPgs;2022-02-26T21:55:12Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #monad #functionalprogramming #maybemonad #safefunctions
 🔗 https://www.youtube.com/watch?v=vUvut7jOPgs"
+UCCaChdLMTYMxyawR_Qf-kYA;6t11D9uSJE8;2022-02-26T22:08:42Z;"📺 New #rstatsvideo: Tidy Modeling with R Book Club: Chapter 10 (2022-02-25) (tmwr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=6t11D9uSJE8"
+UCrmJdnPmle514qkK3lLOsVQ;I3gPrt2v0Jw;2022-02-26T23:26:57Z;"📺 New #rstatsvideo: #R | Euler's Identity ...most beautiful theorem in Mathematics | #EulersIdentity #EulersNumber
+▶ RJ Studio
+#rstats #euleridentity #eulersidentity #오일러항등식 #mostbeautifulmath #mostexquisitemathformula
+🔗 https://www.youtube.com/watch?v=I3gPrt2v0Jw"
+UCX50s91yTrcu5Ap_B7JBnFg;wnK_1g9OApM;2022-02-27T01:55:18Z;"📺 New #rstatsvideo: RLadies Vancouver (Eng) Dimensionality Reduction Tutorial: PCA & UMAP
+▶ R-Ladies Vancouver (@RLadiesVan)
+🗣 🇬🇧
+#rstats #rladies #statistics
+🔗 https://www.youtube.com/watch?v=wnK_1g9OApM"
+UCLIphG_4eXZqf4C6VBg8pUw;FtxhBPTekSU;2022-02-27T03:56:43Z;"📺 New #rstatsvideo: Работа со строковыми данными (Stringr и Rebus)
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #работасостроками #stringr #rebus #регулярныевыражения
+🔗 https://www.youtube.com/watch?v=FtxhBPTekSU"
+UCyHEww8_SCdxZvEnkCfi55w;ik7kA84_zu0;2022-02-27T15:00:37Z;"📺 New #rstatsvideo: str_sub Function of stringr Package (2 Examples) | Extract & Replace Substring of Character String
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=ik7kA84_zu0"
+UCCaChdLMTYMxyawR_Qf-kYA;9DZV6bvifHA;2022-02-27T16:41:47Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 23 Part 2 (2022-02-26) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9DZV6bvifHA"
+UCP8l94xtoemCH_GxByvTuFQ;bXbvhu-HM4o;2022-02-27T19:30:01Z;"📺 New #rstatsvideo: TidyX Episode 95 | Rmarkdown Guide - Interactive Reports with htmlwidgets
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=bXbvhu-HM4o"
+UC_bfGqjzgx4-N8TEQlJTaNQ;4VaJjawrHcQ;2022-02-27T19:49:31Z;"📺 New #rstatsvideo: ggstatplot package: ggplot2-based Plots with Statistical Details by Indrajeet Patil, PhD
+▶ Abuja R User Group (@AbujaRUG)
+#rstats
+🔗 https://www.youtube.com/watch?v=4VaJjawrHcQ"
