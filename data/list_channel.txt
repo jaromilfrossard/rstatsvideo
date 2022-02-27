@@ -50,8 +50,9 @@ UCJamxO-DE27EEZtWrNG34mA;Futbol AnalysR;futbolanalysr
 UCXuX-kQ1TbKHWeB75NgmhlA;Genomics Boot Camp;GaborM_ABG
 UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham;hadleywickham
 UCPVGs5EBtrhK5gENc1GACOA;Hansel Ochoa Montero;
-UClGaKSIiaYp8o2SB3D3aS_A;InsiderMiner;
+UClGaKSIiaYp8o2SB3D3aS_A;InsiderMiner;forcesofhabit
 UCWFju94W4ecD4qNRWW4ztLQ;INWT Statistics;INWT_Statistics
+UCrxjf_pqTZKMdAuU-WbkENA;Kianté Fernandez;
 UCYTxHFYjftv-kxhogQuwXhA;Jasper Tjaden;JasperTjaden
 UC9Sm1qcdzyGVjQMgWsW4pcw;Jennifer Sloane;jfsloane
 UCE2WK5bvNtDblu4NO9PGtJA;Jesse Mostipak;kierisi
