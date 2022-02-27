@@ -6954,3 +6954,52 @@ UCLIphG_4eXZqf4C6VBg8pUw;6QFkmkqznX8;2022-02-26T02:26:10Z;"📺 New #rstatsvideo
 🗣 🇷🇺
 #rstats #языкr #dplyr #грамматикаданных #summarize #fillter
 🔗 https://www.youtube.com/watch?v=6QFkmkqznX8"
+UCrpq9hzMQSq0ldVcXlLgpvQ;p49seH2_i8Y;2022-02-26T12:00:34Z;"📺 New #rstatsvideo: Comparing scRNA-Seq | Suerat Integration Analysis (Brief)
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=p49seH2_i8Y"
+UCDgj5-mFohWZ5irWSFMFcng;gk73bLmteP0;2022-02-26T13:17:59Z;"📺 New #rstatsvideo: R-Ladies Freiburg (English) - Intro to Shiny: Interactive Dashboards for Beginners!
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=gk73bLmteP0"
+UCCaChdLMTYMxyawR_Qf-kYA;3cNxTI7tdEI;2022-02-26T14:38:02Z;"📺 New #rstatsvideo: Modelado Tidy con R - Club de Lectura: Capítulo 3 (2022-02-22) (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=3cNxTI7tdEI"
+UCv3be7W260HXd2BoK9KihMQ;LxcSA5ql8So;2022-02-26T14:56:33Z;"📺 New #rstatsvideo: Base R vs tidyverse. What should you use and why?
+▶ ronak shah (@shahronak47)
+🗣 🇬🇧
+#rstats #coding #programming #tidyverse
+🔗 https://www.youtube.com/watch?v=LxcSA5ql8So"
+UCyHEww8_SCdxZvEnkCfi55w;OFMlpyHA4EI;2022-02-26T15:00:46Z;"📺 New #rstatsvideo: Set Number of Bins for Histogram in R (Example) | Change Breaks in Base R & ggplot2 | hist Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=OFMlpyHA4EI"
+UCMzxf1PB54mTnWJVE8xdGlw;AqSjC-63AvM;2022-02-26T15:36:58Z;"📺 New #rstatsvideo: R Data Analysis in Medical Science Practical Demonstration in RStudio   #rstats #rstudio #rladies
+▶ R-ladies Gaborone (@RLadiesGaborone)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=AqSjC-63AvM"
+UCdaVFEwp9vOvqUCpbCHY7cw;kXAgHW9U2gg;2022-02-26T15:37:39Z;"📺 New #rstatsvideo: Intro to Web Scraping using R | R Ladies Jakarta |
+▶ R-Ladies Jakarta (@RLadiesJakarta)
+#rstats
+🔗 https://www.youtube.com/watch?v=kXAgHW9U2gg"
+UCCaChdLMTYMxyawR_Qf-kYA;Xaax7EX-WIQ;2022-02-26T18:01:36Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 15: Factors (2022-02-25) (r4ds06)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Xaax7EX-WIQ"
+UCCaChdLMTYMxyawR_Qf-kYA;B6kdrCCU4pE;2022-02-26T19:29:53Z;"📺 New #rstatsvideo: SMLTAR Book Club: Chapter 6: Regression (2022-02-25) (smltar01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=B6kdrCCU4pE"
+UCTZXht1RTL2Duc3eU8MYGzQ;vUvut7jOPgs;2022-02-26T21:55:12Z;"📺 New #rstatsvideo: Watch me add a feature to a function in my {loud} package
+▶ Bruno Rodrigues (@brodriguesco)
+🗣 🇬🇧
+#rstats #monad #functionalprogramming #maybemonad #safefunctions
+🔗 https://www.youtube.com/watch?v=vUvut7jOPgs"
