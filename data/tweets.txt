@@ -7040,3 +7040,26 @@ UC_bfGqjzgx4-N8TEQlJTaNQ;4VaJjawrHcQ;2022-02-27T19:49:31Z;"📺 New #rstatsvideo
 ▶ Abuja R User Group (@AbujaRUG)
 #rstats
 🔗 https://www.youtube.com/watch?v=4VaJjawrHcQ"
+UCpSo0ZG5FtMyKwGnHaGnvrA;0Cck8__OfQs;2019-12-08T18:56:11Z;"📺 #rstatsvideo: R Markdown Example
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=0Cck8__OfQs"
+UC3xfbCMLCw1Hh4dWop3XtHg;EeLlIrqWwO4;2021-03-15T14:00:08Z;"📺 #rstatsvideo: Edgar Ruiz | Programación con R | RStudio (2019)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology #coding #connect
+🔗 https://www.youtube.com/watch?v=EeLlIrqWwO4"
+UCB_noR4lYmbKJozwJuPStbg;P5ihIzoZivc;2021-05-11T17:15:01Z;"📺 #rstatsvideo: Sentiment analysis with tidytext (R case study, 2021)
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #textanalysis #sentimentanalysis #r #tidytext #rfun
+🔗 https://www.youtube.com/watch?v=P5ihIzoZivc"
+UC_8_NCqWecqv8zjQE4ZwRwA;_O7cFAz7H4w;2021-06-09T10:10:41Z;"📺 #rstatsvideo: Covid19 Nepal - R Number Modeling - Krishna K. Shrestha
+▶ R User Group Nepal (@rugnepal)
+#rstats
+🔗 https://www.youtube.com/watch?v=_O7cFAz7H4w"
+UCYTxHFYjftv-kxhogQuwXhA;z_spmNRg1_M;2021-08-18T21:03:18Z;"📺 #rstatsvideo: Week 4: Restructuring/ reshaping data
+▶ Jasper Tjaden (@JasperTjaden)
+#rstats
+🔗 https://www.youtube.com/watch?v=z_spmNRg1_M"
