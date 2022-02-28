@@ -39,10 +39,10 @@ source("function/standardise_language.R")
 source("youtube_oauth.R")
 
 
-tb_perf <- update_performance_ratio(50)
+tb_perf <- update_performance_ratio(100)
 
 
-tb_perf <- update_performance_oldest(50)
+tb_perf <- update_performance_oldest(100)
 
 
 write_delim(tb_perf, file= "data/performance.csv", delim = ";")
