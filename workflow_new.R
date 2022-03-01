@@ -32,6 +32,9 @@ source("function/validate_new_videos.R")
 source("function/write_tweet.R")
 source("function/standardise_language.R")
 
+source("function/update_performance_ratio.R")
+source("function/update_performance_oldest.R")
+
 
 auth_as("rstatsvideo")
 source("youtube_oauth.R")
@@ -96,12 +99,27 @@ videos%>%
   arrange(ymd_hms_video)%>%
   {pwalk(list(.$id_channel, .$id_video, .$ymd_hms_video,.$tweet),post_videos)}
 
-##tweet_new videos
-#tweet_videos(tweet_older = T)
+
+
+###updating performance
+tb_perf <- update_performance_ratio(100)
+tb_perf <- update_performance_oldest(100)
+
+
+write_delim(tb_perf, file= "data/performance.csv", delim = ";")
+
+
+
 
 
 ##follow new channels
 follow_channels(silent=F)
+
+
+##update readme/dashboard
+rmarkdown::render("README.Rmd", rmarkdown::md_document())
+rmarkdown::render("index.Rmd",output_file = "docs/index.html")
+
 
 
 commit_message <- paste0("Update ", format(Sys.Date(), "%Y_%m_%d"))

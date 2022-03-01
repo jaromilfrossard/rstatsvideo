@@ -7063,3 +7063,53 @@ UCYTxHFYjftv-kxhogQuwXhA;z_spmNRg1_M;2021-08-18T21:03:18Z;"📺 #rstatsvideo: We
 ▶ Jasper Tjaden (@JasperTjaden)
 #rstats
 🔗 https://www.youtube.com/watch?v=z_spmNRg1_M"
+UCaonzTNPMjkxcBRqhe3qHyQ;a4sASSIF4aM;2022-02-28T14:05:35Z;"📺 New #rstatsvideo: Fundamentals of R Graphics
+▶ Joe Guinness (@JoeGuinnesss)
+#rstats
+🔗 https://www.youtube.com/watch?v=a4sASSIF4aM"
+UCLIphG_4eXZqf4C6VBg8pUw;sJTd1jP7OUY;2022-02-28T14:56:27Z;"📺 New #rstatsvideo: Tibble - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #tibble
+🔗 https://www.youtube.com/watch?v=sJTd1jP7OUY"
+UCyHEww8_SCdxZvEnkCfi55w;"NABFOjnnRmU";2022-02-28T15:00:46Z;"📺 New #rstatsvideo: Extract List Elements Conditionally in R (Example) | Select, Subset & Return Items | Filter Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=NABFOjnnRmU"
+UCwVZbwV_5GQpdUVB0BDmeXg;NDeA02iGoOo;2022-02-28T16:04:10Z;"📺 New #rstatsvideo: Why do studies use randomization? Part 2 - How randomization controls for differences between groups
+▶ Parsimony (@parsimonyinc)
+🗣 🇬🇧
+#rstats #randomizationinresearch #randomization #statisticsfieldofstudy
+🔗 https://www.youtube.com/watch?v=NDeA02iGoOo"
+UCEbPGn_boFJj7_sPh37mBfA;CpI1WSHBkzQ;2022-02-28T16:44:18Z;"📺 New #rstatsvideo: STAC33:  Tutorial 6
+▶ Nnenna Asidianya (@asidianya)
+#rstats
+🔗 https://www.youtube.com/watch?v=CpI1WSHBkzQ"
+UCYNVcihAKkRW-bhzIrguvVw;QJVgkfWSy6I;2022-02-28T16:59:44Z;"📺 New #rstatsvideo: Latin Square Design + R Demo
+▶ math et al
+🗣 🇬🇧
+#rstats #latinsquaredesign #latinsquare #mcrettedepalluel #sheep #latinsquarer #latinsquaredesignr #mathetal #latinsquareblockdesign #latinsquarerandomization
+🔗 https://www.youtube.com/watch?v=QJVgkfWSy6I"
+UCGuktEl5InrcxPfCjmPWxsA;6TjzjClQsOg;2022-02-28T17:00:03Z;"📺 New #rstatsvideo: Differences in sampling effort impact Bray-Curtis distances and rarefaction can minimize it (CC191)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #changecontinuousdiscreter #changecontinousdiscreter
+🔗 https://www.youtube.com/watch?v=6TjzjClQsOg"
+UC1ZIcF31fEzBO6akL_HHkBg;uZnjkGwwG3w;2022-02-28T19:32:55Z;"📺 New #rstatsvideo: A hacky use of `pkgdown::deploty_to_branch()`
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=uZnjkGwwG3w"
+UCEbPGn_boFJj7_sPh37mBfA;V_6JPc8sYMA;2022-02-28T23:18:04Z;"📺 New #rstatsvideo: STA304: Introduction to R Shiny App
+▶ Nnenna Asidianya (@asidianya)
+#rstats
+🔗 https://www.youtube.com/watch?v=V_6JPc8sYMA"
+UCrT2YmRak5iRXI_-RyXtEuA;_ZL3w-exWUM;2022-03-01T00:20:15Z;"📺 New #rstatsvideo: Mapas por desagregaciones geográficas de México
+▶ RLadies Querétaro (@RLadies_Qro)
+#rstats
+🔗 https://www.youtube.com/watch?v=_ZL3w-exWUM"
+UC_sejq_JJ49KiiK4qh5r-wg;_AvzpbGvGX8;2022-03-01T08:00:10Z;"📺 New #rstatsvideo: How to Test for Idenfiying Outliers in R Using RStudio
+▶ Universe of Data Science (@unidatascience)
+#rstats #datascience #outlierdetection
+🔗 https://www.youtube.com/watch?v=_AvzpbGvGX8"
