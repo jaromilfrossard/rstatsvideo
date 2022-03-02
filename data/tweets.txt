@@ -7113,3 +7113,51 @@ UC_sejq_JJ49KiiK4qh5r-wg;_AvzpbGvGX8;2022-03-01T08:00:10Z;"📺 New #rstatsvideo
 ▶ Universe of Data Science (@unidatascience)
 #rstats #datascience #outlierdetection
 🔗 https://www.youtube.com/watch?v=_AvzpbGvGX8"
+UC_sejq_JJ49KiiK4qh5r-wg;HUpjVKbsEcA;2022-03-01T12:07:08Z;"📺 New #rstatsvideo: How to Test for Identifying Outliers in R Using RStudio
+▶ Universe of Data Science (@unidatascience)
+#rstats #datascience #outlierdetection
+🔗 https://www.youtube.com/watch?v=HUpjVKbsEcA"
+UCyHEww8_SCdxZvEnkCfi55w;VybjnIOWOs4;2022-03-01T15:00:41Z;"📺 New #rstatsvideo: Cut Off Highest Values from ggplot2 Plot in R (2 Examples) | Red Line at 95% | geom_vline() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=VybjnIOWOs4"
+UCCaChdLMTYMxyawR_Qf-kYA;8fjjoGTGC6c;2022-03-01T15:27:57Z;"📺 New #rstatsvideo: ggplot2 Book Club: Chapter 15 (2022-02-28) (ggplot2_01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=8fjjoGTGC6c"
+UC1ZIcF31fEzBO6akL_HHkBg;CRcK0SCxGBQ;2022-03-01T15:50:30Z;"📺 New #rstatsvideo: A demo of the package r2dii.plot (by Monika)
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=CRcK0SCxGBQ"
+UCCRIHidGlMgADMkGrl8eKiQ;nfP-mGIsqVs;2022-03-01T16:25:31Z;"📺 New #rstatsvideo: De la Création au Déploiement d’Applications {shiny} avec {golem}
+▶ R Lille (@RLille_RUG)
+🗣 🇫🇷
+#rstats #rlille #rug #rusergroup
+🔗 https://www.youtube.com/watch?v=nfP-mGIsqVs"
+UC2-hKemnrmVCH_29duyJ26A;Z-6SnP6yzgo;2022-03-01T16:49:21Z;"📺 New #rstatsvideo: Hannes Mühleisen - DuckDB, an in-process analytical DBMS
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Z-6SnP6yzgo"
+UCLIphG_4eXZqf4C6VBg8pUw;TQKVa-mLGHQ;2022-03-01T16:51:18Z;"📺 New #rstatsvideo: Операторы . и do - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #do #доступкэлементамдатафрейма
+🔗 https://www.youtube.com/watch?v=TQKVa-mLGHQ"
+UCwLy_PYrnCEhCU-Ay2F5Drw;8gZWW3osz60;2022-03-01T19:08:45Z;"📺 New #rstatsvideo: PoweR 2022 | Eksploracja Danych & Feature Engineering [R]
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=8gZWW3osz60"
+UCFXPzW7RxP6RfQGpRn7WXNw;Le2Mu6Xtd3g;2022-03-01T23:59:00Z;"📺 New #rstatsvideo: w9: Tables and an intro to geospatial data
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Le2Mu6Xtd3g"
+UCeiiqmVK07qhY-wvg3IZiZQ;F4c-rEFfJpQ;2022-03-02T02:33:40Z;"📺 New #rstatsvideo: Viz Buzz: Live Data Visualization
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=F4c-rEFfJpQ"

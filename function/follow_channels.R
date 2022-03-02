@@ -14,7 +14,7 @@ follow_channels <- function( file_channel = "data/list_channel.txt",silent=TRUE)
   following <- get_friends("rstatsvideo")
   
   tb_following <- 
-    lookup_users(following$ids)
+    lookup_users(following$to_id)
   
   id_following <-
     tb_following %>%
