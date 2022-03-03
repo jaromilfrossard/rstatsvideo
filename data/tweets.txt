@@ -7161,3 +7161,28 @@ UCeiiqmVK07qhY-wvg3IZiZQ;F4c-rEFfJpQ;2022-03-02T02:33:40Z;"📺 New #rstatsvideo
 ▶ David Robinson (@drob)
 #rstats
 🔗 https://www.youtube.com/watch?v=F4c-rEFfJpQ"
+UCyHEww8_SCdxZvEnkCfi55w;JYVTPSZZVzA;2022-03-02T15:00:29Z;"📺 New #rstatsvideo: Cumulative Mean in R (Example) | Calculate Average with Base R & dplyr | cumsum, seq_along & cummean
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=JYVTPSZZVzA"
+UCfoktGmvJ6rnME7mSP_Ww2g;a-KfGVWE8kg;2022-03-02T15:15:46Z;"📺 New #rstatsvideo: Time Series Analysis in R
+▶ R-Ladies Tunis (@RLadiesTunis)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=a-KfGVWE8kg"
+UCLIphG_4eXZqf4C6VBg8pUw;gsIPCC6DIvw;2022-03-02T15:50:37Z;"📺 New #rstatsvideo: Условные выражения в tidyverse - Основы языка программирования R 2022
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #tidyverse #условныевыражения
+🔗 https://www.youtube.com/watch?v=gsIPCC6DIvw"
+UClspbw7f-6Wk0BUiI6H05OQ;eNnsWt9zNzY;2022-03-02T17:39:18Z;"📺 New #rstatsvideo: MMID Coding Workshop - 2022-03-02 Data visualization using ggtree
+▶ MMID Coding Workshop
+🗣 🇬🇧
+#rstats #rcoding #ggtree #phylogeneticanalysis
+🔗 https://www.youtube.com/watch?v=eNnsWt9zNzY"
+UC3xfbCMLCw1Hh4dWop3XtHg;0iljqY9j64U;2022-03-02T17:57:58Z;"📺 New #rstatsvideo: Shiny Usage Tracking in RStudio Connect
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=0iljqY9j64U"
