@@ -7186,3 +7186,32 @@ UC3xfbCMLCw1Hh4dWop3XtHg;0iljqY9j64U;2022-03-02T17:57:58Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=0iljqY9j64U"
+UCISHpKq_20peU3G1xwtXjjQ;BK_JBk_l5uQ;2022-03-03T07:13:21Z;"📺 New #rstatsvideo: How to Download Files From Websites Using R
+▶ Samer Hijjazi
+#rstats #rprogramming #automation #webscraping #selenium #dataanalytics #excel #webautomation #rselenium #python #analytics #datascience
+🔗 https://www.youtube.com/watch?v=BK_JBk_l5uQ"
+UCLgFrIEoBbAg9WfqTmbxweQ;LF8obIGSM5M;2022-03-03T09:04:36Z;"📺 New #rstatsvideo: Creating endpoints in shiny
+▶ John Coene (@jdatap)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LF8obIGSM5M"
+UCCaChdLMTYMxyawR_Qf-kYA;LCu_ULLQs5I;2022-03-03T14:39:31Z;"📺 New #rstatsvideo: Statistical Rethinking Book Club: Chapter 7 (2022-03-02) (statrethink01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LCu_ULLQs5I"
+UCyHEww8_SCdxZvEnkCfi55w;5MvyuMcqpFg;2022-03-03T15:00:48Z;"📺 New #rstatsvideo: Calculate (Root) Mean Squared Error in R (Examples) | MSE & RMSE | predict & sqrt | Metrics Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=5MvyuMcqpFg"
+UCGuktEl5InrcxPfCjmPWxsA;_-lQZMtHdZg;2022-03-03T17:00:32Z;"📺 New #rstatsvideo: Repeating and parallelizing a function in R with the purrr and furrr packages (CC192)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #parallelizingfunctionr #parallelizingfucntionr #purrrmapdfr #purrrmap
+🔗 https://www.youtube.com/watch?v=_-lQZMtHdZg"
+UCPJZmlXMcBiKjoVQ4cpAMIg;KEj-AAsLo08;2022-03-04T07:00:05Z;"📺 New #rstatsvideo: How to add data labels to a line graph | ggrepel | R for Excel Users & Beginners
+▶ Dean Chereden (@deanchereden)
+🗣 🇬🇧
+#rstats #howto #analytics #rstudio #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=KEj-AAsLo08"
