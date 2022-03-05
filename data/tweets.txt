@@ -7215,3 +7215,26 @@ UCPJZmlXMcBiKjoVQ4cpAMIg;KEj-AAsLo08;2022-03-04T07:00:05Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #howto #analytics #rstudio #rprogramming #datascience
 🔗 https://www.youtube.com/watch?v=KEj-AAsLo08"
+UC-xerHeYXyvyXWXwBAP2gYA;a7lPGT2E7_E;2022-03-04T07:39:27Z;"📺 New #rstatsvideo: File naming and folder structure - R project management series (Part II)
+▶ Athanasia Monika Mowinckel (@DrMowinckels)
+🗣 🇬🇧
+#rstats #reproduciblescience #reproducibleresearch
+🔗 https://www.youtube.com/watch?v=a7lPGT2E7_E"
+UCCaChdLMTYMxyawR_Qf-kYA;UqQ_N6EkTbo;2022-03-04T12:08:32Z;"📺 New #rstatsvideo: Modelado Tidy con R - Club de Lectura: Revisión de Tidyverse (2022-03-01) (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=UqQ_N6EkTbo"
+UCyHEww8_SCdxZvEnkCfi55w;4Nu7Nl67vHw;2022-03-04T15:00:45Z;"📺 New #rstatsvideo: Plot Predicted vs. Actual Values in R (Example) | Draw Fitted & Observed | Base R & ggplot2 Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=4Nu7Nl67vHw"
+UC_sejq_JJ49KiiK4qh5r-wg;a5uKFje8ZS4;2022-03-04T20:43:07Z;"📺 New #rstatsvideo: How to Remove Outliers from Data in R Using RStudio
+▶ Universe of Data Science (@unidatascience)
+#rstats #datascience #outlierremovalinr
+🔗 https://www.youtube.com/watch?v=a5uKFje8ZS4"
+UCax5WxTJvQjtS9elybDivbA;FupYJbNE4rc;2022-03-05T07:02:20Z;"📺 New #rstatsvideo: Importing your first .CSV files into R #rstudio #olakunle4impact #youtube #tagng
+▶ Olakunle4impact (@olakunle4impact)
+#rstats #importingfilesintor #csv #commaseperatedvlaues #rstudio #youtube #datascience
+🔗 https://www.youtube.com/watch?v=FupYJbNE4rc"
