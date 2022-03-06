@@ -7238,3 +7238,36 @@ UCax5WxTJvQjtS9elybDivbA;FupYJbNE4rc;2022-03-05T07:02:20Z;"📺 New #rstatsvideo
 ▶ Olakunle4impact (@olakunle4impact)
 #rstats #importingfilesintor #csv #commaseperatedvlaues #rstudio #youtube #datascience
 🔗 https://www.youtube.com/watch?v=FupYJbNE4rc"
+UCcGXGFClRdnrwXsPHi7P4ZA;MxvrbohjxPM;2022-03-05T08:33:52Z;"📺 New #rstatsvideo: R demo | McNemar Test | How to Conduct, Visualise and Interpret
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #datascience #dataanalysis #stats #introductiontostatistics #intuitiveexplanation
+🔗 https://www.youtube.com/watch?v=MxvrbohjxPM"
+UCLgFrIEoBbAg9WfqTmbxweQ;owpbIQ-j6Kk;2022-03-05T09:00:31Z;"📺 New #rstatsvideo: An introduction to the ambiorix web framework
+▶ John Coene (@jdatap)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=owpbIQ-j6Kk"
+UCrpq9hzMQSq0ldVcXlLgpvQ;fMKZ-ckCMd4;2022-03-05T12:00:30Z;"📺 New #rstatsvideo: Why R uses so much memory ? Probably
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=fMKZ-ckCMd4"
+UCyHEww8_SCdxZvEnkCfi55w;2M96I3vk9gU;2022-03-05T15:00:36Z;"📺 New #rstatsvideo: str_c R Function of stringr Package (3 Examples) | sep & collapse | Combine Character String Vector
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=2M96I3vk9gU"
+UCCaChdLMTYMxyawR_Qf-kYA;KjfCvPVU-Eo;2022-03-05T19:05:15Z;"📺 New #rstatsvideo: Tidy Modeling with R Book Club: Chapter 11 (2022-03-04) (tmwr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=KjfCvPVU-Eo"
+UCrmJdnPmle514qkK3lLOsVQ;NpjdXhD0GEw;2022-03-05T22:36:02Z;"📺 New #rstatsvideo: #R | ggside package ...UPGRADE Visualization | #ggside #DataVisualization #RPackage
+▶ RJ Studio
+#rstats #ggsidepacakge #ggside #ggsider #ggsideggplot #datavisualizationr #ggplotrmultiple #facetwrapggplot
+🔗 https://www.youtube.com/watch?v=NpjdXhD0GEw"
+UCax5WxTJvQjtS9elybDivbA;8JUFlSiGmv4;2022-03-06T07:12:26Z;"📺 New #rstatsvideo: Reading Excel Files with .xls and .xlsx Extension into R Studio #olakunle4impact #rlanguage #tagng
+▶ Olakunle4impact (@olakunle4impact)
+#rstats #readingexcelfilesintor #excelandrstudio #randexcel
+🔗 https://www.youtube.com/watch?v=8JUFlSiGmv4"
