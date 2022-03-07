@@ -7271,3 +7271,25 @@ UCax5WxTJvQjtS9elybDivbA;8JUFlSiGmv4;2022-03-06T07:12:26Z;"📺 New #rstatsvideo
 ▶ Olakunle4impact (@olakunle4impact)
 #rstats #readingexcelfilesintor #excelandrstudio #randexcel
 🔗 https://www.youtube.com/watch?v=8JUFlSiGmv4"
+UCcKPp7AI7ZTBf60WqXo3Bpg;pCXYzN0HbwA;2018-08-09T19:36:10Z;"📺 #rstatsvideo: Building and Deploying robust APIs in R using Plumber
+▶ Salt Lake City R Users Group (@slcrug)
+#rstats
+🔗 https://www.youtube.com/watch?v=pCXYzN0HbwA"
+UCkcMJvaf6rWOtizaSiUBj1Q;r2qBdXRTgTI;2020-08-13T20:15:08Z;"📺 #rstatsvideo: Build A Shiny App Part1
+▶ Elizabeth Marshallsay
+#rstats #shiny #applications
+🔗 https://www.youtube.com/watch?v=r2qBdXRTgTI"
+UCY66vV1WTk_2lHg24cuJrtg;IeFVs37HrA8;2022-03-06T13:20:19Z;"📺 New #rstatsvideo: How to Create Bubble Charts in R with geom_size() and scale_size()
+▶ The Data Digest (@DigestData)
+🗣 🇬🇧
+#rstats #bubblechart #datavisualization #rvideos #rprogramming #scalessize #scalesizebinned #rtutorial
+🔗 https://www.youtube.com/watch?v=IeFVs37HrA8"
+UCyHEww8_SCdxZvEnkCfi55w;eVL56kQXMOc;2022-03-06T15:00:55Z;"📺 New #rstatsvideo: weekdays, months, quarters & julian Functions in R (4 Examples) | Handling Date & POSIXlt Objects
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=eVL56kQXMOc"
+UCP8l94xtoemCH_GxByvTuFQ;iw3aQNwTKOk;2022-03-06T19:30:02Z;"📺 New #rstatsvideo: TidyX Episode 96 | Rmarkdown Guide - ASIS Results
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=iw3aQNwTKOk"
