@@ -7293,3 +7293,42 @@ UCP8l94xtoemCH_GxByvTuFQ;iw3aQNwTKOk;2022-03-06T19:30:02Z;"📺 New #rstatsvideo
 ▶ TidyX (@tidy_explained)
 #rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
 🔗 https://www.youtube.com/watch?v=iw3aQNwTKOk"
+UCOdX7FBvpMPknrC6gtm0y_w;i-3oHsnu5Us;2022-03-07T07:24:55Z;"📺 New #rstatsvideo: Creating features for machine learning from text
+▶ Southern California R Users Group
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=i-3oHsnu5Us"
+UCaonzTNPMjkxcBRqhe3qHyQ;XsRYXAjkqlc;2022-03-07T13:27:55Z;"📺 New #rstatsvideo: Writing Fast R Code
+▶ Joe Guinness (@JoeGuinnesss)
+#rstats
+🔗 https://www.youtube.com/watch?v=XsRYXAjkqlc"
+UCyHEww8_SCdxZvEnkCfi55w;3-Wxr8CTPJA;2022-03-07T15:00:01Z;"📺 New #rstatsvideo: Overlay ggplot2 Boxplot with Line (R Example) | Add Median on Top of Graph | stat_summary() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=3-Wxr8CTPJA"
+UCGuktEl5InrcxPfCjmPWxsA;5Mry6nXpdfE;2022-03-07T17:00:03Z;"📺 New #rstatsvideo: Rarefaction controls the false positive rate when using adonis from the vegan R package (CC193)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rarefactionadonisr #adonisr #adonisrelativeabundance
+🔗 https://www.youtube.com/watch?v=5Mry6nXpdfE"
+UCCaChdLMTYMxyawR_Qf-kYA;jZmSbkkJIzQ;2022-03-07T18:19:00Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 24 (2022-03-05) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=jZmSbkkJIzQ"
+UC5FvzLMVNrTMW-ycrW-4KyA;9tQcMIyxaoQ;2022-03-07T19:27:19Z;"📺 New #rstatsvideo: 베타분포 친해지기 - 기대값유도와 모수 의미 이해하기
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=9tQcMIyxaoQ"
+UCCaChdLMTYMxyawR_Qf-kYA;nJOAZzXDZIg;2022-03-07T20:27:30Z;"📺 New #rstatsvideo: SMLTAR Book Club: Chapter 7: Classification Part 1 (2022-03-04) (smltar01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=nJOAZzXDZIg"
+UCCaChdLMTYMxyawR_Qf-kYA;gpIOZyyK_bU;2022-03-07T23:09:47Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 3: Linear Regression Part 2 (2022-03-07) (islr03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=gpIOZyyK_bU"
