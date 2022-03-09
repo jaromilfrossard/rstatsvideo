@@ -7332,3 +7332,32 @@ UCCaChdLMTYMxyawR_Qf-kYA;gpIOZyyK_bU;2022-03-07T23:09:47Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=gpIOZyyK_bU"
+UCs7EU95YMjhvNozJKCD92xQ;lG2EkW5zMO8;2022-03-08T11:41:55Z;"📺 New #rstatsvideo: Data Management: Tidy Data and R Projects
+▶ Statistics for Sustainable Development (Stats4SD) (@Stats4SD)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=lG2EkW5zMO8"
+UCyHEww8_SCdxZvEnkCfi55w;yYdTTkMVG8s;2022-03-08T15:00:43Z;"📺 New #rstatsvideo: Save & Load RData Workspace Files in R (3 Examples) | save(), save.image(), and saveRDS() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=yYdTTkMVG8s"
+UCEbPGn_boFJj7_sPh37mBfA;Qyz0T_A_ER0;2022-03-08T18:07:58Z;"📺 New #rstatsvideo: STAC33: Tutorial 7
+▶ Nnenna Asidianya (@asidianya)
+#rstats
+🔗 https://www.youtube.com/watch?v=Qyz0T_A_ER0"
+UCi9RPnuGJq1dRduPXerufxA;X73yjK2zhH4;2022-03-08T18:10:58Z;"📺 New #rstatsvideo: R Programming 2022 [9]: Intro to stats/broom/more purrr
+▶ datapointier (@datapointier)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=X73yjK2zhH4"
+UCwLy_PYrnCEhCU-Ay2F5Drw;97vcycuFjFU;2022-03-08T19:10:51Z;"📺 New #rstatsvideo: PoweR 2022 | Machine Learning - Podstawy [R]
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=97vcycuFjFU"
+UCB_noR4lYmbKJozwJuPStbg;zdQpziYAr_c;2022-03-08T20:15:54Z;"📺 New #rstatsvideo: quickStart with R: Getting started, data wrangling, and EDA (Part 1)
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #r #datascience #tidyverse #workshops #dplyr #reproducibility #literatecoding #eda #datawrangling
+🔗 https://www.youtube.com/watch?v=zdQpziYAr_c"
