@@ -7361,3 +7361,28 @@ UCB_noR4lYmbKJozwJuPStbg;zdQpziYAr_c;2022-03-08T20:15:54Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #r #datascience #tidyverse #workshops #dplyr #reproducibility #literatecoding #eda #datawrangling
 🔗 https://www.youtube.com/watch?v=zdQpziYAr_c"
+UCyHEww8_SCdxZvEnkCfi55w;pMVuipMGXlQ;2022-03-09T15:00:38Z;"📺 New #rstatsvideo: sort, order & rank R Functions | Vector, Data Frame & List | is.unsorted, sort.list, sort.int, xtfrm
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=pMVuipMGXlQ"
+UCCaChdLMTYMxyawR_Qf-kYA;fX_hQJ_fXVw;2022-03-09T16:16:41Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 9: Support Vector Machines Lab (2022-03-08) (islr01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=fX_hQJ_fXVw"
+UClspbw7f-6Wk0BUiI6H05OQ;YHQrhxKtBb0;2022-03-09T17:37:30Z;"📺 New #rstatsvideo: MMID Coding Workshop - 2022-03-09 RNA-seq data analysis in R
+▶ MMID Coding Workshop
+🗣 🇬🇧
+#rstats #rstudio #rnaseq #bioinformatics #rnaseqdataanalysis #deseq2 #enrichr
+🔗 https://www.youtube.com/watch?v=YHQrhxKtBb0"
+UCCaChdLMTYMxyawR_Qf-kYA;vaqsOagFJbY;2022-03-09T23:28:20Z;"📺 New #rstatsvideo: Modelado Tidy con R - Club de Lectura: Capítulo 04 (2022-03-08) (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=vaqsOagFJbY"
+UC0dgTZhVua-2yvtWDfPA_nQ;c7YSyCofH3o;2022-03-09T23:38:18Z;"📺 New #rstatsvideo: A Tutorial on Sentiment Analysis in R
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #sentimentanalysisinr #sentimentanalysisinstockmarket #sentimentanalysisusingr #sentimentanalysisuseingr
+🔗 https://www.youtube.com/watch?v=c7YSyCofH3o"
