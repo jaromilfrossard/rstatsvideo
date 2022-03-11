@@ -7386,3 +7386,42 @@ UC0dgTZhVua-2yvtWDfPA_nQ;c7YSyCofH3o;2022-03-09T23:38:18Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #sentimentanalysisinr #sentimentanalysisinstockmarket #sentimentanalysisusingr #sentimentanalysisuseingr
 🔗 https://www.youtube.com/watch?v=c7YSyCofH3o"
+UCN-OX45aSM1VtXkzocx8Ppg;aVVYvCewUfI;2022-03-10T07:30:07Z;"📺 New #rstatsvideo: scRNA-seq - Quality Control and Visualization
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=aVVYvCewUfI"
+UCTXuqtCYxPVEehq6fJY9GkA;eHbFkEyN3OU;2022-03-10T12:11:24Z;"📺 New #rstatsvideo: Purrr: Introdução e possibilidades
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=eHbFkEyN3OU"
+UCCaChdLMTYMxyawR_Qf-kYA;LPOrzy_hEeM;2022-03-10T13:37:27Z;"📺 New #rstatsvideo: Statistical Rethinking Book Club: Chapter 8 (2022-03-09) (statrethink01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LPOrzy_hEeM"
+UCyHEww8_SCdxZvEnkCfi55w;fO5RYwMh4iA;2022-03-10T15:00:36Z;"📺 New #rstatsvideo: apropos & find Functions in R (2 Examples) | Identify & Find Data Objects by Partial Name in RStudio
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=fO5RYwMh4iA"
+UCGuktEl5InrcxPfCjmPWxsA;ulo7WatBEAo;2022-03-10T17:00:36Z;"📺 New #rstatsvideo: How to calculate the Aitchison distance in R using two center logratio transformations (CC194)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #aitchisondistance #centerlogratiotransformation
+🔗 https://www.youtube.com/watch?v=ulo7WatBEAo"
+UCi9RPnuGJq1dRduPXerufxA;2d-oAKAkkfI;2022-03-10T18:18:50Z;"📺 New #rstatsvideo: R Programming 2022 [10]: More stats, broom, and tables (gt, gtsummary)
+▶ datapointier (@datapointier)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2d-oAKAkkfI"
+UCcGXGFClRdnrwXsPHi7P4ZA;a-rEZUd8FzQ;2022-03-10T23:04:42Z;"📺 New #rstatsvideo: R demo | Cochran’s Q Test + Pairwise McNemar Tests (post-hoc)
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #datascience #dataanalysis #stats #introductiontostatistics #intuitiveexplanation #tutorial
+🔗 https://www.youtube.com/watch?v=a-rEZUd8FzQ"
+UC3xfbCMLCw1Hh4dWop3XtHg;l_U3hQ6mm60;2022-03-10T23:10:23Z;"📺 New #rstatsvideo: Mara Averick & Maya Gans | Data Visualization Accessibility | RStudio Meetup
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=l_U3hQ6mm60"
