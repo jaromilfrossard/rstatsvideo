@@ -136,7 +136,7 @@ UCCRIHidGlMgADMkGrl8eKiQ;R Lille;RLille_RUG
 UCxdCZGywhd2R5BiOP8vOgqg;R Programming - DDS;ddata_script
 UCfJyQ3P2k_SuqfxVdqIEQNw;R Programming 101;101Programming
 UC6wfyYnDaebrARFWhWdcItA;R Stats;
-UC8bO8eVpfEK8LbqH0oxyc3Q;R User Group at Harvard Data Science Initiative;
+UC8bO8eVpfEK8LbqH0oxyc3Q;R User Group at Harvard Data Science Initiative;RUGatHDSI
 UC_8_NCqWecqv8zjQE4ZwRwA;R User Group Nepal;rugnepal
 UC-nYzfrbDhiA03hww0PCpXg;R Users Group - Ecuador;users_group
 UCCaChdLMTYMxyawR_Qf-kYA;R4DS Online Learning Community;R4DScommunity

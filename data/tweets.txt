@@ -7425,3 +7425,52 @@ UC3xfbCMLCw1Hh4dWop3XtHg;l_U3hQ6mm60;2022-03-10T23:10:23Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=l_U3hQ6mm60"
+UCZQlpKYQPlf2QNVdSv_TRdg;xJy5zIkzgvg;2022-03-11T13:54:33Z;"📺 New #rstatsvideo: Bayesian Latent Variable Modeling in R with {blavaan}
+▶ UseR Oslo (@OURmeetup)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=xJy5zIkzgvg"
+UCyHEww8_SCdxZvEnkCfi55w;Q8ZibubkOog;2022-03-11T15:00:56Z;"📺 New #rstatsvideo: R Error in as.Date.numeric(X) : ‘origin’ must be supplied (2 Examples) | How to Replicate and Solve
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=Q8ZibubkOog"
+UCxB1IGhLzlEOikTL-aDwqFg;dJapUTXNwI4;2022-03-11T15:54:29Z;"📺 New #rstatsvideo: [2022-02-04] Pre-commit hooks in R
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #git #github
+🔗 https://www.youtube.com/watch?v=dJapUTXNwI4"
+UCxB1IGhLzlEOikTL-aDwqFg;0_DvP3n2yLc;2022-03-11T16:09:18Z;"📺 New #rstatsvideo: [2022-02-25] How to setup bash loops and nested qsubs
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #jhpce #bash #qsub #sgejobs
+🔗 https://www.youtube.com/watch?v=0_DvP3n2yLc"
+UCxB1IGhLzlEOikTL-aDwqFg;l_-3rhkvJN0;2022-03-11T16:10:37Z;"📺 New #rstatsvideo: [2022-02-11] ggtranscript: Visualising transcript structure and annotation using ggplot2
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #bioconductor #rnaseq #ggtranscript #visualization
+🔗 https://www.youtube.com/watch?v=l_-3rhkvJN0"
+UCxB1IGhLzlEOikTL-aDwqFg;luzyACCZkLY;2022-03-11T16:15:35Z;"📺 New #rstatsvideo: [2022-03-11] Choosing colors in R
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #polychrome #colorblindr #colors #colorspace #dittoseq #paletteer #scatterhatch #viridis #viridislite #visualization
+🔗 https://www.youtube.com/watch?v=luzyACCZkLY"
+UCxB1IGhLzlEOikTL-aDwqFg;D6t2GR7xaTE;2022-03-11T16:20:11Z;"📺 New #rstatsvideo: [2022-03-04] Using R/devel at JHPCE and your computer
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #jhpce #rdevel #biocdevel
+🔗 https://www.youtube.com/watch?v=D6t2GR7xaTE"
+UCCaChdLMTYMxyawR_Qf-kYA;wIj-rgxB-9A;2022-03-11T16:47:52Z;"📺 New #rstatsvideo: ISLR Book Club: Chapter 7: Moving Beyond Linearity (2022-03-10) (islr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wIj-rgxB-9A"
+UCCaChdLMTYMxyawR_Qf-kYA;NpBXB17MyfM;2022-03-11T20:03:27Z;"📺 New #rstatsvideo: Model tuning and the dangers of overfitting (tmwr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=NpBXB17MyfM"
+UC8bO8eVpfEK8LbqH0oxyc3Q;iW5kW35W04A;2022-03-11T20:33:11Z;"📺 New #rstatsvideo: Creating Features for Machine Learning from Text – Julia Silge, March 2022
+▶ R User Group at Harvard Data Science Initiative
+#rstats
+🔗 https://www.youtube.com/watch?v=iW5kW35W04A"

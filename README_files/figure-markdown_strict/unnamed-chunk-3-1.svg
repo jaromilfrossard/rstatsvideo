@@ -355,7 +355,7 @@
   <path d="M 145.40625 69 L 466 69 L 466 95 L 145.40625 95 Z M 145.40625 69 "/>
 </clipPath>
 <clipPath id="clip21">
-  <path d="M 145.40625 97 L 464 97 L 464 122 L 145.40625 122 Z M 145.40625 97 "/>
+  <path d="M 145.40625 97 L 465 97 L 465 122 L 145.40625 122 Z M 145.40625 97 "/>
 </clipPath>
 <clipPath id="clip22">
   <path d="M 145.40625 124 L 360 124 L 360 149 L 145.40625 149 Z M 145.40625 124 "/>
@@ -447,7 +447,7 @@
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.588235%,41.960784%,95.294118%);fill-opacity:1;" d="M 145.40625 94.328125 L 465.640625 94.328125 L 465.640625 69.972656 L 145.40625 69.972656 Z M 145.40625 94.328125 "/>
 </g>
 <g clip-path="url(#clip21)" clip-rule="nonzero">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(58.431373%,56.470588%,100%);fill-opacity:1;" d="M 145.40625 121.390625 L 463.5 121.390625 L 463.5 97.035156 L 145.40625 97.035156 Z M 145.40625 121.390625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(58.431373%,56.470588%,100%);fill-opacity:1;" d="M 145.40625 121.390625 L 464.570313 121.390625 L 464.570313 97.035156 L 145.40625 97.035156 Z M 145.40625 121.390625 "/>
 </g>
 <g clip-path="url(#clip22)" clip-rule="nonzero">
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,69.019608%,96.470588%);fill-opacity:1;" d="M 145.40625 148.453125 L 359.609375 148.453125 L 359.609375 124.097656 L 145.40625 124.097656 Z M 145.40625 148.453125 "/>
@@ -481,9 +481,9 @@
   <use xlink:href="#glyph0-3" x="457.658382" y="86.101563"/>
 </g>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
-  <use xlink:href="#glyph0-4" x="443.238281" y="113.164063"/>
-  <use xlink:href="#glyph0-5" x="449.378019" y="113.164063"/>
-  <use xlink:href="#glyph0-6" x="455.517757" y="113.164063"/>
+  <use xlink:href="#glyph0-4" x="444.308594" y="113.164063"/>
+  <use xlink:href="#glyph0-5" x="450.448332" y="113.164063"/>
+  <use xlink:href="#glyph0-1" x="456.58807" y="113.164063"/>
 </g>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
   <use xlink:href="#glyph0-6" x="339.347656" y="140.226563"/>
@@ -844,7 +844,7 @@
   <use xlink:href="#glyph1-40" x="480.905859" y="352.667969"/>
   <use xlink:href="#glyph1-39" x="485.8" y="352.667969"/>
   <use xlink:href="#glyph1-41" x="488.730469" y="352.667969"/>
-  <use xlink:href="#glyph1-41" x="493.624609" y="352.667969"/>
+  <use xlink:href="#glyph1-35" x="493.624609" y="352.667969"/>
 </g>
 </g>
 </svg>
