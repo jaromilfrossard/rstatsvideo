@@ -1,10 +1,12 @@
 id_channel;name_channel;id_twitter
 UCpSo0ZG5FtMyKwGnHaGnvrA;Aaron Maxwell;
+UCbck9jjLpwj7U6HHNps_9Gw;Abhinav Agrawal;
 UC_bfGqjzgx4-N8TEQlJTaNQ;Abuja R User Group;AbujaRUG
 UCYtwfTEnBj_xuSIuffr8-XQ;Ajay Koli;ajay_kolii
 UCGn6055dyd5pSmVtHTukQIg;Alexander Rauhut;
 UCQYM-t2ut2zXr4d7TIFya1A;Alison Hill;apreshill
 UCnwYO3Sz_emBTC1sTZ6TlsQ;Andrew Couch;Andr3wCouch
+UCiGbx61Bed35EZXL_Hk_qpA;Anna Skrzydlo
 UCgXBQIFJ_Rmq3UhWL_yrkxQ;Applied Epi;
 UCVkj__s6Atxd1s2BwEY3kVA;Arman Hossain Chowdhury;
 UCLIphG_4eXZqf4C6VBg8pUw;Artem Golubnichy;
@@ -23,6 +25,7 @@ UCKFp00-PRnuc1Dx4DaUmJBg;Chad C. Williams;WilliamsNeuro
 UC7C4YZ-9itQW7Nl4RVKDflg;Cleveland R User Group;
 UCBYwP7mrBxJSZbPg-U3uR-A;CodeR;
 UC-vtwz7ueU2dtnHk5e-WblA;Colin Quirk;ColinTQuirk
+UCHCdYfAXVzJIUkMoMSGiZMw;Community of Bioinformatics Software Developers;CDSBMexico
 UCb_qPFrtCiD-0apuOqPmODQ;Confused Postdoc;
 UCTXuqtCYxPVEehq6fJY9GkA;Curso-R;curso_r
 UCFXPzW7RxP6RfQGpRn7WXNw;Daniel Anderson;datalorax_
@@ -40,6 +43,7 @@ UCk66R2sZ_ZzaaDYgILxKZ9g;David Granjon;divadnojnarg
 UCeiiqmVK07qhY-wvg3IZiZQ;David Robinson;drob
 UCPJZmlXMcBiKjoVQ4cpAMIg;Dean Chereden;deanchereden
 UC4_hSKmvUG4w0w270AH5bXQ;Derek Sollberger;DerekSollberger
+UCpbWlHEqBSnJb6i4UemXQpA;Dr. Azad Rasul;Azad77Rasul
 UCOTvF8_pnr4J_YpMVbYaLiA;Drew Tyre;drew_tyre
 UCkAyfZ4tAeO0j9dS-_yU7Gw;Dublin Data Science;
 UCN-OX45aSM1VtXkzocx8Ppg;Duke Center for Computational Thinking;duke_cct
@@ -50,6 +54,7 @@ UC5w9xVTs77__zlEeRRQILpw;Federica Gazzelloni;FGazzelloni
 UCJamxO-DE27EEZtWrNG34mA;Futbol AnalysR;futbolanalysr
 UCXuX-kQ1TbKHWeB75NgmhlA;Genomics Boot Camp;GaborM_ABG
 UCJ04koR_DOtHh9SywevkEWg;ggplot2tor;ChBurkhart
+UCHIlDVeRUk3BAh4XEphxVFA;gisela soledispa lucas;
 UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham;hadleywickham
 UCPVGs5EBtrhK5gENc1GACOA;Hansel Ochoa Montero;
 UClGaKSIiaYp8o2SB3D3aS_A;InsiderMiner;forcesofhabit
@@ -85,6 +90,7 @@ UCYNVcihAKkRW-bhzIrguvVw;math et al;
 UC1ZIcF31fEzBO6akL_HHkBg;Mauro Lepore;mauro_lepore
 UCWOMdzXlQgRu6f-plf9DTcg;Miguel Bustos;
 UClspbw7f-6Wk0BUiI6H05OQ;MMID Coding Workshop;
+UCU6vtQ59YrGqIrytnJ2CRug;Nasrin Fathollahzadeh Attar;NasrinAttar
 UCEbPGn_boFJj7_sPh37mBfA;Nnenna Asidianya;asidianya
 UCMwM-3tg_-Pbx8hKO78q5EA;NHSR Community;NHSrCommunity
 UCax5WxTJvQjtS9elybDivbA;Olakunle4impact;olakunle4impact
@@ -92,12 +98,14 @@ UCoCfOfaj2c4sMxFv_nglycw;Open Data Science Deutschland;
 UCwVZbwV_5GQpdUVB0BDmeXg;Parsimony;parsimonyinc
 UCBsXfUO__nzMnlaLLUx7DFQ;Probability!;
 UCljumcPvitx5W0OEC_Thk2Q;Rania Ismail;
+UCKHWHHzf3H79h2T0QWdR1Tw;R en Baires;renbaires
 UCY98oWVfQEZ_i7R_0JqIRZA;R- Ladies Amsterdam;RLadiesAMS
 UCktFo5XoX5QZMWb2Gb3KY2A;R-Ladies Abuja;RLadiesAbuja
 UC9UK90FN2Q1cl0J5Kl4-7Mg;R-Ladies Baltimore;RLadiesBmore
 UCEw9Q55DDo1OIHrb_V5r-KA;R-Ladies Barcelona;RLadiesBCN
 UCHITDNNHzEXfD8AzSFQOh9A;R-Ladies Barranquilla;
 UC9oOCJe8kwkZ_6IgTmet9oQ;R-Ladies Brisbane;RLadiesBrisbane
+UCztAJhENVqsqv0cvyxs4sgg;RLadies Buenos Aires;RLadiesBA
 UCYjjz8ANtLZNu9u4P6tHh9g;R-Ladies Ecuador;RLadiesBquilla
 UCAzHeCFKu0uoRIFHRoLgoBA;R-Ladies EskişehiR;RLadiesEskisehR
 UCO5Aa1E7pSh5w2pxPgkPDog;R-Ladies Gaborone;RLadiesGaborone
@@ -107,8 +115,9 @@ UCIbS1KNK7jbcbQVNt7lF62A;R-Ladies Irvine;RLadiesIrvine
 UCdaVFEwp9vOvqUCpbCHY7cw;R-Ladies Jakarta;RLadiesJakarta
 UCrf8aQYGogbz0_7TTQVL21w;R-Ladies La Paz;RLadiesLaPaz
 UCgmESmRO796bbzOxFNPtXWw;R-Ladies Lausanne;RLadiesLausanne
-UCGjjzr5QxkGqPmVu4HYIyjg;R-ladies Lavras;
+UCGjjzr5QxkGqPmVu4HYIyjg;R-ladies Lavras;rladieslavras
 UCJlLo_WBovtoVUNXQvr3UiA;R-Ladies Lisboa;RLadiesLx
+UCGDrExQGLA3A_jNAQlKBKBA;R-Ladies Madrid;RLadiesMAD
 UClC5yNEjMoE3MmbK-mrV8Ow;R-Ladies Melbourne;RLadiesMelb
 UCRth2ImB1T-_saYc5YBTcyA;R-Ladies Nairobi;RLadiesNairobi
 UCoL2FUq0Yo3RcjGG0Vf2qmg;R-Ladies Perth;RLadiesPerth
@@ -189,6 +198,7 @@ UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen;
 UCyf1AvRK4gmfRUJjeBNMauA;Tunis R User Group;TunisRUserGroup
 UCQ2fY9JECnDzjK4JdFdhpCg;UCLA Library Data Science Center;
 UCmU-94bz7OxehQnkQ1VlUMg;Udemy Free Course;
+UC4JoQFwsdvtEYJcPRqXyv1Q;useRchile;
 UCZQlpKYQPlf2QNVdSv_TRdg;UseR Oslo;OURmeetup
 UC_sejq_JJ49KiiK4qh5r-wg;Universe of Data Science;unidatascience
 UCPzO5TjnYnBzfUVj6fI3pdw;Vivian Codes;
