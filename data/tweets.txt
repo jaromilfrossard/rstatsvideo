@@ -7474,3 +7474,26 @@ UC8bO8eVpfEK8LbqH0oxyc3Q;iW5kW35W04A;2022-03-11T20:33:11Z;"📺 New #rstatsvideo
 ▶ R User Group at Harvard Data Science Initiative
 #rstats
 🔗 https://www.youtube.com/watch?v=iW5kW35W04A"
+UCDgj5-mFohWZ5irWSFMFcng;Xn5AmUf7gDQ;2020-05-12T18:58:42Z;"📺 #rstatsvideo: R-Ladies Oslo (English) - Reports to impress your boss! Rmarkdown magic
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #rladies #programming #rmarkdown
+🔗 https://www.youtube.com/watch?v=Xn5AmUf7gDQ"
+UCTXuqtCYxPVEehq6fJY9GkA;AJA2m-FVjDk;2020-12-18T01:18:21Z;"📺 #rstatsvideo: Live Stream Curso-R #14 - ColaboRando com a comunidade
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=AJA2m-FVjDk"
+UCyHEww8_SCdxZvEnkCfi55w;orHrpLejd7I;2022-03-12T15:00:33Z;"📺 New #rstatsvideo: tolower, toupper, casefold & chartr R Functions (3 Examples) | Translation to Small / Capital Letter
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=orHrpLejd7I"
+UCCaChdLMTYMxyawR_Qf-kYA;GNqKLd8SqNU;2022-03-12T18:18:51Z;"📺 New #rstatsvideo: SMLTAR Chapter 7: Classification Part 2 (2022-03-11) (smltar01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GNqKLd8SqNU"
+UCrmJdnPmle514qkK3lLOsVQ;HaiiuPEaasE;2022-03-12T22:56:39Z;"📺 New #rstatsvideo: #R | Tidymodels Random Forest | #tidymodels #RandomForest #MachineLearninginR #tidyverse
+▶ RJ Studio
+#rstats #tidymodelr #tidymodelsr #tidymodels #tidymodeltidyverse #randomforestparsnip #rfparsnip
+🔗 https://www.youtube.com/watch?v=HaiiuPEaasE"
