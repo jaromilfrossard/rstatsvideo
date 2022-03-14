@@ -7497,3 +7497,25 @@ UCrmJdnPmle514qkK3lLOsVQ;HaiiuPEaasE;2022-03-12T22:56:39Z;"📺 New #rstatsvideo
 ▶ RJ Studio
 #rstats #tidymodelr #tidymodelsr #tidymodels #tidymodeltidyverse #randomforestparsnip #rfparsnip
 🔗 https://www.youtube.com/watch?v=HaiiuPEaasE"
+UClGaKSIiaYp8o2SB3D3aS_A;9_-xLiqTcnM;2013-05-26T05:19:34Z;"📺 #rstatsvideo: Data Mining Algae p3 7 minutes
+▶ InsiderMiner (@forcesofhabit)
+#rstats #datamining #rprogramming #probability #statistics #programming
+🔗 https://www.youtube.com/watch?v=9_-xLiqTcnM"
+UCFT7Tgi7UAzR-eyzjoxBzxA;QIZ5aWh5FzM;2022-03-13T14:00:08Z;"📺 New #rstatsvideo: Meetup Marzo 2022: Matrices, listas y dataframes en R
+▶ RLadies Cuernavaca (@RLadiesCuerna)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=QIZ5aWh5FzM"
+UCyHEww8_SCdxZvEnkCfi55w;BVzPUPZwWbg;2022-03-13T15:00:39Z;"📺 New #rstatsvideo: Calculate Variance in R (3 Examples) | Apply var, sqrt & sd Functions | Sample & Population Formula
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=BVzPUPZwWbg"
+UCJ04koR_DOtHh9SywevkEWg;XQWOj2Hd6CM;2022-03-13T16:30:41Z;"📺 New #rstatsvideo: How to use after_scale in ggplot2 for boxplots
+▶ ggplot2tor (@ChBurkhart)
+#rstats
+🔗 https://www.youtube.com/watch?v=XQWOj2Hd6CM"
+UCP8l94xtoemCH_GxByvTuFQ;qlGLif086Zo;2022-03-13T18:30:47Z;"📺 New #rstatsvideo: TidyX Episode 97 | Sampling, Simulation, and Intro to Bayes - Base R Distributions
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=qlGLif086Zo"
