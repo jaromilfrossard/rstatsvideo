@@ -7519,3 +7519,44 @@ UCP8l94xtoemCH_GxByvTuFQ;qlGLif086Zo;2022-03-13T18:30:47Z;"📺 New #rstatsvideo
 ▶ TidyX (@tidy_explained)
 #rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
 🔗 https://www.youtube.com/watch?v=qlGLif086Zo"
+UCtuMKU3a96iqTe1b7JNfhDw;cL7xFcr2XsU;2022-03-14T11:17:59Z;"📺 New #rstatsvideo: ایجاد یک گزارش یا ارایه با استفاده از Rmarkdown
+▶ R-Ladies Urmia (@RLadiesUrmia)
+#rstats
+🔗 https://www.youtube.com/watch?v=cL7xFcr2XsU"
+UCB7N0JYEOoT2IPLuImsx-3w;jFBNFGZL0VU;2022-03-14T12:15:42Z;"📺 New #rstatsvideo: R Ladies Bogor 12th Meet Up: Back to basic, Classical tests with R!
+▶ R Ladies Bogor (@RLadiesBogor)
+#rstats
+🔗 https://www.youtube.com/watch?v=jFBNFGZL0VU"
+UCyHEww8_SCdxZvEnkCfi55w;WRjKyCZsbE4;2022-03-14T15:00:14Z;"📺 New #rstatsvideo: RSelenium Package in R (Example) | Automate Web Browsers | Introduction & Tutorial for Beginners
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobecom #statisticalprogramming #rprogramming
+🔗 https://www.youtube.com/watch?v=WRjKyCZsbE4"
+UCEbPGn_boFJj7_sPh37mBfA;jjWfxC3NjFo;2022-03-14T15:07:19Z;"📺 New #rstatsvideo: STAC33: Tutorial 9
+▶ Nnenna Asidianya (@asidianya)
+#rstats
+🔗 https://www.youtube.com/watch?v=jjWfxC3NjFo"
+UCyZCfIET7753bs5WpmKI_qQ;Wukf7v3_u4I;2022-03-14T15:20:40Z;"📺 New #rstatsvideo: Tutorial R | Fazer múltiplos modelos de regressão simultaneamente no R
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=Wukf7v3_u4I"
+UCaonzTNPMjkxcBRqhe3qHyQ;kFI4HZ0EhsA;2022-03-14T15:36:29Z;"📺 New #rstatsvideo: Floating Point Numbers - Theory and Practice
+▶ Joe Guinness (@JoeGuinnesss)
+#rstats
+🔗 https://www.youtube.com/watch?v=kFI4HZ0EhsA"
+UCGuktEl5InrcxPfCjmPWxsA;E9QS4dRqWS8;2022-03-14T17:45:00Z;"📺 New #rstatsvideo: How to use DESeq2's variance stabilizing transformation with microbiome data (CC195)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #variancestabilizingtransformationmicrobiome
+🔗 https://www.youtube.com/watch?v=E9QS4dRqWS8"
+UCCaChdLMTYMxyawR_Qf-kYA;lO_qtXM8OH8;2022-03-14T21:13:07Z;"📺 New #rstatsvideo: R for Data Science Book Club: Chapter 25 (2022-03-12) (r4ds05)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=lO_qtXM8OH8"
+UCwVZbwV_5GQpdUVB0BDmeXg;0DOYfD9Ezc0;2022-03-15T02:23:57Z;"📺 New #rstatsvideo: How to create a Grouped Bar Chart in R ✅ Using Grouped Bar Charts in R Programming Language
+▶ Parsimony (@parsimonyinc)
+🗣 🇬🇧
+#rstats #groupedbarchart #barchart #barchartsinr #groupedbarchartinr #barcharts
+🔗 https://www.youtube.com/watch?v=0DOYfD9Ezc0"
