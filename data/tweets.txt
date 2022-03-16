@@ -7560,3 +7560,41 @@ UCwVZbwV_5GQpdUVB0BDmeXg;0DOYfD9Ezc0;2022-03-15T02:23:57Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #groupedbarchart #barchart #barchartsinr #groupedbarchartinr #barcharts
 🔗 https://www.youtube.com/watch?v=0DOYfD9Ezc0"
+UCyHEww8_SCdxZvEnkCfi55w;oqeXwOnUXp0;2022-03-15T15:00:43Z;"📺 New #rstatsvideo: R Error: Replacement has X Rows, Data has Y (2 Examples) | How to Replicate & Debug | which Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=oqeXwOnUXp0"
+UC1ZIcF31fEzBO6akL_HHkBg;XG8DetPZP4c;2022-03-15T15:45:25Z;"📺 New #rstatsvideo: wtf: Installing R packages (part 1)
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=XG8DetPZP4c"
+UCwLy_PYrnCEhCU-Ay2F5Drw;Jr4Wy6eNrcY;2022-03-15T19:07:12Z;"📺 New #rstatsvideo: PoweR 2022 | Wyjaśnialny Machine Learning [R]
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Jr4Wy6eNrcY"
+UCg4rv97QEhN-2gvLhrGMgEw;J2Bge4cPfV8;2022-03-15T19:53:57Z;"📺 New #rstatsvideo: Pacote ggiraph na Prática
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=J2Bge4cPfV8"
+UCbck9jjLpwj7U6HHNps_9Gw;E3De2A73ako;2022-03-15T20:44:07Z;"📺 New #rstatsvideo: Visualization of correlation matrix in R | ggcorrplot tutorial | ggplot2 extension | R Tutorial
+▶ Abhinav Agrawal
+#rstats #rprogramming #rtutorial #ggplot2 #ggcorrplot #ggcorrplottutorial
+🔗 https://www.youtube.com/watch?v=E3De2A73ako"
+UC3xfbCMLCw1Hh4dWop3XtHg;hyvClyUOY04;2022-03-15T22:10:45Z;"📺 New #rstatsvideo: George Mount | R for Excel Users - First Steps | RStudio Meetup
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hyvClyUOY04"
+UCrG34lup96IfDweTSDkPHDA;eZWJFvouacg;2022-03-15T22:37:35Z;"📺 New #rstatsvideo: Mini curso RMB: Generación de gráficas con ggplot2
+▶ RLadies Mexico
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=eZWJFvouacg"
+UCeiiqmVK07qhY-wvg3IZiZQ;0uG4A9r0ewI;2022-03-16T02:10:46Z;"📺 New #rstatsvideo: Viz Buzz: Live Data Visualization (March 15)
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=0uG4A9r0ewI"
