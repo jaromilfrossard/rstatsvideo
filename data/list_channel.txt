@@ -17,6 +17,7 @@ UCWApflfx7nUcvvYMZ2SAbCQ;BIG Bioinformatics;
 UCFX-MipGKF9jCEXaP-59BzQ;BIS15L: Data Science for Biologists;
 UCAI9XVDrTRsT2cjdFLaTnBw;Biostatistics;
 UCTZXht1RTL2Duc3eU8MYGzQ;Bruno Rodrigues;brodriguesco
+UCcU3xuCc2IHMvQ55lfuydxw;Business Analytics Masterclass;
 UCqQ_cxcNu1ekqHXDc-MbU_w;Business Science;bizScienc
 UCDR9i4RB_ZbnM8QXp4NC9uQ;CalgaryR R User Group;
 UCyZCfIET7753bs5WpmKI_qQ;CARVALHO RIBEIRO;
