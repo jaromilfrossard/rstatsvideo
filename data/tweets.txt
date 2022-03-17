@@ -7598,3 +7598,68 @@ UCeiiqmVK07qhY-wvg3IZiZQ;0uG4A9r0ewI;2022-03-16T02:10:46Z;"📺 New #rstatsvideo
 ▶ David Robinson (@drob)
 #rstats
 🔗 https://www.youtube.com/watch?v=0uG4A9r0ewI"
+UCcU3xuCc2IHMvQ55lfuydxw;CyIPNhnAfCs;2022-03-16T10:38:01Z;"📺 New #rstatsvideo: R Programming Fundamentals - Complete Tutorial (part 1)
+▶ Business Analytics Masterclass
+#rstats
+🔗 https://www.youtube.com/watch?v=CyIPNhnAfCs"
+UCcU3xuCc2IHMvQ55lfuydxw;QUx29OSyd-0;2022-03-16T10:38:08Z;"📺 New #rstatsvideo: R Programming Fundamentals - Complete Tutorial (part 2)
+▶ Business Analytics Masterclass
+#rstats
+🔗 https://www.youtube.com/watch?v=QUx29OSyd-0"
+UCMdihazndR0f9XBoSXWqnYg;wr4QdQ24dRE;2022-03-16T14:48:12Z;"📺 New #rstatsvideo: R & Python - Parsing Part 2
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing #dependency
+🔗 https://www.youtube.com/watch?v=wr4QdQ24dRE"
+UCyHEww8_SCdxZvEnkCfi55w;4n62RrpyqgE;2022-03-16T15:00:36Z;"📺 New #rstatsvideo: Reverse Character String in R (2 Examples) | Change Order of Characters | stri_reverse() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=4n62RrpyqgE"
+UClspbw7f-6Wk0BUiI6H05OQ;mozgjZZf06M;2022-03-16T15:06:17Z;"📺 New #rstatsvideo: MMID Coding Workshop - 2022-03-16 Introduction to machine learning in R
+▶ MMID Coding Workshop
+🗣 🇬🇧
+#rstats #rcoding #supportvectormachine #svm #machinelearning #e1071 #irisrpackage
+🔗 https://www.youtube.com/watch?v=mozgjZZf06M"
+UC0dgTZhVua-2yvtWDfPA_nQ;hQYwUl0zplY;2022-03-16T15:16:46Z;"📺 New #rstatsvideo: A Tutorial on text analytics with latent semantic analysis
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #textanalyticslatentsemanticanalysis
+🔗 https://www.youtube.com/watch?v=hQYwUl0zplY"
+UCTTBgWyJl2HrrhQOOc710kA;NEPEgfryId8;2022-03-16T18:00:30Z;"📺 New #rstatsvideo: Poisson regression with tidymodels for package vignette counts
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=NEPEgfryId8"
+UCLgFrIEoBbAg9WfqTmbxweQ;vkWCJHBy8K0;2022-03-16T19:00:17Z;"📺 New #rstatsvideo: Cookies with the ambiorix web framework
+▶ John Coene (@jdatap)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vkWCJHBy8K0"
+UCTZXht1RTL2Duc3eU8MYGzQ;9RDQN_WTfiI;2022-03-16T20:58:56Z;"📺 New #rstatsvideo: Little-known useful R functions #6: add logs to your functions using {loud}
+▶ Bruno Rodrigues (@brodriguesco)
+#rstats #monad
+🔗 https://www.youtube.com/watch?v=9RDQN_WTfiI"
+UCwQ7lkY6YWzZjT807Itbvtw;wjZgS-RAHiA;2022-03-17T05:32:29Z;"📺 New #rstatsvideo: Extreme shinydevseries makeover: Hugo Apero edition!
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=wjZgS-RAHiA"
+UCwQ7lkY6YWzZjT807Itbvtw;XHxtRfIKPYQ;2022-03-17T05:32:50Z;"📺 New #rstatsvideo: The dev journey of shinylearning continues!
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=XHxtRfIKPYQ"
+UCwQ7lkY6YWzZjT807Itbvtw;3OaZDPsauAs;2022-03-17T05:33:08Z;"📺 New #rstatsvideo: Building RStudio integration with shinylearning
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=3OaZDPsauAs"
+UCwQ7lkY6YWzZjT807Itbvtw;2dNxJyhbQ7E;2022-03-17T05:33:21Z;"📺 New #rstatsvideo: Building a (prehistoric) showcase for shinylearning
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=2dNxJyhbQ7E"
+UCwQ7lkY6YWzZjT807Itbvtw;_8wUaesC8vQ;2022-03-17T05:33:30Z;"📺 New #rstatsvideo: shinylearning becomes shinybrain!
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=_8wUaesC8vQ"
+UCax5WxTJvQjtS9elybDivbA;n29fgM8tgSA;2022-03-17T07:20:01Z;"📺 New #rstatsvideo: Reading a .txt files into R Studio. #Rlanguage #olakunle4impact #tagng #txt
+▶ Olakunle4impact (@olakunle4impact)
+#rstats #readingatxtfilesintor #txt #rstudio #olakunle4impact #tagng #rprogramming
+🔗 https://www.youtube.com/watch?v=n29fgM8tgSA"
