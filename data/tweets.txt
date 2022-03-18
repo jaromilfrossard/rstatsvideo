@@ -7663,3 +7663,51 @@ UCax5WxTJvQjtS9elybDivbA;n29fgM8tgSA;2022-03-17T07:20:01Z;"📺 New #rstatsvideo
 ▶ Olakunle4impact (@olakunle4impact)
 #rstats #readingatxtfilesintor #txt #rstudio #olakunle4impact #tagng #rprogramming
 🔗 https://www.youtube.com/watch?v=n29fgM8tgSA"
+UCTXuqtCYxPVEehq6fJY9GkA;GojmtHJOUag;2022-03-17T12:50:17Z;"📺 New #rstatsvideo: Live Curso-R: desafio de dados #1
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=GojmtHJOUag"
+UCyHEww8_SCdxZvEnkCfi55w;FCNld2UFaxc;2022-03-17T15:00:39Z;"📺 New #rstatsvideo: Read Excel File in R (Example) | xlsx, xls, read_excel, readxl, & openxlsx | Multiple Files & Sheets
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=FCNld2UFaxc"
+UCQ7DcXWJm3es06U7lGmBDkw;MvGAstDzLJk;2022-03-17T15:12:57Z;"📺 New #rstatsvideo: R-Ladies St. Louis Meetup March 15, 2022: Creating Dynamic Reports from your Shiny App
+▶ R Ladies STL (@RLadiesSTL)
+#rstats
+🔗 https://www.youtube.com/watch?v=MvGAstDzLJk"
+UCGuktEl5InrcxPfCjmPWxsA;wq1SXGQYgCs;2022-03-17T16:00:26Z;"📺 New #rstatsvideo: Using vegan to calculate alpha diversity metrics within the tidyverse in R (CC196)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #veganalphadiversity #veganshannondiversity #veganrichness
+🔗 https://www.youtube.com/watch?v=wq1SXGQYgCs"
+UCi9RPnuGJq1dRduPXerufxA;MAgCL61BkH0;2022-03-17T17:04:04Z;"📺 New #rstatsvideo: R Programming 2022 [11]: More stats, tidyeval functions, loose ends
+▶ datapointier (@datapointier)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=MAgCL61BkH0"
+UC1ZIcF31fEzBO6akL_HHkBg;LvzljgPrsjg;2022-03-17T20:35:25Z;"📺 New #rstatsvideo: Setup a GitHub token to install R packages from a private repository
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LvzljgPrsjg"
+UCDgj5-mFohWZ5irWSFMFcng;ApCuVkptBbQ;2022-03-17T21:52:49Z;"📺 New #rstatsvideo: R-Ladies New York (English) - Making plots to explore data using R - Dianne Cook
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming #datavisualization
+🔗 https://www.youtube.com/watch?v=ApCuVkptBbQ"
+UCDgj5-mFohWZ5irWSFMFcng;h-b5VHorU_c;2022-03-17T21:59:11Z;"📺 New #rstatsvideo: R-Ladies New York (English) - Panel Discussion: Working with & learning from COVID-19 data
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=h-b5VHorU_c"
+UCDgj5-mFohWZ5irWSFMFcng;42F4COqMhbM;2022-03-17T22:02:24Z;"📺 New #rstatsvideo: R-Ladies New York (English) - Creating model en mass with workflowsets - Max Kuhn
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=42F4COqMhbM"
+UCDgj5-mFohWZ5irWSFMFcng;vP322X-R68E;2022-03-17T22:15:26Z;"📺 New #rstatsvideo: R-Ladies New York (English) - Publishing your R or Data Science book with Chapman & Hall/CRC Press
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vP322X-R68E"
