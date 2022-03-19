@@ -7711,3 +7711,48 @@ UCDgj5-mFohWZ5irWSFMFcng;vP322X-R68E;2022-03-17T22:15:26Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=vP322X-R68E"
+UC1ZIcF31fEzBO6akL_HHkBg;sbp5Q8niTho;2022-03-18T12:40:24Z;"📺 New #rstatsvideo: Set up a custom user library to install R packages
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=sbp5Q8niTho"
+UCN-OX45aSM1VtXkzocx8Ppg;P4nvCPa1GPQ;2022-03-18T13:00:49Z;"📺 New #rstatsvideo: The Computational Biology Reading Group - 2022 CCT Symposium
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=P4nvCPa1GPQ"
+UCyHEww8_SCdxZvEnkCfi55w;kSrnWZcv0tc;2022-03-18T15:00:45Z;"📺 New #rstatsvideo: Rounding in R (Examples) | round, ceiling, floor, trunc & signif Functions | Formatting Numeric Data
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=kSrnWZcv0tc"
+UCnYkdhuQljgCnGNpCZpPfVA;6fZ3k95Imd0;2022-03-18T17:00:04Z;"📺 New #rstatsvideo: Come calcolare le statistiche descrittive con R
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=6fZ3k95Imd0"
+UCg4rv97QEhN-2gvLhrGMgEw;uh6lUOVgs3Y;2022-03-18T17:33:51Z;"📺 New #rstatsvideo: Análise de Regressão Logística Ordinal
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=uh6lUOVgs3Y"
+UCxB1IGhLzlEOikTL-aDwqFg;LjWr39C1Z_Q;2022-03-18T18:40:58Z;"📺 New #rstatsvideo: [2022-03-18] How to use rmote and rmate
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #jhpce #textmate #rmate #rmote
+🔗 https://www.youtube.com/watch?v=LjWr39C1Z_Q"
+UC5FvzLMVNrTMW-ycrW-4KyA;sUALCPuD_Gc;2022-03-19T00:06:42Z;"📺 New #rstatsvideo: 오랜만에 다시 Study with me~!
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #r프로그래밍 #데이터사이언스 #기초통계 #r강의 #수리통계 #대학통계 #tidyverse #데이터분석 #adp #혼공 #studywithme #공부자극
+🔗 https://www.youtube.com/watch?v=sUALCPuD_Gc"
+UCcCMO7sHb8O_TJUd34sQ_Ng;-VtfLwTAJAY;2022-03-19T02:14:09Z;"📺 New #rstatsvideo: Lulus CommentdansR Live Stream
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#rstats
+🔗 https://www.youtube.com/watch?v=-VtfLwTAJAY"
+UCrG34lup96IfDweTSDkPHDA;tE74GSRMcUs;2022-03-19T04:18:50Z;"📺 New #rstatsvideo: Meetup RLadies Comitán: Introducción a RStudio
+▶ RLadies Mexico
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=tE74GSRMcUs"
