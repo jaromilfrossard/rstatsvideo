@@ -7756,3 +7756,31 @@ UCrG34lup96IfDweTSDkPHDA;tE74GSRMcUs;2022-03-19T04:18:50Z;"📺 New #rstatsvideo
 🗣 🇪🇸
 #rstats
 🔗 https://www.youtube.com/watch?v=tE74GSRMcUs"
+UCrpq9hzMQSq0ldVcXlLgpvQ;6C6gC27WZkE;2022-03-19T12:00:05Z;"📺 New #rstatsvideo: R Data Project Best Practice
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #rprogramming #bestpractices #computerscience #projectmanagement
+🔗 https://www.youtube.com/watch?v=6C6gC27WZkE"
+UCljumcPvitx5W0OEC_Thk2Q;JA0XK7KX2eU;2022-03-19T12:02:56Z;"📺 New #rstatsvideo: Vectors in R Lab 2
+▶ Rania Ismail
+#rstats
+🔗 https://www.youtube.com/watch?v=JA0XK7KX2eU"
+UCyHEww8_SCdxZvEnkCfi55w;YN36HXRit40;2022-03-19T15:00:46Z;"📺 New #rstatsvideo: R Error: Arguments Imply Differing Number of Rows (2 Examples) | Unequal Variable Lengths | Solution
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=YN36HXRit40"
+UCCaChdLMTYMxyawR_Qf-kYA;_E_5pBFtSJk;2022-03-19T17:54:52Z;"📺 New #rstatsvideo: Modelado Tidy con R - 5. Gastando nuestros datos (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=_E_5pBFtSJk"
+UCrmJdnPmle514qkK3lLOsVQ;O3OD9Aj0L1g;2022-03-19T21:32:15Z;"📺 New #rstatsvideo: #R | Tidymodels Cross Validation | #tidymodels #CrossValidation #Resampling #MachineLearningInR
+▶ RJ Studio
+#rstats #tidymodelscrossvalidation #crossvalidationinr #vfoldcv #resamplingr
+🔗 https://www.youtube.com/watch?v=O3OD9Aj0L1g"
+UCBYwP7mrBxJSZbPg-U3uR-A;GXBdytSnTl4;2022-03-20T05:54:33Z;"📺 New #rstatsvideo: Object classes in R
+▶ CodeR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GXBdytSnTl4"
