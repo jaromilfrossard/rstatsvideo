@@ -7784,3 +7784,70 @@ UCBYwP7mrBxJSZbPg-U3uR-A;GXBdytSnTl4;2022-03-20T05:54:33Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=GXBdytSnTl4"
+UCVkj__s6Atxd1s2BwEY3kVA;htZB48h6qA4;2022-03-20T14:23:02Z;"📺 New #rstatsvideo: Bar & Pie Chart in R
+▶ Arman Hossain Chowdhury
+#rstats
+🔗 https://www.youtube.com/watch?v=htZB48h6qA4"
+UCyHEww8_SCdxZvEnkCfi55w;AYg8ZlJFdoM;2022-03-20T15:00:28Z;"📺 New #rstatsvideo: Calculate Median Absolute Deviation in R (Example) | mad() Function | Vector & Data Frame Column
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=AYg8ZlJFdoM"
+UCP8l94xtoemCH_GxByvTuFQ;N9NEH4y7okc;2022-03-20T18:30:18Z;"📺 New #rstatsvideo: TidyX Episode 98 | Sampling, Simluation, and Intro to Bayes - Sampling and Bootstraps
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming
+🔗 https://www.youtube.com/watch?v=N9NEH4y7okc"
+UCktFo5XoX5QZMWb2Gb3KY2A;3jp8cCV6oMg;2022-03-20T23:37:26Z;"📺 New #rstatsvideo: Data Manipulation with data table in R by Njoki Njuki Lucy
+▶ R-Ladies Abuja (@RLadiesAbuja)
+#rstats
+🔗 https://www.youtube.com/watch?v=3jp8cCV6oMg"
+UCBYwP7mrBxJSZbPg-U3uR-A;ZTIfYnvWHpQ;2022-03-21T01:53:14Z;"📺 New #rstatsvideo: Modifying and subsetting data in data frames
+▶ CodeR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ZTIfYnvWHpQ"
+UCBYwP7mrBxJSZbPg-U3uR-A;uT8XnMdcj6g;2022-03-21T02:20:50Z;"📺 New #rstatsvideo: If-else statements and for loops
+▶ CodeR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=uT8XnMdcj6g"
+UCBYwP7mrBxJSZbPg-U3uR-A;QHCH2gY66KY;2022-03-21T03:13:03Z;"📺 New #rstatsvideo: ggplot2 part 1
+▶ CodeR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=QHCH2gY66KY"
+UCBYwP7mrBxJSZbPg-U3uR-A;bD8bVhulz10;2022-03-21T04:33:46Z;"📺 New #rstatsvideo: ggplot2 part 2
+▶ CodeR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=bD8bVhulz10"
+UCBYwP7mrBxJSZbPg-U3uR-A;Ai6cPR-b4Zk;2022-03-21T04:54:13Z;"📺 New #rstatsvideo: Vectorisation and creating custom functions in R
+▶ CodeR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Ai6cPR-b4Zk"
+UCBYwP7mrBxJSZbPg-U3uR-A;upCCvZyLC1o;2022-03-21T05:34:18Z;"📺 New #rstatsvideo: Ploting Maps in R
+▶ CodeR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=upCCvZyLC1o"
+UCBYwP7mrBxJSZbPg-U3uR-A;ahP33JEySSM;2022-03-21T05:59:20Z;"📺 New #rstatsvideo: Data manipulation with dplyr
+▶ CodeR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ahP33JEySSM"
+UCBYwP7mrBxJSZbPg-U3uR-A;ObKqyjG-16M;2022-03-21T06:23:11Z;"📺 New #rstatsvideo: Producing reports with Rmarkdown
+▶ CodeR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ObKqyjG-16M"
+UCBYwP7mrBxJSZbPg-U3uR-A;2GeEVUCipWI;2022-03-21T06:27:01Z;"📺 New #rstatsvideo: Reshaping data with tidyr
+▶ CodeR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2GeEVUCipWI"
+UCBYwP7mrBxJSZbPg-U3uR-A;viT02ETPFlc;2022-03-21T06:40:42Z;"📺 New #rstatsvideo: Running shiny apps (for beginners)
+▶ CodeR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=viT02ETPFlc"
