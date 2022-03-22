@@ -7851,3 +7851,35 @@ UCBYwP7mrBxJSZbPg-U3uR-A;viT02ETPFlc;2022-03-21T06:40:42Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=viT02ETPFlc"
+UCyHEww8_SCdxZvEnkCfi55w;no0jhIs-awo;2022-03-21T15:00:35Z;"📺 New #rstatsvideo: break & next Functions in R for-Loop (2 Examples) | Continue or Stop? | Nested if-Statement in Loops
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=no0jhIs-awo"
+UCGuktEl5InrcxPfCjmPWxsA;7oH9KBLeqDc;2022-03-21T16:00:05Z;"📺 New #rstatsvideo: Implementing the mathematical formula for rarefaction to measure richness in R (CC197)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #richnessrarefactionformula #exactrarefaction #exactrarefactionr
+🔗 https://www.youtube.com/watch?v=7oH9KBLeqDc"
+UCEbPGn_boFJj7_sPh37mBfA;UJJflz3FGDA;2022-03-21T16:34:21Z;"📺 New #rstatsvideo: STAC33: Tutorial 10
+▶ Nnenna Asidianya (@asidianya)
+#rstats
+🔗 https://www.youtube.com/watch?v=UJJflz3FGDA"
+UCwVZbwV_5GQpdUVB0BDmeXg;MpogSDZY8PY;2022-03-22T03:15:27Z;"📺 New #rstatsvideo: How to create a Stacked Bar Chart in R 🔝 Using Stacked Bar Charts in R Programming Language
+▶ Parsimony (@parsimonyinc)
+🗣 🇬🇧
+#rstats #stackedbarchart #stackedbarcharts #stackedbarchartinr
+🔗 https://www.youtube.com/watch?v=MpogSDZY8PY"
+UCb5aI-GwJm3ZxlwtCsLu78Q;ujeL0lH8pYY;2022-03-22T04:44:07Z;"📺 New #rstatsvideo: How to /select where/ rows of data meet a condition - R basics
+▶ Data Science with Tom
+#rstats #datascience #rstudio
+🔗 https://www.youtube.com/watch?v=ujeL0lH8pYY"
+UCb5aI-GwJm3ZxlwtCsLu78Q;rhmZ14r8vVw;2022-03-22T06:58:23Z;"📺 New #rstatsvideo: Using R to solve the NYT Spelling Bee - with regular expressions - Fun with R
+▶ Data Science with Tom
+#rstats #datascience #rstudio
+🔗 https://www.youtube.com/watch?v=rhmZ14r8vVw"
+UCcGXGFClRdnrwXsPHi7P4ZA;6qDRu_1kNXg;2022-03-22T07:15:08Z;"📺 New #rstatsvideo: R demo | Two-Samples t-Test | Student’s & Welch’s | How to conduct, visualise, interpret & more 😉
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #datascience #dataanalysis #forbeginners #stats
+🔗 https://www.youtube.com/watch?v=6qDRu_1kNXg"
