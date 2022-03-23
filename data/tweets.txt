@@ -7883,3 +7883,37 @@ UCcGXGFClRdnrwXsPHi7P4ZA;6qDRu_1kNXg;2022-03-22T07:15:08Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statistics #datascience #dataanalysis #forbeginners #stats
 🔗 https://www.youtube.com/watch?v=6qDRu_1kNXg"
+UCcCMO7sHb8O_TJUd34sQ_Ng;u4_wJGQmbAM;2022-03-22T12:33:08Z;"📺 New #rstatsvideo: Quelle est la difference entre R et RStudio? | Muscle ton jeu 1 | CommentdansR
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#rstats #differenceentreretrstudio #apprendrer #commentdansr
+🔗 https://www.youtube.com/watch?v=u4_wJGQmbAM"
+UC3xfbCMLCw1Hh4dWop3XtHg;JsaGSrM8aZ0;2022-03-22T14:19:35Z;"📺 New #rstatsvideo: Brad Lindblad | Professional Financial Reports with {rmarkdown} | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=JsaGSrM8aZ0"
+UCyHEww8_SCdxZvEnkCfi55w;vt0UPM5nV1M;2022-03-22T15:00:36Z;"📺 New #rstatsvideo: Assign Unique ID for Each Group in R (3 Examples) | Create & Add | Using dplyr & data.table Packages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=vt0UPM5nV1M"
+UC1ZIcF31fEzBO6akL_HHkBg;9yrckf6Km-U;2022-03-22T15:51:12Z;"📺 New #rstatsvideo: wtf: Installing R packages (part 2)
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9yrckf6Km-U"
+UC3xfbCMLCw1Hh4dWop3XtHg;sD39WAZo99A;2022-03-22T17:00:47Z;"📺 New #rstatsvideo: Programming Games with Shiny || Dragon Realm || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology
+🔗 https://www.youtube.com/watch?v=sD39WAZo99A"
+UCg4rv97QEhN-2gvLhrGMgEw;CreNXfdS-zk;2022-03-22T19:44:33Z;"📺 New #rstatsvideo: Análise de Regressão Logística Ordinal na Prática
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=CreNXfdS-zk"
+UCcKPp7AI7ZTBf60WqXo3Bpg;meapZAH7Jdc;2022-03-23T07:18:37Z;"📺 New #rstatsvideo: SLC-RUG March - Web scraping in R with the tidyverse, rvest, and RSelenium
+▶ Salt Lake City R Users Group (@slcrug)
+#rstats
+🔗 https://www.youtube.com/watch?v=meapZAH7Jdc"
