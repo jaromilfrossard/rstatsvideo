@@ -7917,3 +7917,27 @@ UCcKPp7AI7ZTBf60WqXo3Bpg;meapZAH7Jdc;2022-03-23T07:18:37Z;"📺 New #rstatsvideo
 ▶ Salt Lake City R Users Group (@slcrug)
 #rstats
 🔗 https://www.youtube.com/watch?v=meapZAH7Jdc"
+UCN-OX45aSM1VtXkzocx8Ppg;9ld-9fLiv4E;2022-03-23T09:05:34Z;"📺 New #rstatsvideo: Coding Out Loud, Episode 4
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9ld-9fLiv4E"
+UCwQ7lkY6YWzZjT807Itbvtw;21MnLDuRbS8;2022-03-23T13:15:00Z;"📺 New #rstatsvideo: Episode 30: The Connecticut COVID-19 Test Spotter App (Part 1)
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=21MnLDuRbS8"
+UCyHEww8_SCdxZvEnkCfi55w;UDBlxlshhOA;2022-03-23T15:00:59Z;"📺 New #rstatsvideo: Download File in R (Example) | Save Data from Internet Website to PC Path | Get Files from Web URL
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=UDBlxlshhOA"
+UCN-OX45aSM1VtXkzocx8Ppg;R5iEV2uvtxA;2022-03-24T04:07:36Z;"📺 New #rstatsvideo: scRNA-seq - Normalization, Batch Correction, and Differential Expression
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=R5iEV2uvtxA"
+UC5FvzLMVNrTMW-ycrW-4KyA;Gy7pJpXclS0;2022-03-24T05:52:28Z;"📺 New #rstatsvideo: 시뮬레이션을 통해 원의 넓이를 구하는 방법 [몬테칼로 적분의 이해]
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=Gy7pJpXclS0"
