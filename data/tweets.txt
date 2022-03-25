@@ -7941,3 +7941,45 @@ UC5FvzLMVNrTMW-ycrW-4KyA;Gy7pJpXclS0;2022-03-24T05:52:28Z;"📺 New #rstatsvideo
 🗣 🇰🇷
 #rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
 🔗 https://www.youtube.com/watch?v=Gy7pJpXclS0"
+UCkAyfZ4tAeO0j9dS-_yU7Gw;IfPHzKLJKds;2022-03-24T07:54:59Z;"📺 New #rstatsvideo: Bayesian Statistics and Buy-Till-You-Die Models - Workshop 3 - Modelling Transaction Frequency
+▶ Dublin Data Science
+#rstats
+🔗 https://www.youtube.com/watch?v=IfPHzKLJKds"
+UCyHEww8_SCdxZvEnkCfi55w;7U05ZPwgtDg;2022-03-24T15:00:37Z;"📺 New #rstatsvideo: Fix R Error in hist.default : ‘x’ must be numeric (2 Examples) | hist, class & as.numeric Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=7U05ZPwgtDg"
+UCGuktEl5InrcxPfCjmPWxsA;ywHVb0Q-qsM;2022-03-24T16:00:34Z;"📺 New #rstatsvideo: Generating a rarefaction curve from collector's curves in R within the tidyverse (CC198)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #collectorscurverarefaction #speciesaccumulationcurve
+🔗 https://www.youtube.com/watch?v=ywHVb0Q-qsM"
+UC3xfbCMLCw1Hh4dWop3XtHg;nA9fVOCD8yM;2022-03-24T18:39:23Z;"📺 New #rstatsvideo: Santiago Rodriguez | Intro to functional data analysis | RStudio Meetup
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=nA9fVOCD8yM"
+UC9UK90FN2Q1cl0J5Kl4-7Mg;yWNh7L58CAc;2022-03-24T20:26:01Z;"📺 New #rstatsvideo: R Ladies Baltimore | How to use R with Excel
+▶ R-Ladies Baltimore (@RLadiesBmore)
+#rstats
+🔗 https://www.youtube.com/watch?v=yWNh7L58CAc"
+UCDgj5-mFohWZ5irWSFMFcng;nYuJtBMNVJg;2022-03-24T20:48:18Z;"📺 New #rstatsvideo: R-Ladies Sydney (English) - Structural Equation Models with lavaan in R - Sally Larsen
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=nYuJtBMNVJg"
+UCC3CCtUrSSQoJkxodRKr89g;-LPZ0Xt2_4s;2022-03-25T01:35:38Z;"📺 New #rstatsvideo: Tidy Tuesday in Thirty
+▶ Lisa Lendway - Statistics & Data Science (@lisalendway)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-LPZ0Xt2_4s"
+UCwQ7lkY6YWzZjT807Itbvtw;teCBe2V1nj8;2022-03-25T05:01:40Z;"📺 New #rstatsvideo: shinybrain docs update (and a major fix)
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=teCBe2V1nj8"
+UCPJZmlXMcBiKjoVQ4cpAMIg;4nidSRhpI_0;2022-03-25T07:00:05Z;"📺 New #rstatsvideo: How to view basic statistics quickly of a table or column | R for Excel Users & Beginners
+▶ Dean Chereden (@deanchereden)
+🗣 🇬🇧
+#rstats #howto #analytics #rstudio #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=4nidSRhpI_0"
