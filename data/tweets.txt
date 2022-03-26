@@ -7983,3 +7983,28 @@ UCPJZmlXMcBiKjoVQ4cpAMIg;4nidSRhpI_0;2022-03-25T07:00:05Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #howto #analytics #rstudio #rprogramming #datascience
 🔗 https://www.youtube.com/watch?v=4nidSRhpI_0"
+UCtuMKU3a96iqTe1b7JNfhDw;3jIBQWqBVJU;2022-03-25T10:06:04Z;"📺 New #rstatsvideo: How to use GitHub within RStudio (In Persian)
+▶ R-Ladies Urmia (@RLadiesUrmia)
+🗣 🇮🇷
+#rstats #rstudio #github
+🔗 https://www.youtube.com/watch?v=3jIBQWqBVJU"
+UCDgj5-mFohWZ5irWSFMFcng;DGhKBFaKLEE;2022-03-25T10:42:54Z;"📺 New #rstatsvideo: R-Ladies New York (English) - R-Wars: Tidyverse vs. Base R and Writing Reports in R Markdown
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=DGhKBFaKLEE"
+UCyHEww8_SCdxZvEnkCfi55w;m3UnwMs1dIU;2022-03-25T15:00:26Z;"📺 New #rstatsvideo: Calculate Median in R (5 Examples) | Remove NA, Vector Object, Data Frame Column, by Group & Boxplot
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=m3UnwMs1dIU"
+UCnYkdhuQljgCnGNpCZpPfVA;3Lb7aySSqt0;2022-03-25T16:00:02Z;"📺 New #rstatsvideo: Cos'è un boxplot e come graficarlo in R
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats #boxplot #whiskerplot #graficoascatola #graficoquartili
+🔗 https://www.youtube.com/watch?v=3Lb7aySSqt0"
+UCg4rv97QEhN-2gvLhrGMgEw;r-eWLMS0qnw;2022-03-25T18:08:34Z;"📺 New #rstatsvideo: Conhecendo as funções básicas do pacote stringr
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=r-eWLMS0qnw"
