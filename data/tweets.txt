@@ -8008,3 +8008,32 @@ UCg4rv97QEhN-2gvLhrGMgEw;r-eWLMS0qnw;2022-03-25T18:08:34Z;"📺 New #rstatsvideo
 🗣 🇵🇹
 #rstats
 🔗 https://www.youtube.com/watch?v=r-eWLMS0qnw"
+UCMzxf1PB54mTnWJVE8xdGlw;HYKbaFk-FEQ;2022-03-26T08:11:32Z;"📺 New #rstatsvideo: An Introduction to R Shiny : 101 #rladies #rstats #rstudio #datascience #webdesign
+▶ R-ladies Gaborone (@RLadiesGaborone)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=HYKbaFk-FEQ"
+UCCaChdLMTYMxyawR_Qf-kYA;PWBMEDH9RU8;2022-03-26T14:11:00Z;"📺 New #rstatsvideo: ISLR: Moving Beyond Linearity (islr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=PWBMEDH9RU8"
+UCCaChdLMTYMxyawR_Qf-kYA;dQBu1n6xxWk;2022-03-26T14:11:20Z;"📺 New #rstatsvideo: Grid search (tmwr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=dQBu1n6xxWk"
+UCyHEww8_SCdxZvEnkCfi55w;dPVdbzDzMeo;2022-03-26T15:00:24Z;"📺 New #rstatsvideo: R ggplot2 Error: Discrete Value Supplied to Continuous Scale (2 Examples) | How to Reproduce and Fix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=dPVdbzDzMeo"
+UCrmJdnPmle514qkK3lLOsVQ;qcETbjL-nt8;2022-03-26T21:57:09Z;"📺 New #rstatsvideo: #R | Tidymodels TUNING | #HyperParameterTuning #DecisionTree #tidymodels #MachineLearningInR
+▶ RJ Studio
+#rstats #tuningparameter #hyperparametertuningr #hyperparametergridsearch #tuninginr
+🔗 https://www.youtube.com/watch?v=qcETbjL-nt8"
+UCCaChdLMTYMxyawR_Qf-kYA;0FFbfC1t0RE;2022-03-27T06:12:26Z;"📺 New #rstatsvideo: Modelado Tidy con R - Extra. Fundamentos de Modelado en R4DS (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=0FFbfC1t0RE"
