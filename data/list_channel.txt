@@ -45,6 +45,7 @@ UCk66R2sZ_ZzaaDYgILxKZ9g;David Granjon;divadnojnarg
 UCeiiqmVK07qhY-wvg3IZiZQ;David Robinson;drob
 UCPJZmlXMcBiKjoVQ4cpAMIg;Dean Chereden;deanchereden
 UC4_hSKmvUG4w0w270AH5bXQ;Derek Sollberger;DerekSollberger
+UCeoF_5Kw0YyWOqhAbQGrxJQ;Dragonfly Statistics;
 UCpbWlHEqBSnJb6i4UemXQpA;Dr. Azad Rasul;Azad77Rasul
 UCOTvF8_pnr4J_YpMVbYaLiA;Drew Tyre;drew_tyre
 UCkAyfZ4tAeO0j9dS-_yU7Gw;Dublin Data Science;
