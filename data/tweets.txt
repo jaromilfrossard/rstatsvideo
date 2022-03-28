@@ -8037,3 +8037,27 @@ UCCaChdLMTYMxyawR_Qf-kYA;0FFbfC1t0RE;2022-03-27T06:12:26Z;"📺 New #rstatsvideo
 🗣 🇪🇸
 #rstats
 🔗 https://www.youtube.com/watch?v=0FFbfC1t0RE"
+UCMdihazndR0f9XBoSXWqnYg;8OPILQYF6Jw;2016-06-02T16:35:10Z;"📺 #rstatsvideo: R - Fit Indices Lecture
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #rstudio #rprogram #fitindices #sem #lavaan #rmsea #cfi #tli #srmr #lecture #statistics
+🔗 https://www.youtube.com/watch?v=8OPILQYF6Jw"
+UClGaKSIiaYp8o2SB3D3aS_A;miNY1C5nKGI;2021-07-12T14:06:29Z;"📺 #rstatsvideo: quick overview of creating a learnr package
+▶ InsiderMiner (@forcesofhabit)
+🗣 🇬🇧
+#rstats #rprogramming #probability #statistics #programming #datascience #machinelearning
+🔗 https://www.youtube.com/watch?v=miNY1C5nKGI"
+UCyHEww8_SCdxZvEnkCfi55w;FO5M3RQZ7zQ;2022-03-27T14:00:20Z;"📺 New #rstatsvideo: Get All Possible Subsets of Vector in R (2 Examples) | Each Combination | combinat & sets Packages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=FO5M3RQZ7zQ"
+UCP8l94xtoemCH_GxByvTuFQ;WBNaGw7GxxM;2022-03-27T18:30:20Z;"📺 New #rstatsvideo: TidyX Episode 99 | Sampling, Simulation, and Intro to Bayes - Basic Bayes
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=WBNaGw7GxxM"
+UCwLy_PYrnCEhCU-Ay2F5Drw;Lrm85qHIITM;2022-03-27T20:26:48Z;"📺 New #rstatsvideo: ""Sending Emails from R with {emayili}: Encryption, Markdown & Templates"" with Andrew Collier
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Lrm85qHIITM"
