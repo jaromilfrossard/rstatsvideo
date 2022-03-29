@@ -8061,3 +8061,50 @@ UCwLy_PYrnCEhCU-Ay2F5Drw;Lrm85qHIITM;2022-03-27T20:26:48Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=Lrm85qHIITM"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;eHQA6fkp1DQ;2022-03-27T23:00:08Z;"📺 New #rstatsvideo: Transition Matrices for Actuarial Forecasting
+▶ Dragonfly Statistics
+#rstats #python #pandas #pydata #pandasdatascience #pythondatascience #datawranglingwithpython #scikitlearn #sklearn
+🔗 https://www.youtube.com/watch?v=eHQA6fkp1DQ"
+UCwLy_PYrnCEhCU-Ay2F5Drw;lVBKkl-EF48;2022-03-28T10:23:07Z;"📺 New #rstatsvideo: PoweR 2022 | Uczenie Maszynowe w Medycynie
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=lVBKkl-EF48"
+UCWPCd6tPtoLJYzQQ681pe5Q;RibBUG9Zuvs;2022-03-28T12:00:15Z;"📺 New #rstatsvideo: Fuzzy String Matching in R | Overview and R Tutorial (Using fuzzywuzzy, polyfuzz, and difflib)
+▶ ggnot
+🗣 🇬🇧
+#rstats #fuzzystringmatching #fuzzystringmatchinginr #fuzzystringmatchingr
+🔗 https://www.youtube.com/watch?v=RibBUG9Zuvs"
+UCyHEww8_SCdxZvEnkCfi55w;kgF3kBQq0qg;2022-03-28T14:00:36Z;"📺 New #rstatsvideo: Return Value from R Function (3 Examples) | Output with / without return() | Multiple Values as List
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=kgF3kBQq0qg"
+UCMzxf1PB54mTnWJVE8xdGlw;E53EmUSu1x4;2022-03-28T14:43:38Z;"📺 New #rstatsvideo: Using r as an Epidemiologist  #rstats #rladies #datascience #STEM #womenwhocode #epidemiology
+▶ R-ladies Gaborone (@RLadiesGaborone)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=E53EmUSu1x4"
+UCGuktEl5InrcxPfCjmPWxsA;6s96NY7G0_8;2022-03-28T16:00:04Z;"📺 New #rstatsvideo: Using R to compare empirical and exact rarefaction values (CC199)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #empiricalrarefactionr #empericalrarefactionr #tidyverserarefactionr #microbiomerarefactionr
+🔗 https://www.youtube.com/watch?v=6s96NY7G0_8"
+UCCaChdLMTYMxyawR_Qf-kYA;d5FPrn4vTzc;2022-03-28T16:53:35Z;"📺 New #rstatsvideo: R for Data Science: Many models Part 2 (r4ds05 25)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=d5FPrn4vTzc"
+UCb5aI-GwJm3ZxlwtCsLu78Q;yUKbprEYYV8;2022-03-29T01:05:57Z;"📺 New #rstatsvideo: 3 ways to choose better names for variables - R advanced
+▶ Data Science with Tom
+#rstats #datascience #rstudio
+🔗 https://www.youtube.com/watch?v=yUKbprEYYV8"
+UCFXPzW7RxP6RfQGpRn7WXNw;owhV5SNC92Y;2022-03-29T03:27:54Z;"📺 New #rstatsvideo: w1: Intro to the course and data types
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=owhV5SNC92Y"
+UCEbPGn_boFJj7_sPh37mBfA;rbufxEWAe4Q;2022-03-29T05:49:21Z;"📺 New #rstatsvideo: STAC33: Tutorial 10
+▶ Nnenna Asidianya (@asidianya)
+#rstats
+🔗 https://www.youtube.com/watch?v=rbufxEWAe4Q"
