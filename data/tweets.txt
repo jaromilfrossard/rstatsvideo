@@ -8108,3 +8108,36 @@ UCEbPGn_boFJj7_sPh37mBfA;rbufxEWAe4Q;2022-03-29T05:49:21Z;"📺 New #rstatsvideo
 ▶ Nnenna Asidianya (@asidianya)
 #rstats
 🔗 https://www.youtube.com/watch?v=rbufxEWAe4Q"
+UC_bfGqjzgx4-N8TEQlJTaNQ;zlPd79MJGa0;2022-03-29T10:14:53Z;"📺 New #rstatsvideo: Communicating Data Insights with Visuals using ggplot2 by Oluwafemi Oyedele
+▶ Abuja R User Group (@AbujaRUG)
+#rstats
+🔗 https://www.youtube.com/watch?v=zlPd79MJGa0"
+UCyHEww8_SCdxZvEnkCfi55w;4s9klxp8AkY;2022-03-29T14:00:35Z;"📺 New #rstatsvideo: Standard Error in R (2 Examples) | User-Defined & std.error Function of plotrix Package | sd & sqrt
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=4s9klxp8AkY"
+UCCaChdLMTYMxyawR_Qf-kYA;kta4NnTCfb4;2022-03-29T14:16:23Z;"📺 New #rstatsvideo: SMLTAR: Dense neural networks Part 1 (smltar01 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=kta4NnTCfb4"
+UC1ZIcF31fEzBO6akL_HHkBg;tLvRWRWeQK4;2022-03-29T14:45:53Z;"📺 New #rstatsvideo: WTF: Debugging R code
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=tLvRWRWeQK4"
+UCg4rv97QEhN-2gvLhrGMgEw;xkVf6e8mbSg;2022-03-29T19:35:47Z;"📺 New #rstatsvideo: Manipulando Textos no R com o Pacote stringr
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=xkVf6e8mbSg"
+UCrmJdnPmle514qkK3lLOsVQ;7scspUY3Z14;2022-03-29T20:03:04Z;"📺 New #rstatsvideo: #R | QR Code in R | #QRCode #RPackage #DensoWave #QuickResponseCode
+▶ RJ Studio
+#rstats #qrcode #qrcodeinr #qrcoder #qr코드 #densowave #densowaveqrcode #qrcodepackage #phoneqrcode #qrcoderstudio #qr코드r
+🔗 https://www.youtube.com/watch?v=7scspUY3Z14"
+UCOdX7FBvpMPknrC6gtm0y_w;HKUCF5SMfaA;2022-03-30T03:37:12Z;"📺 New #rstatsvideo: High Performance Time Series Analysis with Modeltime
+▶ Southern California R Users Group
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=HKUCF5SMfaA"
