@@ -8141,3 +8141,64 @@ UCOdX7FBvpMPknrC6gtm0y_w;HKUCF5SMfaA;2022-03-30T03:37:12Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=HKUCF5SMfaA"
+UCqQ_cxcNu1ekqHXDc-MbU_w;x6GL9Y3t2Uo;2022-03-30T12:04:43Z;"📺 New #rstatsvideo: How to Visualize 100+ ggplots with R (Trelliscope JS)
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=x6GL9Y3t2Uo"
+UCVkj__s6Atxd1s2BwEY3kVA;0QFq3SUlNCQ;2022-03-30T12:15:39Z;"📺 New #rstatsvideo: How To Create Histogram and Boxplot in R
+▶ Arman Hossain Chowdhury
+#rstats
+🔗 https://www.youtube.com/watch?v=0QFq3SUlNCQ"
+UCyHEww8_SCdxZvEnkCfi55w;BPNZrggDwTE;2022-03-30T14:00:23Z;"📺 New #rstatsvideo: Set ggplot2 Axis Limits by Date Range (Example) | Change Scale | scale_x_date() & as.Date() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=BPNZrggDwTE"
+UCCaChdLMTYMxyawR_Qf-kYA;1D6plTaDvTU;2022-03-30T14:08:46Z;"📺 New #rstatsvideo: ISLR: Deep Learning (islr01 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=1D6plTaDvTU"
+UCfJyQ3P2k_SuqfxVdqIEQNw;fO2X-8FXY6k;2022-03-30T14:30:15Z;"📺 New #rstatsvideo: t-test and interpreting p values using R Programming
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=fO2X-8FXY6k"
+UC3xfbCMLCw1Hh4dWop3XtHg;aPRVzk9pvno;2022-03-30T17:00:29Z;"📺 New #rstatsvideo: Rich Iannone || {gt} Intendo Game Data Project Walkthrough || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=aPRVzk9pvno"
+UCCaChdLMTYMxyawR_Qf-kYA;hNUNPkoledI;2022-03-30T21:40:10Z;"📺 New #rstatsvideo: Git for Book Clubs: Local Setup
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hNUNPkoledI"
+UCMdihazndR0f9XBoSXWqnYg;7eLnLvFvD3s;2022-03-30T22:24:55Z;"📺 New #rstatsvideo: R & Python - Classification Part 2
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing
+🔗 https://www.youtube.com/watch?v=7eLnLvFvD3s"
+UCCaChdLMTYMxyawR_Qf-kYA;ESdG_sF3Px8;2022-03-31T02:29:43Z;"📺 New #rstatsvideo: Statistical Rethinking Book Club: Chapter 9 (2022-03-30) (statrethink01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ESdG_sF3Px8"
+UC5FvzLMVNrTMW-ycrW-4KyA;tGPHSTbrmdE;2022-03-31T02:40:19Z;"📺 New #rstatsvideo: 나만의 대쉬보드 만들기 1강 -  R 샤이니 친해지기
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #r프로그래밍 #데이터사이언스 #기초통계 #r강의 #수리통계 #대학통계 #tidyverse #데이터분석 #adp #혼공 #studywithme #공부자극
+🔗 https://www.youtube.com/watch?v=tGPHSTbrmdE"
+UCwQ7lkY6YWzZjT807Itbvtw;pD99aIsvhaQ;2022-03-31T04:25:40Z;"📺 New #rstatsvideo: Read the source, shinybrain!
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=pD99aIsvhaQ"
+UCBYwP7mrBxJSZbPg-U3uR-A;XDW4twhc5gc;2022-03-31T05:32:19Z;"📺 New #rstatsvideo: Analyzing animal telemetry data in R
+▶ CodeR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=XDW4twhc5gc"
+UCBYwP7mrBxJSZbPg-U3uR-A;M4kgZKvfyO4;2022-03-31T05:59:41Z;"📺 New #rstatsvideo: Custom Functions in R
+▶ CodeR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=M4kgZKvfyO4"
