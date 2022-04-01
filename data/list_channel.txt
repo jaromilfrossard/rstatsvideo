@@ -37,7 +37,7 @@ UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
 UCeYbe13SKAaIyuXtO1_cbpA;DASA.VicUni;
 UC0dgTZhVua-2yvtWDfPA_nQ;Data Centric Inc.;
 UC9ykygrgYWoUdwaMA3qhRaw;Data Garden;
-UCb5aI-GwJm3ZxlwtCsLu78Q;Data Science with Tom;
+UCb5aI-GwJm3ZxlwtCsLu78Q;Tom Henry - data science with R;
 UCo7yZB1Pz_V9infLSUnfjUg;dataAnalysisR;
 UCi9RPnuGJq1dRduPXerufxA;datapointier;datapointier
 UCBV194XNr6CIQCCuw1v2rMQ;dataslice;dataslice
