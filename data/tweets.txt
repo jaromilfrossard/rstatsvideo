@@ -8202,3 +8202,31 @@ UCBYwP7mrBxJSZbPg-U3uR-A;M4kgZKvfyO4;2022-03-31T05:59:41Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=M4kgZKvfyO4"
+UCrpq9hzMQSq0ldVcXlLgpvQ;oz3LhwuHnHE;2022-03-31T12:00:32Z;"📺 New #rstatsvideo: 5 Reasons R Programming is better
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=oz3LhwuHnHE"
+UCTXuqtCYxPVEehq6fJY9GkA;ATBAbFC710s;2022-03-31T12:23:13Z;"📺 New #rstatsvideo: Live Curso-R: GGplot2 qualquer coisa
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=ATBAbFC710s"
+UCyHEww8_SCdxZvEnkCfi55w;seQ-38bK31s;2022-03-31T14:00:54Z;"📺 New #rstatsvideo: Standard Deviation in R (3 Examples) | Apply sd() Function in RStudio | Handle NA Values & Real Data
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=seQ-38bK31s"
+UC-xerHeYXyvyXWXwBAP2gYA;iHsabx_UUcY;2022-03-31T14:12:57Z;"📺 New #rstatsvideo: R package management - R project management series (Part III)
+▶ Athanasia Monika Mowinckel (@DrMowinckels)
+#rstats
+🔗 https://www.youtube.com/watch?v=iHsabx_UUcY"
+UCGuktEl5InrcxPfCjmPWxsA;_OEdFjc1D9I;2022-03-31T16:00:31Z;"📺 New #rstatsvideo: How to rarefy community data in R with vegan and the tidyverse (CC200)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #veganrarefy #veganrarefying #veganrarefaction #rrarefaction #microbiomerarefaction
+🔗 https://www.youtube.com/watch?v=_OEdFjc1D9I"
+UC5FvzLMVNrTMW-ycrW-4KyA;R2AN7UJNqhM;2022-04-01T01:00:31Z;"📺 New #rstatsvideo: R 샤이니 마스터 클래스 1강 - 전체 구조 이해하기
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=R2AN7UJNqhM"

@@ -79,8 +79,7 @@ update_performance_oldest <- function(credit = 200,
     anti_join(tb_video_to_rm,by =c("id_channel" = "id_channel","id_video"="id_video"))
   
   
-  videos
-  
+
   tb_perf_new <- 
     videos%>%
     anti_join(tb_perf,by = c("name_channel" = "name_channel", "id_channel" ="id_channel",
@@ -99,7 +98,7 @@ update_performance_oldest <- function(credit = 200,
   #### order and select videos
   tb_perf_update<-
     tb_perf%>%
-    arrange(ymd_update,!is.na(ymd_update))%>%
+    arrange(!is.na(ymd_update),ymd_update)%>%
     slice(seq_len(credit))
   
   
