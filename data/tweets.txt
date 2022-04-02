@@ -8230,3 +8230,27 @@ UC5FvzLMVNrTMW-ycrW-4KyA;R2AN7UJNqhM;2022-04-01T01:00:31Z;"📺 New #rstatsvideo
 🗣 🇰🇷
 #rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
 🔗 https://www.youtube.com/watch?v=R2AN7UJNqhM"
+UCyHEww8_SCdxZvEnkCfi55w;hRRFBOHvpG8;2022-04-01T14:00:19Z;"📺 New #rstatsvideo: Insert PNG Image Between Certain ggplot2 Axis Positions in R (Examples) | grid & patchwork Packages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=hRRFBOHvpG8"
+UCcGXGFClRdnrwXsPHi7P4ZA;2sZp51etL3c;2022-04-01T15:02:45Z;"📺 New #rstatsvideo: R demo | Mann-Whitney U Test = Wilcoxon Rank Sum Test | How to conduct, visualise, interpret & more😉
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #clearlyexplained #datascience #dataanalysis #forbeginners
+🔗 https://www.youtube.com/watch?v=2sZp51etL3c"
+UCRj2c2p6aoUdbW4R7IBYHqw;Opa_Nf88mCU;2022-04-01T15:08:28Z;"📺 New #rstatsvideo: Advanced Dashboarding in R
+▶ Daniel Baller (@danielpballer)
+🗣 🇬🇧
+#rstats #rmarkdown #coding #flexdashboard #dashboard #dataviz
+🔗 https://www.youtube.com/watch?v=Opa_Nf88mCU"
+UCg4rv97QEhN-2gvLhrGMgEw;oR8ZF_Khg_E;2022-04-01T18:50:49Z;"📺 New #rstatsvideo: Regressão de Poisson - Dados de Contagem
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=oR8ZF_Khg_E"
+UCY66vV1WTk_2lHg24cuJrtg;FzntrJ8l5as;2022-04-01T22:56:51Z;"📺 New #rstatsvideo: How to add multiple pictures to ggplot in R with image_read and patchwork
+▶ The Data Digest (@DigestData)
+#rstats #ggplot2inrtutorial #patchworkinr #magickinr #readimageinr #loadingjpeg #geomrect
+🔗 https://www.youtube.com/watch?v=FzntrJ8l5as"
