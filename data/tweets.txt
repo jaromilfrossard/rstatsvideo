@@ -8254,3 +8254,36 @@ UCY66vV1WTk_2lHg24cuJrtg;FzntrJ8l5as;2022-04-01T22:56:51Z;"📺 New #rstatsvideo
 ▶ The Data Digest (@DigestData)
 #rstats #ggplot2inrtutorial #patchworkinr #magickinr #readimageinr #loadingjpeg #geomrect
 🔗 https://www.youtube.com/watch?v=FzntrJ8l5as"
+UCDgj5-mFohWZ5irWSFMFcng;BGmM_E6BrRI;2022-04-02T08:30:57Z;"📺 New #rstatsvideo: R-Ladies Johannesburg(Eng) - Intro to {learnr} for Interactive Tutorials-Yani Bellini & Pao Corrales
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=BGmM_E6BrRI"
+UCpbWlHEqBSnJb6i4UemXQpA;1dsCO4IBf-U;2022-04-02T09:25:23Z;"📺 New #rstatsvideo: Basic Plotting in R Programming
+▶ Dr. Azad Rasul (@Azad77Rasul)
+🗣 🇬🇧
+#rstats #graphing #datascience #rprogramming #rtutorial
+🔗 https://www.youtube.com/watch?v=1dsCO4IBf-U"
+UCyHEww8_SCdxZvEnkCfi55w;cLWXyUOWmL0;2022-04-02T14:00:51Z;"📺 New #rstatsvideo: Remove Rows with NaN Values in R (3 Examples) | Drop, Delete & Select | na.omit() & complete.cases()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=cLWXyUOWmL0"
+UCWPCd6tPtoLJYzQQ681pe5Q;ALttRR6kseg;2022-04-02T21:02:40Z;"📺 New #rstatsvideo: Image Classification and Object Detection in R using just TWO lines of code!
+▶ ggnot
+🗣 🇬🇧
+#rstats #imageclassificationinr #objectdetectioninr #imagedarknet #tinyyolo #tinyyolovoc #imagedarknetclassify
+🔗 https://www.youtube.com/watch?v=ALttRR6kseg"
+UCrmJdnPmle514qkK3lLOsVQ;qzIqvHJhzmI;2022-04-02T21:54:58Z;"📺 New #rstatsvideo: #R | Code Folding HTML Knit 🧶 R Markdown (.Rmd) | #CodeFolding #RMarkdown #Rscript
+▶ RJ Studio
+#rstats #rmarkdown #codefoldinginr #codefoldingr #codefoldingrmarkdown #codefoldingrmd #knithtmlr
+🔗 https://www.youtube.com/watch?v=qzIqvHJhzmI"
+UCnYkdhuQljgCnGNpCZpPfVA;v_n94nG6vAI;2022-04-02T21:56:57Z;"📺 New #rstatsvideo: Come aprire un file script in R (guida Windows e Mac)
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=v_n94nG6vAI"
+UCP8l94xtoemCH_GxByvTuFQ;8IGoE8oVRVU;2022-04-03T07:00:30Z;"📺 New #rstatsvideo: TidyX Episode 100 | Sampling, Simulation, and Intro to Bayes - Beta Bayes
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=8IGoE8oVRVU"
