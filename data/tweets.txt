@@ -8287,3 +8287,27 @@ UCP8l94xtoemCH_GxByvTuFQ;8IGoE8oVRVU;2022-04-03T07:00:30Z;"📺 New #rstatsvideo
 ▶ TidyX (@tidy_explained)
 #rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
 🔗 https://www.youtube.com/watch?v=8IGoE8oVRVU"
+UCpbWlHEqBSnJb6i4UemXQpA;n8Gd0Ig3dcM;2022-04-03T09:41:29Z;"📺 New #rstatsvideo: Descriptive statistics in R programming
+▶ Dr. Azad Rasul (@Azad77Rasul)
+🗣 🇬🇧
+#rstats #descriptivestatistics #standarddeviation #statistics
+🔗 https://www.youtube.com/watch?v=n8Gd0Ig3dcM"
+UCyHEww8_SCdxZvEnkCfi55w;bWLPOVlCnAY;2022-04-03T14:00:45Z;"📺 New #rstatsvideo: sub & gsub R Functions (2 Examples) | Replace & Change One or Multiple Patterns in Character String
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=bWLPOVlCnAY"
+UCPfMGYxAOm39sO8nuEMB96Q;fqhY7DdqWhE;2022-04-03T16:42:59Z;"📺 New #rstatsvideo: Gráfico Circular (Pie Chart) en RStudio
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #gráficocircularpiechartenrstudio #gráficocircularenrstudio #piechartenrstudio #piechartenr #gráficocircularenr
+🔗 https://www.youtube.com/watch?v=fqhY7DdqWhE"
+UCyZCfIET7753bs5WpmKI_qQ;dwQECFm8bnA;2022-04-03T22:03:00Z;"📺 New #rstatsvideo: Tutorial R | Regressão logística, probabilidade de recessão com 1 variável preditora
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=dwQECFm8bnA"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;dZuN2E_4euE;2022-04-03T23:00:18Z;"📺 New #rstatsvideo: Normal Probability Distributions Exercise - with Shaded Bell Curves
+▶ Dragonfly Statistics
+#rstats #python #pandas #pydata #pandasdatascience #pythondatascience #datawranglingwithpython #scikitlearn
+🔗 https://www.youtube.com/watch?v=dZuN2E_4euE"
