@@ -8311,3 +8311,37 @@ UCeoF_5Kw0YyWOqhAbQGrxJQ;dZuN2E_4euE;2022-04-03T23:00:18Z;"📺 New #rstatsvideo
 ▶ Dragonfly Statistics
 #rstats #python #pandas #pydata #pandasdatascience #pythondatascience #datawranglingwithpython #scikitlearn
 🔗 https://www.youtube.com/watch?v=dZuN2E_4euE"
+UCyHEww8_SCdxZvEnkCfi55w;BTa0au9UxBM;2022-04-04T14:00:26Z;"📺 New #rstatsvideo: R Error in scan: Line 1 did not have X Elements (3 Examples) | How to Fix | read.table() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=BTa0au9UxBM"
+UC9ykygrgYWoUdwaMA3qhRaw;H2GYOADBhM0;2022-04-04T15:00:07Z;"📺 New #rstatsvideo: Easily Select Rows in R with Dplyr Filter
+▶ Data Garden
+#rstats #rstudio #excel #dataanalysis #datascience #statistics #stats #learning #tutorial #deeplearning #machinelearning #datavisualization
+🔗 https://www.youtube.com/watch?v=H2GYOADBhM0"
+UCGuktEl5InrcxPfCjmPWxsA;xwpMNRt57Zo;2022-04-04T16:00:29Z;"📺 New #rstatsvideo: Is richness estimation an alternative to rarefaction? Trying breakaway and Chao1 (CC201)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #richnessestimation #breakaway #rbreakaway #richnessbreakaway
+🔗 https://www.youtube.com/watch?v=xwpMNRt57Zo"
+UCCaChdLMTYMxyawR_Qf-kYA;h3v_qhWDlbM;2022-04-04T17:32:30Z;"📺 New #rstatsvideo: ISLR: Tree-Based Methods Part 1 (islr02 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=h3v_qhWDlbM"
+UCCaChdLMTYMxyawR_Qf-kYA;enAm8rdTFf8;2022-04-04T17:33:19Z;"📺 New #rstatsvideo: R for Data Science: Dates and times (r4ds06 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=enAm8rdTFf8"
+UCCaChdLMTYMxyawR_Qf-kYA;WIqEiChlzFg;2022-04-04T17:33:53Z;"📺 New #rstatsvideo: Grid search Part 2 (tmwr04 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=WIqEiChlzFg"
+UCFXPzW7RxP6RfQGpRn7WXNw;SCAm4oeJxL0;2022-04-05T02:28:17Z;"📺 New #rstatsvideo: w2: Base iterations
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=SCAm4oeJxL0"
