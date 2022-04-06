@@ -8345,3 +8345,74 @@ UCFXPzW7RxP6RfQGpRn7WXNw;SCAm4oeJxL0;2022-04-05T02:28:17Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=SCAm4oeJxL0"
+UCDgj5-mFohWZ5irWSFMFcng;KtYhXlAPjDs;2022-04-05T07:23:10Z;"📺 New #rstatsvideo: R-Ladies Cologne (English) - R for Bioinformatics - Ana Carolina Leote
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=KtYhXlAPjDs"
+UCCaChdLMTYMxyawR_Qf-kYA;bwx4AILEEaM;2022-04-05T10:52:57Z;"📺 New #rstatsvideo: Modelado Tidy con R - Extra. Construcción de Modelos en R4DS (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=bwx4AILEEaM"
+UCvt6lv8yMrBV8YgsAoQykHw;BZ8RUG2OVSs;2022-04-05T13:07:32Z;"📺 New #rstatsvideo: Dplyr & Tidyr - A dupla implacável
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=BZ8RUG2OVSs"
+UCCaChdLMTYMxyawR_Qf-kYA;z6LlhOX4G4I;2022-04-05T13:55:53Z;"📺 New #rstatsvideo: SMLTAR: Dense neural networks Part 2 (smltar01 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=z6LlhOX4G4I"
+UCCaChdLMTYMxyawR_Qf-kYA;wAzYA01hojo;2022-04-05T13:56:23Z;"📺 New #rstatsvideo: R for Data Science: R Markdown (r4ds05 26 27)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wAzYA01hojo"
+UCCaChdLMTYMxyawR_Qf-kYA;PbXm-08CmUU;2022-04-05T13:59:55Z;"📺 New #rstatsvideo: ISLR: Classification Lab & Resampling Methods (islr03 4 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=PbXm-08CmUU"
+UCyHEww8_SCdxZvEnkCfi55w;byZRpQH7ICo;2022-04-05T14:00:30Z;"📺 New #rstatsvideo: Calculate Sum & Mean of Hours, Minutes & Seconds in R (Example) | hms & period_to_seconds Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=byZRpQH7ICo"
+UCCaChdLMTYMxyawR_Qf-kYA;J8JEDPvv660;2022-04-05T14:00:47Z;"📺 New #rstatsvideo: ggplot2: Coordinate systems (ggplot2_01 16)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=J8JEDPvv660"
+UC1ZIcF31fEzBO6akL_HHkBg;VCHu0uhGo2g;2022-04-05T14:44:27Z;"📺 New #rstatsvideo: pins: Sharing versions of a dataset with pins and Dropbox
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VCHu0uhGo2g"
+UCNpws2MZ2_VhABXs_BamVBA;23DTptigzwE;2022-04-05T15:28:26Z;"📺 New #rstatsvideo: {broom}, {purrr}, {furrr} : automatiser la modélisation statistique dans le tidyverse
+▶ R-Toulouse RUG (@RUG_Toulouse)
+🗣 🇫🇷
+#rstats
+🔗 https://www.youtube.com/watch?v=23DTptigzwE"
+UCvt6lv8yMrBV8YgsAoQykHw;yzpOGZ4sURw;2022-04-05T17:58:22Z;"📺 New #rstatsvideo: R Intermediário
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=yzpOGZ4sURw"
+UCvt6lv8yMrBV8YgsAoQykHw;X57Uc27Hjb4;2022-04-05T18:20:58Z;"📺 New #rstatsvideo: R Básico
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=X57Uc27Hjb4"
+UCg4rv97QEhN-2gvLhrGMgEw;oBquAVngr6w;2022-04-05T19:21:05Z;"📺 New #rstatsvideo: Regressão de Poisson no R - Exemplo 1
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=oBquAVngr6w"
+UCbck9jjLpwj7U6HHNps_9Gw;40hr8oF_a0E;2022-04-05T19:30:32Z;"📺 New #rstatsvideo: R Shiny App Tutorial | eventReactive() demo | Create dependency on actionButton
+▶ Abhinav Agrawal (@abhiag30)
+#rstats #rrstatsrshinyshinyapp #r #rshiny #shiny #rshinytutorial #shinyapps #eventreactive
+🔗 https://www.youtube.com/watch?v=40hr8oF_a0E"
+UC0dgTZhVua-2yvtWDfPA_nQ;z7c4aTI7uW8;2022-04-06T05:00:16Z;"📺 New #rstatsvideo: Dependency parsing NLP Tutorial
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #dependencyparsing #naturallanguageprocessing #machinelearning #computationallinguistics #naturallanguageprocessingtutorial
+🔗 https://www.youtube.com/watch?v=z7c4aTI7uW8"
