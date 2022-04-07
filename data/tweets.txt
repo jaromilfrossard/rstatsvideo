@@ -8416,3 +8416,29 @@ UC0dgTZhVua-2yvtWDfPA_nQ;z7c4aTI7uW8;2022-04-06T05:00:16Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #dependencyparsing #naturallanguageprocessing #machinelearning #computationallinguistics #naturallanguageprocessingtutorial
 🔗 https://www.youtube.com/watch?v=z7c4aTI7uW8"
+UCXuX-kQ1TbKHWeB75NgmhlA;Zc1kuICsqXc;2022-04-06T12:00:29Z;"📺 New #rstatsvideo: TASSEL 's position list problem solved (partly)
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #tassel #tasselintroduction #tasseltutorialdata #tasseltutorialvideo #traitanalysisbyassociation
+🔗 https://www.youtube.com/watch?v=Zc1kuICsqXc"
+UCyHEww8_SCdxZvEnkCfi55w;HQU8-48VOCQ;2022-04-06T14:00:51Z;"📺 New #rstatsvideo: Draw Histogram with Different Colors in R (Examples) | Multiple Sections | Base R & ggplot2 Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=HQU8-48VOCQ"
+UCvt6lv8yMrBV8YgsAoQykHw;B_bXIyUgUTY;2022-04-06T14:52:00Z;"📺 New #rstatsvideo: Flexdashboards: Painéis interativos com R
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=B_bXIyUgUTY"
+UCfJyQ3P2k_SuqfxVdqIEQNw;reOZVODpLDk;2022-04-06T15:00:27Z;"📺 New #rstatsvideo: ANOVA using R programming
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=reOZVODpLDk"
+UCvt6lv8yMrBV8YgsAoQykHw;rie8UpCwNMM;2022-04-06T15:15:04Z;"📺 New #rstatsvideo: Shiny: Construindo aplicativos web interativos
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=rie8UpCwNMM"
+UCdaVFEwp9vOvqUCpbCHY7cw;nIhUQDQOtDY;2022-04-07T03:29:12Z;"📺 New #rstatsvideo: R Ladies Jakarta 15th MeetUp - Text manipulation with Stringr
+▶ R-Ladies Jakarta (@RLadiesJakarta)
+#rstats
+🔗 https://www.youtube.com/watch?v=nIhUQDQOtDY"
