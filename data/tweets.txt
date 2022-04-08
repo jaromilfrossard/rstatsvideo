@@ -8442,3 +8442,36 @@ UCdaVFEwp9vOvqUCpbCHY7cw;nIhUQDQOtDY;2022-04-07T03:29:12Z;"📺 New #rstatsvideo
 ▶ R-Ladies Jakarta (@RLadiesJakarta)
 #rstats
 🔗 https://www.youtube.com/watch?v=nIhUQDQOtDY"
+UCN-OX45aSM1VtXkzocx8Ppg;jxhXDaTf7uk;2022-04-07T06:52:26Z;"📺 New #rstatsvideo: Handling Strings in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=jxhXDaTf7uk"
+UCcKPp7AI7ZTBf60WqXo3Bpg;2VbGoSyeHf4;2022-04-07T07:12:56Z;"📺 New #rstatsvideo: SLC-RUG April - Bayes Rules!
+▶ Salt Lake City R Users Group (@slcrug)
+#rstats
+🔗 https://www.youtube.com/watch?v=2VbGoSyeHf4"
+UCpbWlHEqBSnJb6i4UemXQpA;v9eVjTCyK5Q;2022-04-07T09:02:38Z;"📺 New #rstatsvideo: How to Perform ANOVA in R Programming
+▶ Dr. Azad Rasul (@Azad77Rasul)
+🗣 🇬🇧
+#rstats #anova #analysisofvariance #statistics
+🔗 https://www.youtube.com/watch?v=v9eVjTCyK5Q"
+UCQ7DcXWJm3es06U7lGmBDkw;5--if2KFtZc;2022-04-07T14:15:38Z;"📺 New #rstatsvideo: Getting Started With Spatial Data (4/6/2022 Workshop by Jose Feliciano)
+▶ R Ladies STL (@RLadiesSTL)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=5--if2KFtZc"
+UCGuktEl5InrcxPfCjmPWxsA;c7H8jLjTxSE;2022-04-07T16:00:30Z;"📺 New #rstatsvideo: How to find the best sampling depth for rarefaction (CC202)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #samplingdepthrarefaction #samplingdepthr #samplingdepthrarefactionr #rarefactiontidyverse
+🔗 https://www.youtube.com/watch?v=c7H8jLjTxSE"
+UCTZXht1RTL2Duc3eU8MYGzQ;mFEEkOYvAZg;2022-04-07T19:41:20Z;"📺 New #rstatsvideo: Extreme Rmarkdown report automation with parameters and templates
+▶ Bruno Rodrigues (@brodriguesco)
+#rstats #rmarkdown
+🔗 https://www.youtube.com/watch?v=mFEEkOYvAZg"
+UCDgj5-mFohWZ5irWSFMFcng;Bb5Xol1oU_I;2022-04-08T00:01:19Z;"📺 New #rstatsvideo: R-Ladies Freiburg (English) - Our first data dashboard: Interactive plots with Shiny!
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=Bb5Xol1oU_I"
