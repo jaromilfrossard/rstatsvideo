@@ -108,6 +108,7 @@ UCoCfOfaj2c4sMxFv_nglycw;Open Data Science Deutschland;
 UCwVZbwV_5GQpdUVB0BDmeXg;Parsimony;parsimonyinc
 UCBsXfUO__nzMnlaLLUx7DFQ;Probability!;
 UCljumcPvitx5W0OEC_Thk2Q;Rania Ismail;
+UCg6kociUghEgKz_hLRKQrMQ;R Data Science School;
 UCKHWHHzf3H79h2T0QWdR1Tw;R en Baires;renbaires
 UC1A-TUhyfNOpHcNM8da6tJQ;Renzo Caceres Rossi;ARenzoCaceresR
 UCY98oWVfQEZ_i7R_0JqIRZA;R- Ladies Amsterdam;RLadiesAMS
