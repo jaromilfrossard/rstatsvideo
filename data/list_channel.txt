@@ -17,6 +17,7 @@ UCWApflfx7nUcvvYMZ2SAbCQ;BIG Bioinformatics;
 UCFX-MipGKF9jCEXaP-59BzQ;BIS15L: Data Science for Biologists;
 UCqaMSQd_h-2EDGsU6WDiX0Q;Bioconductor;Bioconductor
 UCAI9XVDrTRsT2cjdFLaTnBw;Biostatistics;
+UCq45aK-qwWv1XAs1Si-_3Vg;Breon Haskett;
 UCTZXht1RTL2Duc3eU8MYGzQ;Bruno Rodrigues;brodriguesco
 UCcU3xuCc2IHMvQ55lfuydxw;Business Analytics Masterclass;
 UCqQ_cxcNu1ekqHXDc-MbU_w;Business Science;bizScienc
@@ -199,6 +200,7 @@ UC-qm48zb2P7NVxk-tBa7MFg;Statistics Lectures UNIL: Peter Hilpert;
 UCMdihazndR0f9XBoSXWqnYg;Statistics of DOOM;aggieerin
 UC5FvzLMVNrTMW-ycrW-4KyA;Statistics Playbook;
 UCKMekE_4UfWvZDuBWenG8WA;StatistikinDD;StatistikInDD
+UCf4yYuw5nkmixgA-KT3euHw;Stats For All;statsforbios
 UC2M4LiU11tjZfL86yfufSKA;Sukaesi Marianti;
 UCY66vV1WTk_2lHg24cuJrtg;The Data Digest;DigestData
 UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;thinkR_fr
