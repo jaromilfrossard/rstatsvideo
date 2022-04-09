@@ -8475,3 +8475,45 @@ UCDgj5-mFohWZ5irWSFMFcng;Bb5Xol1oU_I;2022-04-08T00:01:19Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #coding #programming
 🔗 https://www.youtube.com/watch?v=Bb5Xol1oU_I"
+UCpbWlHEqBSnJb6i4UemXQpA;3H_GGIEZhnc;2022-04-08T07:45:17Z;"📺 New #rstatsvideo: How to import data to R
+▶ Dr. Azad Rasul (@Azad77Rasul)
+🗣 🇬🇧
+#rstats #rprogramming #rtutorial #data #rstudio
+🔗 https://www.youtube.com/watch?v=3H_GGIEZhnc"
+UCCaChdLMTYMxyawR_Qf-kYA;Yz5I0UqlqbE;2022-04-08T10:00:03Z;"📺 New #rstatsvideo: Modelado Tidy con R - 6. Ajustando modelos con parsnip (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=Yz5I0UqlqbE"
+UCrpq9hzMQSq0ldVcXlLgpvQ;3g2NyhFZPns;2022-04-08T12:00:01Z;"📺 New #rstatsvideo: It is better than Microsoft Word | Writing in R Markdown
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=3g2NyhFZPns"
+UCvt6lv8yMrBV8YgsAoQykHw;B8r9aip3AlQ;2022-04-08T12:18:57Z;"📺 New #rstatsvideo: Regressão com Tidymodels
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=B8r9aip3AlQ"
+UCvt6lv8yMrBV8YgsAoQykHw;uQL6NOSd9cc;2022-04-08T12:58:00Z;"📺 New #rstatsvideo: Introdução a utilização do Git e Github no RStudio
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=uQL6NOSd9cc"
+UCvt6lv8yMrBV8YgsAoQykHw;PUv_NBUmH0k;2022-04-08T13:50:01Z;"📺 New #rstatsvideo: Introdução a GitHub Actions (GHA)
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=PUv_NBUmH0k"
+UCyHEww8_SCdxZvEnkCfi55w;DNtyNoIAKuw;2022-04-08T14:00:27Z;"📺 New #rstatsvideo: match() Function in R (4 Example Codes) | pmatch() & charmatch() Functions | String & Numeric Data
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=DNtyNoIAKuw"
+UCg4rv97QEhN-2gvLhrGMgEw;sg002HbQkjo;2022-04-08T14:07:36Z;"📺 New #rstatsvideo: Regressão de Poisson no R - Exemplo 2
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=sg002HbQkjo"
+UCnYkdhuQljgCnGNpCZpPfVA;6G8KyqetJMY;2022-04-08T15:00:03Z;"📺 New #rstatsvideo: Ciclo for in R: 3 esempi di utilizzo
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=6G8KyqetJMY"
