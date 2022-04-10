@@ -8517,3 +8517,50 @@ UCnYkdhuQljgCnGNpCZpPfVA;6G8KyqetJMY;2022-04-08T15:00:03Z;"📺 New #rstatsvideo
 🗣 🇮🇹
 #rstats
 🔗 https://www.youtube.com/watch?v=6G8KyqetJMY"
+UCpbWlHEqBSnJb6i4UemXQpA;cDIKf7oACOM;2022-04-09T09:08:33Z;"📺 New #rstatsvideo: How to Export Data from R
+▶ Dr. Azad Rasul (@Azad77Rasul)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming #rtutorial #exportdata
+🔗 https://www.youtube.com/watch?v=cDIKf7oACOM"
+UCyHEww8_SCdxZvEnkCfi55w;A_Ky7Phpryc;2022-04-09T14:00:50Z;"📺 New #rstatsvideo: Modify Scientific Notation on ggplot2 Plot Axis in R | Change Labels | scales & stringr Packages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=A_Ky7Phpryc"
+UCTTBgWyJl2HrrhQOOc710kA;5LKrMTlJvo0;2022-04-09T19:45:01Z;"📺 New #rstatsvideo: Handling coefficients for modeling collegiate sports expenditures
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=5LKrMTlJvo0"
+UCrmJdnPmle514qkK3lLOsVQ;BWbsTG44Jgk;2022-04-09T22:12:32Z;"📺 New #rstatsvideo: #R | Tabsets to organize content of HTML Knit 🧶 R Markdown (.Rmd) | #tabset #RMarkdown #RStudio
+▶ RJ Studio
+#rstats #rmarkdown #rcontentsintotabs #creatingtabswithknithtml #tabsetinr #tabsetr
+🔗 https://www.youtube.com/watch?v=BWbsTG44Jgk"
+UCCaChdLMTYMxyawR_Qf-kYA;OAlBRNS7q0k;2022-04-09T22:37:27Z;"📺 New #rstatsvideo: ISLR: Tree-Based Methods Part 2 (islr02 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=OAlBRNS7q0k"
+UCCaChdLMTYMxyawR_Qf-kYA;OefbbZN8WT0;2022-04-09T22:38:09Z;"📺 New #rstatsvideo: Iterative Search (tmwr04 14)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=OefbbZN8WT0"
+UCCaChdLMTYMxyawR_Qf-kYA;jwnQkHtUiOY;2022-04-09T22:38:58Z;"📺 New #rstatsvideo: R for Data Science: Pipes (r4ds06 17 18)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=jwnQkHtUiOY"
+UCCaChdLMTYMxyawR_Qf-kYA;42cqVanImm0;2022-04-09T22:39:11Z;"📺 New #rstatsvideo: R for Data Science: Graphics for communication (r4ds05 28)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=42cqVanImm0"
+UCCaChdLMTYMxyawR_Qf-kYA;cfes4plo95Y;2022-04-09T22:41:03Z;"📺 New #rstatsvideo: SMLTAR: Long short-term memory (LSTM) networks (smltar01 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=cfes4plo95Y"
+UCP8l94xtoemCH_GxByvTuFQ;_eCFJaUoRms;2022-04-10T07:00:49Z;"📺 New #rstatsvideo: TidyX Episode 101 | Sampling, Simulation, and Intro to Bayes - Poisson/Gamma
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=_eCFJaUoRms"
