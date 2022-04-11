@@ -8564,3 +8564,35 @@ UCP8l94xtoemCH_GxByvTuFQ;_eCFJaUoRms;2022-04-10T07:00:49Z;"📺 New #rstatsvideo
 ▶ TidyX (@tidy_explained)
 #rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
 🔗 https://www.youtube.com/watch?v=_eCFJaUoRms"
+UCpbWlHEqBSnJb6i4UemXQpA;8LZSU-YN9ZA;2022-04-10T07:29:41Z;"📺 New #rstatsvideo: How to Perform T Test in RStudio
+▶ Dr. Azad Rasul (@Azad77Rasul)
+🗣 🇬🇧
+#rstats #rstudio #dataanalysis #ttest #rprogrammingtutorial #rprogramming #rtutorial #onesamplettestinr #twosamplettest
+🔗 https://www.youtube.com/watch?v=8LZSU-YN9ZA"
+UCyHEww8_SCdxZvEnkCfi55w;Db59AF7Apbw;2022-04-10T14:00:55Z;"📺 New #rstatsvideo: NaN in R Explained (Example Code) | is.nan(), Count, Replace & Remove | Difference Between NaN & NA
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=Db59AF7Apbw"
+UCCaChdLMTYMxyawR_Qf-kYA;3vdXk_tYG-g;2022-04-10T14:11:01Z;"📺 New #rstatsvideo: R Packages: The whole game (rpkgs03 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=3vdXk_tYG-g"
+UC9Sm1qcdzyGVjQMgWsW4pcw;9nVlqN2Yfu0;2022-04-10T18:45:27Z;"📺 New #rstatsvideo: R Girls: Getting Started with RStudio Cloud
+▶ Jennifer Sloane (@jfsloane)
+#rstats #rgirls #rstudiocloudtutorial #gettingstartedwithrstudiocloud #settingupbaseproject #rgirlsrstudiocloudworkspace
+🔗 https://www.youtube.com/watch?v=9nVlqN2Yfu0"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;ltmSauRzDd8;2022-04-10T23:00:12Z;"📺 New #rstatsvideo: Principal Component Analysis with the mtcars dataset
+▶ Dragonfly Statistics
+#rstats #python #pandas #pydata #pandasdatascience #pythondatascience #datawranglingwithpython #scikitlearn #sklearn
+🔗 https://www.youtube.com/watch?v=ltmSauRzDd8"
+UCax5WxTJvQjtS9elybDivbA;6h3QaCf1f4M;2022-04-11T01:00:36Z;"📺 New #rstatsvideo: Using For Loop Statement in R (Part 1) #olakunle4impact #rprogramming #tagng #rstudio
+▶ Olakunle4impact (@olakunle4impact)
+#rstats #usingforloopstatementinr #rstudio #olakunle4impact #tagng #rprogramming
+🔗 https://www.youtube.com/watch?v=6h3QaCf1f4M"
+UCBYwP7mrBxJSZbPg-U3uR-A;YRG9VFLSXTI;2022-04-11T01:32:47Z;"📺 New #rstatsvideo: Transfer files, load and use R on the HPC and submit jobs on the HPC (HPC course part 2)
+▶ CodeR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=YRG9VFLSXTI"
