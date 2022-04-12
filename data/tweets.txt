@@ -8596,3 +8596,28 @@ UCBYwP7mrBxJSZbPg-U3uR-A;YRG9VFLSXTI;2022-04-11T01:32:47Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=YRG9VFLSXTI"
+UCyHEww8_SCdxZvEnkCfi55w;j4aC22l-D5k;2022-04-11T14:00:20Z;"📺 New #rstatsvideo: Calculate Skewness & Kurtosis in R (2 Examples) | 2nd & 3rd Moment of Distribution | moments Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=j4aC22l-D5k"
+UCGuktEl5InrcxPfCjmPWxsA;_EjNR6YdnGM;2022-04-11T16:00:30Z;"📺 New #rstatsvideo: How to create a biplot using vegan and ggplot2 (CC203)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #biplotveganggplot2 #veganbiplot #biplotggplot2 #biplotveganggplot #biplotr #biplotmicrobiome
+🔗 https://www.youtube.com/watch?v=_EjNR6YdnGM"
+UCLIphG_4eXZqf4C6VBg8pUw;OotRQlMCGTI;2022-04-11T16:45:56Z;"📺 New #rstatsvideo: Пакет caret. Тренировочная и тестовая выборка - Машинное обучение в R
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #машинноеобучение #анализданных #caret
+🔗 https://www.youtube.com/watch?v=OotRQlMCGTI"
+UCDgj5-mFohWZ5irWSFMFcng;KB8iSPnpxvo;2022-04-11T19:57:34Z;"📺 New #rstatsvideo: R-Ladies Cologne (English) - Using R for Regular Expressions - Pavitra Chakravarty
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=KB8iSPnpxvo"
+UCFXPzW7RxP6RfQGpRn7WXNw;lUYc5ecxT5U;2022-04-12T02:41:05Z;"📺 New #rstatsvideo: w3: Intro to purrr
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=lUYc5ecxT5U"
