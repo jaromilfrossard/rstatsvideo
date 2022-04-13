@@ -8621,3 +8621,47 @@ UCFXPzW7RxP6RfQGpRn7WXNw;lUYc5ecxT5U;2022-04-12T02:41:05Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=lUYc5ecxT5U"
+UCCRIHidGlMgADMkGrl8eKiQ;UXKYqpAo6cs;2022-04-12T11:33:25Z;"📺 New #rstatsvideo: Memory- and Computation-Efficient Statistical Tools for Big Matrices
+▶ R Lille (@RLille_RUG)
+🗣 🇬🇧
+#rstats #rlille #rug #rusergroup
+🔗 https://www.youtube.com/watch?v=UXKYqpAo6cs"
+UCyHEww8_SCdxZvEnkCfi55w;tUWJ1lAN2CI;2022-04-12T14:00:23Z;"📺 New #rstatsvideo: Replace Multiple Spaces by Single Space in R (2 Examples) | Drop Redundant Whitespace | str_squish()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=tUWJ1lAN2CI"
+UCpbWlHEqBSnJb6i4UemXQpA;0yjlTzgWysU;2022-04-12T15:12:57Z;"📺 New #rstatsvideo: Working directories and paths in R programming
+▶ Dr. Azad Rasul (@Azad77Rasul)
+🗣 🇬🇧
+#rstats #pathanalysis #rprogrammingtutorial #rstudio
+🔗 https://www.youtube.com/watch?v=0yjlTzgWysU"
+UCpbWlHEqBSnJb6i4UemXQpA;5xO8_11BYys;2022-04-12T15:16:29Z;"📺 New #rstatsvideo: Data manipulation in R programming
+▶ Dr. Azad Rasul (@Azad77Rasul)
+🗣 🇬🇧
+#rstats #dataanalysis #data #datascience
+🔗 https://www.youtube.com/watch?v=5xO8_11BYys"
+UCpbWlHEqBSnJb6i4UemXQpA;xOYAdugoUmc;2022-04-12T20:14:40Z;"📺 New #rstatsvideo: Multiple linear regression in R programming
+▶ Dr. Azad Rasul (@Azad77Rasul)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=xOYAdugoUmc"
+UCpbWlHEqBSnJb6i4UemXQpA;XmUomaZtR2E;2022-04-12T20:18:54Z;"📺 New #rstatsvideo: Create a report in R programming
+▶ Dr. Azad Rasul (@Azad77Rasul)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=XmUomaZtR2E"
+UCg4rv97QEhN-2gvLhrGMgEw;ic6N3IXoIy4;2022-04-12T22:23:07Z;"📺 New #rstatsvideo: Manipulando Datas no R com o Pacote lubridate
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=ic6N3IXoIy4"
+UCrpq9hzMQSq0ldVcXlLgpvQ;6tvmdlUYQ4Q;2022-04-13T02:20:41Z;"📺 New #rstatsvideo: Convert Gene ID in R, easy
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=6tvmdlUYQ4Q"
+UCg6kociUghEgKz_hLRKQrMQ;R22BEKcxz78;2022-04-13T05:06:55Z;"📺 New #rstatsvideo: Better graphics with gghighlight in R!
+▶ R Data Science School
+#rstats #wondersharefilmora
+🔗 https://www.youtube.com/watch?v=R22BEKcxz78"
