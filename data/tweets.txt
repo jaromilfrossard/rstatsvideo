@@ -8665,3 +8665,27 @@ UCg6kociUghEgKz_hLRKQrMQ;R22BEKcxz78;2022-04-13T05:06:55Z;"📺 New #rstatsvideo
 ▶ R Data Science School
 #rstats #wondersharefilmora
 🔗 https://www.youtube.com/watch?v=R22BEKcxz78"
+UCcGXGFClRdnrwXsPHi7P4ZA;JDGtLG0Tceo;2022-04-13T10:29:11Z;"📺 New #rstatsvideo: R demo | ANOVA (One-Way) | Fisher’s, Welch’s, Bayesian, Robust | Conduct, visualise, interpret + 😉
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #clearlyexplained #datascience #dataanalysis #forbeginners #stats
+🔗 https://www.youtube.com/watch?v=JDGtLG0Tceo"
+UCyHEww8_SCdxZvEnkCfi55w;I4latYaKArQ;2022-04-13T14:00:18Z;"📺 New #rstatsvideo: Get Equation of Linear Model Trend Line in R (Example) | Regression Coefficients | coef() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=I4latYaKArQ"
+UC1ZIcF31fEzBO6akL_HHkBg;EupbkCqgh4U;2022-04-13T14:01:23Z;"📺 New #rstatsvideo: install git, craete a token, and install a private R package
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EupbkCqgh4U"
+UCfJyQ3P2k_SuqfxVdqIEQNw;KubK6hgMbvg;2022-04-13T15:00:12Z;"📺 New #rstatsvideo: Chi Squared Test using R programming
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=KubK6hgMbvg"
+UCCaChdLMTYMxyawR_Qf-kYA;_MOovDiGzHg;2022-04-13T17:50:48Z;"📺 New #rstatsvideo: ISLR: Deep Learning Lab (islr01 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=_MOovDiGzHg"
