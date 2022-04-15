@@ -8689,3 +8689,67 @@ UCCaChdLMTYMxyawR_Qf-kYA;_MOovDiGzHg;2022-04-13T17:50:48Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=_MOovDiGzHg"
+UCTXuqtCYxPVEehq6fJY9GkA;4fK4AIvT5xI;2022-04-14T11:44:28Z;"📺 New #rstatsvideo: Visualização de Dados no R: estático X interativo
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=4fK4AIvT5xI"
+UCrpq9hzMQSq0ldVcXlLgpvQ;iQ4C1hwy8SU;2022-04-14T12:00:34Z;"📺 New #rstatsvideo: Dark Mode in R
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=iQ4C1hwy8SU"
+UCwQ7lkY6YWzZjT807Itbvtw;XgzcNu-8HeM;2022-04-14T12:14:38Z;"📺 New #rstatsvideo: Setting up my Quarto adventures!
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=XgzcNu-8HeM"
+UCwQ7lkY6YWzZjT807Itbvtw;cW9vFhpGFgw;2022-04-14T12:17:01Z;"📺 New #rstatsvideo: Using Quarto for revealjs slides
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=cW9vFhpGFgw"
+UCCaChdLMTYMxyawR_Qf-kYA;vLlYSywN4zA;2022-04-14T12:51:29Z;"📺 New #rstatsvideo: Statistical Rethinking Book Club: Chapter 10 (2022-04-13) (statrethink01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vLlYSywN4zA"
+UCyHEww8_SCdxZvEnkCfi55w;iTUEK9YimRE;2022-04-14T14:00:16Z;"📺 New #rstatsvideo: R rbind Function Error: Names don’t Match Previous Names (3 Examples) | bind_rows() of dplyr Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=iTUEK9YimRE"
+UCDgj5-mFohWZ5irWSFMFcng;r3yklH7Gk1s;2022-04-14T15:33:07Z;"📺 New #rstatsvideo: R-Ladies Johannesburg (Eng) - Become an R Package Developer - Maëlle Salmon
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=r3yklH7Gk1s"
+UCGuktEl5InrcxPfCjmPWxsA;Gm-kg3TuML4;2022-04-14T16:00:07Z;"📺 New #rstatsvideo: Alternatives to ordination: Displaying temporal trends in beta diversity (CC204)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #ordinationalternatives #ordinationalternitives #ordinationmethods
+🔗 https://www.youtube.com/watch?v=Gm-kg3TuML4"
+UCCaChdLMTYMxyawR_Qf-kYA;SEJmtdIWC-g;2022-04-14T18:09:17Z;"📺 New #rstatsvideo: R Packages: System and package setup(rpkgs03 3 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=SEJmtdIWC-g"
+UCPfMGYxAOm39sO8nuEMB96Q;ZfES1GRNNh4;2022-04-14T20:08:09Z;"📺 New #rstatsvideo: Cómo Calcular el Promedio de Distintas Variables al Mismo Tiempo en RStudio ❤️‍🔥
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #cómocalcularelpromediodedistintasvariablesalmismotiempoenrstudio
+🔗 https://www.youtube.com/watch?v=ZfES1GRNNh4"
+UC3xfbCMLCw1Hh4dWop3XtHg;ssmwUBSpF-8;2022-04-14T20:41:53Z;"📺 New #rstatsvideo: Alan Carlson | Robust, modular dashboards that minimize tech debt | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ssmwUBSpF-8"
+UCTZXht1RTL2Duc3eU8MYGzQ;Hlypj6-n51c;2022-04-14T21:06:24Z;"📺 New #rstatsvideo: Why you should(n't) care about Monads if you're an R programmer
+▶ Bruno Rodrigues (@brodriguesco)
+#rstats #monad #functionalprogramming
+🔗 https://www.youtube.com/watch?v=Hlypj6-n51c"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;C6skIO5Thyo;2022-04-14T23:00:05Z;"📺 New #rstatsvideo: AirPassengers - Time Series Plots
+▶ Dragonfly Statistics
+#rstats #python #pandas #pydata #pandasdatascience #pythondatascience #datawranglingwithpython #scikitlearn #sklearn #datasciencewithpython
+🔗 https://www.youtube.com/watch?v=C6skIO5Thyo"
+UCq45aK-qwWv1XAs1Si-_3Vg;cKlmHaVlvuw;2022-04-15T02:27:09Z;"📺 New #rstatsvideo: CSSS 508 - Week 3 Lecture - SP22
+▶ Breon Haskett
+#rstats
+🔗 https://www.youtube.com/watch?v=cKlmHaVlvuw"
