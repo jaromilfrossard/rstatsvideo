@@ -8753,3 +8753,26 @@ UCq45aK-qwWv1XAs1Si-_3Vg;cKlmHaVlvuw;2022-04-15T02:27:09Z;"📺 New #rstatsvideo
 ▶ Breon Haskett
 #rstats
 🔗 https://www.youtube.com/watch?v=cKlmHaVlvuw"
+UC3xfbCMLCw1Hh4dWop3XtHg;aVI4YZ1CB2c;2019-11-18T08:00:01Z;"📺 #rstatsvideo: Edgar Ruiz | Databases using R The latest | RStudio (2019)
+▶ RStudio (@rstudio)
+#rstats #edgarruiz #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=aVI4YZ1CB2c"
+UCC3CCtUrSSQoJkxodRKr89g;w5U62wUki3E;2020-09-22T21:04:51Z;"📺 #rstatsvideo: Mapping in R with leaflet
+▶ Lisa Lendway - Statistics & Data Science (@lisalendway)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=w5U62wUki3E"
+UCwQ7lkY6YWzZjT807Itbvtw;GdxVtl3FwmI;2022-04-15T10:30:02Z;"📺 New #rstatsvideo: Episode 31: The Connecticut COVID-19 Test Spotter App (Part 2)
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=GdxVtl3FwmI"
+UCyHEww8_SCdxZvEnkCfi55w;Hvh4MAzUFiY;2022-04-15T14:00:05Z;"📺 New #rstatsvideo: Calculate Mode in R (4 Examples) | Self-Defined & DescTools Package | Vector & Data Frame Column
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Hvh4MAzUFiY"
+UCnYkdhuQljgCnGNpCZpPfVA;RgWPosjFKWE;2022-04-15T15:00:11Z;"📺 New #rstatsvideo: if else in R
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats #if #ifelse
+🔗 https://www.youtube.com/watch?v=RgWPosjFKWE"
