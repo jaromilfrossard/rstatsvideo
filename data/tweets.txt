@@ -8776,3 +8776,29 @@ UCnYkdhuQljgCnGNpCZpPfVA;RgWPosjFKWE;2022-04-15T15:00:11Z;"📺 New #rstatsvideo
 🗣 🇮🇹
 #rstats #if #ifelse
 🔗 https://www.youtube.com/watch?v=RgWPosjFKWE"
+UCrpq9hzMQSq0ldVcXlLgpvQ;OkAv53mFjHA;2022-04-16T12:00:09Z;"📺 New #rstatsvideo: update everything in r
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=OkAv53mFjHA"
+UC9Sm1qcdzyGVjQMgWsW4pcw;L2KT0ls_oIk;2022-04-16T12:28:25Z;"📺 New #rstatsvideo: R Girls: Getting Started with RStudio Cloud
+▶ Jennifer Sloane (@jfsloane)
+#rstats #rgirls #rstudiocloudtutorial #gettingstartedwithrstudiocloud #settingupbaseproject #rgirlsrstudiocloudworkspace
+🔗 https://www.youtube.com/watch?v=L2KT0ls_oIk"
+UCyHEww8_SCdxZvEnkCfi55w;2uTapSYijAI;2022-04-16T14:00:36Z;"📺 New #rstatsvideo: Break Axis of Plot in R (2 Examples) | gap.plot Function of plotrix Package | Remove Particular Part
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=2uTapSYijAI"
+UCWOMdzXlQgRu6f-plf9DTcg;etGQdeRBjrE;2022-04-16T14:11:43Z;"📺 New #rstatsvideo: ""Actualizando RStudio, R version 4.1.3""
+▶ Miguel Bustos
+#rstats
+🔗 https://www.youtube.com/watch?v=etGQdeRBjrE"
+UCrmJdnPmle514qkK3lLOsVQ;aLVPPjNWKJE;2022-04-16T20:58:11Z;"📺 New #rstatsvideo: #R | Code Download from HTML Knit output 🧶 RMarkdown (.Rmd) file | #CodeDownload #RMarkdown #RStudio
+▶ RJ Studio
+#rstats #rmarkdown #codedownloadr #rmarkdowncodedownlaod #rmdcodedownload #코드다운로드
+🔗 https://www.youtube.com/watch?v=aLVPPjNWKJE"
+UCktFo5XoX5QZMWb2Gb3KY2A;N9gOHQgdFS0;2022-04-17T03:54:54Z;"📺 New #rstatsvideo: Practical View of R in Epidemiology by Elena Dudukina, Clinical Specialist, PhD
+▶ R-Ladies Abuja (@RLadiesAbuja)
+#rstats
+🔗 https://www.youtube.com/watch?v=N9gOHQgdFS0"
