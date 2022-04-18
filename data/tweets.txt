@@ -8802,3 +8802,25 @@ UCktFo5XoX5QZMWb2Gb3KY2A;N9gOHQgdFS0;2022-04-17T03:54:54Z;"📺 New #rstatsvideo
 ▶ R-Ladies Abuja (@RLadiesAbuja)
 #rstats
 🔗 https://www.youtube.com/watch?v=N9gOHQgdFS0"
+UC_R5smHVXRYGhZYDJsnXTwg;KJCYjjWNgLM;2018-07-14T21:58:40Z;"📺 #rstatsvideo: Estimating individual Customer Lifetime Values with R: The CLVTools Package
+▶ R Consortium (@RConsortium)
+#rstats
+🔗 https://www.youtube.com/watch?v=KJCYjjWNgLM"
+UC9Sm1qcdzyGVjQMgWsW4pcw;TDwJ0Epzq5M;2022-04-17T10:24:39Z;"📺 New #rstatsvideo: Introduction to R Part 3: My Workflow
+▶ Jennifer Sloane (@jfsloane)
+#rstats #introductiontor #workflowinr #readindatainr #loadlibrariesinr #cleandatainr #visualiseresultsinr #createrproject
+🔗 https://www.youtube.com/watch?v=TDwJ0Epzq5M"
+UCyHEww8_SCdxZvEnkCfi55w;u06sODuI15w;2022-04-17T14:00:23Z;"📺 New #rstatsvideo: Extract Fitted Values from Linear Regression Model in R (Example) | fitted() vs. predict() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=u06sODuI15w"
+UCCaChdLMTYMxyawR_Qf-kYA;aDiOqqd1Ydc;2022-04-17T14:50:06Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Cohort 3 Launch (mshiny03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=aDiOqqd1Ydc"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;gxW_hI7aONA;2022-04-17T23:00:08Z;"📺 New #rstatsvideo: Writing a Logistic Function in R
+▶ Dragonfly Statistics
+#rstats #python #pandas #pydata #pandasdatascience #pythondatascience #datawranglingwithpython #scikitlearn #sklearn #datasciencewithpython
+🔗 https://www.youtube.com/watch?v=gxW_hI7aONA"
