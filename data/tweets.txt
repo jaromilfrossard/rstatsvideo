@@ -8824,3 +8824,32 @@ UCeoF_5Kw0YyWOqhAbQGrxJQ;gxW_hI7aONA;2022-04-17T23:00:08Z;"📺 New #rstatsvideo
 ▶ Dragonfly Statistics
 #rstats #python #pandas #pydata #pandasdatascience #pythondatascience #datawranglingwithpython #scikitlearn #sklearn #datasciencewithpython
 🔗 https://www.youtube.com/watch?v=gxW_hI7aONA"
+UCdrnsZd2xWjDjHUlYsA6Kfw;dVIy4KCSwRQ;2022-04-18T07:23:12Z;"📺 New #rstatsvideo: Cat graphs in R with the ggcats package
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters
+🔗 https://www.youtube.com/watch?v=dVIy4KCSwRQ"
+UCSoUNu8x-HblqqOK_EwdZGw;9i0ElncHGRg;2022-04-18T12:00:27Z;"📺 New #rstatsvideo: How to get started with the bookdown package
+▶ R for the Rest of Us (@rfortherest)
+#rstats
+🔗 https://www.youtube.com/watch?v=9i0ElncHGRg"
+UCyHEww8_SCdxZvEnkCfi55w;2HA2SaJAbJw;2022-04-18T14:00:49Z;"📺 New #rstatsvideo: Wrap Long Axis Labels of ggplot2 Plot into Multiple Lines (Example) | str_wrap() of stringr Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=2HA2SaJAbJw"
+UCGuktEl5InrcxPfCjmPWxsA;roCRaWI3fmw;2022-04-18T16:00:35Z;"📺 New #rstatsvideo: Alternatives to ordination with R: Displaying one day time lag in beta diversity (CC205)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #ordinationalternatives #ordinationalternitives #ordinationmethods
+🔗 https://www.youtube.com/watch?v=roCRaWI3fmw"
+UCCaChdLMTYMxyawR_Qf-kYA;b--hZlZqJ6I;2022-04-18T17:44:25Z;"📺 New #rstatsvideo: ISLR: Resampling Methods Lab (islr03 5 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=b--hZlZqJ6I"
+UCFXPzW7RxP6RfQGpRn7WXNw;IVXJIgdnmrc;2022-04-19T06:18:32Z;"📺 New #rstatsvideo: w4: Batch processing
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=IVXJIgdnmrc"
