@@ -8853,3 +8853,49 @@ UCFXPzW7RxP6RfQGpRn7WXNw;IVXJIgdnmrc;2022-04-19T06:18:32Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=IVXJIgdnmrc"
+UCvt6lv8yMrBV8YgsAoQykHw;4DXKY_ej4Rk;2022-04-19T10:18:14Z;"📺 New #rstatsvideo: Introdução a Análise de Paisagens
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=4DXKY_ej4Rk"
+UCwVZbwV_5GQpdUVB0BDmeXg;tSDW_DZGMwo;2022-04-19T11:03:55Z;"📺 New #rstatsvideo: Scatter plot chart in R
+▶ Parsimony (@parsimonyinc)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=tSDW_DZGMwo"
+UCvt6lv8yMrBV8YgsAoQykHw;krnw81IE0RA;2022-04-19T11:18:52Z;"📺 New #rstatsvideo: Análise de dados com redes em R
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=krnw81IE0RA"
+UCZQlpKYQPlf2QNVdSv_TRdg;h6gzASCygHo;2022-04-19T11:35:29Z;"📺 New #rstatsvideo: Bayesian Item Response Modeling in R with {brms} and Stan
+▶ UseR Oslo (@OURmeetup)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=h6gzASCygHo"
+UCyHEww8_SCdxZvEnkCfi55w;igXHSRmM-GY;2022-04-19T14:00:33Z;"📺 New #rstatsvideo: Standard Deviation by Row (Example) | Calculate SD Across Rows | apply & cbind Functions & NA Values
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=igXHSRmM-GY"
+UCg6kociUghEgKz_hLRKQrMQ;GOgTrBod0AY;2022-04-19T17:36:24Z;"📺 New #rstatsvideo: Effective Join tables with R
+▶ R Data Science School
+#rstats #wondersharefilmora
+🔗 https://www.youtube.com/watch?v=GOgTrBod0AY"
+UCg4rv97QEhN-2gvLhrGMgEw;1vtHoQMyT6o;2022-04-19T18:26:19Z;"📺 New #rstatsvideo: Manipulando Datas no R com o Pacote lubridate - Na Prática
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=1vtHoQMyT6o"
+UCcGXGFClRdnrwXsPHi7P4ZA;U-hS2zoRPOY;2022-04-19T21:23:47Z;"📺 New #rstatsvideo: R demo | Kruskal-Wallis test + Post-Hoc | How to conduct, visualize, interpret & more 😉
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #clearlyexplained #datascience #dataanalysis #forbeginners #stats
+🔗 https://www.youtube.com/watch?v=U-hS2zoRPOY"
+UCeiiqmVK07qhY-wvg3IZiZQ;T11WKngDEGQ;2022-04-20T01:07:10Z;"📺 New #rstatsvideo: Tidy Tuesday live screencast: Analyzing crossword puzzles in R
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=T11WKngDEGQ"
+UC0dgTZhVua-2yvtWDfPA_nQ;b7PW_T0Yib8;2022-04-20T05:00:11Z;"📺 New #rstatsvideo: A tutorial on how to create a r shiny dashboard
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #howtocreatearshinydashboard #creatershinydashboard
+🔗 https://www.youtube.com/watch?v=b7PW_T0Yib8"
