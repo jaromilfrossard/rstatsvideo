@@ -8899,3 +8899,33 @@ UC0dgTZhVua-2yvtWDfPA_nQ;b7PW_T0Yib8;2022-04-20T05:00:11Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #howtocreatearshinydashboard #creatershinydashboard
 🔗 https://www.youtube.com/watch?v=b7PW_T0Yib8"
+UCCaChdLMTYMxyawR_Qf-kYA;SjkEViXZIh8;2022-04-20T13:51:09Z;"📺 New #rstatsvideo: Modelado Tidy con R - 07. Un Workflow (Flujo de Trabajo) para Modelado (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=SjkEViXZIh8"
+UCCaChdLMTYMxyawR_Qf-kYA;gKVGjht4N20;2022-04-20T13:52:02Z;"📺 New #rstatsvideo: ggplot2: Faceting and Themes (ggplot2_01 17 18)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=gKVGjht4N20"
+UCyHEww8_SCdxZvEnkCfi55w;KcNXRaSUswE;2022-04-20T14:00:22Z;"📺 New #rstatsvideo: grep & grepl R Functions (Examples) | Match One or Multiple Patterns in Character String | regexpr()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=KcNXRaSUswE"
+UCMdihazndR0f9XBoSXWqnYg;91yoBYMt8R4;2022-04-20T16:50:25Z;"📺 New #rstatsvideo: R & Python - Introduction to Human Language Modeling
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown
+🔗 https://www.youtube.com/watch?v=91yoBYMt8R4"
+UCxB1IGhLzlEOikTL-aDwqFg;33scakbTNO0;2022-04-20T23:05:22Z;"📺 New #rstatsvideo: [2022-04-20] R/Bioconductor-powered Team Data Science: what we have do TLDR (complete video)
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #bisquerna #dnagenotyping #datascience #github #matrixeqtl
+🔗 https://www.youtube.com/watch?v=33scakbTNO0"
+UCN-OX45aSM1VtXkzocx8Ppg;VMyPcUuAPyE;2022-04-21T03:51:24Z;"📺 New #rstatsvideo: Hierarchical Clustering and Heatmaps
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VMyPcUuAPyE"
