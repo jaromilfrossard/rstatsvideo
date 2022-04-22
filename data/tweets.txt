@@ -8929,3 +8929,56 @@ UCN-OX45aSM1VtXkzocx8Ppg;VMyPcUuAPyE;2022-04-21T03:51:24Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=VMyPcUuAPyE"
+UCMwM-3tg_-Pbx8hKO78q5EA;G5MYlWGRz34;2022-04-21T09:43:30Z;"📺 New #rstatsvideo: NHS-R Webinar: Approaches to Teaching R - April 2022
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=G5MYlWGRz34"
+UCfJyQ3P2k_SuqfxVdqIEQNw;-mGXnm0fHtI;2022-04-21T13:00:00Z;"📺 New #rstatsvideo: Linear regression using R programming
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=-mGXnm0fHtI"
+UCyHEww8_SCdxZvEnkCfi55w;5Ipgissivcw;2022-04-21T14:00:52Z;"📺 New #rstatsvideo: Add Values to Heatmap in R (Example) | How to Draw Numbers in Cells | ggplot2 & geom_text() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=5Ipgissivcw"
+UCCaChdLMTYMxyawR_Qf-kYA;2G28tDpiVUY;2022-04-21T15:04:34Z;"📺 New #rstatsvideo: Statistical Rethinking Book Club: Chapter 11 (statrethink01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2G28tDpiVUY"
+UCGuktEl5InrcxPfCjmPWxsA;Ern1p3Xypxk;2022-04-21T16:00:05Z;"📺 New #rstatsvideo: Alternatives to ordination in R: Visualizing community change relative to a specific point (CC206)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #ordinationalternativesr #ordinationalternitivesr
+🔗 https://www.youtube.com/watch?v=Ern1p3Xypxk"
+UCCaChdLMTYMxyawR_Qf-kYA;-hwGjFSv1Lo;2022-04-21T19:59:01Z;"📺 New #rstatsvideo: ISLR: Support Vector Machines Part 1 (islr02 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-hwGjFSv1Lo"
+UCCaChdLMTYMxyawR_Qf-kYA;qXJOy8f9TCM;2022-04-21T21:29:33Z;"📺 New #rstatsvideo: R Packages: Package structure and state (rpkgs03 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=qXJOy8f9TCM"
+UC5FvzLMVNrTMW-ycrW-4KyA;8GVcz4J_Bi0;2022-04-21T22:01:59Z;"📺 New #rstatsvideo: 슬기로운 통계생활 ADP 자격증 강의 3기 수강생 모집
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=8GVcz4J_Bi0"
+UCq45aK-qwWv1XAs1Si-_3Vg;Aw1VBraCujk;2022-04-22T01:43:44Z;"📺 New #rstatsvideo: CSSS 508 - Week 4 Lecture - SP22
+▶ Breon Haskett
+#rstats
+🔗 https://www.youtube.com/watch?v=Aw1VBraCujk"
+UC5FvzLMVNrTMW-ycrW-4KyA;8QSkrfE7j_Y;2022-04-22T05:26:19Z;"📺 New #rstatsvideo: [R샤이니] 나만의 대쉬보드 만들기 1강~3강 요약본
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=8QSkrfE7j_Y"
+UCRth2ImB1T-_saYc5YBTcyA;9x2v6M81n5I;2022-04-22T05:45:38Z;"📺 New #rstatsvideo: R-Ladies Nairobi (English) - Learning Together at the R4DS Online Learning Community by Jon Harmon
+▶ R-Ladies Nairobi (@RLadiesNairobi)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9x2v6M81n5I"
