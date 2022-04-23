@@ -113,6 +113,7 @@ UCBsXfUO__nzMnlaLLUx7DFQ;Probability!;
 UCljumcPvitx5W0OEC_Thk2Q;Rania Ismail;
 UCg6kociUghEgKz_hLRKQrMQ;R Data Science School;
 UCKHWHHzf3H79h2T0QWdR1Tw;R en Baires;renbaires
+UCjXQyxs1iyEg5v98fezgT0w;Regorz Statistik;
 UC1A-TUhyfNOpHcNM8da6tJQ;Renzo Caceres Rossi;ARenzoCaceresR
 UCY98oWVfQEZ_i7R_0JqIRZA;R- Ladies Amsterdam;RLadiesAMS
 UCktFo5XoX5QZMWb2Gb3KY2A;R-Ladies Abuja;RLadiesAbuja
@@ -132,6 +133,7 @@ UCrf8aQYGogbz0_7TTQVL21w;R-Ladies La Paz;RLadiesLaPaz
 UCgmESmRO796bbzOxFNPtXWw;R-Ladies Lausanne;RLadiesLausanne
 UCGjjzr5QxkGqPmVu4HYIyjg;R-ladies Lavras;rladieslavras
 UCJlLo_WBovtoVUNXQvr3UiA;R-Ladies Lisboa;RLadiesLx
+UCo0s7d_ZTrEIfjOhHC_aCGg;R-Ladies Lima;RLadiesLima
 UCGDrExQGLA3A_jNAQlKBKBA;R-Ladies Madrid;RLadiesMAD
 UClC5yNEjMoE3MmbK-mrV8Ow;R-Ladies Melbourne;RLadiesMelb
 UCRth2ImB1T-_saYc5YBTcyA;R-Ladies Nairobi;RLadiesNairobi
@@ -160,6 +162,7 @@ UCCRIHidGlMgADMkGrl8eKiQ;R Lille;RLille_RUG
 UCxdCZGywhd2R5BiOP8vOgqg;R Programming - DDS;ddata_script
 UCfJyQ3P2k_SuqfxVdqIEQNw;R Programming 101;101Programming
 UC6wfyYnDaebrARFWhWdcItA;R Stats;
+UCyxpzGd_imyk0VD_Yv0JwNQ;rstats_aficionadas;McconnellKyla
 UC8bO8eVpfEK8LbqH0oxyc3Q;R User Group at Harvard Data Science Initiative;RUGatHDSI
 UC_8_NCqWecqv8zjQE4ZwRwA;R User Group Nepal;rugnepal
 UC-nYzfrbDhiA03hww0PCpXg;R Users Group - Ecuador;users_group
