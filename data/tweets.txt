@@ -8982,3 +8982,35 @@ UCRth2ImB1T-_saYc5YBTcyA;9x2v6M81n5I;2022-04-22T05:45:38Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=9x2v6M81n5I"
+UCwQ7lkY6YWzZjT807Itbvtw;bombwF298iM;2022-04-22T12:29:39Z;"📺 New #rstatsvideo: shinybrain: A brief introduction
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=bombwF298iM"
+UCg6kociUghEgKz_hLRKQrMQ;GMtJw4OJhGo;2022-04-22T13:28:50Z;"📺 New #rstatsvideo: Getting important information from R packages & R script!
+▶ R Data Science School
+#rstats
+🔗 https://www.youtube.com/watch?v=GMtJw4OJhGo"
+UCyHEww8_SCdxZvEnkCfi55w;Y0WLbFGC-mI;2022-04-22T14:00:29Z;"📺 New #rstatsvideo: Introduction to the random Package in R (3 Examples) | True vs. Pseudo Randomness | Integer & String
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=Y0WLbFGC-mI"
+UCDgj5-mFohWZ5irWSFMFcng;3mQ5Nqdt-8Q;2022-04-22T18:11:47Z;"📺 New #rstatsvideo: R-Ladies Freiburg (English) – Best of 2021: Data visualisation
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=3mQ5Nqdt-8Q"
+UCDgj5-mFohWZ5irWSFMFcng;9ZfsOpSE104;2022-04-22T18:28:28Z;"📺 New #rstatsvideo: R-Ladies Freiburg (English) - Text analysis with R: Topic modeling
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=9ZfsOpSE104"
+UCDgj5-mFohWZ5irWSFMFcng;l12RpPbZJUA;2022-04-22T18:52:44Z;"📺 New #rstatsvideo: R-Ladies Freiburg (English) - Create beautiful documents, presentations, & articles with R Markdown!
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=l12RpPbZJUA"
+UCC0n35R84-ufqPstR1YtCxA;fl8S3KyJMwU;2022-04-22T23:52:28Z;"📺 New #rstatsvideo: [Arabic] Understanding ggplot Data Visualization (ARABIC): Part (1)
+▶ Stat Pharm
+#rstats
+🔗 https://www.youtube.com/watch?v=fl8S3KyJMwU"
