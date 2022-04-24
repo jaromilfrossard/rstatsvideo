@@ -9014,3 +9014,37 @@ UCC0n35R84-ufqPstR1YtCxA;fl8S3KyJMwU;2022-04-22T23:52:28Z;"📺 New #rstatsvideo
 ▶ Stat Pharm
 #rstats
 🔗 https://www.youtube.com/watch?v=fl8S3KyJMwU"
+UCyHEww8_SCdxZvEnkCfi55w;27DZjCdbMaU;2022-04-23T14:00:56Z;"📺 New #rstatsvideo: Combine Base R, ggplot2 & lattice Plots (Example) | How to Draw Grid of Graphs | cowplot & patchwork
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=27DZjCdbMaU"
+UCCaChdLMTYMxyawR_Qf-kYA;Jp2FYvNR7zA;2022-04-23T15:22:40Z;"📺 New #rstatsvideo: Screening Many Models (tmwr04 15)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Jp2FYvNR7zA"
+UCCaChdLMTYMxyawR_Qf-kYA;jDsmsNUHfPE;2022-04-23T15:23:14Z;"📺 New #rstatsvideo: R for Data Science: Functions (r4ds06 19)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=jDsmsNUHfPE"
+UCPfMGYxAOm39sO8nuEMB96Q;ZsIwBukyXog;2022-04-23T16:10:02Z;"📺 New #rstatsvideo: Cómo leer una base de Excel en R ❤️😊
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #cómoleerunabasedeexcelenr❤️😊 #cómoleerunabasedeexcelenr #leerunabasedeexcelenr #cómoleerunabasedeexcelenrstudio
+🔗 https://www.youtube.com/watch?v=ZsIwBukyXog"
+UCrmJdnPmle514qkK3lLOsVQ;ht0Na2C9dVM;2022-04-23T21:52:08Z;"📺 New #rstatsvideo: #R | Intro to R Shiny ✨ Apps | #RShiny #RStudio #WebApp #RPackage
+▶ RJ Studio
+#rstats #rshiny #rshinywebapp #rwebapp #shinywebapp #샤이니r #샤이니웹앱 #rshinyexplanation #interactivewebappr
+🔗 https://www.youtube.com/watch?v=ht0Na2C9dVM"
+UCCaChdLMTYMxyawR_Qf-kYA;D0pUxWx6BZE;2022-04-24T01:35:08Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Your first Shiny app Part 2 (mshiny03 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=D0pUxWx6BZE"
+UCCaChdLMTYMxyawR_Qf-kYA;2MGp74nb2ig;2022-04-24T01:35:33Z;"📺 New #rstatsvideo: R for Data Science: R Markdown Formats and Workflow (r4ds05 29-30)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2MGp74nb2ig"
