@@ -9048,3 +9048,25 @@ UCCaChdLMTYMxyawR_Qf-kYA;2MGp74nb2ig;2022-04-24T01:35:33Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=2MGp74nb2ig"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;VQLbD5YEPEA;2013-01-04T18:42:05Z;"📺 #rstatsvideo: R Tutorial : Using the apply function
+▶ Dragonfly Statistics
+#rstats #statistics
+🔗 https://www.youtube.com/watch?v=VQLbD5YEPEA"
+UCg4rv97QEhN-2gvLhrGMgEw;yDh_-pfsJ-w;2022-02-18T20:38:51Z;"📺 #rstatsvideo: Pacote Patchwork no R - Composições Gráficas
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=yDh_-pfsJ-w"
+UCyHEww8_SCdxZvEnkCfi55w;gpSULuxL8kY;2022-04-24T14:00:42Z;"📺 New #rstatsvideo: Change Line Type of Base R Plot (Example) | Modify Shape of Lines | Solid, Dashed, Dotted & Dotdash
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=gpSULuxL8kY"
+UCP8l94xtoemCH_GxByvTuFQ;3VXvQhH9KzE;2022-04-24T17:45:00Z;"📺 New #rstatsvideo: TidyX Episode 102 | Sampling, Simulation, and Intro to Bayes - Normal-Normal Conjugate
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming
+🔗 https://www.youtube.com/watch?v=3VXvQhH9KzE"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;7hcMaQQazhA;2022-04-24T23:00:05Z;"📺 New #rstatsvideo: Binomial Probability Distribution Example
+▶ Dragonfly Statistics
+#rstats #python #pandas #pydata #pandasdatascience #pythondatascience #datawranglingwithpython #scikitlearn #sklearn #datasciencewithpython
+🔗 https://www.youtube.com/watch?v=7hcMaQQazhA"
