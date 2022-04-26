@@ -9070,3 +9070,43 @@ UCeoF_5Kw0YyWOqhAbQGrxJQ;7hcMaQQazhA;2022-04-24T23:00:05Z;"📺 New #rstatsvideo
 ▶ Dragonfly Statistics
 #rstats #python #pandas #pydata #pandasdatascience #pythondatascience #datawranglingwithpython #scikitlearn #sklearn #datasciencewithpython
 🔗 https://www.youtube.com/watch?v=7hcMaQQazhA"
+UCC0n35R84-ufqPstR1YtCxA;V4O0ZBPGsSI;2022-04-25T08:42:07Z;"📺 New #rstatsvideo: [ARABIC] The Secret of the Function I() (Arabic)
+▶ Stat Pharm
+#rstats
+🔗 https://www.youtube.com/watch?v=V4O0ZBPGsSI"
+UCkAyfZ4tAeO0j9dS-_yU7Gw;hWny5_ZsXX8;2022-04-25T11:43:44Z;"📺 New #rstatsvideo: 2022-04 - R as a Service - Jonathan Adams
+▶ Dublin Data Science
+#rstats
+🔗 https://www.youtube.com/watch?v=hWny5_ZsXX8"
+UCaonzTNPMjkxcBRqhe3qHyQ;hxl1c8WRNiA;2022-04-25T13:39:22Z;"📺 New #rstatsvideo: Create an R package (example: weather data API)
+▶ Joe Guinness (@JoeGuinnesss)
+#rstats
+🔗 https://www.youtube.com/watch?v=hxl1c8WRNiA"
+UCyHEww8_SCdxZvEnkCfi55w;41IVI_LJ6sg;2022-04-25T14:01:00Z;"📺 New #rstatsvideo: Get Frequency of Words in Character String in R (Example) | Count in Text | strsplit, unlist & table
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=41IVI_LJ6sg"
+UCGuktEl5InrcxPfCjmPWxsA;jLVKJ_n6Qd0;2022-04-25T16:00:33Z;"📺 New #rstatsvideo: Alternatives to ordination in R: Visualizing community change relative to a specific point (CC207)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #ordinationalternativesr #ordinationalternitivesr
+🔗 https://www.youtube.com/watch?v=jLVKJ_n6Qd0"
+UCTZXht1RTL2Duc3eU8MYGzQ;IS42FeemJnc;2022-04-25T20:10:48Z;"📺 New #rstatsvideo: Monads implement flatmap? Waaat?
+▶ Bruno Rodrigues (@brodriguesco)
+#rstats #monad #flatmap #fmap
+🔗 https://www.youtube.com/watch?v=IS42FeemJnc"
+UC8yKJ1YfBipuyzvn4ciaNRQ;cOTxM7yH0V0;2022-04-26T03:12:12Z;"📺 New #rstatsvideo: R desde Cero
+▶ RLadies Medellin (@RLadiesMedellin)
+#rstats #rladies #rladiesglobal #rstudio #rladiesmedellín
+🔗 https://www.youtube.com/watch?v=cOTxM7yH0V0"
+UCFXPzW7RxP6RfQGpRn7WXNw;9Ebhv66PPZ4;2022-04-26T03:47:36Z;"📺 New #rstatsvideo: w5: parallel iterations
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9Ebhv66PPZ4"
+UCLgFrIEoBbAg9WfqTmbxweQ;l9DQFnulkys;2022-04-26T06:00:40Z;"📺 New #rstatsvideo: Shiny and JavaScript - Why bother?
+▶ John Coene (@jdatap)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=l9DQFnulkys"
