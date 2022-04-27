@@ -9110,3 +9110,51 @@ UCLgFrIEoBbAg9WfqTmbxweQ;l9DQFnulkys;2022-04-26T06:00:40Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=l9DQFnulkys"
+UCjXQyxs1iyEg5v98fezgT0w;2myT8MiJMAY;2022-04-26T07:00:01Z;"📺 New #rstatsvideo: CFA mit R / lavaan 2: Normalverteilungstest und robuste Schätzung
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #cfalavaanmardiastest #lavaanmardiastest #cfalavaannormalverteilung #lavaannormalverteilung
+🔗 https://www.youtube.com/watch?v=2myT8MiJMAY"
+UCyHEww8_SCdxZvEnkCfi55w;IjperDJ8IaI;2022-04-26T14:00:57Z;"📺 New #rstatsvideo: Draw Heatmap with Clusters Using pheatmap Package in R (4 Examples) | k-means, Row & Column Clusters
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=IjperDJ8IaI"
+UCAI9XVDrTRsT2cjdFLaTnBw;xR2zdxlJmzk;2022-04-26T18:09:41Z;"📺 New #rstatsvideo: Publication-Grade Graphics (Applied Statistics, Leiden University, Apr. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=xR2zdxlJmzk"
+UCg4rv97QEhN-2gvLhrGMgEw;l9MINVU3Vo4;2022-04-26T19:17:23Z;"📺 New #rstatsvideo: Análise de Regressão Logística Multinomial - Definição
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=l9MINVU3Vo4"
+UCCaChdLMTYMxyawR_Qf-kYA;TPg7sAhUYV4;2022-04-26T19:25:00Z;"📺 New #rstatsvideo: ISLR: Linear Model Selection and Regularization Part 2 (islr03 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=TPg7sAhUYV4"
+UCCaChdLMTYMxyawR_Qf-kYA;dbIg-JyWn8U;2022-04-26T21:26:11Z;"📺 New #rstatsvideo: ISLR Book Club: Survival Analysis and Censored Data Part 2 (islr01 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=dbIg-JyWn8U"
+UCq45aK-qwWv1XAs1Si-_3Vg;YTwZfNYtK3M;2022-04-27T01:29:02Z;"📺 New #rstatsvideo: CSSS 508 - Week 4 Lab - SP22
+▶ Breon Haskett
+#rstats
+🔗 https://www.youtube.com/watch?v=YTwZfNYtK3M"
+UC2M4LiU11tjZfL86yfufSKA;pgwDsBLRCr8;2022-04-27T01:42:58Z;"📺 New #rstatsvideo: R PROGRAMMING - INSTALL R & R STUDIO
+▶ Sukaesi Marianti
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=pgwDsBLRCr8"
+UC2M4LiU11tjZfL86yfufSKA;9bjgbWhpSP8;2022-04-27T01:55:51Z;"📺 New #rstatsvideo: R Programming - Dealing with missing values  (NA) (In English)
+▶ Sukaesi Marianti
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9bjgbWhpSP8"
+UC0dgTZhVua-2yvtWDfPA_nQ;4plzxZ3zR3E;2022-04-27T05:00:01Z;"📺 New #rstatsvideo: A tutorial on how to create a r shiny dashboard
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #howtocreatearshinydashboard #creatershinydashboard #rshiny #rprogramming #businessintelligence #shinyr #shinytutorial
+🔗 https://www.youtube.com/watch?v=4plzxZ3zR3E"
