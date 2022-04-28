@@ -9158,3 +9158,34 @@ UC0dgTZhVua-2yvtWDfPA_nQ;4plzxZ3zR3E;2022-04-27T05:00:01Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #howtocreatearshinydashboard #creatershinydashboard #rshiny #rprogramming #businessintelligence #shinyr #shinytutorial
 🔗 https://www.youtube.com/watch?v=4plzxZ3zR3E"
+UCfJyQ3P2k_SuqfxVdqIEQNw;eR-XRSKsuR4;2022-04-27T13:00:32Z;"📺 New #rstatsvideo: R programming in one hour - a crash course for beginners
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=eR-XRSKsuR4"
+UCyHEww8_SCdxZvEnkCfi55w;PejMY5rdT7A;2022-04-27T14:00:33Z;"📺 New #rstatsvideo: Generate Multivariate Random Data in R (Example) | Simulate Variables | mvrnorm() Function of MASS
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=PejMY5rdT7A"
+UCQ7DcXWJm3es06U7lGmBDkw;JsE2iCUOEEo;2022-04-27T15:30:31Z;"📺 New #rstatsvideo: R-Ladies St. Louis: Introduction to ARIMA Models in R with Laura Rose
+▶ R Ladies STL (@RLadiesSTL)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=JsE2iCUOEEo"
+UCC0n35R84-ufqPstR1YtCxA;7Og8EvVh7e8;2022-04-27T19:32:15Z;"📺 New #rstatsvideo: [ARABIC] Interpret cox regression output coxph() function in R (Arabic)
+▶ Stat Pharm
+#rstats
+🔗 https://www.youtube.com/watch?v=7Og8EvVh7e8"
+UCC0n35R84-ufqPstR1YtCxA;VIcM9nBxJWQ;2022-04-27T19:50:17Z;"📺 New #rstatsvideo: [ARABIC] Estimate Cutpoints for continuous predictor and time to event outcome (Arabic): Part 1 of 2
+▶ Stat Pharm
+#rstats
+🔗 https://www.youtube.com/watch?v=VIcM9nBxJWQ"
+UCC0n35R84-ufqPstR1YtCxA;VggSFowa3m8;2022-04-27T19:51:23Z;"📺 New #rstatsvideo: [ARABIC] Estimate Cutpoints for continuous predictor and time to event outcome (Arabic): Part 2 of 2
+▶ Stat Pharm
+#rstats
+🔗 https://www.youtube.com/watch?v=VggSFowa3m8"
+UCMdihazndR0f9XBoSXWqnYg;oV0SBUbmnmg;2022-04-27T21:23:57Z;"📺 New #rstatsvideo: R - Introduction to R (1.1 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #learnr #datascience #education #open #resources #lecture
+🔗 https://www.youtube.com/watch?v=oV0SBUbmnmg"

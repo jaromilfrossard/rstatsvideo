@@ -127,3 +127,4 @@ commit_message <- paste0("Update ", format(Sys.Date(), "%Y_%m_%d"))
 gert::git_commit_all(commit_message)
 
 gert::git_push()
+
