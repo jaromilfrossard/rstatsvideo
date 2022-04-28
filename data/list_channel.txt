@@ -88,6 +88,7 @@ UCU5ZiUm-OLbVGW7NP0e-eFQ;Learn RStats;
 UCT4HNZZfFzsvcs-kBNTLkzQ;Learn R with Pallvi;
 UCxB1IGhLzlEOikTL-aDwqFg;Leonardo Collado Torres;lcolladotor
 UCrpq9hzMQSq0ldVcXlLgpvQ;Liquid Brain;Brandon_yeoph
+UCDhKY1sp29xXSOInddeF4-g;Liquid Brain R;Brandon_yeoph
 UCC3CCtUrSSQoJkxodRKr89g;Lisa Lendway - Statistics & Data Science;lisalendway
 UCKJFCIbcGs2a5RGt8RjdbFA;Liza Wood;wood__liza
 UCcCMO7sHb8O_TJUd34sQ_Ng;Lulus CommentdansR;
@@ -113,6 +114,7 @@ UCBsXfUO__nzMnlaLLUx7DFQ;Probability!;
 UCljumcPvitx5W0OEC_Thk2Q;Rania Ismail;
 UCg6kociUghEgKz_hLRKQrMQ;R Data Science School;
 UCKHWHHzf3H79h2T0QWdR1Tw;R en Baires;renbaires
+UCZcd0Fp8o_FQVqf6AAoZzqA;R for students | Dr. Fahad;
 UCjXQyxs1iyEg5v98fezgT0w;Regorz Statistik;
 UC1A-TUhyfNOpHcNM8da6tJQ;Renzo Caceres Rossi;ARenzoCaceresR
 UCY98oWVfQEZ_i7R_0JqIRZA;R- Ladies Amsterdam;RLadiesAMS
@@ -221,6 +223,7 @@ UCZQlpKYQPlf2QNVdSv_TRdg;UseR Oslo;OURmeetup
 UC_sejq_JJ49KiiK4qh5r-wg;Universe of Data Science;unidatascience
 UCPzO5TjnYnBzfUVj6fI3pdw;Vivian Codes;
 UCcGXGFClRdnrwXsPHi7P4ZA;Yury Zablotski;yuzaR___
+UCDHzgi5BGU5F-LXxQIIOyDw;yutannihilationのチャンネル (仮);yutannihilation
 UCF9ymC7Dpjwr0lge2QR_A5Q;webin-R;
 UCwLy_PYrnCEhCU-Ay2F5Drw;Why R? Foundation;whyRconf
 UCr8qT7gK9WQZjCNz7Agi7sA;Why R? Turkey;WhyRTurkey
