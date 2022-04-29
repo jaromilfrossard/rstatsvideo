@@ -216,6 +216,7 @@ UCvCEl2-_Q2gGxqisyYngXIA;Thomas Mock;thomas_mock
 UCP8l94xtoemCH_GxByvTuFQ;TidyX;tidy_explained
 UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen;
 UCyf1AvRK4gmfRUJjeBNMauA;Tunis R User Group;TunisRUserGroup
+UC6mKz34g2V8Ee6VAQbiYx3Q;Tyler Morgan-Wall;tylermorganwall
 UCQ2fY9JECnDzjK4JdFdhpCg;UCLA Library Data Science Center;
 UCmU-94bz7OxehQnkQ1VlUMg;Udemy Free Course;
 UC4JoQFwsdvtEYJcPRqXyv1Q;useRchile;
