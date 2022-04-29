@@ -9189,3 +9189,31 @@ UCMdihazndR0f9XBoSXWqnYg;oV0SBUbmnmg;2022-04-27T21:23:57Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statistics #rstudio #learnr #datascience #education #open #resources #lecture
 🔗 https://www.youtube.com/watch?v=oV0SBUbmnmg"
+UCDhKY1sp29xXSOInddeF4-g;jrxdPuqb6u4;2022-04-28T12:00:33Z;"📺 New #rstatsvideo: Splitting Chunks in Rmd FAST!!!!
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=jrxdPuqb6u4"
+UCTXuqtCYxPVEehq6fJY9GkA;MVwy8Rx_w4U;2022-04-28T12:43:46Z;"📺 New #rstatsvideo: Web Scraping de qualquer coisa!
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=MVwy8Rx_w4U"
+UCyHEww8_SCdxZvEnkCfi55w;huvKQ9YYEq4;2022-04-28T14:00:46Z;"📺 New #rstatsvideo: Mean by Group in R (2 Examples) | dplyr Package vs. Base R | group_by() & summarise_at() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=huvKQ9YYEq4"
+UCGuktEl5InrcxPfCjmPWxsA;oLf0EpMJ4yA;2022-04-28T16:00:21Z;"📺 New #rstatsvideo: Using adonis and betadisper from the vegan R package to compare groups (CC208)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #veganadonisbetadisper #rvegan #vegananonis #veganbetadisper #veganhomova
+🔗 https://www.youtube.com/watch?v=oLf0EpMJ4yA"
+UCq45aK-qwWv1XAs1Si-_3Vg;5g_lOYYHyXQ;2022-04-29T01:41:33Z;"📺 New #rstatsvideo: CSSS 508 - Week 5 Lecture - SP22
+▶ Breon Haskett
+#rstats
+🔗 https://www.youtube.com/watch?v=5g_lOYYHyXQ"
+UCOdX7FBvpMPknrC6gtm0y_w;hi8ZzQm0AKs;2022-04-29T03:09:26Z;"📺 New #rstatsvideo: Intro to the Healthyverse Packages
+▶ Southern California R Users Group
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hi8ZzQm0AKs"
