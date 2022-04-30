@@ -9217,3 +9217,51 @@ UCOdX7FBvpMPknrC6gtm0y_w;hi8ZzQm0AKs;2022-04-29T03:09:26Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=hi8ZzQm0AKs"
+UC-xerHeYXyvyXWXwBAP2gYA;BiFcr6oWGdk;2022-04-29T10:39:43Z;"📺 New #rstatsvideo: R project series - git and GitHub crash course
+▶ Athanasia Monika Mowinckel (@DrMowinckels)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=BiFcr6oWGdk"
+UC7C4YZ-9itQW7Nl4RVKDflg;UU_k5EjXGmg;2022-04-29T10:44:37Z;"📺 New #rstatsvideo: Jai Ranchod on Basketball Stats and Bryan Lewis on R+Redis (4/27/2022)
+▶ Cleveland R User Group
+#rstats
+🔗 https://www.youtube.com/watch?v=UU_k5EjXGmg"
+UCDhKY1sp29xXSOInddeF4-g;c8PF3hgC-2s;2022-04-29T12:00:16Z;"📺 New #rstatsvideo: Source Code in R Functions
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=c8PF3hgC-2s"
+UCyHEww8_SCdxZvEnkCfi55w;iI8RA6fjxNg;2022-04-29T14:00:43Z;"📺 New #rstatsvideo: ecdf in R (Example) | Compute & Plot the Empirical Cumulative Distribution Function | ECDF Values
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=iI8RA6fjxNg"
+UCdFC653IaBVC5kwj7CGo2sQ;AKPvlNWZBEQ;2022-04-29T14:14:14Z;"📺 New #rstatsvideo: Use {janitor} to clean Excel files with R
+▶ RappA (@rappa753)
+#rstats
+🔗 https://www.youtube.com/watch?v=AKPvlNWZBEQ"
+UCCaChdLMTYMxyawR_Qf-kYA;Hg37VT-cWVM;2022-04-29T14:37:22Z;"📺 New #rstatsvideo: R Packages: Fundamental development workflows (rpkgs03 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Hg37VT-cWVM"
+UCCaChdLMTYMxyawR_Qf-kYA;EgQ7Z_UoRcY;2022-04-29T14:37:53Z;"📺 New #rstatsvideo: ISLR: Support Vector Machines Part 2 (islr02 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EgQ7Z_UoRcY"
+UCxB1IGhLzlEOikTL-aDwqFg;pI8-myU8ZDs;2022-04-29T17:07:18Z;"📺 New #rstatsvideo: [2022-04-29] BiocMAP: WGBS data processing pipeline
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #biocmap #bioconductor #nextflow #wgbs
+🔗 https://www.youtube.com/watch?v=pI8-myU8ZDs"
+UCg4rv97QEhN-2gvLhrGMgEw;FQX-bjAvf8Q;2022-04-29T18:41:18Z;"📺 New #rstatsvideo: Análise de Regressão Logística Multinomial - Exemplo 1
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=FQX-bjAvf8Q"
+UCCaChdLMTYMxyawR_Qf-kYA;GcWRYbAVCTc;2022-04-29T20:14:55Z;"📺 New #rstatsvideo: Dimensionality Reduction (tmwr04 16)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GcWRYbAVCTc"
