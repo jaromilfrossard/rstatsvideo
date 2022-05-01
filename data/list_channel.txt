@@ -39,6 +39,7 @@ UCeYbe13SKAaIyuXtO1_cbpA;DASA.VicUni;
 UC0dgTZhVua-2yvtWDfPA_nQ;Data Centric Inc.;
 UC9ykygrgYWoUdwaMA3qhRaw;Data Garden;
 UCdrnsZd2xWjDjHUlYsA6Kfw;Dr Lyndon Walker;DrLyndonWalker
+UCu4Y_H5Hlfivx31yM5FcLeQ;Dimitris Rizopoulos;drizopoulos
 UCb5aI-GwJm3ZxlwtCsLu78Q;Tom Henry - data science with R;
 UCo7yZB1Pz_V9infLSUnfjUg;dataAnalysisR;
 UCi9RPnuGJq1dRduPXerufxA;datapointier;datapointier
