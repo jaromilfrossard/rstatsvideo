@@ -9298,3 +9298,46 @@ UCFZ-jFG9a9Tx0_4EIX-L7bA;FJUJF8vkP1A;2022-05-01T07:03:29Z;"📺 New #rstatsvideo
 ▶ R-Ladies Puebla (@RLadiesPuebla)
 #rstats
 🔗 https://www.youtube.com/watch?v=FJUJF8vkP1A"
+UCyHEww8_SCdxZvEnkCfi55w;dDQDPZfX8Hc;2022-05-01T14:00:24Z;"📺 New #rstatsvideo: Geometric Mean in R (Examples) | exp(), mean(), log() & geometric.mean() Function of psych Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=dDQDPZfX8Hc"
+UCCaChdLMTYMxyawR_Qf-kYA;94zye7iYzPs;2022-05-01T14:49:49Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Basic UI (mshiny03 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=94zye7iYzPs"
+UCCaChdLMTYMxyawR_Qf-kYA;o1gLlf1opWQ;2022-05-01T14:50:22Z;"📺 New #rstatsvideo: SMLTAR: Convolutional neural networks (smltar01 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=o1gLlf1opWQ"
+UCDhKY1sp29xXSOInddeF4-g;45r1s8GrM6Q;2022-05-01T16:00:02Z;"📺 New #rstatsvideo: Save and load object as RDS in R?
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=45r1s8GrM6Q"
+UCwLy_PYrnCEhCU-Ay2F5Drw;tILOHvdIyGM;2022-05-01T17:01:33Z;"📺 New #rstatsvideo: Launch of R User Namibia - April 2022
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=tILOHvdIyGM"
+UC5FvzLMVNrTMW-ycrW-4KyA;6qVbDuPkgcE;2022-05-01T17:02:15Z;"📺 New #rstatsvideo: 시계열 첫걸음 스터디 - fable 패키지의 ARIMA() 함수를 이용한 모델링
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=6qVbDuPkgcE"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;54YWnYhCPh8;2022-05-01T23:00:01Z;"📺 New #rstatsvideo: Comparing the Weibull and Lognormal Distributions
+▶ Dragonfly Statistics
+#rstats #python #pandas #pydata #pandasdatascience #pythondatascience #datawranglingwithpython #scikitlearn #sklearn
+🔗 https://www.youtube.com/watch?v=54YWnYhCPh8"
+UCrG34lup96IfDweTSDkPHDA;7f6f0zw2XDQ;2022-05-02T01:50:51Z;"📺 New #rstatsvideo: Mini curso RMB: Manipulación de datos con dplyr y tidyr
+▶ RLadies Mexico
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=7f6f0zw2XDQ"
+UCax5WxTJvQjtS9elybDivbA;4Jxj1FlKB68;2022-05-02T04:42:11Z;"📺 New #rstatsvideo: Saving and Reusing the Output of a For loop in R #olakunle4impact #rstudio #tagng #rtrainer
+▶ Olakunle4impact (@olakunle4impact)
+#rstats #savingandreusingtheoutputofaforloopinr #forloopinr
+🔗 https://www.youtube.com/watch?v=4Jxj1FlKB68"
