@@ -9341,3 +9341,28 @@ UCax5WxTJvQjtS9elybDivbA;4Jxj1FlKB68;2022-05-02T04:42:11Z;"📺 New #rstatsvideo
 ▶ Olakunle4impact (@olakunle4impact)
 #rstats #savingandreusingtheoutputofaforloopinr #forloopinr
 🔗 https://www.youtube.com/watch?v=4Jxj1FlKB68"
+UCyHEww8_SCdxZvEnkCfi55w;V6g3ACqg04g;2022-05-02T14:00:58Z;"📺 New #rstatsvideo: quantile() Function in R (Example) | NA, Group & Plot | Quartiles, Quintiles, Deciles & Percentiles
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=V6g3ACqg04g"
+UCDhKY1sp29xXSOInddeF4-g;9B6HGCnWm9U;2022-05-02T16:00:03Z;"📺 New #rstatsvideo: Make RStudio Open and Close faster
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=9B6HGCnWm9U"
+UCGuktEl5InrcxPfCjmPWxsA;3iOTGaWQZp4;2022-05-02T16:00:04Z;"📺 New #rstatsvideo: How to use R to create a heatmap from a distance matrix with ggplot2 (CC209)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #distancematrixheatmapr #veganrdistance #veganheatmap #ggplot2heatmap #rheatmap
+🔗 https://www.youtube.com/watch?v=3iOTGaWQZp4"
+UCiJMr_spRePQShPGNCqj7ng;3DOozIRwohw;2022-05-02T18:02:02Z;"📺 New #rstatsvideo: Ep. 8 - Marketing Mix Modeling: Calibrate Facebook Robyn's Models for Best Results
+▶ Cassandra
+🗣 🇬🇧
+#rstats #marketingmixmodeling #marketinganalytics #marketingmixmodelling #facebookrobynmmm
+🔗 https://www.youtube.com/watch?v=3DOozIRwohw"
+UCdrnsZd2xWjDjHUlYsA6Kfw;CHo_CEWDvZw;2022-05-03T00:09:20Z;"📺 New #rstatsvideo: Step by Step Pipe Summaries in R with pipediff
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters
+🔗 https://www.youtube.com/watch?v=CHo_CEWDvZw"
