@@ -9366,3 +9366,49 @@ UCdrnsZd2xWjDjHUlYsA6Kfw;CHo_CEWDvZw;2022-05-03T00:09:20Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters
 🔗 https://www.youtube.com/watch?v=CHo_CEWDvZw"
+UCjXQyxs1iyEg5v98fezgT0w;w-Qg0ejdu9w;2022-05-03T07:00:13Z;"📺 New #rstatsvideo: Power Parallel Mediation & Power Serial Mediation
+▶ Regorz Statistik
+🗣 🇬🇧
+#rstats #powerserialmediation #powerparallelmediation #samplesizeserialmediation #samplesizeparallelmediation
+🔗 https://www.youtube.com/watch?v=w-Qg0ejdu9w"
+UCq45aK-qwWv1XAs1Si-_3Vg;Z9IaUeZ5Kck;2022-05-03T07:00:15Z;"📺 New #rstatsvideo: CSSS 508 - Week 5 Lab - SP22
+▶ Breon Haskett
+#rstats
+🔗 https://www.youtube.com/watch?v=Z9IaUeZ5Kck"
+UCyHEww8_SCdxZvEnkCfi55w;CiU3b4ovj1w;2022-05-03T14:00:56Z;"📺 New #rstatsvideo: Calculate Weighted Mean in R (Example) | weighted.mean & weightedMean Function [matrixStats Package]
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=CiU3b4ovj1w"
+UCDhKY1sp29xXSOInddeF4-g;IMu2D6b2538;2022-05-03T16:00:08Z;"📺 New #rstatsvideo: Managing Data Object in R
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=IMu2D6b2538"
+UCg4rv97QEhN-2gvLhrGMgEw;SLcD0olQZug;2022-05-03T16:43:48Z;"📺 New #rstatsvideo: Análise de Regressão Logística Multinomial - Exemplo 2
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=SLcD0olQZug"
+UC3xfbCMLCw1Hh4dWop3XtHg;-c_PUee8Cu0;2022-05-03T17:00:38Z;"📺 New #rstatsvideo: {gt} Table Battles || Digital Publications || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology #coding
+🔗 https://www.youtube.com/watch?v=-c_PUee8Cu0"
+UC2-hKemnrmVCH_29duyJ26A;i_MA1U6SJ1Y;2022-05-03T19:28:41Z;"📺 New #rstatsvideo: Josiah Parry - Exploratory Spatial Data Analysis in R
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=i_MA1U6SJ1Y"
+UCDHzgi5BGU5F-LXxQIIOyDw;4nz6NUbWC84;2022-05-04T01:56:50Z;"📺 New #rstatsvideo: 【番外編】UseR!2022の発表タイトルを眺める（2022/5/3）
+▶ yutannihilationのチャンネル (仮) (@yutannihilation)
+#rstats #rstatsj
+🔗 https://www.youtube.com/watch?v=4nz6NUbWC84"
+UCYjjz8ANtLZNu9u4P6tHh9g;UJ-DVqrXfKc;2022-05-04T02:49:22Z;"📺 New #rstatsvideo: Segundo taller de R-Ladies Milagro ggplot2
+▶ R-Ladies Ecuador (@RLadiesBquilla)
+#rstats
+🔗 https://www.youtube.com/watch?v=UJ-DVqrXfKc"
+UCq45aK-qwWv1XAs1Si-_3Vg;FzgEC3FAN4I;2022-05-04T03:22:02Z;"📺 New #rstatsvideo: CSSS 508 Week 6 Lecture - SP22
+▶ Breon Haskett
+#rstats
+🔗 https://www.youtube.com/watch?v=FzgEC3FAN4I"
