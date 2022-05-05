@@ -9412,3 +9412,48 @@ UCq45aK-qwWv1XAs1Si-_3Vg;FzgEC3FAN4I;2022-05-04T03:22:02Z;"📺 New #rstatsvideo
 ▶ Breon Haskett
 #rstats
 🔗 https://www.youtube.com/watch?v=FzgEC3FAN4I"
+UCCaChdLMTYMxyawR_Qf-kYA;xTabMY-H_DI;2022-05-04T09:50:09Z;"📺 New #rstatsvideo: Modelado Tidy con R - 08. Ingeniería de Características con recetas (recipes) (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=xTabMY-H_DI"
+UCrpq9hzMQSq0ldVcXlLgpvQ;z36fu178jIQ;2022-05-04T12:00:24Z;"📺 New #rstatsvideo: DEG isolation using limma voom | A Rstudio Tutorial
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=z36fu178jIQ"
+UC0dgTZhVua-2yvtWDfPA_nQ;2Mf3g7vg32M;2022-05-04T12:48:17Z;"📺 New #rstatsvideo: How to analyze PDF documents in R
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #analyzepdfdocumentsinr #analyzepdfdoccumentsinr
+🔗 https://www.youtube.com/watch?v=2Mf3g7vg32M"
+UCCaChdLMTYMxyawR_Qf-kYA;VTA3wGNOaKQ;2022-05-04T13:32:53Z;"📺 New #rstatsvideo: ISLR: Cohort 4 Introduction (islr04 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VTA3wGNOaKQ"
+UCCaChdLMTYMxyawR_Qf-kYA;CAGvO0rC6Ek;2022-05-04T13:33:22Z;"📺 New #rstatsvideo: ISLR Book Club: Unsupervised Learning (islr01 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=CAGvO0rC6Ek"
+UCyHEww8_SCdxZvEnkCfi55w;BNYaN1Kwik4;2022-05-04T14:00:08Z;"📺 New #rstatsvideo: mean Function in R (4 Examples) | Handle NA Value, trim Option & Calculate Mean of Data Frame Column
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=BNYaN1Kwik4"
+UCDhKY1sp29xXSOInddeF4-g;vA_v2OaBDIw;2022-05-04T16:00:35Z;"📺 New #rstatsvideo: Document Outline in Rmd
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=vA_v2OaBDIw"
+UCMdihazndR0f9XBoSXWqnYg;fc6Q4qpUB08;2022-05-04T21:07:29Z;"📺 New #rstatsvideo: R & Python - Correspondence Analysis
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #correspondenceanalysis #data #datascience #rstudio #python #coding #color #categories
+🔗 https://www.youtube.com/watch?v=fc6Q4qpUB08"
+UCFXPzW7RxP6RfQGpRn7WXNw;ViIKu6y3kWM;2022-05-05T04:13:08Z;"📺 New #rstatsvideo: w6: Functions, Part 1
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ViIKu6y3kWM"
