@@ -9457,3 +9457,40 @@ UCFXPzW7RxP6RfQGpRn7WXNw;ViIKu6y3kWM;2022-05-05T04:13:08Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=ViIKu6y3kWM"
+UCwQ7lkY6YWzZjT807Itbvtw;4NfLXL0Vmss;2022-05-05T13:24:57Z;"📺 New #rstatsvideo: Exploring workshop data & first impressions of {rhino}
+▶ Shiny DeveloperSeries (@theRcast)
+#rstats
+🔗 https://www.youtube.com/watch?v=4NfLXL0Vmss"
+UCyHEww8_SCdxZvEnkCfi55w;c6EkMlL9wGo;2022-05-05T14:00:49Z;"📺 New #rstatsvideo: Delete Duplicate Rows Based On Column Values in R (Example) | Select Unique Row | Order Data Frame
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=c6EkMlL9wGo"
+UCCaChdLMTYMxyawR_Qf-kYA;VFMU37Fur3g;2022-05-05T15:25:39Z;"📺 New #rstatsvideo: Statistical Rethinking Book Club: Chapter 12 (statrethink01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VFMU37Fur3g"
+UC9UK90FN2Q1cl0J5Kl4-7Mg;IewsPpjKElc;2022-05-05T15:29:29Z;"📺 New #rstatsvideo: R Ladies Baltimore | Make your R code purr with purrr
+▶ R-Ladies Baltimore (@RLadiesBmore)
+#rstats
+🔗 https://www.youtube.com/watch?v=IewsPpjKElc"
+UCDhKY1sp29xXSOInddeF4-g;D4ZpGYnkv94;2022-05-05T16:00:07Z;"📺 New #rstatsvideo: Clear the environment in R
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=D4ZpGYnkv94"
+UCGuktEl5InrcxPfCjmPWxsA;ihAyjyP_eAc;2022-05-05T16:00:19Z;"📺 New #rstatsvideo: Is phylogenetic diversity any better than richness or Shannon diversity? (CC210)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #phylogeneticdiversity #microbiomediversity #phylogeneticalphadiversity
+🔗 https://www.youtube.com/watch?v=ihAyjyP_eAc"
+UCC0n35R84-ufqPstR1YtCxA;3JzwXra_cS0;2022-05-06T00:14:08Z;"📺 New #rstatsvideo: [ARABIC] Validate your data and create beautiful reports using data.validator R package (Arabic)
+▶ Stat Pharm
+#rstats
+🔗 https://www.youtube.com/watch?v=3JzwXra_cS0"
+UCHCdYfAXVzJIUkMoMSGiZMw;4dDWtnJL7Ss;2022-05-06T02:49:15Z;"📺 New #rstatsvideo: CDSB2021: Control de calidad
+▶ Community of Bioinformatics Software Developers (@CDSBMexico)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=4dDWtnJL7Ss"
