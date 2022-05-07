@@ -9494,3 +9494,61 @@ UCHCdYfAXVzJIUkMoMSGiZMw;4dDWtnJL7Ss;2022-05-06T02:49:15Z;"📺 New #rstatsvideo
 🗣 🇪🇸
 #rstats
 🔗 https://www.youtube.com/watch?v=4dDWtnJL7Ss"
+UCMzxf1PB54mTnWJVE8xdGlw;lYuJdqnxxMw;2022-05-06T06:38:46Z;"📺 New #rstatsvideo: How to time travel with your code: Foundations of Git connectivity with RStudio
+▶ R-ladies Gaborone (@RLadiesGaborone)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=lYuJdqnxxMw"
+UCyHEww8_SCdxZvEnkCfi55w;V_isR2xTzf0;2022-05-06T14:00:26Z;"📺 New #rstatsvideo: Sum Duplicate Rows (Example) | Consolidate & Merge Repeated Values | aggregate & group_by of dplyr
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=V_isR2xTzf0"
+UCN-OX45aSM1VtXkzocx8Ppg;PvfFr-eY77E;2022-05-06T14:46:35Z;"📺 New #rstatsvideo: Introduction to RMarkdown
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=PvfFr-eY77E"
+UCN-OX45aSM1VtXkzocx8Ppg;IJc2J-qewiU;2022-05-06T14:47:31Z;"📺 New #rstatsvideo: What's the Difference Between R and RStudio
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=IJc2J-qewiU"
+UCN-OX45aSM1VtXkzocx8Ppg;2bjeUV_ySyM;2022-05-06T14:57:00Z;"📺 New #rstatsvideo: Installing R Packages
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2bjeUV_ySyM"
+UCN-OX45aSM1VtXkzocx8Ppg;QkDFNwmwLZc;2022-05-06T15:16:42Z;"📺 New #rstatsvideo: Data Science with the Tidyverse in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=QkDFNwmwLZc"
+UCN-OX45aSM1VtXkzocx8Ppg;nxA89RJRy78;2022-05-06T15:26:58Z;"📺 New #rstatsvideo: Resources and Cheat Sheets for Learning R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=nxA89RJRy78"
+UCN-OX45aSM1VtXkzocx8Ppg;wfshEa_F2FQ;2022-05-06T15:39:49Z;"📺 New #rstatsvideo: How to Get Started Programming in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wfshEa_F2FQ"
+UCDhKY1sp29xXSOInddeF4-g;Eg0TaZ4kP5U;2022-05-06T16:00:07Z;"📺 New #rstatsvideo: Restarting Frozen R Sessions
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=Eg0TaZ4kP5U"
+UCTXuqtCYxPVEehq6fJY9GkA;sNO_fKgChDY;2022-05-06T18:02:43Z;"📺 New #rstatsvideo: ggplot de qualquer coisa!
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=sNO_fKgChDY"
+UCg4rv97QEhN-2gvLhrGMgEw;brVNiFttHQo;2022-05-06T21:37:15Z;"📺 New #rstatsvideo: Pacote geomtextpath
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=brVNiFttHQo"
+UC911C0LKoMMwn3cHV2wSN1g;olsnYEJSxrk;2022-05-06T23:00:16Z;"📺 New #rstatsvideo: Implementation of torch - Daniel Falbel + Encerramento
+▶ SER SEMINÁRIO INTERNACIONAL DE ESTATÍSTICA COM R
+#rstats
+🔗 https://www.youtube.com/watch?v=olsnYEJSxrk"
