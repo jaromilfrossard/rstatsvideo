@@ -9552,3 +9552,26 @@ UC911C0LKoMMwn3cHV2wSN1g;olsnYEJSxrk;2022-05-06T23:00:16Z;"📺 New #rstatsvideo
 ▶ SER SEMINÁRIO INTERNACIONAL DE ESTATÍSTICA COM R
 #rstats
 🔗 https://www.youtube.com/watch?v=olsnYEJSxrk"
+UCyHEww8_SCdxZvEnkCfi55w;w02C2bB4CUQ;2022-05-07T14:00:33Z;"📺 New #rstatsvideo: Copy & Paste Data from Clipboard into R (Example) | Read from Excel XLSX & TXT Files | read.delim()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=w02C2bB4CUQ"
+UCDhKY1sp29xXSOInddeF4-g;V-iXwMXlhLE;2022-05-07T16:00:12Z;"📺 New #rstatsvideo: Runing out of RAM in RStudio?
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=V-iXwMXlhLE"
+UCPfMGYxAOm39sO8nuEMB96Q;HunXhacnGx8;2022-05-07T16:41:58Z;"📺 New #rstatsvideo: Calcular el Intervalo entre Dos Tiempos en R
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #calcularelintervaloentredostiemposenr #calcularelintervaloentredostiemposenrstudio #calculatetimeintervalinr
+🔗 https://www.youtube.com/watch?v=HunXhacnGx8"
+UCrmJdnPmle514qkK3lLOsVQ;M35LCZ6NEfM;2022-05-07T20:37:24Z;"📺 New #rstatsvideo: #R | Shiny ✨ Control Widgets | #RShiny #ShinyApp #WebApp #RStudio #RPackage
+▶ RJ Studio
+#rstats #rshiny #rshinywebapp #rwebapp #shinywebapp #샤이니r #샤이니웹앱 #rshinyexplanation #interactivewebappr
+🔗 https://www.youtube.com/watch?v=M35LCZ6NEfM"
+UCP8l94xtoemCH_GxByvTuFQ;_nWRUnmpn3o;2022-05-08T07:00:07Z;"📺 New #rstatsvideo: TidyX Episode 103
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=_nWRUnmpn3o"
