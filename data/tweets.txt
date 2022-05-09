@@ -9575,3 +9575,37 @@ UCP8l94xtoemCH_GxByvTuFQ;_nWRUnmpn3o;2022-05-08T07:00:07Z;"📺 New #rstatsvideo
 ▶ TidyX (@tidy_explained)
 #rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
 🔗 https://www.youtube.com/watch?v=_nWRUnmpn3o"
+UCtuMKU3a96iqTe1b7JNfhDw;qCqLmGd1o2U;2022-05-08T09:56:43Z;"📺 New #rstatsvideo: Topic modeling with R -مدلسازی موضوع در متن کاوی
+▶ R-Ladies Urmia (@RLadiesUrmia)
+🗣 🇬🇧
+#rstats #rstudio #textmining #rpackages #rladies #machinelearning
+🔗 https://www.youtube.com/watch?v=qCqLmGd1o2U"
+UCCaChdLMTYMxyawR_Qf-kYA;bsGCgJr60as;2022-05-08T13:45:00Z;"📺 New #rstatsvideo: R Packages: The package within (rpkgs03 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=bsGCgJr60as"
+UCyHEww8_SCdxZvEnkCfi55w;-zB17SASfOs;2022-05-08T14:00:20Z;"📺 New #rstatsvideo: type.convert R Function (2 Examples) | Type Conversion in R Programming | Vector, Numbers & Letters
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=-zB17SASfOs"
+UCDhKY1sp29xXSOInddeF4-g;Z5PVGwQmgNA;2022-05-08T16:00:16Z;"📺 New #rstatsvideo: Python in RStudio
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=Z5PVGwQmgNA"
+UCsqrrplF84DQckpGQuTKTMg;VGwjCEixVbM;2022-05-08T21:44:02Z;"📺 New #rstatsvideo: 161.324 Data Mining: Bank prediction (Workshop 6)
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VGwjCEixVbM"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;sH5Fhg68Bto;2022-05-08T23:00:12Z;"📺 New #rstatsvideo: Hazard Functions and Survival Functions for the Gamma Distribution
+▶ Dragonfly Statistics
+#rstats #python #pandas #pydata #pandasdatascience #pythondatascience #datawranglingwithpython #scikitlearn
+🔗 https://www.youtube.com/watch?v=sH5Fhg68Bto"
+UCHCdYfAXVzJIUkMoMSGiZMw;CCq0DZSVyZA;2022-05-09T02:16:35Z;"📺 New #rstatsvideo: CDSB2021: Estructura e importe de datos
+▶ Community of Bioinformatics Software Developers (@CDSBMexico)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=CCq0DZSVyZA"
