@@ -9609,3 +9609,48 @@ UCHCdYfAXVzJIUkMoMSGiZMw;CCq0DZSVyZA;2022-05-09T02:16:35Z;"📺 New #rstatsvideo
 🗣 🇪🇸
 #rstats
 🔗 https://www.youtube.com/watch?v=CCq0DZSVyZA"
+UCyHEww8_SCdxZvEnkCfi55w;VNGKLQhX6BI;2022-05-09T14:00:35Z;"📺 New #rstatsvideo: How to Select Variables that Contain Particular String in Column Name in R (Example) | grep Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=VNGKLQhX6BI"
+UCyZCfIET7753bs5WpmKI_qQ;UKXYGGzHc0A;2022-05-09T15:37:42Z;"📺 New #rstatsvideo: Tutorial R | Redes neurais artificiais no R com nnet package
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=UKXYGGzHc0A"
+UCDhKY1sp29xXSOInddeF4-g;tuO-PPb6rys;2022-05-09T16:00:27Z;"📺 New #rstatsvideo: Creating PDF with Rmd
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=tuO-PPb6rys"
+UCCaChdLMTYMxyawR_Qf-kYA;nvbCP-hidTY;2022-05-09T17:39:49Z;"📺 New #rstatsvideo: ISLR: Moving Beyond Linearity Part 2 (islr03 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=nvbCP-hidTY"
+UCGuktEl5InrcxPfCjmPWxsA;EXNOgmUyPfY;2022-05-09T18:30:17Z;"📺 New #rstatsvideo: Using the mantel test to compare ecological matrices using the vegan R package (CC211)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #manteltestveganr #rmanteltest #rvegan #unifracweighted
+🔗 https://www.youtube.com/watch?v=EXNOgmUyPfY"
+UCCaChdLMTYMxyawR_Qf-kYA;8zS__TYK82o;2022-05-09T20:41:38Z;"📺 New #rstatsvideo: Encoding Categorical Data (tmwr04 17)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=8zS__TYK82o"
+UCFXPzW7RxP6RfQGpRn7WXNw;QnvD_I4LLPg;2022-05-09T23:54:31Z;"📺 New #rstatsvideo: w7: functions 2
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=QnvD_I4LLPg"
+UC5FvzLMVNrTMW-ycrW-4KyA;AaKGpHsrkWk;2022-05-10T00:45:38Z;"📺 New #rstatsvideo: ARIMA() 함수를 사용한 시계열 모델링 - R 예제 코드 분석 | Ljung-Box 검정
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=AaKGpHsrkWk"
+UCsqrrplF84DQckpGQuTKTMg;LJSHQL_vUJY;2022-05-10T04:00:06Z;"📺 New #rstatsvideo: 161.324 Data Mining: Workshop 9
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LJSHQL_vUJY"
