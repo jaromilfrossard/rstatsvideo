@@ -9654,3 +9654,56 @@ UCsqrrplF84DQckpGQuTKTMg;LJSHQL_vUJY;2022-05-10T04:00:06Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=LJSHQL_vUJY"
+UCjXQyxs1iyEg5v98fezgT0w;_exKJTBcvmM;2022-05-10T07:00:07Z;"📺 New #rstatsvideo: Pfadanalyse mit R lavaan: 7. Fehlende Werte
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #pfadanalyselavaanfehlendewerte #pfadanalyselavaanmissingdata #pfadanalyselavaanfiml
+🔗 https://www.youtube.com/watch?v=_exKJTBcvmM"
+UCyHEww8_SCdxZvEnkCfi55w;0p1FEJTVh8A;2022-05-10T14:00:50Z;"📺 New #rstatsvideo: IQR Function in R (Example) | How to Calculate the Interquartile Range | Data Frame Column & Vector
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=0p1FEJTVh8A"
+UCCaChdLMTYMxyawR_Qf-kYA;DzyZIEP2knQ;2022-05-10T15:09:23Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Basic reactivity(mshiny03 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=DzyZIEP2knQ"
+UCCaChdLMTYMxyawR_Qf-kYA;ihl-15wL7zY;2022-05-10T15:09:58Z;"📺 New #rstatsvideo: ggplot2: Use Case (ggplot2_01 bonus)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ihl-15wL7zY"
+UCDhKY1sp29xXSOInddeF4-g;3ZdeY28CM7U;2022-05-10T16:00:02Z;"📺 New #rstatsvideo: Samples Datasets in RStudio
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=3ZdeY28CM7U"
+UC3xfbCMLCw1Hh4dWop3XtHg;87rpiuRyhaQ;2022-05-10T16:00:35Z;"📺 New #rstatsvideo: Programming Games with Shiny || Guess the Number || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology
+🔗 https://www.youtube.com/watch?v=87rpiuRyhaQ"
+UCg4rv97QEhN-2gvLhrGMgEw;NfPqCUZgoYE;2022-05-10T16:30:02Z;"📺 New #rstatsvideo: Pacote geomtextpath no R - Textos Curvos no ggplot
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=NfPqCUZgoYE"
+UCN-OX45aSM1VtXkzocx8Ppg;W3D-JSPExXo;2022-05-10T19:18:53Z;"📺 New #rstatsvideo: Getting to Know Your Data in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=W3D-JSPExXo"
+UCq45aK-qwWv1XAs1Si-_3Vg;J8g2FSunDwY;2022-05-11T00:07:33Z;"📺 New #rstatsvideo: CSSS 508 - Week 6 Lab - SP 22
+▶ Breon Haskett
+#rstats
+🔗 https://www.youtube.com/watch?v=J8g2FSunDwY"
+UCDHzgi5BGU5F-LXxQIIOyDw;iz33yIBNyWM;2022-05-11T01:54:05Z;"📺 New #rstatsvideo: arrow 8.0.0 のリリースノートを眺めてみる （2022/5/10）
+▶ yutannihilationのチャンネル (仮) (@yutannihilation)
+#rstats #rstatsj
+🔗 https://www.youtube.com/watch?v=iz33yIBNyWM"
+UCPfMGYxAOm39sO8nuEMB96Q;uSaKWzl853Q;2022-05-11T02:06:33Z;"📺 New #rstatsvideo: Cómo Recodificar Múltiples Variables al mismo Tiempo en RStudio
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #cómorecodificarmúltiplesvariablesalmismotiempoenrstudio
+🔗 https://www.youtube.com/watch?v=uSaKWzl853Q"
