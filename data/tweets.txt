@@ -9732,3 +9732,53 @@ UCN-OX45aSM1VtXkzocx8Ppg;BN9-zPuM-2g;2022-05-11T12:37:31Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=BN9-zPuM-2g"
+UCN-OX45aSM1VtXkzocx8Ppg;stNOP4B1aGE;2022-05-11T12:39:52Z;"📺 New #rstatsvideo: Adding New Columns Using dplyr in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=stNOP4B1aGE"
+UCN-OX45aSM1VtXkzocx8Ppg;thw78gmuvM4;2022-05-11T12:48:25Z;"📺 New #rstatsvideo: Saving Your Work in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=thw78gmuvM4"
+UCN-OX45aSM1VtXkzocx8Ppg;kLgZYO3tcYA;2022-05-11T12:49:05Z;"📺 New #rstatsvideo: Combining Datasets Using dplyr in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=kLgZYO3tcYA"
+UCN-OX45aSM1VtXkzocx8Ppg;QUlHs6tGBHg;2022-05-11T12:51:32Z;"📺 New #rstatsvideo: Visualizing Your Data in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=QUlHs6tGBHg"
+UCN-OX45aSM1VtXkzocx8Ppg;y1NjU_zDfpo;2022-05-11T12:52:46Z;"📺 New #rstatsvideo: Creating Geometric Objects Using GGPlot in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=y1NjU_zDfpo"
+UCN-OX45aSM1VtXkzocx8Ppg;hVU6Q4NdoAs;2022-05-11T13:02:37Z;"📺 New #rstatsvideo: Exploring Aesthetics Using GGPlot in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hVU6Q4NdoAs"
+UCN-OX45aSM1VtXkzocx8Ppg;TepcBV8j6eo;2022-05-11T13:15:22Z;"📺 New #rstatsvideo: Customizing Themes and Labels Using GGPlot in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=TepcBV8j6eo"
+UCN-OX45aSM1VtXkzocx8Ppg;UFEmYyJuwoI;2022-05-11T13:15:33Z;"📺 New #rstatsvideo: Manipulating Strings Using StringR in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=UFEmYyJuwoI"
+UCN-OX45aSM1VtXkzocx8Ppg;_DXSHUN0Vcc;2022-05-11T13:27:21Z;"📺 New #rstatsvideo: Working with Regular Expressions Using StringR in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=_DXSHUN0Vcc"
+UCN-OX45aSM1VtXkzocx8Ppg;25FOT9Fr0C4;2022-05-11T13:59:57Z;"📺 New #rstatsvideo: Generating Reproducible Reports Using R Markdown
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=25FOT9Fr0C4"
