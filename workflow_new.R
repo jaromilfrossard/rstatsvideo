@@ -68,7 +68,7 @@ walk(tb_channel$id_channel, update_channel_video)
 
 validate_new_videos()
 
-videos <- choose_videos(max_tweet = 15)
+videos <- choose_videos(max_tweet = 5)
 
 
 # 

@@ -9707,3 +9707,28 @@ UCPfMGYxAOm39sO8nuEMB96Q;uSaKWzl853Q;2022-05-11T02:06:33Z;"📺 New #rstatsvideo
 🗣 🇪🇸
 #rstats #cómorecodificarmúltiplesvariablesalmismotiempoenrstudio
 🔗 https://www.youtube.com/watch?v=uSaKWzl853Q"
+UCHCdYfAXVzJIUkMoMSGiZMw;euuSibDFRng;2022-05-11T07:08:00Z;"📺 New #rstatsvideo: CDSB2021: Normalización de datos
+▶ Community of Bioinformatics Software Developers (@CDSBMexico)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=euuSibDFRng"
+UCdrnsZd2xWjDjHUlYsA6Kfw;yAlhq8yhLsw;2022-05-11T08:46:54Z;"📺 New #rstatsvideo: How to change your document font in Quarto
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters #quarto
+🔗 https://www.youtube.com/watch?v=yAlhq8yhLsw"
+UCN-OX45aSM1VtXkzocx8Ppg;vDgP7J1qMCI;2022-05-11T12:13:01Z;"📺 New #rstatsvideo: Selecting Variables Using dplyr in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vDgP7J1qMCI"
+UCN-OX45aSM1VtXkzocx8Ppg;KWs8VNeWlbE;2022-05-11T12:30:58Z;"📺 New #rstatsvideo: Filtering Observations Using dplyr in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=KWs8VNeWlbE"
+UCN-OX45aSM1VtXkzocx8Ppg;BN9-zPuM-2g;2022-05-11T12:37:31Z;"📺 New #rstatsvideo: Arranging Your Data Using dplyr in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=BN9-zPuM-2g"
