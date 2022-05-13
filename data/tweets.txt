@@ -9782,3 +9782,66 @@ UCN-OX45aSM1VtXkzocx8Ppg;25FOT9Fr0C4;2022-05-11T13:59:57Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=25FOT9Fr0C4"
+UCyHEww8_SCdxZvEnkCfi55w;x-qkezOnirc;2022-05-11T14:00:47Z;"📺 New #rstatsvideo: Find Elements in List (2 Examples) | Identify & Select Items from Lists | which & sapply Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=x-qkezOnirc"
+UCN-OX45aSM1VtXkzocx8Ppg;QhmPrfleCx4;2022-05-11T14:22:32Z;"📺 New #rstatsvideo: A Tour of R Studio
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=QhmPrfleCx4"
+UCN-OX45aSM1VtXkzocx8Ppg;C9HbXfWq87o;2022-05-11T14:22:59Z;"📺 New #rstatsvideo: Parameterizing Reports with YAML in R Markdown
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=C9HbXfWq87o"
+UCDhKY1sp29xXSOInddeF4-g;w9wOTC_GepY;2022-05-11T16:00:36Z;"📺 New #rstatsvideo: get help at packages in R
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=w9wOTC_GepY"
+UCcKPp7AI7ZTBf60WqXo3Bpg;-AuXnBmaC2w;2022-05-11T17:40:20Z;"📺 New #rstatsvideo: SLC_RUG Rfviz: An interactive visualization package for Random Forests
+▶ Salt Lake City R Users Group (@slcrug)
+#rstats
+🔗 https://www.youtube.com/watch?v=-AuXnBmaC2w"
+UCnYkdhuQljgCnGNpCZpPfVA;QZCkJqQwC2E;2022-05-11T19:56:14Z;"📺 New #rstatsvideo: Regressione lineare semplice in R
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=QZCkJqQwC2E"
+UCTTBgWyJl2HrrhQOOc710kA;p9ndhpyBVQc;2022-05-11T21:06:35Z;"📺 New #rstatsvideo: Predict NYT bestsellers with wordpiece tokenization
+▶ Julia Silge (@juliasilge)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=p9ndhpyBVQc"
+UCZQlpKYQPlf2QNVdSv_TRdg;BZIHHR-V4wg;2022-05-12T05:05:32Z;"📺 New #rstatsvideo: Missing Data Treatment in R: A Hands-on Illustration Using {mice}
+▶ UseR Oslo (@OURmeetup)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=BZIHHR-V4wg"
+UCyHEww8_SCdxZvEnkCfi55w;puMN-wOKswk;2022-05-12T14:00:25Z;"📺 New #rstatsvideo: Calculate Price Return in R (2 Examples) | Line Plot of Prices | diff(), length() & Delt() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=puMN-wOKswk"
+UCDhKY1sp29xXSOInddeF4-g;aSvwEdY0c2I;2022-05-12T16:00:13Z;"📺 New #rstatsvideo: Save plots in R
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=aSvwEdY0c2I"
+UCGuktEl5InrcxPfCjmPWxsA;QX5aIzG8SQk;2022-05-12T16:00:20Z;"📺 New #rstatsvideo: Using the rentrez R package to search PubMed to plot the number of papers by year (CC212)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #pubmedr #pubmedresearch #pubmedresearchtopics #rentrezr
+🔗 https://www.youtube.com/watch?v=QX5aIzG8SQk"
+UCCaChdLMTYMxyawR_Qf-kYA;aotxnpmbLgQ;2022-05-12T21:54:45Z;"📺 New #rstatsvideo: R Packages: R code (rpkgs03 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=aotxnpmbLgQ"
+UCq45aK-qwWv1XAs1Si-_3Vg;7Yt6-yjN0Eg;2022-05-13T01:40:04Z;"📺 New #rstatsvideo: CSSS 508 - Week 7 Lecture - SP22
+▶ Breon Haskett
+#rstats
+🔗 https://www.youtube.com/watch?v=7Yt6-yjN0Eg"
