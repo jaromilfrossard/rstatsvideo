@@ -9845,3 +9845,51 @@ UCq45aK-qwWv1XAs1Si-_3Vg;7Yt6-yjN0Eg;2022-05-13T01:40:04Z;"📺 New #rstatsvideo
 ▶ Breon Haskett
 #rstats
 🔗 https://www.youtube.com/watch?v=7Yt6-yjN0Eg"
+UCMwM-3tg_-Pbx8hKO78q5EA;pCaqwX7bDLs;2022-05-13T08:14:07Z;"📺 New #rstatsvideo: Statistical process control charts with R - Jacob Anhøj, November 2021
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=pCaqwX7bDLs"
+UCrpq9hzMQSq0ldVcXlLgpvQ;9uSarKdP0kY;2022-05-13T12:00:11Z;"📺 New #rstatsvideo: Average Expression in Seurat | The how not the why
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=9uSarKdP0kY"
+UCDgj5-mFohWZ5irWSFMFcng;RD_ZR4Ulzec;2022-05-13T12:22:12Z;"📺 New #rstatsvideo: R-Ladies Coventry (English/BSL)-Version control with Git, GitHub and RStudio -Freya Watkins
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=RD_ZR4Ulzec"
+UCMwM-3tg_-Pbx8hKO78q5EA;OdBG78Tmx70;2022-05-13T13:52:51Z;"📺 New #rstatsvideo: Reproducible computation at scale in R with targets, Will Landau, November 2021
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=OdBG78Tmx70"
+UCCaChdLMTYMxyawR_Qf-kYA;b_5WvnqtyDE;2022-05-13T13:56:43Z;"📺 New #rstatsvideo: ISLR: Deep Learning Part 2 (islr02 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=b_5WvnqtyDE"
+UCZQlpKYQPlf2QNVdSv_TRdg;5KHvEXYtnOo;2021-03-26T10:36:42Z;"📺 #rstatsvideo: {ggplot2} Wizardry
+▶ UseR Oslo (@OURmeetup)
+#rstats
+🔗 https://www.youtube.com/watch?v=5KHvEXYtnOo"
+UCyHEww8_SCdxZvEnkCfi55w;6t32JKgzTEs;2022-05-13T14:00:30Z;"📺 New #rstatsvideo: How to Draw a ggplot2 Histogram & Overlaid Density with Frequency Count on the Y-Axis in R (Example)
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=6t32JKgzTEs"
+UCDhKY1sp29xXSOInddeF4-g;1IJ4p3J16b0;2022-05-13T16:00:01Z;"📺 New #rstatsvideo: Importing Dataset in RStudio
+▶ Liquid Brain R (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=1IJ4p3J16b0"
+UCCaChdLMTYMxyawR_Qf-kYA;XCtHncZwDB0;2022-05-13T18:23:16Z;"📺 New #rstatsvideo: Explaining Models and Predictions (tmwr04 18)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=XCtHncZwDB0"
+UCTZXht1RTL2Duc3eU8MYGzQ;uxyhmhRVOfw;2022-05-13T21:29:37Z;"📺 New #rstatsvideo: Three tricks to make IDEs other than Rstudio better for R development
+▶ Bruno Rodrigues (@brodriguesco)
+#rstats #rstudio #ess
+🔗 https://www.youtube.com/watch?v=uxyhmhRVOfw"
