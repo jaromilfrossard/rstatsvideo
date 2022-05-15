@@ -9893,3 +9893,26 @@ UCTZXht1RTL2Duc3eU8MYGzQ;uxyhmhRVOfw;2022-05-13T21:29:37Z;"📺 New #rstatsvideo
 ▶ Bruno Rodrigues (@brodriguesco)
 #rstats #rstudio #ess
 🔗 https://www.youtube.com/watch?v=uxyhmhRVOfw"
+UCE2WK5bvNtDblu4NO9PGtJA;_BTkHbVrcfk;2021-06-30T14:07:55Z;"📺 #rstatsvideo: Beginner tutorial || Sorted Bar Chart & Animal Rescue Data || #TidyTuesday Unfiltered
+▶ Jesse Mostipak (@kierisi)
+🗣 🇬🇧
+#rstats #kaggle #rstudio #tidyverse #tidymodels #machinelearning #deeplearning #python
+🔗 https://www.youtube.com/watch?v=_BTkHbVrcfk"
+UCT4HNZZfFzsvcs-kBNTLkzQ;SXUBGIBBnBI;2022-05-14T11:22:01Z;"📺 New #rstatsvideo: Descriptive Statistics | Mean , Variance , Covariance & Correlation| Numerical | Learn R with Pallvi
+▶ Learn R with Pallvi
+🗣 🇮🇳
+#rstats #multivariateanalysis #mva #multivariatetechniques
+🔗 https://www.youtube.com/watch?v=SXUBGIBBnBI"
+UCyHEww8_SCdxZvEnkCfi55w;iLbA3yR_MY0;2022-05-14T14:00:46Z;"📺 New #rstatsvideo: Generate Set of Random Integers from Interval in R (2 Examples) | sample.int Function | SRS & SRSWR
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=iLbA3yR_MY0"
+UCZcd0Fp8o_FQVqf6AAoZzqA;Ph8QkyUMj4E;2022-05-14T15:01:11Z;"📺 New #rstatsvideo: Introduction to R (Urdu) | Instrumental Variables Regression
+▶ R for students | Dr. Fahad
+#rstats
+🔗 https://www.youtube.com/watch?v=Ph8QkyUMj4E"
+UCrmJdnPmle514qkK3lLOsVQ;8So_3-8tV8k;2022-05-14T21:52:07Z;"📺 New #rstatsvideo: #R | Shiny ✨ Simple Reactive App | #RShiny #ShinyApp #WebApp #RStudio #RPackage
+▶ RJ Studio
+#rstats #rshiny #rshinywebapp #rwebapp #shinywebapp #샤이니r #샤이니웹앱 #rshinyexplanation #interactivewebappr
+🔗 https://www.youtube.com/watch?v=8So_3-8tV8k"

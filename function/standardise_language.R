@@ -12,6 +12,7 @@ standardise_language <- function(x){
     c("yo"),"yo",
     c("es","es-419","es-MX"),"es",
     c("fa"),"fa",
+    c("hi"),"hi",
     c("zxx"),NA_character_)
   
   x <- ifelse(is.na(x),NA_character_,x)
@@ -41,6 +42,7 @@ language2emoji <- function(x){
                 "it","\U001F1EE\U001F1F9",
                 "ko","\U001F1F0\U001F1F7",
                 "ru","\U001F1F7\U001F1FA",
+                "hi","\U001F1EE\U001F1F3",
                 "yo","Yoruba",
                 "es","\U001F1EA\U001F1F8",
                 "fa","\U001F1EE\U001F1F7")
