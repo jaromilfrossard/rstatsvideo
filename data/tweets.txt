@@ -9938,3 +9938,32 @@ UCg6kociUghEgKz_hLRKQrMQ;FcDV5NkkwWs;2022-05-16T04:11:58Z;"📺 New #rstatsvideo
 ▶ R Data Science School
 #rstats #wondersharefilmora
 🔗 https://www.youtube.com/watch?v=FcDV5NkkwWs"
+UC9ykygrgYWoUdwaMA3qhRaw;QZ80AwDj17A;2022-05-16T14:00:21Z;"📺 New #rstatsvideo: Easily Style Your GGPlots with Complete Themes
+▶ Data Garden
+🗣 🇬🇧
+#rstats #rstudio #excel #dataanalysis #datascience #statistics #stats #learning #tutorial #deeplearning #machinelearning #datavisualization
+🔗 https://www.youtube.com/watch?v=QZ80AwDj17A"
+UCyHEww8_SCdxZvEnkCfi55w;-1rtzCnbbIU;2022-05-16T14:00:51Z;"📺 New #rstatsvideo: Multiply Column of Data Frame by Number in R (Example) | New Variable & Value | $ and * Operators
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=-1rtzCnbbIU"
+UCg6kociUghEgKz_hLRKQrMQ;dP3eeyiRK5k;2022-05-16T14:03:03Z;"📺 New #rstatsvideo: esquisse (R's tableau)
+▶ R Data Science School
+#rstats #wondersharefilmora
+🔗 https://www.youtube.com/watch?v=dP3eeyiRK5k"
+UCCaChdLMTYMxyawR_Qf-kYA;G70IA1Ah42w;2022-05-16T14:17:32Z;"📺 New #rstatsvideo: Modelado Tidy con R - 09. Juzgando la Efectividad de Modelos (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=G70IA1Ah42w"
+UCMdihazndR0f9XBoSXWqnYg;W_xmhVzF12s;2022-05-16T15:01:33Z;"📺 New #rstatsvideo: R - Introduction to R (1.2 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #datascience #education #openeducation #open #rstudio
+🔗 https://www.youtube.com/watch?v=W_xmhVzF12s"
+UCGuktEl5InrcxPfCjmPWxsA;d5dUkO5lXds;2022-05-16T16:00:16Z;"📺 New #rstatsvideo: Tutorial for Creating a new RStudio project with GitHub to visualize climate change (CC213)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #githubrstudiotutorial #github #versioncontrol #githubrstudio
+🔗 https://www.youtube.com/watch?v=d5dUkO5lXds"

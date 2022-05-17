@@ -1,4 +1,4 @@
-post_videos <- function(id_channel, id_video, ymd_hms_video,tweet, file_tweet = "data/tweets.txt"){
+post_videos <- function(id_channel, id_video, ymd_hms_video,tweet, delay=30,file_tweet = "data/tweets.txt"){
   
   tb_tweet_old <-read_delim(file_tweet,delim=";",
                             col_types = cols(
@@ -17,7 +17,7 @@ post_videos <- function(id_channel, id_video, ymd_hms_video,tweet, file_tweet = 
               tb_tweet_new)
   
   write_delim(x = tb_tweet_new, file = file_tweet,delim=";")
-  Sys.sleep(runif(1,25,40))
+  Sys.sleep(runif(1,max(delay-5,0),delay+5))
   
   
   
