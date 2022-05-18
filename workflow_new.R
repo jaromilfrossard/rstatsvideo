@@ -68,7 +68,7 @@ walk(tb_channel$id_channel, update_channel_video)
 
 validate_new_videos()
 
-videos <- choose_videos(max_tweet = 5)
+videos <- choose_videos(max_tweet = 6)
 #videos <- videos%>%filter(new_video)
 
 # 
@@ -98,7 +98,7 @@ videos<-
 
 videos%>%
   arrange(ymd_hms_video)%>%
-  {pwalk(list(.$id_channel, .$id_video, .$ymd_hms_video,.$tweet),post_videos)}
+  {pwalk(list(.$id_channel, .$id_video, .$ymd_hms_video,.$tweet),post_videos,delay=300)}
 
 
 

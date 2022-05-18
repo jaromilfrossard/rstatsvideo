@@ -9967,3 +9967,56 @@ UCGuktEl5InrcxPfCjmPWxsA;d5dUkO5lXds;2022-05-16T16:00:16Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #githubrstudiotutorial #github #versioncontrol #githubrstudio
 🔗 https://www.youtube.com/watch?v=d5dUkO5lXds"
+UCFXPzW7RxP6RfQGpRn7WXNw;-4n9LE_zing;2022-05-17T06:32:03Z;"📺 New #rstatsvideo: w8: Shiny 1
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-4n9LE_zing"
+UCjXQyxs1iyEg5v98fezgT0w;6f-42RfUIUY;2022-05-17T07:00:01Z;"📺 New #rstatsvideo: Regression mit Multipler Imputation in R (für fehlende Werte)
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #regressionmultipleimputation #regressionfehlendedaten #regressionmice #fehlendedatenmice
+🔗 https://www.youtube.com/watch?v=6f-42RfUIUY"
+UCdrnsZd2xWjDjHUlYsA6Kfw;VShrRCXaL0w;2022-05-17T08:20:38Z;"📺 New #rstatsvideo: Looping Likert Summary Tables in RMarkdown or Quarto
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters
+🔗 https://www.youtube.com/watch?v=VShrRCXaL0w"
+UCyHEww8_SCdxZvEnkCfi55w;W9tzsSFae68;2022-05-17T14:00:39Z;"📺 New #rstatsvideo: Calculate Sum of Squared Deviations (2 Examples) | Sum of Squares | sum(), mean(), var() & length()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=W9tzsSFae68"
+UCCaChdLMTYMxyawR_Qf-kYA;0mPq9zBw7CE;2022-05-17T15:02:56Z;"📺 New #rstatsvideo: ISLR: Statistical Learning (islr04 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=0mPq9zBw7CE"
+UC3xfbCMLCw1Hh4dWop3XtHg;3Yk6U_XqxNo;2022-05-17T16:00:37Z;"📺 New #rstatsvideo: RStudio's {pins} package: what it is, how it works, and what it can do for you! || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization
+🔗 https://www.youtube.com/watch?v=3Yk6U_XqxNo"
+UCg4rv97QEhN-2gvLhrGMgEw;VNswuvBzA1o;2022-05-17T20:53:41Z;"📺 New #rstatsvideo: Testes Não-Paramétricos para Amostras Não Pareadas no R
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=VNswuvBzA1o"
+UC_R5smHVXRYGhZYDJsnXTwg;P2m6RmVViu0;2022-05-17T22:54:08Z;"📺 New #rstatsvideo: Experiences Building a GxP framework with R (Part 1): Roche, Novartis, Merck and GSK
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=P2m6RmVViu0"
+UCq45aK-qwWv1XAs1Si-_3Vg;PA1r1LkNm_4;2022-05-18T00:45:47Z;"📺 New #rstatsvideo: CSSS 508 - Week 7 Lab - SP22
+▶ Breon Haskett
+#rstats
+🔗 https://www.youtube.com/watch?v=PA1r1LkNm_4"
+UCDHzgi5BGU5F-LXxQIIOyDw;LZngwX77HiY;2022-05-18T01:56:49Z;"📺 New #rstatsvideo: tidyr 1.2.0 のリリースノートを眺めてみる （2022/5/17）
+▶ yutannihilationのチャンネル (仮) (@yutannihilation)
+#rstats #rstatsj
+🔗 https://www.youtube.com/watch?v=LZngwX77HiY"
+UC5FvzLMVNrTMW-ycrW-4KyA;1WLoiH1bOvU;2022-05-18T03:43:54Z;"📺 New #rstatsvideo: 대용량 데이터 처리방법 - DBeaver를 사용한 PostgreSQL과 R 연동
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=1WLoiH1bOvU"
