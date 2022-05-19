@@ -113,6 +113,7 @@ UCMwM-3tg_-Pbx8hKO78q5EA;NHSR Community;NHSrCommunity
 UCax5WxTJvQjtS9elybDivbA;Olakunle4impact;olakunle4impact
 UCoCfOfaj2c4sMxFv_nglycw;Open Data Science Deutschland;
 UCwVZbwV_5GQpdUVB0BDmeXg;Parsimony;parsimonyinc
+UCu3UVZ1mLOYdsrrrnjjs8Pg;Patrick Mensah;patmensa39
 UCBsXfUO__nzMnlaLLUx7DFQ;Probability!;
 UCljumcPvitx5W0OEC_Thk2Q;Rania Ismail;
 UCg6kociUghEgKz_hLRKQrMQ;R Data Science School;
