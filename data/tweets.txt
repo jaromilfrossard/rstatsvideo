@@ -10020,3 +10020,27 @@ UC5FvzLMVNrTMW-ycrW-4KyA;1WLoiH1bOvU;2022-05-18T03:43:54Z;"📺 New #rstatsvideo
 🗣 🇰🇷
 #rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
 🔗 https://www.youtube.com/watch?v=1WLoiH1bOvU"
+UC_R5smHVXRYGhZYDJsnXTwg;aEMsRyeyMbw;2019-08-03T13:50:08Z;"📺 #rstatsvideo: useR! 2019 Toulouse - Talk Biostatistics & Epidemology 2 - Terry Therneau
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=aEMsRyeyMbw"
+UCyHEww8_SCdxZvEnkCfi55w;dF8N1fXUStE;2020-06-22T14:00:16Z;"📺 #rstatsvideo: Add Subscript and Superscript to Plot in R (3 Examples) | Power of 2 in Text | expression Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=dF8N1fXUStE"
+UC3xfbCMLCw1Hh4dWop3XtHg;WlSRI22kpdg;2021-02-19T16:00:21Z;"📺 #rstatsvideo: Riva Quiroga | Learning to program in R with a ""communicative approach"" | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz
+🔗 https://www.youtube.com/watch?v=WlSRI22kpdg"
+UCdFC653IaBVC5kwj7CGo2sQ;XqS6OUUgzIs;2022-05-18T11:45:50Z;"📺 New #rstatsvideo: 4 ways to use colors more efficiently
+▶ RappA (@rappa753)
+#rstats
+🔗 https://www.youtube.com/watch?v=XqS6OUUgzIs"
+UCyHEww8_SCdxZvEnkCfi55w;JTNORI2BnZQ;2022-05-18T14:00:29Z;"📺 New #rstatsvideo: Convert Discrete Factor to Continuous Variable | Categorical Data | as.character() & as.numeric()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=JTNORI2BnZQ"
