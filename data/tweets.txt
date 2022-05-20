@@ -10044,3 +10044,37 @@ UCyHEww8_SCdxZvEnkCfi55w;JTNORI2BnZQ;2022-05-18T14:00:29Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=JTNORI2BnZQ"
+UCnYkdhuQljgCnGNpCZpPfVA;XMJ3q5TOrRY;2022-05-19T08:37:19Z;"📺 New #rstatsvideo: Grafici in R: ISTOGRAMMA
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=XMJ3q5TOrRY"
+UCyHEww8_SCdxZvEnkCfi55w;bgTEY_JYjoQ;2022-05-19T14:00:55Z;"📺 New #rstatsvideo: Introduction to the venn Package (6 Examples) | Draw Up to 7 Sets | Intersections, Labels & Colors
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=bgTEY_JYjoQ"
+UCDgj5-mFohWZ5irWSFMFcng;x1q70EPvLPE;2022-05-19T15:03:38Z;"📺 New #rstatsvideo: R-Ladies New York (English) - 2021 R-Ladies NYC Lightning Talks
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=x1q70EPvLPE"
+UCGuktEl5InrcxPfCjmPWxsA;fskblEWSeWU;2022-05-19T16:00:18Z;"📺 New #rstatsvideo: Plotting the global temperature index using ggplot2 and NASA GISS data (CC214)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #ggplot2temperatureindex #nasatemperatureindex #ggplot2temeratureindex #ggplot2
+🔗 https://www.youtube.com/watch?v=fskblEWSeWU"
+UC3xfbCMLCw1Hh4dWop3XtHg;MQ5L3TSQVys;2022-05-19T16:00:28Z;"📺 New #rstatsvideo: Katie Masiello || Build a Codenames app using {pins} and Shiny! || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz
+🔗 https://www.youtube.com/watch?v=MQ5L3TSQVys"
+UCtuMKU3a96iqTe1b7JNfhDw;hC7yWHveYjM;2022-05-19T22:33:16Z;"📺 New #rstatsvideo: Extraordinary Slides in R using xaringanExtra package - ایجاد اسلایدهای جذاب در آر
+▶ R-Ladies Urmia (@RLadiesUrmia)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hC7yWHveYjM"
+UCq45aK-qwWv1XAs1Si-_3Vg;fp-5EnlaZ_s;2022-05-20T00:32:03Z;"📺 New #rstatsvideo: CSSS 508 - Week 8 Lecture - SP22
+▶ Breon Haskett
+#rstats
+🔗 https://www.youtube.com/watch?v=fp-5EnlaZ_s"
