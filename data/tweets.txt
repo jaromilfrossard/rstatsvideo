@@ -10078,3 +10078,28 @@ UCq45aK-qwWv1XAs1Si-_3Vg;fp-5EnlaZ_s;2022-05-20T00:32:03Z;"📺 New #rstatsvideo
 ▶ Breon Haskett
 #rstats
 🔗 https://www.youtube.com/watch?v=fp-5EnlaZ_s"
+UCDgj5-mFohWZ5irWSFMFcng;UGTTqhxaICU;2022-05-20T09:44:52Z;"📺 New #rstatsvideo: R-Ladies Freiburg (English) - Shiny Data Dashboards: Eurovision
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=UGTTqhxaICU"
+UCrpq9hzMQSq0ldVcXlLgpvQ;wiyl3Uv39mE;2022-05-20T12:00:30Z;"📺 New #rstatsvideo: TCGA Biomarkers Identification using Machine Learning | Complete Walkthrough
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming
+🔗 https://www.youtube.com/watch?v=wiyl3Uv39mE"
+UCcCMO7sHb8O_TJUd34sQ_Ng;XI4bTVOfcOM;2022-05-20T12:02:57Z;"📺 New #rstatsvideo: L' opérateur pipe dans R | Muscle ton Jeu 2 | Comment dans R
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#rstats #operateurpipe #pipedansr #operateurpipedansr #apprendrer #commentdansr #othniel #lulusdecommentdansr #lulus
+🔗 https://www.youtube.com/watch?v=XI4bTVOfcOM"
+UCCaChdLMTYMxyawR_Qf-kYA;vQSYeGwX9yQ;2022-05-20T12:21:35Z;"📺 New #rstatsvideo: R Packages: Package metadata (rpkgs03 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vQSYeGwX9yQ"
+UCyHEww8_SCdxZvEnkCfi55w;c0uMvuxZI7c;2022-05-20T14:00:27Z;"📺 New #rstatsvideo: Zoom & Navigate in R Plots (2 Examples) | Move Up, Down, Left & Right | zm() Function & zoom Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=c0uMvuxZI7c"
