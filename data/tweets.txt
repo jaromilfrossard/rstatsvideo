@@ -10103,3 +10103,26 @@ UCyHEww8_SCdxZvEnkCfi55w;c0uMvuxZI7c;2022-05-20T14:00:27Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom
 🔗 https://www.youtube.com/watch?v=c0uMvuxZI7c"
+UC3xfbCMLCw1Hh4dWop3XtHg;RcAjfaGxIWk;2022-05-20T15:21:33Z;"📺 New #rstatsvideo: RSPM || Link Your Package Manager Repo to Your RStudio IDE || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=RcAjfaGxIWk"
+UCMdihazndR0f9XBoSXWqnYg;vkmd8apKVF8;2022-05-20T15:54:56Z;"📺 New #rstatsvideo: R & Python - Conditional Inference Trees
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing
+🔗 https://www.youtube.com/watch?v=vkmd8apKVF8"
+UC8bO8eVpfEK8LbqH0oxyc3Q;OOT7q45rG-c;2022-05-20T17:08:59Z;"📺 New #rstatsvideo: Creating Interactive Tutorials with {learnr} and {gradethis}
+▶ R User Group at Harvard Data Science Initiative (@RUGatHDSI)
+#rstats
+🔗 https://www.youtube.com/watch?v=OOT7q45rG-c"
+UCCaChdLMTYMxyawR_Qf-kYA;3DJKuMNztVg;2022-05-20T18:19:50Z;"📺 New #rstatsvideo: When Should You Trust Your Predictions? (tmwr04 19)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=3DJKuMNztVg"
+UCktFo5XoX5QZMWb2Gb3KY2A;umDcIP5sB6g;2022-05-20T19:09:00Z;"📺 New #rstatsvideo: gt and reactable packages: Beautiful, User-friendly tables in R by Veerle van Leemput
+▶ R-Ladies Abuja (@RLadiesAbuja)
+#rstats
+🔗 https://www.youtube.com/watch?v=umDcIP5sB6g"
