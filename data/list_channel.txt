@@ -115,6 +115,7 @@ UCoCfOfaj2c4sMxFv_nglycw;Open Data Science Deutschland;
 UCwVZbwV_5GQpdUVB0BDmeXg;Parsimony;parsimonyinc
 UCu3UVZ1mLOYdsrrrnjjs8Pg;Patrick Mensah;patmensa39
 UCBsXfUO__nzMnlaLLUx7DFQ;Probability!;
+UC1NEZyGbSpcgBxcosNAjojA;Quick R Tutorials;
 UCljumcPvitx5W0OEC_Thk2Q;Rania Ismail;
 UCg6kociUghEgKz_hLRKQrMQ;R Data Science School;
 UCKHWHHzf3H79h2T0QWdR1Tw;R en Baires;renbaires
@@ -213,6 +214,7 @@ UCMdihazndR0f9XBoSXWqnYg;Statistics of DOOM;aggieerin
 UC5FvzLMVNrTMW-ycrW-4KyA;Statistics Playbook;
 UCKMekE_4UfWvZDuBWenG8WA;StatistikinDD;StatistikInDD
 UCf4yYuw5nkmixgA-KT3euHw;Stats For All;statsforbios
+UCyWGeP-J1I0Xasd62QumS3w;Stephen Carden;
 UC2M4LiU11tjZfL86yfufSKA;Sukaesi Marianti;
 UCY66vV1WTk_2lHg24cuJrtg;The Data Digest;DigestData
 UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;thinkR_fr
