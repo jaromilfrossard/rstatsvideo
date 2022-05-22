@@ -10126,3 +10126,26 @@ UCktFo5XoX5QZMWb2Gb3KY2A;umDcIP5sB6g;2022-05-20T19:09:00Z;"📺 New #rstatsvideo
 ▶ R-Ladies Abuja (@RLadiesAbuja)
 #rstats
 🔗 https://www.youtube.com/watch?v=umDcIP5sB6g"
+UCg4rv97QEhN-2gvLhrGMgEw;LSoK1PY40PE;2022-05-20T19:53:11Z;"📺 New #rstatsvideo: Personalize Relatórios R Markdown em HTML com o prettydoc
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=LSoK1PY40PE"
+UCyHEww8_SCdxZvEnkCfi55w;IDYWpKSSqS4;2022-05-21T14:00:43Z;"📺 New #rstatsvideo: Make Object Created within Function Usable Outside in R (2 Examples) | Create User-Defined Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=IDYWpKSSqS4"
+UCZcd0Fp8o_FQVqf6AAoZzqA;Gp1IMyiVIMM;2022-05-21T15:19:05Z;"📺 New #rstatsvideo: Introduction to R (Urdu) | Binary Choice Models | Logistic (logit) Regression | Probit Regression
+▶ R for students | Dr. Fahad
+#rstats
+🔗 https://www.youtube.com/watch?v=Gp1IMyiVIMM"
+UC5FvzLMVNrTMW-ycrW-4KyA;i69_2Hd8V6s;2022-05-21T19:51:01Z;"📺 New #rstatsvideo: 엄마에게 롤 화면을 보여줘도 안심이 되는 방송.
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=i69_2Hd8V6s"
+UCrmJdnPmle514qkK3lLOsVQ;h3707p2g89E;2022-05-21T21:53:56Z;"📺 New #rstatsvideo: #R | Shiny ✨ Reactive Scatter Plot | #RShiny #ScatterPlot #WebApp #RStudio #RPackage
+▶ RJ Studio
+#rstats #rshiny #rshinywebapp #rwebapp #shinywebapp #샤이니r #샤이니웹앱 #shinyscatterplot #shinyggplot
+🔗 https://www.youtube.com/watch?v=h3707p2g89E"
