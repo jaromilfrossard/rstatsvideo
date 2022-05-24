@@ -10177,3 +10177,37 @@ UCu3UVZ1mLOYdsrrrnjjs8Pg;k9j3KvQ_pRA;2022-05-23T01:25:22Z;"📺 New #rstatsvideo
 ▶ Patrick Mensah (@patmensa39)
 #rstats
 🔗 https://www.youtube.com/watch?v=k9j3KvQ_pRA"
+UC1NEZyGbSpcgBxcosNAjojA;NLLIBHe47j4;2022-05-23T11:34:49Z;"📺 New #rstatsvideo: How to Filter First, Last, Nth Row in R Using Dplyr
+▶ Quick R Tutorials
+🗣 🇬🇧
+#rstats #dplyr #tidyverse
+🔗 https://www.youtube.com/watch?v=NLLIBHe47j4"
+UCyHEww8_SCdxZvEnkCfi55w;XoBL8h6TRrQ;2022-05-23T14:00:34Z;"📺 New #rstatsvideo: Draw ggplot2 Plot with Grayscale in R (2 Examples) | scale_fill_grey() Function & theme_bw() Theme
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=XoBL8h6TRrQ"
+UCCaChdLMTYMxyawR_Qf-kYA;W9_G40xaNEc;2022-05-23T14:21:35Z;"📺 New #rstatsvideo: FPP: Time series graphics (fpp01 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=W9_G40xaNEc"
+UCGuktEl5InrcxPfCjmPWxsA;HDXY0idH7KY;2022-05-23T16:00:07Z;"📺 New #rstatsvideo: Plotting the global temperature index as bars using ggplot2 and NASA GISS data (CC215)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #ggplot2temperaturebars #ggplot2climatechange #ggplot2temeraturebars
+🔗 https://www.youtube.com/watch?v=HDXY0idH7KY"
+UC2-hKemnrmVCH_29duyJ26A;MJlHdWxN0v4;2022-05-23T17:23:48Z;"📺 New #rstatsvideo: Noam Ross - Data Versioning for Reproducibility with R and Dolt
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=MJlHdWxN0v4"
+UCyWGeP-J1I0Xasd62QumS3w;YZBxipuCZAI;2022-05-23T19:34:40Z;"📺 New #rstatsvideo: STAT 5660 Lecture 6 Programming, Iteration, Debugging
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=YZBxipuCZAI"
+UCCaChdLMTYMxyawR_Qf-kYA;RbzMFuGNrFg;2022-05-23T22:04:13Z;"📺 New #rstatsvideo: ISLR: Tree-Based Methods Part 2 (islr03 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=RbzMFuGNrFg"

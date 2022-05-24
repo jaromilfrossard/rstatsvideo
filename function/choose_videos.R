@@ -4,7 +4,7 @@ choose_videos <- function(file_tweet = "data/tweets.txt",
                           file_video_to_rm = "data/list_video_to_rm.txt",
                           max_tweet = 20,
                           tweet_older = TRUE,
-                          n_default = 5){
+                          n_default = 3){
   
   tb_channel <- read_delim(file_channel,delim=";",
                            col_types = cols(
