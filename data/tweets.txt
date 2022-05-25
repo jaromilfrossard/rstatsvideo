@@ -10211,3 +10211,58 @@ UCCaChdLMTYMxyawR_Qf-kYA;RbzMFuGNrFg;2022-05-23T22:04:13Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=RbzMFuGNrFg"
+UCjXQyxs1iyEg5v98fezgT0w;D_dZyUpgGkI;2022-05-24T07:00:02Z;"📺 New #rstatsvideo: Robust t Test in R (two-sample t-test, Yuen's test)
+▶ Regorz Statistik
+🗣 🇬🇧
+#rstats #robustttestr #robustttestinr #yuenstest #independentgroups #twosamplettest #welchttest #wilcoxonranksumtest
+🔗 https://www.youtube.com/watch?v=D_dZyUpgGkI"
+UCZcd0Fp8o_FQVqf6AAoZzqA;MXH4qEC3llE;2022-05-24T13:54:42Z;"📺 New #rstatsvideo: Introduction to R (Urdu) | Market Basket Analysis
+▶ R for students | Dr. Fahad
+#rstats
+🔗 https://www.youtube.com/watch?v=MXH4qEC3llE"
+UCyHEww8_SCdxZvEnkCfi55w;q0R8TmfjLlI;2022-05-24T14:00:32Z;"📺 New #rstatsvideo: Create List with Names but no Entries in R (Example) | Empty Elements | sapply() Function & NULL
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=q0R8TmfjLlI"
+UC3xfbCMLCw1Hh4dWop3XtHg;sRxdutTgyDE;2022-05-24T16:00:27Z;"📺 New #rstatsvideo: {gt} Table Battles || Crosswords || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology #coding #connect
+🔗 https://www.youtube.com/watch?v=sRxdutTgyDE"
+UCg4rv97QEhN-2gvLhrGMgEw;4Qp9QP9yZms;2022-05-24T16:05:52Z;"📺 New #rstatsvideo: Personalize Relatórios R Markdown em HTML com o prettydoc Na Prática
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=4Qp9QP9yZms"
+UCFXPzW7RxP6RfQGpRn7WXNw;iW33tk5chb4;2022-05-24T16:25:22Z;"📺 New #rstatsvideo: w9: shiny 2 & a whirlwind tour of pkg dev
+▶ Daniel Anderson (@datalorax_)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=iW33tk5chb4"
+UC_R5smHVXRYGhZYDJsnXTwg;1i6vOId2h4A;2022-05-24T16:53:28Z;"📺 New #rstatsvideo: Reporting Table Creation In R: Meeting Specific Needs With a General Framework
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=1i6vOId2h4A"
+UCCaChdLMTYMxyawR_Qf-kYA;__yndiht_gw;2022-05-24T17:25:23Z;"📺 New #rstatsvideo: ggplot2: ggplot2 internals Part 1 (ggplot2_01 20)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=__yndiht_gw"
+UCq45aK-qwWv1XAs1Si-_3Vg;bPj2ig8qN60;2022-05-25T00:40:47Z;"📺 New #rstatsvideo: CSSS 508 - Week 8 Lab - SP22
+▶ Breon Haskett
+#rstats
+🔗 https://www.youtube.com/watch?v=bPj2ig8qN60"
+UCyWGeP-J1I0Xasd62QumS3w;dw2aw8QiNYg;2022-05-25T00:52:15Z;"📺 New #rstatsvideo: STAT 5660 Lecture 7 Plotting
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=dw2aw8QiNYg"
+UCDHzgi5BGU5F-LXxQIIOyDw;MuB3HD_giOY;2022-05-25T01:28:54Z;"📺 New #rstatsvideo: webshot2 0.1.0 のリリースノートを眺めてみる （2022/5/24）
+▶ yutannihilationのチャンネル (仮) (@yutannihilation)
+#rstats #rstatsj
+🔗 https://www.youtube.com/watch?v=MuB3HD_giOY"
+UC911C0LKoMMwn3cHV2wSN1g;znOe2zszCR0;2022-05-25T02:53:26Z;"📺 New #rstatsvideo: Bruna Climaco - R para educação: avaliação de intersecções entre raça e gênero
+▶ SER SEMINÁRIO INTERNACIONAL DE ESTATÍSTICA COM R
+#rstats
+🔗 https://www.youtube.com/watch?v=znOe2zszCR0"
