@@ -10266,3 +10266,58 @@ UC911C0LKoMMwn3cHV2wSN1g;znOe2zszCR0;2022-05-25T02:53:26Z;"📺 New #rstatsvideo
 ▶ SER SEMINÁRIO INTERNACIONAL DE ESTATÍSTICA COM R
 #rstats
 🔗 https://www.youtube.com/watch?v=znOe2zszCR0"
+UCCaChdLMTYMxyawR_Qf-kYA;7r7uhb2JCas;2022-05-25T12:00:02Z;"📺 New #rstatsvideo: ISLR Book Club: Multiple Testing Part 2 (islr01 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=7r7uhb2JCas"
+UCCaChdLMTYMxyawR_Qf-kYA;GFQbrzLI3BA;2022-05-25T12:00:46Z;"📺 New #rstatsvideo: JS4R: Overview (js4r01 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GFQbrzLI3BA"
+UCyHEww8_SCdxZvEnkCfi55w;dk9vrxRHtIc;2022-05-25T14:00:32Z;"📺 New #rstatsvideo: Draw ggplot2 Plot with Different Background Colors by Region in R (Example) | geom_rect() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=dk9vrxRHtIc"
+UCyWGeP-J1I0Xasd62QumS3w;DNv7YVJwDpU;2022-05-25T18:48:38Z;"📺 New #rstatsvideo: STAT 5660 Lecture 8 k Nearest Neighbors Regression
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=DNv7YVJwDpU"
+UCTXuqtCYxPVEehq6fJY9GkA;ZekCMY28Uuc;2022-05-26T12:34:09Z;"📺 New #rstatsvideo: Web Scraping de qualquer coisa
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=ZekCMY28Uuc"
+UC7C4YZ-9itQW7Nl4RVKDflg;cSrJ4wPB3PQ;2022-05-26T13:28:22Z;"📺 New #rstatsvideo: Collaborative Data Exploration by Tim Hoolihan (5/25/2022)
+▶ Cleveland R User Group
+#rstats
+🔗 https://www.youtube.com/watch?v=cSrJ4wPB3PQ"
+UCyHEww8_SCdxZvEnkCfi55w;yLn0fBbqxII;2022-05-26T14:00:25Z;"📺 New #rstatsvideo: Change Letter Case of Column Names in R (2 Examples) | Upper & Lower | names(), toupper(), tolower()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=yLn0fBbqxII"
+UCrpq9hzMQSq0ldVcXlLgpvQ;1fgzfSOX5aI;2022-05-26T16:00:02Z;"📺 New #rstatsvideo: Future of Seurat Analysis | Parallel Computing for ScRNA-Seq
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=1fgzfSOX5aI"
+UCGuktEl5InrcxPfCjmPWxsA;NrEdAtSlTMo;2022-05-26T16:00:16Z;"📺 New #rstatsvideo: Using ggplot2 to recreate iconic warming stripes visualization of climate change (CC216)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #ggplot2warmingstripes #ggplot2 #ggplot2climatechange #warmingstripes
+🔗 https://www.youtube.com/watch?v=NrEdAtSlTMo"
+UCyWGeP-J1I0Xasd62QumS3w;v4wR8WIkR2M;2022-05-26T18:21:04Z;"📺 New #rstatsvideo: STAT 5660 Lecture 9 Regression Trees
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=v4wR8WIkR2M"
+UCCaChdLMTYMxyawR_Qf-kYA;8JhVCWNVpyw;2022-05-26T20:05:59Z;"📺 New #rstatsvideo: ISLR: Survival Analysis and Censored Data Part 1 (islr02 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=8JhVCWNVpyw"
+UCq45aK-qwWv1XAs1Si-_3Vg;ILjHBcxCJio;2022-05-27T02:08:49Z;"📺 New #rstatsvideo: CSSS 508 - Week 9 Lecture - SP22
+▶ Breon Haskett
+#rstats
+🔗 https://www.youtube.com/watch?v=ILjHBcxCJio"
