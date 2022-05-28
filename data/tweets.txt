@@ -10321,3 +10321,26 @@ UCq45aK-qwWv1XAs1Si-_3Vg;ILjHBcxCJio;2022-05-27T02:08:49Z;"📺 New #rstatsvideo
 ▶ Breon Haskett
 #rstats
 🔗 https://www.youtube.com/watch?v=ILjHBcxCJio"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;R19a-zBzFRw;2022-05-27T08:41:51Z;"📺 New #rstatsvideo: Handling Vectors in R programming- Made easy
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=R19a-zBzFRw"
+UCcCMO7sHb8O_TJUd34sQ_Ng;Z1bqlhmpO3Q;2022-05-27T13:30:12Z;"📺 New #rstatsvideo: dplyr | Muscle ton Jeu 3 | Comment dans R
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#rstats #dplyrdansr #datamanipulationetanalyse #explorerbasedansr #apprendrer #commentdansr #lulus #luluscommentdansr #selectdansr
+🔗 https://www.youtube.com/watch?v=Z1bqlhmpO3Q"
+UCyHEww8_SCdxZvEnkCfi55w;AZVWqpCQtwA;2022-05-27T14:00:34Z;"📺 New #rstatsvideo: Add Title to Venn Diagram in R (3 Examples) | VennDiagramm, gridExtra, ggplot2, ggvenn & venneuler
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=AZVWqpCQtwA"
+UCg4rv97QEhN-2gvLhrGMgEw;gdcNOEDHj38;2022-05-27T16:00:23Z;"📺 New #rstatsvideo: Testes Não-Paramétricos para Amostras Pareadas
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=gdcNOEDHj38"
+UCyWGeP-J1I0Xasd62QumS3w;i9YT0Bf2oRE;2022-05-27T17:43:30Z;"📺 New #rstatsvideo: STAT 5660 Lecture 10 Gradient Descent
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=i9YT0Bf2oRE"
