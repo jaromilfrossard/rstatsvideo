@@ -10344,3 +10344,22 @@ UCyWGeP-J1I0Xasd62QumS3w;i9YT0Bf2oRE;2022-05-27T17:43:30Z;"📺 New #rstatsvideo
 ▶ Stephen Carden
 #rstats
 🔗 https://www.youtube.com/watch?v=i9YT0Bf2oRE"
+UCyHEww8_SCdxZvEnkCfi55w;gvE9NV6bOWA;2022-05-28T14:00:25Z;"📺 New #rstatsvideo: sweep Function in R (3 Examples) | Matrix Operation with MARGIN & STATS | Sweep out Array Summaries
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=gvE9NV6bOWA"
+UCrmJdnPmle514qkK3lLOsVQ;1IHAZcumjkA;2022-05-28T16:50:25Z;"📺 New #rstatsvideo: #R | gghighlight package for improved Visualization! | #gghighlight #DataVisualization #RPackage
+▶ RJ Studio
+#rstats #gghighlightpacakge #gghighlight #gghighlightr #gghighlightggplot #datavisualizationr
+🔗 https://www.youtube.com/watch?v=1IHAZcumjkA"
+UCCaChdLMTYMxyawR_Qf-kYA;-dHiUdsRxA4;2022-05-28T20:35:13Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Workflow (mshiny03 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-dHiUdsRxA4"
+UCPfMGYxAOm39sO8nuEMB96Q;eS0qrVjb9jw;2022-05-28T21:57:06Z;"📺 New #rstatsvideo: Cómo Eliminar Variables en RStudio
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #cómoeliminarvariablesenrstudio #cómoeliminarvariablesenr #howtoremovevariablesinrstudio #howtoremovevariablesinr
+🔗 https://www.youtube.com/watch?v=eS0qrVjb9jw"
