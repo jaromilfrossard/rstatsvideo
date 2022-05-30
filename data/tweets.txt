@@ -10363,3 +10363,17 @@ UCPfMGYxAOm39sO8nuEMB96Q;eS0qrVjb9jw;2022-05-28T21:57:06Z;"📺 New #rstatsvideo
 🗣 🇪🇸
 #rstats #cómoeliminarvariablesenrstudio #cómoeliminarvariablesenr #howtoremovevariablesinrstudio #howtoremovevariablesinr
 🔗 https://www.youtube.com/watch?v=eS0qrVjb9jw"
+UCyHEww8_SCdxZvEnkCfi55w;Aocg7ySCtTc;2022-05-29T14:00:19Z;"📺 New #rstatsvideo: Remove Extension from File Name in R (Example) | file_path_sans_ext() | Delete Extensions from Files
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=Aocg7ySCtTc"
+UCiGbx61Bed35EZXL_Hk_qpA;RN7stt1npJs;2022-05-29T20:01:35Z;"📺 New #rstatsvideo: Introduction to Shiny - R Users Group Philippines
+▶ Anna Skrzydlo
+#rstats
+🔗 https://www.youtube.com/watch?v=RN7stt1npJs"
+UCdrnsZd2xWjDjHUlYsA6Kfw;hb9N45TfrOQ;2022-05-30T02:15:57Z;"📺 New #rstatsvideo: Arranging multiple R graphs together with patchwork
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters
+🔗 https://www.youtube.com/watch?v=hb9N45TfrOQ"
