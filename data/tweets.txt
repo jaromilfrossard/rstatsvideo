@@ -10377,3 +10377,49 @@ UCdrnsZd2xWjDjHUlYsA6Kfw;hb9N45TfrOQ;2022-05-30T02:15:57Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters
 🔗 https://www.youtube.com/watch?v=hb9N45TfrOQ"
+UClC5yNEjMoE3MmbK-mrV8Ow;ZMHJdW6a20I;2022-05-30T08:04:15Z;"📺 New #rstatsvideo: Building a new geom in ggplot2
+▶ R-Ladies Melbourne (@RLadiesMelb)
+#rstats
+🔗 https://www.youtube.com/watch?v=ZMHJdW6a20I"
+UCyHEww8_SCdxZvEnkCfi55w;c9PRrVxHOUk;2022-05-30T14:00:48Z;"📺 New #rstatsvideo: dir Function in R (3 Example Codes) | Filenames Of Current & Any Other Directory | Pattern in Files
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=c9PRrVxHOUk"
+UC6LqpR5qBfNlQp5mVIVsthA;oQ73ezUBjXs;2022-05-30T15:06:01Z;"📺 New #rstatsvideo: Emily A. Robinson ""You Draw It’: Implementing human interaction in R shiny with r2d3
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=oQ73ezUBjXs"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;_NddsKCcuv0;2022-05-30T15:52:49Z;"📺 New #rstatsvideo: Matrices, arrays, list and data frames in R Programming
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=_NddsKCcuv0"
+UCGuktEl5InrcxPfCjmPWxsA;gOyya2DLVfQ;2022-05-30T16:00:20Z;"📺 New #rstatsvideo: Using ggplot2 to recreate a line plot of annual temperature anomalies (CC217)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #ggplot2annualtemperature #ggplot2anualtemperature #ggplot2anualtemerature
+🔗 https://www.youtube.com/watch?v=gOyya2DLVfQ"
+UCMdihazndR0f9XBoSXWqnYg;NuDxrW4jsgQ;2022-05-30T16:36:27Z;"📺 New #rstatsvideo: R - Introduction to R (1.3 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #open #education #rstudio #introduction #datascience #data #packages #subsetting
+🔗 https://www.youtube.com/watch?v=NuDxrW4jsgQ"
+UCztAJhENVqsqv0cvyxs4sgg;sL6GmF2Pkp0;2022-05-30T19:43:18Z;"📺 New #rstatsvideo: Generando tutoriales interactivos con el paquete {learner}
+▶ RLadies Buenos Aires (@RLadiesBA)
+#rstats
+🔗 https://www.youtube.com/watch?v=sL6GmF2Pkp0"
+UCFT7Tgi7UAzR-eyzjoxBzxA;wtMWEifXQ0Q;2022-05-31T01:11:39Z;"📺 New #rstatsvideo: Meetup Mayo 2022: Estadística descriptiva con R: Gráficas, tablas y medidas de resumen.
+▶ RLadies Cuernavaca (@RLadiesCuerna)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=wtMWEifXQ0Q"
+UCjXQyxs1iyEg5v98fezgT0w;JuSiZlO8RBs;2022-05-31T07:00:04Z;"📺 New #rstatsvideo: Regression mit Bootstrapping in R
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #regressionbootstrap #regressionbootstrapr #regressionbootstrapping #regressionbootstrappingr
+🔗 https://www.youtube.com/watch?v=JuSiZlO8RBs"
+UCDozrYAxG1rTopPRA6GVYAg;HNdKcp-hdBE;2022-05-31T12:31:31Z;"📺 New #rstatsvideo: Gráficos descriptivos en R
+▶ ScitecEducation
+#rstats #gráficosenr #estadísticadescriptiva #basesdedatosenr
+🔗 https://www.youtube.com/watch?v=HNdKcp-hdBE"
