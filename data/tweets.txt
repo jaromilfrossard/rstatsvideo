@@ -10423,3 +10423,39 @@ UCDozrYAxG1rTopPRA6GVYAg;HNdKcp-hdBE;2022-05-31T12:31:31Z;"📺 New #rstatsvideo
 ▶ ScitecEducation
 #rstats #gráficosenr #estadísticadescriptiva #basesdedatosenr
 🔗 https://www.youtube.com/watch?v=HNdKcp-hdBE"
+UCyHEww8_SCdxZvEnkCfi55w;y44-XK8_LHU;2022-05-31T14:00:26Z;"📺 New #rstatsvideo: R Error in Function: Unused Argument (2 Examples) | How to Fix | Apply Manually Created Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=y44-XK8_LHU"
+UCDozrYAxG1rTopPRA6GVYAg;P5VxpG6nP2w;2022-05-31T15:40:55Z;"📺 New #rstatsvideo: Mi primer reporte Rmarkdown
+▶ ScitecEducation
+#rstats #rmarkdown #gráficosenrmarkdown
+🔗 https://www.youtube.com/watch?v=P5VxpG6nP2w"
+UCg4rv97QEhN-2gvLhrGMgEw;R-naTF96Oa4;2022-05-31T16:00:26Z;"📺 New #rstatsvideo: Testes Não-Paramétricos para Amostrar Pareadas na Prática
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=R-naTF96Oa4"
+UC3xfbCMLCw1Hh4dWop3XtHg;GNZY7gHSgzM;2022-05-31T16:00:39Z;"📺 New #rstatsvideo: Programming Games with Shiny || Roll the Dice || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology
+🔗 https://www.youtube.com/watch?v=GNZY7gHSgzM"
+UCyWGeP-J1I0Xasd62QumS3w;l1gQejkhebY;2022-05-31T19:17:05Z;"📺 New #rstatsvideo: STAT 5660 Lecture 11 Linear Regression
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=l1gQejkhebY"
+UCCaChdLMTYMxyawR_Qf-kYA;PK9UVd-vk5Y;2022-05-31T20:37:33Z;"📺 New #rstatsvideo: JS4R: Prerequisites (js4r01 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=PK9UVd-vk5Y"
+UC4_hSKmvUG4w0w270AH5bXQ;J9sKSCvPx8c;2022-05-31T21:50:59Z;"📺 New #rstatsvideo: Introduction to Data Analytics R
+▶ Derek Sollberger (@DerekSollberger)
+#rstats
+🔗 https://www.youtube.com/watch?v=J9sKSCvPx8c"
+UCDozrYAxG1rTopPRA6GVYAg;94ZmzTb4aFw;2022-06-01T03:55:38Z;"📺 New #rstatsvideo: Medias de tendencia central, dispersión y posición en R
+▶ ScitecEducation
+#rstats #estadísticadescriptivaenr
+🔗 https://www.youtube.com/watch?v=94ZmzTb4aFw"
