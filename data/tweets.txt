@@ -10459,3 +10459,16 @@ UCDozrYAxG1rTopPRA6GVYAg;94ZmzTb4aFw;2022-06-01T03:55:38Z;"📺 New #rstatsvideo
 ▶ ScitecEducation
 #rstats #estadísticadescriptivaenr
 🔗 https://www.youtube.com/watch?v=94ZmzTb4aFw"
+UCfJyQ3P2k_SuqfxVdqIEQNw;pU10ghMvAuM;2020-05-22T17:05:26Z;"📺 #rstatsvideo: 10 data filtering tips using R programming. Use the tidyverse to filter and subset your data.
+▶ R Programming 101 (@101Programming)
+#rstats #rprogramming #datascience #statistics #quantitativeresearch
+🔗 https://www.youtube.com/watch?v=pU10ghMvAuM"
+UC3xfbCMLCw1Hh4dWop3XtHg;eKWXvXf0kwo;2022-06-01T13:54:17Z;"📺 New #rstatsvideo: Dr. Uli Muellner & Nick Snellgrove | Shiny modularization, Leaflet for R and Leaflet JS extensions
+▶ RStudio (@rstudio)
+#rstats
+🔗 https://www.youtube.com/watch?v=eKWXvXf0kwo"
+UCyHEww8_SCdxZvEnkCfi55w;7Ojcgc-fiQ8;2022-06-01T14:00:21Z;"📺 New #rstatsvideo: round_any Function of plyr Package in R (2 Examples) | Round to Multiple of Number | Change Accuracy
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=7Ojcgc-fiQ8"
