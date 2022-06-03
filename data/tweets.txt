@@ -10472,3 +10472,36 @@ UCyHEww8_SCdxZvEnkCfi55w;7Ojcgc-fiQ8;2022-06-01T14:00:21Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom
 🔗 https://www.youtube.com/watch?v=7Ojcgc-fiQ8"
+UCCaChdLMTYMxyawR_Qf-kYA;O4Oo_qO7SIY;2022-06-02T12:45:51Z;"📺 New #rstatsvideo: Advanced R: Names and values (advr06 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=O4Oo_qO7SIY"
+UC6LqpR5qBfNlQp5mVIVsthA;EOVPBN5o8F8;2022-06-02T14:00:11Z;"📺 New #rstatsvideo: Barret Schloerke: {shinytest2} Testing Shiny with {testthat}
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EOVPBN5o8F8"
+UCyHEww8_SCdxZvEnkCfi55w;5scKRMDD_DE;2022-06-02T14:00:43Z;"📺 New #rstatsvideo: How to Subtract / Add a Vector from / to Each Row of a Matrix in R (2 Examples) | sweep() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=5scKRMDD_DE"
+UCGuktEl5InrcxPfCjmPWxsA;NYF9ySYSvwQ;2022-06-02T16:00:12Z;"📺 New #rstatsvideo: How to recreate climate temperature spirals in R with ggplot2 (CC218)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rtemperaturespirals #rclimatespirals #climatespirals #temperaturespirals
+🔗 https://www.youtube.com/watch?v=NYF9ySYSvwQ"
+UCMdihazndR0f9XBoSXWqnYg;UxsvTSG-pTc;2022-06-02T16:16:51Z;"📺 New #rstatsvideo: R & Python - Correspondence Analysis
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing
+🔗 https://www.youtube.com/watch?v=UxsvTSG-pTc"
+UCyWGeP-J1I0Xasd62QumS3w;AFkn-bnidS4;2022-06-02T17:45:18Z;"📺 New #rstatsvideo: STAT 5660 Lecture 13 Classification Trees
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=AFkn-bnidS4"
+UCq45aK-qwWv1XAs1Si-_3Vg;o1gatueBzV0;2022-06-03T01:27:07Z;"📺 New #rstatsvideo: CSSS 508 - Week 10 Lecture - SP22
+▶ Breon Haskett
+#rstats
+🔗 https://www.youtube.com/watch?v=o1gatueBzV0"
