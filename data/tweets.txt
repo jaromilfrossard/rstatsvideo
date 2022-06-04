@@ -10525,3 +10525,26 @@ UCcCMO7sHb8O_TJUd34sQ_Ng;mvga2dZNySc;2022-06-03T15:44:07Z;"📺 New #rstatsvideo
 🗣 🇫🇷
 #rstats #commentgénérermonrmarkdownauformatpdf #rmarkdownpdf #convertirrmarkdownapdf
 🔗 https://www.youtube.com/watch?v=mvga2dZNySc"
+UCnYkdhuQljgCnGNpCZpPfVA;D2bRXH-fyz0;2022-06-03T17:10:44Z;"📺 New #rstatsvideo: Tabelle stile SPSS
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=D2bRXH-fyz0"
+UCyWGeP-J1I0Xasd62QumS3w;v-bS8vYASXM;2022-06-03T17:58:25Z;"📺 New #rstatsvideo: STAT 5660 Lecture 14 Logistic Regression
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=v-bS8vYASXM"
+UCCaChdLMTYMxyawR_Qf-kYA;GT-ZlDra8jk;2022-06-03T20:06:29Z;"📺 New #rstatsvideo: Ensembles of Models (tmwr04 20)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GT-ZlDra8jk"
+UCg4rv97QEhN-2gvLhrGMgEw;UktO2u7VTZ8;2022-06-03T21:21:40Z;"📺 New #rstatsvideo: Gráficos para dados categóricos com o pacote waffle
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=UktO2u7VTZ8"
+UCrT2YmRak5iRXI_-RyXtEuA;TDcabCmdsDo;2022-06-04T02:39:57Z;"📺 New #rstatsvideo: Primeros pasos en R
+▶ RLadies Querétaro (@RLadies_Qro)
+#rstats
+🔗 https://www.youtube.com/watch?v=TDcabCmdsDo"
