@@ -10505,3 +10505,23 @@ UCq45aK-qwWv1XAs1Si-_3Vg;o1gatueBzV0;2022-06-03T01:27:07Z;"📺 New #rstatsvideo
 ▶ Breon Haskett
 #rstats
 🔗 https://www.youtube.com/watch?v=o1gatueBzV0"
+UCrpq9hzMQSq0ldVcXlLgpvQ;_BFMS1IefzE;2022-06-03T12:00:17Z;"📺 New #rstatsvideo: Data imputation with mice() | Full Walkthrough in R
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=_BFMS1IefzE"
+UCDgj5-mFohWZ5irWSFMFcng;shVSmYna3GM;2022-06-03T12:43:16Z;"📺 New #rstatsvideo: R-Ladies Freiburg (English) - Getting to know Quarto
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=shVSmYna3GM"
+UCyHEww8_SCdxZvEnkCfi55w;H3qfNrU6xlo;2022-06-03T14:00:14Z;"📺 New #rstatsvideo: Add Grid Line Consistent with Ticks on Axis to Plot in R (2 Examples) | plot() & grid() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=H3qfNrU6xlo"
+UCcCMO7sHb8O_TJUd34sQ_Ng;mvga2dZNySc;2022-06-03T15:44:07Z;"📺 New #rstatsvideo: Comment générer mon Rmarkdown au format PDF? | Muscle ton Jeu 4| Comment dans R?
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#rstats #commentgénérermonrmarkdownauformatpdf #rmarkdownpdf #convertirrmarkdownapdf
+🔗 https://www.youtube.com/watch?v=mvga2dZNySc"

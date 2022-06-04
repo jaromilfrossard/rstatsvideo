@@ -66,9 +66,13 @@ validate_new_channels()
 walk(tb_channel$id_channel, update_channel_video)
 
 
-validate_new_videos()
+validate_new_videos()#6aJMGdCxbgA
 
-videos <- choose_videos(max_tweet = 4)
+## check date after 9 june, 1 AM
+# tuber::get_video_details("6aJMGdCxbgA")
+
+videos <- choose_videos(max_tweet = 4)%>%
+  filter(id_video!="6aJMGdCxbgA")
 #videos <- videos%>%filter(new_video)
 
 # 
