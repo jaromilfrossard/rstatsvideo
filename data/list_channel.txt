@@ -173,6 +173,7 @@ UCCRIHidGlMgADMkGrl8eKiQ;R Lille;RLille_RUG
 UCxdCZGywhd2R5BiOP8vOgqg;R Programming - DDS;ddata_script
 UCfJyQ3P2k_SuqfxVdqIEQNw;R Programming 101;101Programming
 UC6wfyYnDaebrARFWhWdcItA;R Stats;
+UCybzXlZh--K4XRs48s72tnw;R stats;
 UCyxpzGd_imyk0VD_Yv0JwNQ;rstats_aficionadas;McconnellKyla
 UC8bO8eVpfEK8LbqH0oxyc3Q;R User Group at Harvard Data Science Initiative;RUGatHDSI
 UC_8_NCqWecqv8zjQE4ZwRwA;R User Group Nepal;rugnepal
