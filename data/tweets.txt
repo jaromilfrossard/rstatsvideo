@@ -10548,3 +10548,31 @@ UCrT2YmRak5iRXI_-RyXtEuA;TDcabCmdsDo;2022-06-04T02:39:57Z;"📺 New #rstatsvideo
 ▶ RLadies Querétaro (@RLadies_Qro)
 #rstats
 🔗 https://www.youtube.com/watch?v=TDcabCmdsDo"
+UCRth2ImB1T-_saYc5YBTcyA;dY-fW7HqPP0;2022-06-04T12:27:38Z;"📺 New #rstatsvideo: R-Ladies Nairobi (English) - #30DayChartChallenge: Nicola's Experience - Dr Nicola Rennie
+▶ R-Ladies Nairobi (@RLadiesNairobi)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=dY-fW7HqPP0"
+UCyHEww8_SCdxZvEnkCfi55w;zcPa_xumoe8;2022-06-04T14:00:42Z;"📺 New #rstatsvideo: R Error – Undefined Columns Selected when Subsetting Data Frame | How to Extract a Data Frame Subset
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=zcPa_xumoe8"
+UCPfMGYxAOm39sO8nuEMB96Q;3bFx2V-6A4c;2022-06-04T16:28:23Z;"📺 New #rstatsvideo: Cómo Buscar y Reemplazar en RStudio 🕵️🔍
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #cómobuscaryreemplazarenrstudio🕵️🔍 #cómobuscaryreemplazarenr🕵️🔍 #cómobuscaryreemplazarenrstudio
+🔗 https://www.youtube.com/watch?v=3bFx2V-6A4c"
+UCCaChdLMTYMxyawR_Qf-kYA;gpj2Uw8imtA;2022-06-04T17:01:17Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Layout, themes, HTML (mshiny03 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=gpj2Uw8imtA"
+UCrmJdnPmle514qkK3lLOsVQ;MawM7S_QomM;2022-06-04T21:47:11Z;"📺 New #rstatsvideo: #R | Axis Limit: xylim VS coord_cartesian | #AxisLimits #DataVisualization #DataAnalysis #StudyRain
+▶ RJ Studio
+#rstats #axislimitinr #axislimitr #xlimr #ylimr #xylimr #coordcartesianr #척도범위 #척도범위r
+🔗 https://www.youtube.com/watch?v=MawM7S_QomM"
+UCP8l94xtoemCH_GxByvTuFQ;eAx-CH7aVls;2022-06-05T07:00:19Z;"📺 New #rstatsvideo: TidyX Episode 105 | R Classes and Objects - Base
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=eAx-CH7aVls"
