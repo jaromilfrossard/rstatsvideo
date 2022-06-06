@@ -10576,3 +10576,21 @@ UCP8l94xtoemCH_GxByvTuFQ;eAx-CH7aVls;2022-06-05T07:00:19Z;"📺 New #rstatsvideo
 ▶ TidyX (@tidy_explained)
 #rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
 🔗 https://www.youtube.com/watch?v=eAx-CH7aVls"
+UCY66vV1WTk_2lHg24cuJrtg;cvui_jl7v6Y;2022-06-05T12:00:20Z;"📺 New #rstatsvideo: Analyzing Monkeypox Cases in R for Beginners
+▶ The Data Digest (@DigestData)
+🗣 🇬🇧
+#rstats #monkeypox #monkeypoxvirus #monkeypoxoutbreak #monkeypoxdisease #monkeypoxcanada #rtutorialforbeginners #ggplotinr
+🔗 https://www.youtube.com/watch?v=cvui_jl7v6Y"
+UCyHEww8_SCdxZvEnkCfi55w;qJIXn8W6H2k;2022-06-05T14:00:26Z;"📺 New #rstatsvideo: Add Arrow to Plot in R (2 Examples) | Draw Arrows in Base & ggplot2 Graph | geom_segment() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=qJIXn8W6H2k"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;xDAdOX1PU5g;2022-06-05T16:24:56Z;"📺 New #rstatsvideo: Datasets built in R programming
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=xDAdOX1PU5g"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;nSxBvSQ_aZ8;2022-06-05T19:54:29Z;"📺 New #rstatsvideo: Importing and exporting all kinds of data in R programming- Made simple
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=nSxBvSQ_aZ8"
