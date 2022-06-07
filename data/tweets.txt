@@ -10594,3 +10594,26 @@ UCu3UVZ1mLOYdsrrrnjjs8Pg;nSxBvSQ_aZ8;2022-06-05T19:54:29Z;"📺 New #rstatsvideo
 ▶ Patrick Mensah (@patmensa39)
 #rstats
 🔗 https://www.youtube.com/watch?v=nSxBvSQ_aZ8"
+UCyHEww8_SCdxZvEnkCfi55w;58oiDNad5tk;2022-06-06T14:00:48Z;"📺 New #rstatsvideo: Clean Up Memory in R (Example) | Garbage Collection with gc() Function | Clear Workspace rm() & ls()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=58oiDNad5tk"
+UCGuktEl5InrcxPfCjmPWxsA;AYfjdcylAio;2022-06-06T16:00:04Z;"📺 New #rstatsvideo: Recreating animated climate temperature spirals in R with ggplot2 and gganimate (CC219)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rtemperaturespirals #animatedtemperaturespirals #animatedclimatespiral
+🔗 https://www.youtube.com/watch?v=AYfjdcylAio"
+UC2-hKemnrmVCH_29duyJ26A;YPZtvqLoxjE;2022-06-06T16:37:59Z;"📺 New #rstatsvideo: Shiny Speedrun: Improvising an Interactive Data Visualization w/ David Robinson- nyhackr June Meetup
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=YPZtvqLoxjE"
+UCyWGeP-J1I0Xasd62QumS3w;wC7d42Bel3U;2022-06-06T17:21:17Z;"📺 New #rstatsvideo: STAT 5660 Lecture 15 Discriminant Analysis
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=wC7d42Bel3U"
+UC_bfGqjzgx4-N8TEQlJTaNQ;eqkkd7nGW_w;2022-06-07T04:40:08Z;"📺 New #rstatsvideo: Authoring Books and Publications using bookdown package by David Keyes, CEO, R for the Rest of Us
+▶ Abuja R User Group (@AbujaRUG)
+#rstats
+🔗 https://www.youtube.com/watch?v=eqkkd7nGW_w"
