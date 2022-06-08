@@ -10617,3 +10617,28 @@ UC_bfGqjzgx4-N8TEQlJTaNQ;eqkkd7nGW_w;2022-06-07T04:40:08Z;"📺 New #rstatsvideo
 ▶ Abuja R User Group (@AbujaRUG)
 #rstats
 🔗 https://www.youtube.com/watch?v=eqkkd7nGW_w"
+UC6LqpR5qBfNlQp5mVIVsthA;8H_ZHUy8Yj4;2022-06-07T13:00:12Z;"📺 New #rstatsvideo: Workshop: Creating Shiny Apps with Rhino: the new framework Shiny apps
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=8H_ZHUy8Yj4"
+UCyHEww8_SCdxZvEnkCfi55w;TwPdiSc7dKU;2022-06-07T14:00:47Z;"📺 New #rstatsvideo: Generate Matrix with i.i.d. Normal Random Variables in R (2 Examples) | matrix() & rnorm() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=TwPdiSc7dKU"
+UC1ZIcF31fEzBO6akL_HHkBg;NF7HPKt55Yk;2022-06-07T14:46:21Z;"📺 New #rstatsvideo: cloud: Use cases
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=NF7HPKt55Yk"
+UC3xfbCMLCw1Hh4dWop3XtHg;tIB_N0nUfNs;2022-06-07T16:00:43Z;"📺 New #rstatsvideo: {gt} Table Battles || Eurovision || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology #coding #connect #serverpro #shiny
+🔗 https://www.youtube.com/watch?v=tIB_N0nUfNs"
+UCg4rv97QEhN-2gvLhrGMgEw;zHBI3nKTrxQ;2022-06-07T17:34:23Z;"📺 New #rstatsvideo: Pacote waffle no R: Gráficos para dados categóricos
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=zHBI3nKTrxQ"
