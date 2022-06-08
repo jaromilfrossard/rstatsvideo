@@ -10642,3 +10642,16 @@ UCg4rv97QEhN-2gvLhrGMgEw;zHBI3nKTrxQ;2022-06-07T17:34:23Z;"📺 New #rstatsvideo
 🗣 🇵🇹
 #rstats
 🔗 https://www.youtube.com/watch?v=zHBI3nKTrxQ"
+UCcKPp7AI7ZTBf60WqXo3Bpg;IMWTuR1VdYU;2022-06-07T17:46:07Z;"📺 New #rstatsvideo: SLC-RUG Visualize your transformations during data munging
+▶ Salt Lake City R Users Group (@slcrug)
+#rstats
+🔗 https://www.youtube.com/watch?v=IMWTuR1VdYU"
+UCyWGeP-J1I0Xasd62QumS3w;M_sXf2YZrlg;2022-06-07T18:32:29Z;"📺 New #rstatsvideo: STAT 5660 Lecture 16 Support Vector Machines
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=M_sXf2YZrlg"
+UCCaChdLMTYMxyawR_Qf-kYA;eVmvbOE3aJQ;2022-06-07T22:34:41Z;"📺 New #rstatsvideo: JS4R: Introduction to Widgets (js4r01 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=eVmvbOE3aJQ"
