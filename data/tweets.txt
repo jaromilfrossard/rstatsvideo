@@ -10655,3 +10655,25 @@ UCCaChdLMTYMxyawR_Qf-kYA;eVmvbOE3aJQ;2022-06-07T22:34:41Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=eVmvbOE3aJQ"
+UCdrnsZd2xWjDjHUlYsA6Kfw;iCjHq53nweE;2022-06-08T07:28:25Z;"📺 New #rstatsvideo: Analysing Cricinfo Cricket Data in R
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters #cricket
+🔗 https://www.youtube.com/watch?v=iCjHq53nweE"
+UCkAyfZ4tAeO0j9dS-_yU7Gw;tTl2q_LB_EE;2022-06-08T10:01:48Z;"📺 New #rstatsvideo: 2020-06 - Seeing the Light with Refactoring and Testing - Richard Morrisroe
+▶ Dublin Data Science
+#rstats
+🔗 https://www.youtube.com/watch?v=tTl2q_LB_EE"
+UCyHEww8_SCdxZvEnkCfi55w;DAD-netAtVU;2022-06-08T14:00:33Z;"📺 New #rstatsvideo: lowess() R Smoothing Function (2 Example Codes) | Normalization by Lowess Regression | Smoother Span
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=DAD-netAtVU"
+UCyWGeP-J1I0Xasd62QumS3w;QOOQ3zC5KvQ;2022-06-08T17:44:15Z;"📺 New #rstatsvideo: STAT 5660 Lecture 17 Neural Networks
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=QOOQ3zC5KvQ"
+UCYjjz8ANtLZNu9u4P6tHh9g;Av5lhO3Fero;2022-06-09T01:40:03Z;"📺 New #rstatsvideo: Análisis de redes espaciales con Sfnetworks
+▶ R-Ladies Ecuador (@RLadiesBquilla)
+#rstats
+🔗 https://www.youtube.com/watch?v=Av5lhO3Fero"
