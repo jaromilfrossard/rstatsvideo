@@ -10677,3 +10677,31 @@ UCYjjz8ANtLZNu9u4P6tHh9g;Av5lhO3Fero;2022-06-09T01:40:03Z;"📺 New #rstatsvideo
 ▶ R-Ladies Ecuador (@RLadiesBquilla)
 #rstats
 🔗 https://www.youtube.com/watch?v=Av5lhO3Fero"
+UC6LqpR5qBfNlQp5mVIVsthA;PVDxxhmyUTk;2022-06-09T13:00:12Z;"📺 New #rstatsvideo: Eric Nantz: Adding a Little Shiny Power to an Online Racing League
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=PVDxxhmyUTk"
+UCyHEww8_SCdxZvEnkCfi55w;oAn4FU3iw6Y;2022-06-09T14:00:51Z;"📺 New #rstatsvideo: Error: Coerce List Object to Type Double in R (2 Examples) | How to Convert List to Numeric Vector
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=oAn4FU3iw6Y"
+UCqQ_cxcNu1ekqHXDc-MbU_w;1npsnq5reaA;2022-06-09T15:04:42Z;"📺 New #rstatsvideo: Survival Analysis in R (in 8-minutes)
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=1npsnq5reaA"
+UCCaChdLMTYMxyawR_Qf-kYA;mmcnkIjANps;2022-06-09T15:57:58Z;"📺 New #rstatsvideo: Advanced R: Vectors (advr06 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=mmcnkIjANps"
+UCGuktEl5InrcxPfCjmPWxsA;YkJFaQVrD9Y;2022-06-09T16:00:30Z;"📺 New #rstatsvideo: How I adapt one figure to look like another in R (CC220)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rfigureadapt #rggplot2 #rrstudio #rstudioggplot2 #rstudiogganimate #rclimatechange
+🔗 https://www.youtube.com/watch?v=YkJFaQVrD9Y"
+UCyWGeP-J1I0Xasd62QumS3w;5gfxlpqANhc;2022-06-09T19:15:13Z;"📺 New #rstatsvideo: STAT 5660 Lecture 18 Evaluation, Confusion, The ROC curve
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=5gfxlpqANhc"
