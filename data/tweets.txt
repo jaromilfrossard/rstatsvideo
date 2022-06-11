@@ -10705,3 +10705,37 @@ UCyWGeP-J1I0Xasd62QumS3w;5gfxlpqANhc;2022-06-09T19:15:13Z;"📺 New #rstatsvideo
 ▶ Stephen Carden
 #rstats
 🔗 https://www.youtube.com/watch?v=5gfxlpqANhc"
+UCrpq9hzMQSq0ldVcXlLgpvQ;wVHomBdMXfY;2022-06-10T12:00:25Z;"📺 New #rstatsvideo: Cancer Somatic Mutation Analysis | MAFtools R Package
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=wVHomBdMXfY"
+UC6LqpR5qBfNlQp5mVIVsthA;wn05YK_BZ14;2022-06-10T13:30:11Z;"📺 New #rstatsvideo: Aaron Clark: Tutorial: Evaluate values from dynamically produced UI modules
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wn05YK_BZ14"
+UCB_noR4lYmbKJozwJuPStbg;Y5-isDymzsk;2022-06-10T14:00:27Z;"📺 New #rstatsvideo: quickStart with R (Part 1): Getting started, data wrangling, and EDA (Part 1)
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #r #datascience #tidyverse #workshops #dplyr #reproducibility #literatecoding #eda
+🔗 https://www.youtube.com/watch?v=Y5-isDymzsk"
+UCyHEww8_SCdxZvEnkCfi55w;qWovWjRTFhA;2022-06-10T14:00:29Z;"📺 New #rstatsvideo: Arrange Boxplot of Multiple Y-Variables for Groups of Continuous X in R | cut_width() & facet_grid()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=qWovWjRTFhA"
+UC_R5smHVXRYGhZYDJsnXTwg;dpmfxY_mMoU;2022-06-10T16:50:49Z;"📺 New #rstatsvideo: R for Targeted MLE in Medical Research
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=dpmfxY_mMoU"
+UCiJMr_spRePQShPGNCqj7ng;OYwoR5GVXPs;2022-06-10T17:00:09Z;"📺 New #rstatsvideo: Ep. 2 Incrementality Testing - Run your First GeoLift Experiments using Meta's Official library
+▶ Cassandra
+🗣 🇬🇧
+#rstats #facebook #meta #opensource #oss #geoexperimentation #lift #attribution
+🔗 https://www.youtube.com/watch?v=OYwoR5GVXPs"
+UCyWGeP-J1I0Xasd62QumS3w;_tLLyWiwvzc;2022-06-10T17:00:21Z;"📺 New #rstatsvideo: STAT 5660 Lecture 19 Training, Validation, Testing
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=_tLLyWiwvzc"
