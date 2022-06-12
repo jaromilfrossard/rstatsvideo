@@ -10739,3 +10739,57 @@ UCyWGeP-J1I0Xasd62QumS3w;_tLLyWiwvzc;2022-06-10T17:00:21Z;"📺 New #rstatsvideo
 ▶ Stephen Carden
 #rstats
 🔗 https://www.youtube.com/watch?v=_tLLyWiwvzc"
+UCg4rv97QEhN-2gvLhrGMgEw;YH8lLgOmTOQ;2022-06-10T18:08:54Z;"📺 New #rstatsvideo: Testes para Comparação de Proporções para amostras independentes
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=YH8lLgOmTOQ"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;a44UVeFx10o;2022-06-10T21:41:56Z;"📺 New #rstatsvideo: Using colors in R programming- Made easy
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=a44UVeFx10o"
+UCyZCfIET7753bs5WpmKI_qQ;Iua5DtWzlgw;2022-06-11T02:58:59Z;"📺 New #rstatsvideo: Tutorial R | Redes neurais nnet package e tidymodels no R (tira dúvidas)
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats #neuralnetworks #redesneurais #deeplearning #nnet #rstudio #tidymodels #otimização
+🔗 https://www.youtube.com/watch?v=Iua5DtWzlgw"
+UCcCMO7sHb8O_TJUd34sQ_Ng;lOSOmyq5Aqo;2022-06-11T03:23:21Z;"📺 New #rstatsvideo: Ajouter les effectifs sur les barplots dans ggplot2 | Muscle ton Jeu 5 | Comment dans R.
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#rstats #ajouterleseffectifssurlesbarplotsdansggplot2|muscletonjeu5|commentdansr
+🔗 https://www.youtube.com/watch?v=lOSOmyq5Aqo"
+UCyHEww8_SCdxZvEnkCfi55w;SZ0NzwDhHwA;2022-06-11T14:00:24Z;"📺 New #rstatsvideo: outer() Function in R (4 Examples) | Apply User-Defined Function | Calculate Outer Product of Arrays
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=SZ0NzwDhHwA"
+UCCaChdLMTYMxyawR_Qf-kYA;F3DnD4N-s5w;2022-06-11T15:25:56Z;"📺 New #rstatsvideo: R Packages: Object documentation Part 2 and Vignettes: long-form documentation P1 (rpkgs03 10 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=F3DnD4N-s5w"
+UCCaChdLMTYMxyawR_Qf-kYA;7BkLFznRko8;2022-06-11T15:26:28Z;"📺 New #rstatsvideo: Inferential Analysis (tmwr04 21)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=7BkLFznRko8"
+UCPfMGYxAOm39sO8nuEMB96Q;TdtOeP5N0UI;2022-06-11T15:26:35Z;"📺 New #rstatsvideo: Cómo examinar supuestos de regresión en RStudio 🕵️ y qué hacer cuando no se cumplen ❗❓
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=TdtOeP5N0UI"
+UCCaChdLMTYMxyawR_Qf-kYA;EdNBZVNSXyA;2022-06-11T15:27:04Z;"📺 New #rstatsvideo: ISLR: Survival Analysis and Censored Data Part 2 (islr02 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EdNBZVNSXyA"
+UCCaChdLMTYMxyawR_Qf-kYA;-6f60j96d58;2022-06-11T15:27:32Z;"📺 New #rstatsvideo: Bayes Rules! Bayes’ Rule (bayes_rules01 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-6f60j96d58"
+UCCaChdLMTYMxyawR_Qf-kYA;EDcW3IwtBQc;2022-06-11T20:40:26Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Layout, themes, HTML Part 2 (mshiny03 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EDcW3IwtBQc"
