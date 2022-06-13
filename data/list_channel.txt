@@ -93,6 +93,7 @@ UCt950nC6jlh2ELDRPigWOkg;LatinR;LatinR_Conf
 UCU5ZiUm-OLbVGW7NP0e-eFQ;Learn RStats;
 UCT4HNZZfFzsvcs-kBNTLkzQ;Learn R with Pallvi;
 UCxB1IGhLzlEOikTL-aDwqFg;Leonardo Collado Torres;lcolladotor
+UCHN3yqJ_OTvz9TXwSyjJTjw;librarianwomack;RyanData
 UCrpq9hzMQSq0ldVcXlLgpvQ;Liquid Brain;Brandon_yeoph
 UCDhKY1sp29xXSOInddeF4-g;Liquid Brain R;Brandon_yeoph
 UCC3CCtUrSSQoJkxodRKr89g;Lisa Lendway - Statistics & Data Science;lisalendway
