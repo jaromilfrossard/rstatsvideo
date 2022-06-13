@@ -10793,3 +10793,16 @@ UCCaChdLMTYMxyawR_Qf-kYA;EDcW3IwtBQc;2022-06-11T20:40:26Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=EDcW3IwtBQc"
+UCP8l94xtoemCH_GxByvTuFQ;Yf_J74XLgNQ;2022-06-12T07:00:11Z;"📺 New #rstatsvideo: TidyX Episode 106 | R Classes and Objects - Factors
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=Yf_J74XLgNQ"
+UC9ykygrgYWoUdwaMA3qhRaw;jVtB16cOXus;2022-06-12T12:00:33Z;"📺 New #rstatsvideo: R-Studio: Dealing with Missing Values (NA) - Two Easy Ways
+▶ Data Garden
+#rstats #rstudio #excel #dataanalysis #datascience #statistics #stats #learning #tutorial #deeplearning #machinelearning
+🔗 https://www.youtube.com/watch?v=jVtB16cOXus"
+UCyHEww8_SCdxZvEnkCfi55w;qGUaonlcZAw;2022-06-12T14:00:50Z;"📺 New #rstatsvideo: R Error: plot.new has not been called yet (2 Examples) | How to Reproduce & Fix | lines() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=qGUaonlcZAw"
