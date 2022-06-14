@@ -10806,3 +10806,50 @@ UCyHEww8_SCdxZvEnkCfi55w;qGUaonlcZAw;2022-06-12T14:00:50Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=qGUaonlcZAw"
+UCyHEww8_SCdxZvEnkCfi55w;muM6lEZxFVA;2022-06-13T14:00:24Z;"📺 New #rstatsvideo: Convert Integer to Date in R (3 Examples) | Change Data Type | as.Date, as.character, strptime & ymd
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=muM6lEZxFVA"
+UCfJyQ3P2k_SuqfxVdqIEQNw;xOipLOxGrzU;2022-06-13T15:49:40Z;"📺 New #rstatsvideo: Use pivot_wider() to shape your data. R programming from beginners.
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=xOipLOxGrzU"
+UC3xfbCMLCw1Hh4dWop3XtHg;F5TV9uWCJps;2022-06-13T16:00:56Z;"📺 New #rstatsvideo: Rich Iannone || New features in {gt} 0.6.0! || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #coding #serverpro
+🔗 https://www.youtube.com/watch?v=F5TV9uWCJps"
+UCyWGeP-J1I0Xasd62QumS3w;QcUYrTUNd7Q;2022-06-13T17:48:15Z;"📺 New #rstatsvideo: STAT 5660 Lecture 20 Variable Selection
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=QcUYrTUNd7Q"
+UCCaChdLMTYMxyawR_Qf-kYA;OgnKy6GT6po;2022-06-13T18:32:21Z;"📺 New #rstatsvideo: Modelado Tidy con R - Extra. Ejemplo de Fundamentos de Modelado (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=OgnKy6GT6po"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;537-3xiluK0;2022-06-13T18:58:02Z;"📺 New #rstatsvideo: Creating Bar charts and Side-by-side plots in R programming made easy
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=537-3xiluK0"
+UCMdihazndR0f9XBoSXWqnYg;NDVVTFUJtcA;2022-06-13T21:08:50Z;"📺 New #rstatsvideo: R - Introduction to Data Analytics (2.1 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #open #education #rstudio #data #datascience #analytics
+🔗 https://www.youtube.com/watch?v=NDVVTFUJtcA"
+UCCaChdLMTYMxyawR_Qf-kYA;jf-Qn4iFqHY;2022-06-13T21:24:17Z;"📺 New #rstatsvideo: ggplot2: Programming with ggplot2 (ggplot2_01 19)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=jf-Qn4iFqHY"
+UCCaChdLMTYMxyawR_Qf-kYA;ZYRmWNx1FX0;2022-06-13T21:24:40Z;"📺 New #rstatsvideo: ISLR: Support Vector Machines Part 2 (islr03 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ZYRmWNx1FX0"
+UCCaChdLMTYMxyawR_Qf-kYA;W_uQc5YSwog;2022-06-13T21:25:01Z;"📺 New #rstatsvideo: FPP: Time series graphics: Exercises (fpp01 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=W_uQc5YSwog"
