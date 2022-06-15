@@ -10853,3 +10853,28 @@ UCCaChdLMTYMxyawR_Qf-kYA;W_uQc5YSwog;2022-06-13T21:25:01Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=W_uQc5YSwog"
+UC6LqpR5qBfNlQp5mVIVsthA;W7ES6QYvN_c;2022-06-14T13:00:14Z;"📺 New #rstatsvideo: Jonas Hagenberg, Tutorial: Dynamically adding and removing Shiny modules
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=W7ES6QYvN_c"
+UCyHEww8_SCdxZvEnkCfi55w;5syPPqhMwxA;2022-06-14T14:00:59Z;"📺 New #rstatsvideo: Find Index Positions of Non-Zero Values in Matrix in R (Example) | Get Row & Column | which Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=5syPPqhMwxA"
+UC1ZIcF31fEzBO6akL_HHkBg;JdFA31-vJUE;2022-06-14T14:43:38Z;"📺 New #rstatsvideo: cloud: Use case -- host shiny apps
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=JdFA31-vJUE"
+UCB_noR4lYmbKJozwJuPStbg;PqwiiJNU-Uc;2022-06-14T17:45:25Z;"📺 New #rstatsvideo: quickStart with R (part 2): visualization, pivot, join, regression UNPUBLISHED (3rd Edition)
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #r #datascience #tidyverse #workshops #ggplot2 #leftjoin #pivotlonger
+🔗 https://www.youtube.com/watch?v=PqwiiJNU-Uc"
+UCg4rv97QEhN-2gvLhrGMgEw;F1J3goC3HGY;2022-06-14T18:12:43Z;"📺 New #rstatsvideo: Praticando no R - Testes para Comparação de Proporções para amostras independentes
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=F1J3goC3HGY"
