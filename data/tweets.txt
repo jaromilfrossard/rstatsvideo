@@ -10878,3 +10878,17 @@ UCg4rv97QEhN-2gvLhrGMgEw;F1J3goC3HGY;2022-06-14T18:12:43Z;"📺 New #rstatsvideo
 🗣 🇵🇹
 #rstats
 🔗 https://www.youtube.com/watch?v=F1J3goC3HGY"
+UCHN3yqJ_OTvz9TXwSyjJTjw;ww8Y-KGaSLM;2013-10-14T06:19:27Z;"📺 #rstatsvideo: Intro to R Session 3.3 (Data Manipulation - Repeated, logical, and conditional operations)
+▶ librarianwomack (@RyanData)
+#rstats #rprogramminglanguage #rutgersuniversitycollegeuniversity
+🔗 https://www.youtube.com/watch?v=ww8Y-KGaSLM"
+UCWApflfx7nUcvvYMZ2SAbCQ;-72qCHS3xxE;2021-04-08T16:02:57Z;"📺 #rstatsvideo: Ceci n'est pas une pipe (R Pipes)
+▶ BIG Bioinformatics
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-72qCHS3xxE"
+UCyHEww8_SCdxZvEnkCfi55w;y__hvGTN7ms;2022-06-15T14:00:35Z;"📺 New #rstatsvideo: Draw Histogram & Density for Each Column of Data Frame in R (3 Examples) | ggplot2 & tidyr Packages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=y__hvGTN7ms"

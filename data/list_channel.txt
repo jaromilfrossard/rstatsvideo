@@ -229,6 +229,7 @@ UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;thinkR_fr
 UCT9SgxpakGSH-yfRj_QhzIQ;Thomas Lin Pedersen;thomasp85
 UCvCEl2-_Q2gGxqisyYngXIA;Thomas Mock;thomas_mock
 UCP8l94xtoemCH_GxByvTuFQ;TidyX;tidy_explained
+UCCdsYJg0CQXvmM1m9DHkAtQ;Tymon Jasiukiewicz;
 UCJPwNOsvugkB2ImVCiaLytA;Tony Carlsen;
 UCyf1AvRK4gmfRUJjeBNMauA;Tunis R User Group;TunisRUserGroup
 UC6mKz34g2V8Ee6VAQbiYx3Q;Tyler Morgan-Wall;tylermorganwall
