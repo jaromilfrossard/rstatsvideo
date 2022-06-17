@@ -10892,3 +10892,46 @@ UCyHEww8_SCdxZvEnkCfi55w;y__hvGTN7ms;2022-06-15T14:00:35Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom
 🔗 https://www.youtube.com/watch?v=y__hvGTN7ms"
+UCCaChdLMTYMxyawR_Qf-kYA;GvK98TXNb18;2022-06-16T12:30:07Z;"📺 New #rstatsvideo: Bayes Rules! The Big (Bayesian) Picture (bayes_rules02 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GvK98TXNb18"
+UCyHEww8_SCdxZvEnkCfi55w;W_ZOZwYt_Qg;2022-06-16T14:00:22Z;"📺 New #rstatsvideo: Calculate Product of Vector & Data Frame in R (Example) | Rows & Columns | Multiply All Elements
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=W_ZOZwYt_Qg"
+UCTTBgWyJl2HrrhQOOc710kA;l-CfniOBDBc;2022-06-16T14:27:00Z;"📺 New #rstatsvideo: Spatial resampling to understand drought in Texas
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=l-CfniOBDBc"
+UCCaChdLMTYMxyawR_Qf-kYA;-WjBA6yqW0Q;2022-06-16T15:23:44Z;"📺 New #rstatsvideo: Advanced R: Subsetting (advr06 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-WjBA6yqW0Q"
+UCGuktEl5InrcxPfCjmPWxsA;kXbpAhWF6iw;2022-06-16T16:00:24Z;"📺 New #rstatsvideo: How to create a spiral in cartesian coordinates with ggplot2 in R (CC222)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #spiralcartesianggplot2 #ggplot2spirals #climatespiral #climatespiralr #gganimate
+🔗 https://www.youtube.com/watch?v=kXbpAhWF6iw"
+UCMdihazndR0f9XBoSXWqnYg;b3h0IzgMK8M;2022-06-16T17:54:46Z;"📺 New #rstatsvideo: R & Python - Logistic Regression
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing #modeling
+🔗 https://www.youtube.com/watch?v=b3h0IzgMK8M"
+UCTXUFl30vDC32UrohjWB8kQ;9Vp5e3IIzZ8;2022-06-16T22:04:55Z;"📺 New #rstatsvideo: Subset your data in R!
+▶ Matthew Peterson (@ecomattp)
+#rstats
+🔗 https://www.youtube.com/watch?v=9Vp5e3IIzZ8"
+UCBsXfUO__nzMnlaLLUx7DFQ;yz1rGpZ2CPs;2022-06-17T00:35:57Z;"📺 New #rstatsvideo: Simulations: Markov Chain
+▶ Probability!
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=yz1rGpZ2CPs"
+UCZQlpKYQPlf2QNVdSv_TRdg;9wmajA7Okrg;2022-06-17T04:40:50Z;"📺 New #rstatsvideo: Real-Time Public Health Surveillance with Sykdomspulsen
+▶ UseR Oslo (@OURmeetup)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9wmajA7Okrg"

@@ -13,8 +13,8 @@ on “data/channel.txt”.
 
 ### Most productive channels
 
-![](README_files/figure-markdown_strict/unnamed-chunk-3-1.svg)
+![](README_files/figure-markdown_strict/unnamed-chunk-9-1.svg)
 
 ### Most viewed videos
 
-![](README_files/figure-markdown_strict/unnamed-chunk-4-1.svg)
+![](README_files/figure-markdown_strict/unnamed-chunk-10-1.svg)
