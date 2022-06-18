@@ -10935,3 +10935,28 @@ UCZQlpKYQPlf2QNVdSv_TRdg;9wmajA7Okrg;2022-06-17T04:40:50Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=9wmajA7Okrg"
+UCyHEww8_SCdxZvEnkCfi55w;jD04SNGOpMo;2022-06-17T14:00:57Z;"📺 New #rstatsvideo: Change Font & Item Size of Base R Plot Legend (Example) | How to Increase Proportions | par Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=jD04SNGOpMo"
+UCYNVcihAKkRW-bhzIrguvVw;mw26NRGapGI;2022-06-17T22:05:23Z;"📺 New #rstatsvideo: Dumbbell Plot in R
+▶ math et al
+🗣 🇬🇧
+#rstats #dumbbellplot #dumbbellplots #mathetal #dumbbellplotanalysis #dumbbellplotr #dumbbellplotexcel #dumbbellplottableau #seaborn #plotly #ggplot2 #ggplot #chart #graph
+🔗 https://www.youtube.com/watch?v=mw26NRGapGI"
+UCcCMO7sHb8O_TJUd34sQ_Ng;HCC_ufT27xQ;2022-06-18T06:28:32Z;"📺 New #rstatsvideo: Nuage de points avec geom_text_repel() | Muscle ton Jeu 6| Comment dans R
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#rstats #geomtext #geomtextrepel #geomtextree #geomtextrepeldansr #apprendrer #commentdansr #lulus #rstudio
+🔗 https://www.youtube.com/watch?v=HCC_ufT27xQ"
+UCcGXGFClRdnrwXsPHi7P4ZA;Im293ClFen4;2022-06-18T09:09:55Z;"📺 New #rstatsvideo: R package reviews | glmulti | Find The Best Model !
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #machinelearning #clearlyexplained #datascience #dataanalysis #stats #introductiontostatistics
+🔗 https://www.youtube.com/watch?v=Im293ClFen4"
+UCyHEww8_SCdxZvEnkCfi55w;lCqZRyQ1LDs;2022-06-18T14:00:30Z;"📺 New #rstatsvideo: Change Yes to 1 & No to 0 in R (Example) | Convert & Relabel | as.character & as.numeric Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=lCqZRyQ1LDs"
