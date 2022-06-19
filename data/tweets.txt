@@ -10960,3 +10960,16 @@ UCyHEww8_SCdxZvEnkCfi55w;lCqZRyQ1LDs;2022-06-18T14:00:30Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=lCqZRyQ1LDs"
+UC3xfbCMLCw1Hh4dWop3XtHg;01QrIAXiJVA;2019-09-21T07:00:00Z;"📺 #rstatsvideo: Gabor Csardi | pkgman A fresh approach to package installation | RStudio (2019)
+▶ RStudio (@rstudio)
+#rstats #gaborcsardi #pkgman #rstudio #datascience #machinelearning #python #stats #tidyverse
+🔗 https://www.youtube.com/watch?v=01QrIAXiJVA"
+UCPfMGYxAOm39sO8nuEMB96Q;jQfrIZvztEQ;2022-06-18T14:53:15Z;"📺 New #rstatsvideo: Cómo copiar y pegar datos de Excel en RStudio
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #cómocopiarypegardatosdeexcelenrstudio #cómocopiarypegardatosdeexcelenr #howtocopyandpastefromexceltorstudio
+🔗 https://www.youtube.com/watch?v=jQfrIZvztEQ"
+UCP8l94xtoemCH_GxByvTuFQ;BTe9y4yq4us;2022-06-19T07:00:02Z;"📺 New #rstatsvideo: TidyX Episode 107 | R Classes and Objects - Lists,  Part 1
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=BTe9y4yq4us"
