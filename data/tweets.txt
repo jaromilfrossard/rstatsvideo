@@ -10973,3 +10973,45 @@ UCP8l94xtoemCH_GxByvTuFQ;BTe9y4yq4us;2022-06-19T07:00:02Z;"📺 New #rstatsvideo
 ▶ TidyX (@tidy_explained)
 #rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
 🔗 https://www.youtube.com/watch?v=BTe9y4yq4us"
+UCyHEww8_SCdxZvEnkCfi55w;XLxxP0s5jJ8;2022-06-19T14:00:10Z;"📺 New #rstatsvideo: Get End of Month for Certain Date in R (Examples) | ceiling_date() & timeLastDayInMonth() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=XLxxP0s5jJ8"
+UCCaChdLMTYMxyawR_Qf-kYA;EsPNsZBmVbw;2022-06-19T14:36:04Z;"📺 New #rstatsvideo: R Packages: Vignettes: long-form documentation Part 2 (rpkgs03 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EsPNsZBmVbw"
+UCCaChdLMTYMxyawR_Qf-kYA;_sJ6I0HoqWA;2022-06-19T14:36:31Z;"📺 New #rstatsvideo: ISLR: Unsupervised Learning (islr02 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=_sJ6I0HoqWA"
+UCCaChdLMTYMxyawR_Qf-kYA;Ne4kGkl7M1w;2022-06-19T14:37:09Z;"📺 New #rstatsvideo: Bayes Rules! The Beta-Binomial Bayesian Model (bayes_rules01 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Ne4kGkl7M1w"
+UCCaChdLMTYMxyawR_Qf-kYA;whu8LeXt0VE;2022-06-19T14:37:38Z;"📺 New #rstatsvideo: R for Data Science: Functions Part 2 (r4ds06 19)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=whu8LeXt0VE"
+UCCaChdLMTYMxyawR_Qf-kYA;KwUE61NVDUk;2022-06-19T14:38:09Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Graphics (mshiny03 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=KwUE61NVDUk"
+UCC0n35R84-ufqPstR1YtCxA;AlX7B_U20S0;2022-06-19T20:23:21Z;"📺 New #rstatsvideo: [ARABIC] Multiple regression: covariate adjustment, why ?
+▶ Stat Pharm
+#rstats
+🔗 https://www.youtube.com/watch?v=AlX7B_U20S0"
+UCPque9BaFV9p0hcgImrYBzg;c5ydz-Ha61I;2022-06-20T02:55:59Z;"📺 New #rstatsvideo: R-Ladies Lightning Talks - 2022 June
+▶ R-Ladies Philly (@RLadiesPhilly)
+#rstats
+🔗 https://www.youtube.com/watch?v=c5ydz-Ha61I"
+UCB7N0JYEOoT2IPLuImsx-3w;MCMFh3X1Xak;2022-06-20T03:08:03Z;"📺 New #rstatsvideo: R Ladies 13th Meet Up: Linear Regression with R
+▶ R Ladies Bogor (@RLadiesBogor)
+#rstats
+🔗 https://www.youtube.com/watch?v=MCMFh3X1Xak"
