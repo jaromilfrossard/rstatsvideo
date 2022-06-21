@@ -11015,3 +11015,64 @@ UCB7N0JYEOoT2IPLuImsx-3w;MCMFh3X1Xak;2022-06-20T03:08:03Z;"📺 New #rstatsvideo
 ▶ R Ladies Bogor (@RLadiesBogor)
 #rstats
 🔗 https://www.youtube.com/watch?v=MCMFh3X1Xak"
+UCyHEww8_SCdxZvEnkCfi55w;yBfiawaL9UU;2022-06-20T14:00:28Z;"📺 New #rstatsvideo: Visualize Table Object in Graphic in R (Example) | Draw Barchart |  ggplot2 Package | as.data.frame
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=yBfiawaL9UU"
+UCr8qT7gK9WQZjCNz7Agi7sA;dgkm0QkWXag;2022-06-20T14:05:31Z;"📺 New #rstatsvideo: ST3 - Serverless R in the Cloud - Deploying R into Production with AWS and Docker - İsmail Tigrek
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=dgkm0QkWXag"
+UCr8qT7gK9WQZjCNz7Agi7sA;4LRYv36Ik2k;2022-06-20T14:05:35Z;"📺 New #rstatsvideo: ST1 - R ile Mekânsal Analiz - Fırat Gündem
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=4LRYv36Ik2k"
+UCr8qT7gK9WQZjCNz7Agi7sA;z2gTRUO-G58;2022-06-20T14:06:02Z;"📺 New #rstatsvideo: P2 - R Eğitimi - Olgun Aydın, Mine Çetinkaya-Rundel, Mine Doğucu, Kübra Kabasakal
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=z2gTRUO-G58"
+UCr8qT7gK9WQZjCNz7Agi7sA;FeffbiUfr7M;2022-06-20T14:06:08Z;"📺 New #rstatsvideo: 7. Oturum
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=FeffbiUfr7M"
+UCr8qT7gK9WQZjCNz7Agi7sA;8qdlJTExBig;2022-06-20T14:06:11Z;"📺 New #rstatsvideo: 6. Oturum
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=8qdlJTExBig"
+UCr8qT7gK9WQZjCNz7Agi7sA;yEvM0m-D7q4;2022-06-20T14:06:14Z;"📺 New #rstatsvideo: 5. Oturum
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=yEvM0m-D7q4"
+UCr8qT7gK9WQZjCNz7Agi7sA;avu9--hhhUI;2022-06-20T14:06:17Z;"📺 New #rstatsvideo: 4. Oturum
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=avu9--hhhUI"
+UCr8qT7gK9WQZjCNz7Agi7sA;azZAr9SKXDg;2022-06-20T14:06:22Z;"📺 New #rstatsvideo: 3. Oturum
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=azZAr9SKXDg"
+UCr8qT7gK9WQZjCNz7Agi7sA;V0HIVAMKGOo;2022-06-20T14:06:27Z;"📺 New #rstatsvideo: 2. Oturum
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=V0HIVAMKGOo"
+UCr8qT7gK9WQZjCNz7Agi7sA;MzGbTtAk5MQ;2022-06-20T14:06:30Z;"📺 New #rstatsvideo: 1. Oturum
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=MzGbTtAk5MQ"
+UCr8qT7gK9WQZjCNz7Agi7sA;Mg7e1B-J2Oo;2022-06-20T14:06:32Z;"📺 New #rstatsvideo: W5 - Deep Learning using R - Krystian Zielinski
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=Mg7e1B-J2Oo"
+UCr8qT7gK9WQZjCNz7Agi7sA;r_X7_35aDMI;2022-06-20T14:06:36Z;"📺 New #rstatsvideo: W4 - Introduction to Bioconductor - Nitesh Turaga
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=r_X7_35aDMI"
+UCr8qT7gK9WQZjCNz7Agi7sA;SzhnjbsFe4o;2022-06-20T14:06:39Z;"📺 New #rstatsvideo: W3 - tidyverse ile Tabular Formdaki Veriyi Etkin Yöntemlerle İşleme - İmran Kocabıyık
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=SzhnjbsFe4o"
+UCr8qT7gK9WQZjCNz7Agi7sA;cY8bBMKVizs;2022-06-20T14:06:46Z;"📺 New #rstatsvideo: W2 - R ile Veri Görselleştirme Atölyesi - İnan Utku Türkmen, Cansu Hürses
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=cY8bBMKVizs"
