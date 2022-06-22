@@ -11076,3 +11076,51 @@ UCr8qT7gK9WQZjCNz7Agi7sA;cY8bBMKVizs;2022-06-20T14:06:46Z;"📺 New #rstatsvideo
 ▶ Why R? Turkey (@WhyRTurkey)
 #rstats
 🔗 https://www.youtube.com/watch?v=cY8bBMKVizs"
+UCr8qT7gK9WQZjCNz7Agi7sA;jZTTjVNQRys;2022-06-20T14:06:50Z;"📺 New #rstatsvideo: W1 - R Programlama Diline Giriş - Ahmet Akgül
+▶ Why R? Turkey (@WhyRTurkey)
+#rstats
+🔗 https://www.youtube.com/watch?v=jZTTjVNQRys"
+UCGuktEl5InrcxPfCjmPWxsA;PytBiFU0rEc;2022-06-20T16:00:12Z;"📺 New #rstatsvideo: Using R to make a 3D interactive figure showing climate change with plotly (CC223)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rinteractiveclimatechange #rplotly #rggplotly #r3dclimatespiral
+🔗 https://www.youtube.com/watch?v=PytBiFU0rEc"
+UCjXQyxs1iyEg5v98fezgT0w;Ei6n9SEXFvM;2022-06-21T07:00:07Z;"📺 New #rstatsvideo: Test Unterschied Regressionsgewichte
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #unterschiedregressionsgewichte #unterschiedregressionsgeraden #unterschiedregressionssteigungen #vergleichregressionsgeraden
+🔗 https://www.youtube.com/watch?v=Ei6n9SEXFvM"
+UCybzXlZh--K4XRs48s72tnw;3ni3oLlK5uY;2022-06-21T08:05:48Z;"📺 New #rstatsvideo: Hướng dẫn sử dụng RStudio bản cloud miễn phí
+▶ R stats
+🗣 🇻🇳
+#rstats #rstudio #rstudiocloud
+🔗 https://www.youtube.com/watch?v=3ni3oLlK5uY"
+UCyHEww8_SCdxZvEnkCfi55w;jwJZ8GoiPWE;2022-06-21T14:00:27Z;"📺 New #rstatsvideo: R Error: Argument is of Length Zero (Example) | How to Reproduce & Fix | if() Statement & Empty Data
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=jwJZ8GoiPWE"
+UCCaChdLMTYMxyawR_Qf-kYA;ZAXtHeALvQU;2022-06-21T14:33:01Z;"📺 New #rstatsvideo: ISLR: Linear Regression Part 3 (islr04 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ZAXtHeALvQU"
+UCMwM-3tg_-Pbx8hKO78q5EA;GdAooA0uijI;2022-06-21T14:34:10Z;"📺 New #rstatsvideo: NHS-R Webinar: Statistical Disclosure Control Methods via R for Statistical Publications, June 2022
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GdAooA0uijI"
+UC1ZIcF31fEzBO6akL_HHkBg;yldd8trFbaQ;2022-06-21T14:38:24Z;"📺 New #rstatsvideo: cloud: Resize data storage and share data with pins
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=yldd8trFbaQ"
+UCfJyQ3P2k_SuqfxVdqIEQNw;FY8BISK5DpM;2022-06-21T15:20:56Z;"📺 New #rstatsvideo: R programming for ABSOLUTE beginners
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=FY8BISK5DpM"
+UCg4rv97QEhN-2gvLhrGMgEw;QcyvHtJOR84;2022-06-21T17:57:44Z;"📺 New #rstatsvideo: Pacote ggannotate: Adicione anotações em gráficos com um click
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=QcyvHtJOR84"

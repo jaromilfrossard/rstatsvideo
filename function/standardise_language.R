@@ -13,6 +13,7 @@ standardise_language <- function(x){
     c("es","es-419","es-MX"),"es",
     c("fa"),"fa",
     c("hi"),"hi",
+    c("vi"),"vi",
     c("zxx"),NA_character_)
   
   x <- ifelse(is.na(x),NA_character_,x)
@@ -34,18 +35,19 @@ standardise_language <- function(x){
 
 language2emoji <- function(x){
   tb <- tribble(~lang,~emoji,
-                "fr","\U001F1EB\U001F1F7",
-                "en","\U001F1EC\U001F1E7",
                 "de","\U001F1E9\U001F1EA",
-                "pt","\U001F1F5\U001F1F9",
-                "tr","\U001F1F9\U001F1F7",
+                "es","\U001F1EA\U001F1F8",
+                "en","\U001F1EC\U001F1E7",
+                "fa","\U001F1EE\U001F1F7",
+                "fr","\U001F1EB\U001F1F7",
+                "hi","\U001F1EE\U001F1F3",
                 "it","\U001F1EE\U001F1F9",
                 "ko","\U001F1F0\U001F1F7",
+                "pt","\U001F1F5\U001F1F9",
                 "ru","\U001F1F7\U001F1FA",
-                "hi","\U001F1EE\U001F1F3",
-                "yo","Yoruba",
-                "es","\U001F1EA\U001F1F8",
-                "fa","\U001F1EE\U001F1F7")
+                "tr","\U001F1F9\U001F1F7",
+                "vi","\U001F1FB\U001F1F3",
+                "yo","Yoruba")
   
   
   x <- ifelse(is.na(x),NA_character_,x)
