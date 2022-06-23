@@ -11124,3 +11124,50 @@ UCg4rv97QEhN-2gvLhrGMgEw;QcyvHtJOR84;2022-06-21T17:57:44Z;"📺 New #rstatsvideo
 🗣 🇵🇹
 #rstats
 🔗 https://www.youtube.com/watch?v=QcyvHtJOR84"
+UC6LqpR5qBfNlQp5mVIVsthA;KFbDd87bIso;2022-06-22T12:00:21Z;"📺 New #rstatsvideo: Michael Thomas, Tutorial: Building Custom Bootstrap Cards with Shiny
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=KFbDd87bIso"
+UCyHEww8_SCdxZvEnkCfi55w;RqsZyEsI2ps;2022-06-22T14:00:28Z;"📺 New #rstatsvideo: Move ggplot2 Facet Plot Labels to the Bottom of Graph in R (Example) | facet_grid & switch Argument
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=RqsZyEsI2ps"
+UC5FvzLMVNrTMW-ycrW-4KyA;ChzJma__7pU;2022-06-22T15:21:22Z;"📺 New #rstatsvideo: RStudio 의 2022년 신기능 Quarto 공부하는 중
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #r프로그래밍 #데이터사이언스 #기초통계 #r강의 #수리통계 #대학통계 #tidyverse #데이터분석 #adp #혼공 #studywithme #공부자극
+🔗 https://www.youtube.com/watch?v=ChzJma__7pU"
+UC3xfbCMLCw1Hh4dWop3XtHg;BaQldCBZhCI;2022-06-22T16:01:00Z;"📺 New #rstatsvideo: Programming Games with Shiny || Roll the Dice: with Quosures! || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #dataviz #ggplot #technology #coding
+🔗 https://www.youtube.com/watch?v=BaQldCBZhCI"
+UCCaChdLMTYMxyawR_Qf-kYA;IjiqgpFVqcM;2022-06-22T16:01:32Z;"📺 New #rstatsvideo: JS4R: Your First Widget (js4r01 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=IjiqgpFVqcM"
+UCxB1IGhLzlEOikTL-aDwqFg;B3tfl1vku50;2022-06-22T17:39:28Z;"📺 New #rstatsvideo: [2022-05-20] How to make your personal website with R
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #github #fontawesome #git #gitcreds #personalwebsite #postcards #usethis
+🔗 https://www.youtube.com/watch?v=B3tfl1vku50"
+UC3xfbCMLCw1Hh4dWop3XtHg;Ino-SzgNHR4;2022-06-22T19:03:44Z;"📺 New #rstatsvideo: Jake Riley | Translating Facts to Insights at Children's Hospital of Philadelphia
+▶ RStudio (@rstudio)
+#rstats
+🔗 https://www.youtube.com/watch?v=Ino-SzgNHR4"
+UC93s4srvbDK8B9sPskLErfw;eflTq5oU590;2022-06-22T19:48:09Z;"📺 New #rstatsvideo: Load CSV File in R - Step by Step Guide
+▶ Daniel Bonneau
+🗣 🇬🇧
+#rstats #rloadcsv #readcsvrstudio #readcsv
+🔗 https://www.youtube.com/watch?v=eflTq5oU590"
+UCg6kociUghEgKz_hLRKQrMQ;ZcUPQidxCRg;2022-06-23T00:32:12Z;"📺 New #rstatsvideo: Como realizar SCREENSHOT de paginas web en R
+▶ R Data Science School
+#rstats #wondersharefilmora
+🔗 https://www.youtube.com/watch?v=ZcUPQidxCRg"
+UCTXuqtCYxPVEehq6fJY9GkA;cpbmQRsIutc;2022-06-23T00:47:09Z;"📺 New #rstatsvideo: Aprendendo a usar o quarto
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=cpbmQRsIutc"

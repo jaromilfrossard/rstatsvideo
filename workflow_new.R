@@ -71,7 +71,7 @@ validate_new_videos()#6aJMGdCxbgA
 ## check date after 9 june, 1 AM
 # tuber::get_video_details("6aJMGdCxbgA")
 
-videos <- choose_videos(max_tweet = 3)%>%
+videos <- choose_videos(max_tweet = 4)%>%
   filter(!id_video%in%c("2Qlai2jFEVs"))
 #videos <- videos%>%filter(new_video)
 
