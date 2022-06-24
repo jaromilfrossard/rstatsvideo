@@ -11171,3 +11171,72 @@ UCTXuqtCYxPVEehq6fJY9GkA;cpbmQRsIutc;2022-06-23T00:47:09Z;"📺 New #rstatsvideo
 ▶ Curso-R (@curso_r)
 #rstats
 🔗 https://www.youtube.com/watch?v=cpbmQRsIutc"
+UCybzXlZh--K4XRs48s72tnw;Yp2KzRKFPHA;2022-06-23T07:13:53Z;"📺 New #rstatsvideo: Mở số liệu bằng RStudio không cần dùng code
+▶ R stats
+🗣 🇻🇳
+#rstats #rprogramminglanguage #rstudio #spss #statistics #research #medicalresearch #phântíchsốliệu #dataanalysis
+🔗 https://www.youtube.com/watch?v=Yp2KzRKFPHA"
+UC6LqpR5qBfNlQp5mVIVsthA;wDGEdiyDKac;2022-06-23T12:30:32Z;"📺 New #rstatsvideo: Bryce Chamberlain: Easier Highcharting with hcslim
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wDGEdiyDKac"
+UCyHEww8_SCdxZvEnkCfi55w;Rbi76wLtTaI;2022-06-23T14:00:14Z;"📺 New #rstatsvideo: Change Default Time Zone in R (2 Examples) | Sys.timezone() & Sys.setenv() Functions | CEST to GMT
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Rbi76wLtTaI"
+UCCaChdLMTYMxyawR_Qf-kYA;wg2QZ3rMIqM;2022-06-23T15:48:34Z;"📺 New #rstatsvideo: Advanced R: Control flow (advr06 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wg2QZ3rMIqM"
+UCnYkdhuQljgCnGNpCZpPfVA;encG_zahMhI;2022-06-23T15:54:18Z;"📺 New #rstatsvideo: P-value in R
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=encG_zahMhI"
+UCGuktEl5InrcxPfCjmPWxsA;Yebe0IcBFh0;2022-06-23T16:00:18Z;"📺 New #rstatsvideo: Demonstrating climate change using the ggplot2 R package to create a tornado plot (CC224)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #climatechangeggplot2r #ggplot2geomsegment #geomsegmentr #geomsegment
+🔗 https://www.youtube.com/watch?v=Yebe0IcBFh0"
+UCBsXfUO__nzMnlaLLUx7DFQ;nqVo0gau7RU;2022-06-23T21:45:05Z;"📺 New #rstatsvideo: Naming things in R be like #shorts
+▶ Probability!
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=nqVo0gau7RU"
+UCCaChdLMTYMxyawR_Qf-kYA;qbogIs0-BBo;2022-06-23T21:46:21Z;"📺 New #rstatsvideo: R Packages: Testing Part 1 (rpkgs03 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=qbogIs0-BBo"
+UCxB1IGhLzlEOikTL-aDwqFg;9LUCZAx3SlU;2022-06-23T23:14:58Z;"📺 New #rstatsvideo: [2022-05-20] How to make your personal website with R
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #git #github #usethis #gitcreds #postcards #fontawesome #personalwebsite
+🔗 https://www.youtube.com/watch?v=9LUCZAx3SlU"
+UCxB1IGhLzlEOikTL-aDwqFg;-aQRghyRSaU;2022-06-23T23:19:33Z;"📺 New #rstatsvideo: [2022-06-17] Using patchwork to create multipanel figures
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #patchwork #multipanelfigure #ggplot2
+🔗 https://www.youtube.com/watch?v=-aQRghyRSaU"
+UCxB1IGhLzlEOikTL-aDwqFg;2Q3Ye6yoAeA;2022-06-23T23:19:51Z;"📺 New #rstatsvideo: [2022-05-27] How to find candidate TREGs in snRNA-seq, including filtering & Rank Invariance steps
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #bioconductor #deconvolution #snrnaseq #rnascope
+🔗 https://www.youtube.com/watch?v=2Q3Ye6yoAeA"
+UCxB1IGhLzlEOikTL-aDwqFg;JEaNhUq_8rA;2022-06-23T23:19:59Z;"📺 New #rstatsvideo: [2022-06-03] How to use STRINGdb and igraph to run protein-protein interaction network enrichment
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #igraph #stringdb
+🔗 https://www.youtube.com/watch?v=JEaNhUq_8rA"
+UCC0n35R84-ufqPstR1YtCxA;EbdDpk6j2go;2022-06-23T23:54:06Z;"📺 New #rstatsvideo: [Arabic] Overlay heatmap on image / map
+▶ Stat Pharm
+#rstats
+🔗 https://www.youtube.com/watch?v=EbdDpk6j2go"
+UC93s4srvbDK8B9sPskLErfw;KBErorVelwk;2022-06-24T03:25:19Z;"📺 New #rstatsvideo: Convert to Date in R - Character Strings to Date Format
+▶ Daniel Bonneau
+🗣 🇬🇧
+#rstats #convertdateinr #workingwithdatesinr #lubridate
+🔗 https://www.youtube.com/watch?v=KBErorVelwk"
