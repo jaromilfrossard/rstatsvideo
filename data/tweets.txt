@@ -11240,3 +11240,47 @@ UC93s4srvbDK8B9sPskLErfw;KBErorVelwk;2022-06-24T03:25:19Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #convertdateinr #workingwithdatesinr #lubridate
 🔗 https://www.youtube.com/watch?v=KBErorVelwk"
+UCtuMKU3a96iqTe1b7JNfhDw;SgILzKKKTj8;2022-06-24T10:20:37Z;"📺 New #rstatsvideo: Package development and publishing in R | توسعه و انتشار پکیج در R
+▶ R-Ladies Urmia (@RLadiesUrmia)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=SgILzKKKTj8"
+UCCaChdLMTYMxyawR_Qf-kYA;idZ3XFP_ikM;2022-06-24T11:54:06Z;"📺 New #rstatsvideo: ISLR: Unsupervised Learning Part 2 (islr02 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=idZ3XFP_ikM"
+UCCaChdLMTYMxyawR_Qf-kYA;bRwmyUbario;2022-06-24T11:54:52Z;"📺 New #rstatsvideo: R for Data Science: Vectors (r4ds06 20)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=bRwmyUbario"
+UCyHEww8_SCdxZvEnkCfi55w;UDfw2nrvSl4;2022-06-24T14:00:28Z;"📺 New #rstatsvideo: Create List with Single Value in R (Example) | How to Apply the list() Function | Only One Element
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=UDfw2nrvSl4"
+UC93s4srvbDK8B9sPskLErfw;ZStYM-LkFbk;2022-06-24T14:42:37Z;"📺 New #rstatsvideo: gsub Function in R - Converting Revenue Data to Numeric
+▶ Daniel Bonneau
+🗣 🇬🇧
+#rstats #asnumericinr #gsubfunctioninr #revenuedatainr #cleaningdatawithr
+🔗 https://www.youtube.com/watch?v=ZStYM-LkFbk"
+UCxB1IGhLzlEOikTL-aDwqFg;eNUSreI77aA;2022-06-24T16:25:58Z;"📺 New #rstatsvideo: [2022-06-24] Introduction to AnnData for SummarizedExperiment users
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #anndata #bioconductor #python #summarizedexperiment #zellkonverter
+🔗 https://www.youtube.com/watch?v=eNUSreI77aA"
+UCg4rv97QEhN-2gvLhrGMgEw;2RE38wLJ9_k;2022-06-24T17:44:44Z;"📺 New #rstatsvideo: Pacote ggannotate no R: Adicione anotações em gráficos com um click
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=2RE38wLJ9_k"
+UCyHEww8_SCdxZvEnkCfi55w;YAUIWcxku8s;2022-06-25T14:00:30Z;"📺 New #rstatsvideo: Draw Plot with Circle in R (3 Examples) | Base R & plotrix Package vs. ggplot2 & ggforce Packages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=YAUIWcxku8s"
+UCP8l94xtoemCH_GxByvTuFQ;zDrOzGI4mas;2022-06-26T07:00:17Z;"📺 New #rstatsvideo: TidyX Episode 108 | R Classes and Objects - Lists,  Part 2
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=zDrOzGI4mas"
