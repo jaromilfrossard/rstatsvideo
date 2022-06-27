@@ -66,6 +66,7 @@ validate_new_channels()
 walk(tb_channel$id_channel, update_channel_video)
 
 
+
 validate_new_videos()#6aJMGdCxbgA
 
 ## check date after 9 june, 1 AM

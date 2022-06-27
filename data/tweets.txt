@@ -11284,3 +11284,32 @@ UCP8l94xtoemCH_GxByvTuFQ;zDrOzGI4mas;2022-06-26T07:00:17Z;"📺 New #rstatsvideo
 ▶ TidyX (@tidy_explained)
 #rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
 🔗 https://www.youtube.com/watch?v=zDrOzGI4mas"
+UCyHEww8_SCdxZvEnkCfi55w;ZTEDiHswxZ0;2022-06-26T14:00:12Z;"📺 New #rstatsvideo: Create List of Matrices in R (Example) | How to Combine Multiple Matrix Objects | list() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=ZTEDiHswxZ0"
+UCPfMGYxAOm39sO8nuEMB96Q;bJ-3wYLUoKE;2022-06-26T15:18:00Z;"📺 New #rstatsvideo: Cómo copiar y pegar datos del Internet en RStudio
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #cómocopiarypegardatosdelinternetenrstudio #cómocopiarypegardatosdelinternetenr
+🔗 https://www.youtube.com/watch?v=bJ-3wYLUoKE"
+UCyZCfIET7753bs5WpmKI_qQ;6y_YmipFvxU;2022-06-26T19:34:32Z;"📺 New #rstatsvideo: Tutorial R | Ajuste de hiper parâmetros e manter variáveis originais em PCA
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=6y_YmipFvxU"
+UCWPCd6tPtoLJYzQQ681pe5Q;A2-Ti-c6w8c;2022-06-26T21:00:07Z;"📺 New #rstatsvideo: How to run SAS, Python, & R code from within RStudio (How to configure saspy on Windows for R users)
+▶ ggnot
+🗣 🇬🇧
+#rstats #saspy #sas #rstudio #python #rprogramming #ggnot #ggnot2 #reticulate #sasandr
+🔗 https://www.youtube.com/watch?v=A2-Ti-c6w8c"
+UCo0s7d_ZTrEIfjOhHC_aCGg;Icxpw6R3aiY;2022-06-27T04:06:57Z;"📺 New #rstatsvideo: Introducción a RMarkdown - R & Python | Ana Vargas
+▶ R-Ladies Lima (@RLadiesLima)
+🗣 🇪🇸
+#rstats #rmarkdown
+🔗 https://www.youtube.com/watch?v=Icxpw6R3aiY"
+UCISHpKq_20peU3G1xwtXjjQ;LIzjlgnaFgk;2022-06-27T06:13:22Z;"📺 New #rstatsvideo: Introduction to Image Processing in R (magick package)
+▶ Samer Hijjazi
+#rstats #imagemagick #magick #rprogramming #rpackage #rtuturial #imageediting #dataanalysis #datascience
+🔗 https://www.youtube.com/watch?v=LIzjlgnaFgk"

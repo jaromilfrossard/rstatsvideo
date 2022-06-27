@@ -65,7 +65,7 @@ UCAu9zxmEgQdWYkl84BiziSQ;Eskisehir R User Group;eskisehiR_users
 UC5w9xVTs77__zlEeRRQILpw;Federica Gazzelloni;FGazzelloni
 UCJamxO-DE27EEZtWrNG34mA;Futbol AnalysR;futbolanalysr
 UCXuX-kQ1TbKHWeB75NgmhlA;Genomics Boot Camp;GaborM_ABG
-UCWPCd6tPtoLJYzQQ681pe5Q;ggnot;
+UCWPCd6tPtoLJYzQQ681pe5Q;ggnot2;
 UCJ04koR_DOtHh9SywevkEWg;ggplot2tor;ChBurkhart
 UCHIlDVeRUk3BAh4XEphxVFA;gisela soledispa lucas;
 UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham;hadleywickham
