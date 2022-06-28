@@ -11313,3 +11313,39 @@ UCISHpKq_20peU3G1xwtXjjQ;LIzjlgnaFgk;2022-06-27T06:13:22Z;"📺 New #rstatsvideo
 ▶ Samer Hijjazi
 #rstats #imagemagick #magick #rprogramming #rpackage #rtuturial #imageediting #dataanalysis #datascience
 🔗 https://www.youtube.com/watch?v=LIzjlgnaFgk"
+UCdFC653IaBVC5kwj7CGo2sQ;4-6jDDCADvU;2022-06-27T12:57:36Z;"📺 New #rstatsvideo: How to build an interactive point-and-click game with {Shiny}
+▶ RappA (@rappa753)
+#rstats
+🔗 https://www.youtube.com/watch?v=4-6jDDCADvU"
+UC6LqpR5qBfNlQp5mVIVsthA;vbcGbd3ExLw;2022-06-27T13:00:11Z;"📺 New #rstatsvideo: Jacqueline Nolis, KEYNOTE: How Shiny taught me web development
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vbcGbd3ExLw"
+UCyHEww8_SCdxZvEnkCfi55w;M-mC9KDhJK8;2022-06-27T14:00:09Z;"📺 New #rstatsvideo: Calculate Cartesian Product in R (2 Examples) | expand.grid() & crossing() Functions | tidyr Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=M-mC9KDhJK8"
+UCQ7DcXWJm3es06U7lGmBDkw;JMKWiBglws4;2022-06-27T15:07:13Z;"📺 New #rstatsvideo: Academic Hive Intro to Data Viz in R
+▶ R Ladies STL (@RLadiesSTL)
+#rstats
+🔗 https://www.youtube.com/watch?v=JMKWiBglws4"
+UCGuktEl5InrcxPfCjmPWxsA;DrNQMaIVEVo;2022-06-27T16:00:05Z;"📺 New #rstatsvideo: Programming a line plot in R to show climate change with and without animation (CC225)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rprogrammingclimatechange #rprogramminganalysis #rstudioenvironment
+🔗 https://www.youtube.com/watch?v=DrNQMaIVEVo"
+UCZ2KQdo1-FhNRtEBYxai5Aw;2eJ6xVCaG0c;2022-06-27T16:11:03Z;"📺 New #rstatsvideo: Using Standards and Cloud Computing to Create and Analyze Forecasts
+▶ Ecological Forecasting (@eco4cast)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2eJ6xVCaG0c"
+UCdFC653IaBVC5kwj7CGo2sQ;p4W_ey9sHlY;2022-06-27T18:21:27Z;"📺 New #rstatsvideo: Extracting spatial data from OpenStreetMap
+▶ RappA (@rappa753)
+#rstats
+🔗 https://www.youtube.com/watch?v=p4W_ey9sHlY"
+UCg6kociUghEgKz_hLRKQrMQ;umL5Ir8Bj6w;2022-06-27T23:23:04Z;"📺 New #rstatsvideo: View: Como ver tus datos como excel dentro de Rstudio
+▶ R Data Science School
+#rstats #wondersharefilmora
+🔗 https://www.youtube.com/watch?v=umL5Ir8Bj6w"
