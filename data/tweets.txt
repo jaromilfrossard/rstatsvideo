@@ -11349,3 +11349,28 @@ UCg6kociUghEgKz_hLRKQrMQ;umL5Ir8Bj6w;2022-06-27T23:23:04Z;"📺 New #rstatsvideo
 ▶ R Data Science School
 #rstats #wondersharefilmora
 🔗 https://www.youtube.com/watch?v=umL5Ir8Bj6w"
+UC6LqpR5qBfNlQp5mVIVsthA;q0NvDgWtHNE;2022-06-28T12:00:28Z;"📺 New #rstatsvideo: Filip Akkad: React Frontend for Shiny Applications
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=q0NvDgWtHNE"
+UCyHEww8_SCdxZvEnkCfi55w;mxnCHigerY4;2022-06-28T14:00:30Z;"📺 New #rstatsvideo: Create Matrix of Lists in R (Example) | Merge Multiple List Objects | matrix() & list() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=mxnCHigerY4"
+UCg4rv97QEhN-2gvLhrGMgEw;aYS-Aw9ZdfI;2022-06-28T20:40:51Z;"📺 New #rstatsvideo: Teste Q de Cochran: Entendendo o teste não paramétrico
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=aYS-Aw9ZdfI"
+UC93s4srvbDK8B9sPskLErfw;j7SqaJv-i8k;2022-06-28T22:02:13Z;"📺 New #rstatsvideo: Arrange in R - Sort a Dataframe by a Column in R
+▶ Daniel Bonneau
+🗣 🇬🇧
+#rstats #arrangeinr #sortadataframebyacolumninr #dplyrarrange #rarrange
+🔗 https://www.youtube.com/watch?v=j7SqaJv-i8k"
+UCFT7Tgi7UAzR-eyzjoxBzxA;2sTr7Bgx0MQ;2022-06-29T09:11:23Z;"📺 New #rstatsvideo: Meetup Junio 2022: Pruebas Estadísticas en R: X2, t y ANOVA
+▶ RLadies Cuernavaca (@RLadiesCuerna)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=2sTr7Bgx0MQ"
