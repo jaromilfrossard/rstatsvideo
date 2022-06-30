@@ -11374,3 +11374,26 @@ UCFT7Tgi7UAzR-eyzjoxBzxA;2sTr7Bgx0MQ;2022-06-29T09:11:23Z;"📺 New #rstatsvideo
 🗣 🇪🇸
 #rstats
 🔗 https://www.youtube.com/watch?v=2sTr7Bgx0MQ"
+UCXuX-kQ1TbKHWeB75NgmhlA;fLFF8yPMuuI;2022-06-29T12:00:22Z;"📺 New #rstatsvideo: Genomic prediction: an interactive tutorial
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #genetics #genomics #genomicselection #genomicselectioninplantbreeding #genomicselectiontutorial #genomicprediction
+🔗 https://www.youtube.com/watch?v=fLFF8yPMuuI"
+UCyHEww8_SCdxZvEnkCfi55w;vgV2fw7wQTQ;2022-06-29T14:00:36Z;"📺 New #rstatsvideo: State Name & Abbreviation in R (2 Examples) | grep() Function | state.abb & state.name Data Objects
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=vgV2fw7wQTQ"
+UCyf1AvRK4gmfRUJjeBNMauA;P7T5haMRYwk;2022-06-29T22:00:20Z;"📺 New #rstatsvideo: Introduction to R Shiny by Anna Skrzydło | Tunis R User Group
+▶ Tunis R User Group (@TunisRUserGroup)
+🗣 🇬🇧
+#rstats #rhiny #shiny #dataviz #datavisualization #data #programming #web #applications #interactive
+🔗 https://www.youtube.com/watch?v=P7T5haMRYwk"
+UCrmJdnPmle514qkK3lLOsVQ;az9DH6-sX4A;2022-06-29T22:03:31Z;"📺 New #rstatsvideo: #R | vistributions: visualize Probability Distributions | #ProbabilityDistributions #RPackage
+▶ RJ Studio
+#rstats #vistributions #vistribution #vistributionr #visualizedistributionr #확률분보r #통계분포r
+🔗 https://www.youtube.com/watch?v=az9DH6-sX4A"
+UCISHpKq_20peU3G1xwtXjjQ;nlsWjezvsg8;2022-06-30T06:05:52Z;"📺 New #rstatsvideo: Extract Tables From PDF Files Using R (tabulizer package) - Setup & Installation
+▶ Samer Hijjazi
+#rstats #rprogramming #datascience #dataanalytics #rlanguage #pdffiles #pdftables #tabulizer #rpackage
+🔗 https://www.youtube.com/watch?v=nlsWjezvsg8"
