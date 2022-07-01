@@ -11397,3 +11397,53 @@ UCISHpKq_20peU3G1xwtXjjQ;nlsWjezvsg8;2022-06-30T06:05:52Z;"📺 New #rstatsvideo
 ▶ Samer Hijjazi
 #rstats #rprogramming #datascience #dataanalytics #rlanguage #pdffiles #pdftables #tabulizer #rpackage
 🔗 https://www.youtube.com/watch?v=nlsWjezvsg8"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;l9oAjlvsd_c;2022-06-30T09:48:39Z;"📺 New #rstatsvideo: Creating histogram in R programming- Made easy
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=l9oAjlvsd_c"
+UCyHEww8_SCdxZvEnkCfi55w;NT83YlQMMcA;2022-06-30T14:00:18Z;"📺 New #rstatsvideo: Calculate Multiple Summary Statistics by Group in One Call | aggregate() | Base R & dplyr Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=NT83YlQMMcA"
+UCGuktEl5InrcxPfCjmPWxsA;kU4O1LXdz2Y;2022-06-30T16:00:22Z;"📺 New #rstatsvideo: How to create a ridgeline plot in R with ggridges in RStudio (CC226)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rridgelineplot #ggridges #ggplot2ridgelineplot #rstudioridgelineplot #rjoyplot #joyplot
+🔗 https://www.youtube.com/watch?v=kU4O1LXdz2Y"
+UCfJyQ3P2k_SuqfxVdqIEQNw;26US5GD_6-s;2022-06-30T17:00:33Z;"📺 New #rstatsvideo: Working with factors and categorical variables. Use forcats in R programming to change factor levels
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=26US5GD_6-s"
+UCMdihazndR0f9XBoSXWqnYg;IyIy0lZYKRo;2022-06-30T17:06:14Z;"📺 New #rstatsvideo: R & Python - Cluster Analysis
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing #modeling
+🔗 https://www.youtube.com/watch?v=IyIy0lZYKRo"
+UCCaChdLMTYMxyawR_Qf-kYA;gp7wDqBI9bk;2022-06-30T17:17:05Z;"📺 New #rstatsvideo: Modelado Tidy con R - Extra. Ejemplo de Workflow (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=gp7wDqBI9bk"
+UCCaChdLMTYMxyawR_Qf-kYA;fUI2PnmhNzw;2022-06-30T17:18:20Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: User feedback (mshiny03 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=fUI2PnmhNzw"
+UCdFC653IaBVC5kwj7CGo2sQ;ErRX8plZpQE;2022-06-30T17:36:25Z;"📺 New #rstatsvideo: How to style your Quarto blog without knowing a lot of HTML/CSS
+▶ RappA (@rappa753)
+#rstats
+🔗 https://www.youtube.com/watch?v=ErRX8plZpQE"
+UCBsXfUO__nzMnlaLLUx7DFQ;wMzCdwaXvdI;2022-06-30T22:29:56Z;"📺 New #rstatsvideo: Simulations: Birth-death Markov Processes
+▶ Probability!
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wMzCdwaXvdI"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;KsBXHRbXAwA;2022-06-30T23:31:21Z;"📺 New #rstatsvideo: Histogram of numbers generated from a random distribution
+▶ Patrick Mensah (@patmensa39)
+#rstats #rprogramming
+🔗 https://www.youtube.com/watch?v=KsBXHRbXAwA"
+UCTTBgWyJl2HrrhQOOc710kA;qu2wsbIeedY;2022-07-01T00:11:59Z;"📺 New #rstatsvideo: Understand the gender pay gap three ways
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=qu2wsbIeedY"
