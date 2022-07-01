@@ -92,6 +92,7 @@ UCCigEL4N49pgIGszAz_v7Uw;Julian Righ Sampedro;JRigh
 UCTTBgWyJl2HrrhQOOc710kA;Julia Silge;juliasilge
 UCPUL4sOelS0f3Q-u7Ld29Ew;Kyle Analytics;
 UCmBDds7HAhpG6ZUj9FC2s9Q;Lacey Maths & Stats Consultancy;seanwithafada
+UCvoAaXbImj95zwgdguxbrPA;LajeunesseLab;LajeunesseLab
 UC2-hKemnrmVCH_29duyJ26A;Lander Analytics;LanderAnalytics
 UCt950nC6jlh2ELDRPigWOkg;LatinR;LatinR_Conf
 UCU5ZiUm-OLbVGW7NP0e-eFQ;Learn RStats;
