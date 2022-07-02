@@ -11447,3 +11447,32 @@ UCTTBgWyJl2HrrhQOOc710kA;qu2wsbIeedY;2022-07-01T00:11:59Z;"📺 New #rstatsvideo
 ▶ Julia Silge (@juliasilge)
 #rstats
 🔗 https://www.youtube.com/watch?v=qu2wsbIeedY"
+UCCaChdLMTYMxyawR_Qf-kYA;tIifL-FfRV4;2022-07-01T13:26:57Z;"📺 New #rstatsvideo: ISLR: Multiple Testing (islr02 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=tIifL-FfRV4"
+UCCaChdLMTYMxyawR_Qf-kYA;uhpWtSnCXJM;2022-07-01T13:28:41Z;"📺 New #rstatsvideo: R Packages: Testing Part 2 (rpkgs03 14)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=uhpWtSnCXJM"
+UCCaChdLMTYMxyawR_Qf-kYA;NVUHFpYUmA4;2022-07-01T13:49:32Z;"📺 New #rstatsvideo: R for Data Science: Iteration Part 1 (r4ds06 21)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=NVUHFpYUmA4"
+UCyHEww8_SCdxZvEnkCfi55w;u2qM6A7UTiQ;2022-07-01T14:00:26Z;"📺 New #rstatsvideo: Change Continuous Color Range in ggplot2 Plot in R (Example) | Adjust Palette | colorRampPalette()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=u2qM6A7UTiQ"
+UCvoQhepa71X9UclThhYbX6Q;2hxhrCLBJ_Q;2022-07-01T18:35:37Z;"📺 New #rstatsvideo: Logistic Regression in R
+▶ Data Specs (@DomnickKonde)
+#rstats
+🔗 https://www.youtube.com/watch?v=2hxhrCLBJ_Q"
+UCg4rv97QEhN-2gvLhrGMgEw;TsPyns6AncI;2022-07-01T21:11:29Z;"📺 New #rstatsvideo: Teste Q de Cochran no R
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=TsPyns6AncI"
