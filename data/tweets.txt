@@ -11476,3 +11476,31 @@ UCg4rv97QEhN-2gvLhrGMgEw;TsPyns6AncI;2022-07-01T21:11:29Z;"📺 New #rstatsvideo
 🗣 🇵🇹
 #rstats
 🔗 https://www.youtube.com/watch?v=TsPyns6AncI"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;lTnWVae6sR0;2022-07-02T11:00:56Z;"📺 New #rstatsvideo: How to overlay a histogram with a smooth density function
+▶ Patrick Mensah (@patmensa39)
+#rstats #rprogramming #descriptivestatistics #dataanalytics #r
+🔗 https://www.youtube.com/watch?v=lTnWVae6sR0"
+UCyHEww8_SCdxZvEnkCfi55w;1q9s1hklIWg;2022-07-02T14:00:02Z;"📺 New #rstatsvideo: Change Labels of Continuous ggplot2 Legend in R (Example) | Replace Numbers | scale_color_continuous
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=1q9s1hklIWg"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;SvszjCRKqyc;2022-07-02T15:26:53Z;"📺 New #rstatsvideo: Density estimation for continuous variables
+▶ Patrick Mensah (@patmensa39)
+#rstats #rprogramming #datascience #descriptivestatistics
+🔗 https://www.youtube.com/watch?v=SvszjCRKqyc"
+UCCaChdLMTYMxyawR_Qf-kYA;IFv8OmMcfck;2022-07-02T17:30:58Z;"📺 New #rstatsvideo: FPP: Time series decomposition (fpp01 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=IFv8OmMcfck"
+UCCaChdLMTYMxyawR_Qf-kYA;JFBROPy_BeU;2022-07-02T17:32:04Z;"📺 New #rstatsvideo: ggplot2: ggplot2 internals Part 2 (ggplot2_01 20)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=JFBROPy_BeU"
+UCCaChdLMTYMxyawR_Qf-kYA;YjY8YQNh9J0;2022-07-02T17:32:40Z;"📺 New #rstatsvideo: JS4R: A Realistic Widget (js4r01 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=YjY8YQNh9J0"
