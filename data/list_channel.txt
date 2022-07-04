@@ -216,6 +216,7 @@ UCOdX7FBvpMPknrC6gtm0y_w;Southern California R Users Group;oc_rug
 UCrB-uourf2vxGeBnGjQrA0w;STAT 545;STAT545
 UCC0n35R84-ufqPstR1YtCxA;Stat Pharm;
 UCg4rv97QEhN-2gvLhrGMgEw;Statplace;Statplace1
+UCfu2GCdjq50W-kL-cv3rcLw;Statistics & Theory;VahidAryadoust
 UCXgpDUq8cVyEj3ZbZcKtkbA;Statistical Learning Group;
 UCs7EU95YMjhvNozJKCD92xQ;Statistics for Sustainable Development (Stats4SD);Stats4SD
 UCyHEww8_SCdxZvEnkCfi55w;Statistics Globe;JoachimSchork
