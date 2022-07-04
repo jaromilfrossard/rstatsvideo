@@ -11504,3 +11504,29 @@ UCCaChdLMTYMxyawR_Qf-kYA;YjY8YQNh9J0;2022-07-02T17:32:40Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=YjY8YQNh9J0"
+UCrmJdnPmle514qkK3lLOsVQ;fkdgVOm_wr4;2022-07-02T20:25:20Z;"📺 New #rstatsvideo: #R | Re-Ordering Factors: fct_reorder(), fct_infreq(), fct_rev() | #tidyverse #RforDataScience
+▶ RJ Studio
+#rstats #factorreorder #factorreorderr #fctreorder #fctinfreq #fctrev #facreorder #재정렬r
+🔗 https://www.youtube.com/watch?v=fkdgVOm_wr4"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;8gDt6eWUM9k;2022-07-03T09:39:10Z;"📺 New #rstatsvideo: Introduction to dataframes
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=8gDt6eWUM9k"
+UCyHEww8_SCdxZvEnkCfi55w;ic_daFntXgo;2022-07-03T14:00:30Z;"📺 New #rstatsvideo: Draw Normal, Left & Right Skewed Distributions (2 Examples) | ggplot2 Density Plot | tidyr Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #rprogramming
+🔗 https://www.youtube.com/watch?v=ic_daFntXgo"
+UCP8l94xtoemCH_GxByvTuFQ;k9PGOx9Oqjo;2022-07-03T16:30:04Z;"📺 New #rstatsvideo: TidyX Episode 109 | R Classes and Objects - Making an S3 Object,  Part 1
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown
+🔗 https://www.youtube.com/watch?v=k9PGOx9Oqjo"
+UCPfMGYxAOm39sO8nuEMB96Q;OWJ8e7UqElA;2022-07-03T17:58:11Z;"📺 New #rstatsvideo: Cómo analizar preguntas de Múltiple Respuesta en RStudio
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #cómoanalizarpreguntasdemúltiplerespuestaenrstudio #cómoanalizarpreguntasdemúltiplerespuestaenr
+🔗 https://www.youtube.com/watch?v=OWJ8e7UqElA"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;c7sEDbBpoC8;2022-07-03T22:11:08Z;"📺 New #rstatsvideo: Scatterplot in R programming- Made easy
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=c7sEDbBpoC8"
