@@ -11530,3 +11530,41 @@ UCu3UVZ1mLOYdsrrrnjjs8Pg;c7sEDbBpoC8;2022-07-03T22:11:08Z;"📺 New #rstatsvideo
 ▶ Patrick Mensah (@patmensa39)
 #rstats
 🔗 https://www.youtube.com/watch?v=c7sEDbBpoC8"
+UCcGXGFClRdnrwXsPHi7P4ZA;iMh9tPsuiik;2022-07-04T09:01:42Z;"📺 New #rstatsvideo: R package reviews | report | Report Statistical Results of Tests, Models, Data!
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #machinelearning #clearlyexplained #datascience #dataanalysis #forbeginners #stats
+🔗 https://www.youtube.com/watch?v=iMh9tPsuiik"
+UCfu2GCdjq50W-kL-cv3rcLw;_kmsrUkzJ5s;2022-07-04T12:12:26Z;"📺 New #rstatsvideo: Creating Boxplots in RStudio | ggplot library
+▶ Statistics & Theory (@VahidAryadoust)
+🗣 🇬🇧
+#rstats #rstudio #boxplot #ggplotlibrary #github #jitter #concatenation
+🔗 https://www.youtube.com/watch?v=_kmsrUkzJ5s"
+UCyHEww8_SCdxZvEnkCfi55w;MVyRXF3j_JE;2022-07-04T14:00:09Z;"📺 New #rstatsvideo: Add Standard Error Bars to Barchart (2 Examples) | Draw Barplot in Base R & ggplot2 | stat_summary()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=MVyRXF3j_JE"
+UCCaChdLMTYMxyawR_Qf-kYA;2TgtJXNrk_c;2022-07-04T15:54:27Z;"📺 New #rstatsvideo: Final Discussions and Q&A (tmwr04 final)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2TgtJXNrk_c"
+UCmBDds7HAhpG6ZUj9FC2s9Q;MbssBWlNzy4;2022-07-04T17:00:14Z;"📺 New #rstatsvideo: Spaghetti plots in ggplot2
+▶ Lacey Maths & Stats Consultancy (@seanwithafada)
+#rstats #goodpracticeinstatisticalanalysis #ggplot2 #spahettiplot #laceymathsstats #lineplot #spaghettiplots #spaghetti
+🔗 https://www.youtube.com/watch?v=MbssBWlNzy4"
+UC93s4srvbDK8B9sPskLErfw;EKmB2SCm3j4;2022-07-04T17:27:13Z;"📺 New #rstatsvideo: Reshape Wide to Long in R - How to Use pivot_longer
+▶ Daniel Bonneau
+🗣 🇬🇧
+#rstats #reshapedatainr #reshapewidetolonginr #pivotlonger
+🔗 https://www.youtube.com/watch?v=EKmB2SCm3j4"
+UC5FvzLMVNrTMW-ycrW-4KyA;dvUI31Tyr6o;2022-07-04T23:00:13Z;"📺 New #rstatsvideo: 엑셀, 구글 스프레드시트 정보를 초스피드 데이터 프레임으로 전환하는 방법
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=dvUI31Tyr6o"
+UCqQ_cxcNu1ekqHXDc-MbU_w;pZ3vqzaE7lk;2022-07-05T10:00:33Z;"📺 New #rstatsvideo: modelDown: Automate Explainable AI & ML in R
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=pZ3vqzaE7lk"

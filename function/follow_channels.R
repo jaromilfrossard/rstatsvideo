@@ -30,6 +30,6 @@ follow_channels <- function( file_channel = "data/list_channel.txt",silent=TRUE)
   
   walk(new_following,\(x){
     if(!silent){message(x)}
-    post_follow(x)})
+    try(post_follow(x))})
   
 }
