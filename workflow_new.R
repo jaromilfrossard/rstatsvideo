@@ -41,7 +41,7 @@ source("youtube_oauth.R")
 
 
 
-gert::git_pull()
+# gert::git_pull()
 
 tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
                                 col_types = cols(

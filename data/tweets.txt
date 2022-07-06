@@ -11568,3 +11568,48 @@ UCqQ_cxcNu1ekqHXDc-MbU_w;pZ3vqzaE7lk;2022-07-05T10:00:33Z;"📺 New #rstatsvideo
 ▶ Business Science (@bizScienc)
 #rstats
 🔗 https://www.youtube.com/watch?v=pZ3vqzaE7lk"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;ewblhNYHWRU;2022-07-05T10:39:52Z;"📺 New #rstatsvideo: Subscripts and Indices of dataframes
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=ewblhNYHWRU"
+UCjXQyxs1iyEg5v98fezgT0w;cmXwSDZPQhQ;2022-07-05T12:00:16Z;"📺 New #rstatsvideo: Serial Mediation in R with PROCESS (Model 6)
+▶ Regorz Statistik
+🗣 🇬🇧
+#rstats #processmodel6 #procesmodel6 #processmodell6
+🔗 https://www.youtube.com/watch?v=cmXwSDZPQhQ"
+UCyHEww8_SCdxZvEnkCfi55w;DLn-gs626Ts;2022-07-05T14:00:12Z;"📺 New #rstatsvideo: Align Text to Line in ggplot2 Plot in R (Example) | geom_vline & annotate | Vertical & Horizontal
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=DLn-gs626Ts"
+UCGuktEl5InrcxPfCjmPWxsA;W1QH83twaak;2022-07-05T16:00:15Z;"📺 New #rstatsvideo: Creating a raster map of global climate change in R with ggplot2's geom_raster (CC227)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rasterrmap #geomraster #rastermap #geomrasterggplot2 #ggplot2raster
+🔗 https://www.youtube.com/watch?v=W1QH83twaak"
+UCg6kociUghEgKz_hLRKQrMQ;knl__KQhySM;2022-07-05T20:53:32Z;"📺 New #rstatsvideo: R en Google colab!!!
+▶ R Data Science School
+#rstats
+🔗 https://www.youtube.com/watch?v=knl__KQhySM"
+UCg4rv97QEhN-2gvLhrGMgEw;Z98X0LXNmZ0;2022-07-05T20:54:08Z;"📺 New #rstatsvideo: Pacote ggstream: Construa gráficos empilhados no R
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=Z98X0LXNmZ0"
+UC93s4srvbDK8B9sPskLErfw;lfTq5wJAyAk;2022-07-05T21:17:29Z;"📺 New #rstatsvideo: Crash Course in ggplot2 - A Beginners Guide to Visualizations in R
+▶ Daniel Bonneau
+🗣 🇬🇧
+#rstats #ggplot2 #rstudio
+🔗 https://www.youtube.com/watch?v=lfTq5wJAyAk"
+UCvt6lv8yMrBV8YgsAoQykHw;--RHc3-h26Y;2022-07-05T21:27:38Z;"📺 New #rstatsvideo: Introdução a Web Scraping utilizando o pacote rvest
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=--RHc3-h26Y"
+UCISHpKq_20peU3G1xwtXjjQ;Dkm1d4uMp34;2022-07-05T22:00:09Z;"📺 New #rstatsvideo: The Rvest & RSelenium Tutorial - Web Scrape Dynamic Tables in R
+▶ Samer Hijjazi
+#rstats #rvest #rselenium #selenium #rprogramming #webscrape #webscraping #programming #datascience #dataanalysis
+🔗 https://www.youtube.com/watch?v=Dkm1d4uMp34"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;KqLjWuBL_UI;2022-07-06T04:09:40Z;"📺 New #rstatsvideo: Selecting rows from data frames at random in R
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=KqLjWuBL_UI"
