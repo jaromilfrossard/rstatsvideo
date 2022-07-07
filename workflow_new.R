@@ -73,7 +73,7 @@ validate_new_videos()#6aJMGdCxbgA
 # tuber::get_video_details("6aJMGdCxbgA")
 
 videos <- choose_videos(max_tweet = 3)%>%
-  filter(!id_video%in%c("aY1niFN1_t8"))
+  filter(!id_video%in%c("_qZ9UNQEEII","CVcvXfRyfE0"))
 #videos <- videos%>%filter(new_video)
 
 # 

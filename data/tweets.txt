@@ -11613,3 +11613,27 @@ UCu3UVZ1mLOYdsrrrnjjs8Pg;KqLjWuBL_UI;2022-07-06T04:09:40Z;"📺 New #rstatsvideo
 ▶ Patrick Mensah (@patmensa39)
 #rstats
 🔗 https://www.youtube.com/watch?v=KqLjWuBL_UI"
+UCyHEww8_SCdxZvEnkCfi55w;hgkraz62M1I;2022-07-06T14:00:21Z;"📺 New #rstatsvideo: Draw Plot with Multi-Row X-Axis Labels in R (2 Examples) | Add Two Axes | Base R vs. ggplot2 Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=hgkraz62M1I"
+UCybzXlZh--K4XRs48s72tnw;m1gDVNC8qK4;2022-07-06T18:34:29Z;"📺 New #rstatsvideo: 5 mẹo giúp hạn chế lỗi trong R/RStudio
+▶ R stats
+#rstats #rprogramminglanguage #rstudio #statistics #research #medicalresearch #phântíchsốliệu
+🔗 https://www.youtube.com/watch?v=m1gDVNC8qK4"
+UCMdihazndR0f9XBoSXWqnYg;z0B0ZPiEN_8;2022-07-06T19:00:33Z;"📺 New #rstatsvideo: R - Introduction to Data Analytics (2.3 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #open #education #rstudio #data #analytics #datascience #researchmethods #lecture
+🔗 https://www.youtube.com/watch?v=z0B0ZPiEN_8"
+UCZ38Wl2wAhrdZs_KaESMmiQ;1o6QmJeouFI;2022-07-06T23:18:47Z;"📺 New #rstatsvideo: R programming in Yoruba 9  - how to create line graphs with ggplot
+▶ Statistics in Yoruba
+🗣 Yoruba
+#rstats #statisticsinyoruba #statisticalanalysisinyoruba #rprogramminginyoruba #mathwithlukgaf
+🔗 https://www.youtube.com/watch?v=1o6QmJeouFI"
+UCZ38Wl2wAhrdZs_KaESMmiQ;ApKa8klYjW8;2022-07-07T00:42:35Z;"📺 New #rstatsvideo: R programming in Yoruba 10  - how to create and interpret box plots
+▶ Statistics in Yoruba
+🗣 Yoruba
+#rstats #statisticsinyoruba #statisticalanalysisinyoruba #rprogramminginyoruba #mathwithlukgaf
+🔗 https://www.youtube.com/watch?v=ApKa8klYjW8"
