@@ -11637,3 +11637,51 @@ UCZ38Wl2wAhrdZs_KaESMmiQ;ApKa8klYjW8;2022-07-07T00:42:35Z;"📺 New #rstatsvideo
 🗣 Yoruba
 #rstats #statisticsinyoruba #statisticalanalysisinyoruba #rprogramminginyoruba #mathwithlukgaf
 🔗 https://www.youtube.com/watch?v=ApKa8klYjW8"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;6OlbGb1tFmc;2022-07-07T10:26:01Z;"📺 New #rstatsvideo: Sorting dataframes in R programming - Made easy
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=6OlbGb1tFmc"
+UCyHEww8_SCdxZvEnkCfi55w;UG2vrtjWU_E;2022-07-07T14:00:22Z;"📺 New #rstatsvideo: Find Non-Numeric Values in R (Example) | Test Vector & Data Frame Column | as.numeric, is.na & which
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=UG2vrtjWU_E"
+UCGuktEl5InrcxPfCjmPWxsA;UbuKFW5eul8;2022-07-07T16:00:18Z;"📺 New #rstatsvideo: A rug chart in R with ggplot2's geom_segment showing latitudinal temperature anomalies (CC228)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rrugchart #rrugplot #ggplot2rugchart #ggplot2geomrug
+🔗 https://www.youtube.com/watch?v=UbuKFW5eul8"
+UCyZCfIET7753bs5WpmKI_qQ;eqvmtYXh_C4;2022-07-08T02:25:00Z;"📺 New #rstatsvideo: Tutorial R | Matriz de confusão usando tidymodels
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats #matrizdeconfusão #confmat
+🔗 https://www.youtube.com/watch?v=eqvmtYXh_C4"
+UCPJZmlXMcBiKjoVQ4cpAMIg;SGOmGAwsxME;2022-07-08T07:30:08Z;"📺 New #rstatsvideo: How to create & publish a flexdashboard in R in 8 minutes | R for Excel Users & Beginners
+▶ Dean Chereden (@deanchereden)
+🗣 🇬🇧
+#rstats #analytics #datascience #howto #rprogramming #rstudio #dataanalytics
+🔗 https://www.youtube.com/watch?v=SGOmGAwsxME"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;a2q2vUzS4-w;2022-07-08T10:40:20Z;"📺 New #rstatsvideo: Using logical statements to select rows and columns from a dataset
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=a2q2vUzS4-w"
+UCyHEww8_SCdxZvEnkCfi55w;IWYmphPxJfQ;2022-07-08T14:00:15Z;"📺 New #rstatsvideo: Extract Characters Between Parentheses in R (2 Examples) | Inside Brackets | regmatches & gregexpr
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #rprogramming
+🔗 https://www.youtube.com/watch?v=IWYmphPxJfQ"
+UCBsXfUO__nzMnlaLLUx7DFQ;R2dQltMWm0I;2022-07-08T18:49:48Z;"📺 New #rstatsvideo: Coding errors be like #shorts
+▶ Probability!
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=R2dQltMWm0I"
+UCg4rv97QEhN-2gvLhrGMgEw;0NwrdjUOo6g;2022-07-08T21:22:19Z;"📺 New #rstatsvideo: Pacote ggstream no R: Construa gráficos empilhados com ggplot
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=0NwrdjUOo6g"
+UCyHEww8_SCdxZvEnkCfi55w;GuR2gXYON_w;2022-07-09T14:00:14Z;"📺 New #rstatsvideo: Add Whiskers to ggplot2 Boxplot in R (Example) | Draw Error Bars in Plot | stat_boxplot() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=GuR2gXYON_w"
