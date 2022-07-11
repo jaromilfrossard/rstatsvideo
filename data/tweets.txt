@@ -11685,3 +11685,17 @@ UCyHEww8_SCdxZvEnkCfi55w;GuR2gXYON_w;2022-07-09T14:00:14Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=GuR2gXYON_w"
+UCPfMGYxAOm39sO8nuEMB96Q;tKvtgadk7-M;2021-11-07T21:52:53Z;"📺 #rstatsvideo: Cómo Realizar un MANOVA de Una Vía en RStudio
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #cómorealizarunmanovadeunavíaenrstudio #cómorealizarunmanovadeunavía #howtoconductaonewaymanovainrstudio
+🔗 https://www.youtube.com/watch?v=tKvtgadk7-M"
+UCP8l94xtoemCH_GxByvTuFQ;1C0zJ2y7J7k;2022-07-10T07:00:00Z;"📺 New #rstatsvideo: TidyX Episode 110 | R Classes and Objects - Making an S3 Object - Part 2 - S3 Tournament
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming
+🔗 https://www.youtube.com/watch?v=1C0zJ2y7J7k"
+UCyHEww8_SCdxZvEnkCfi55w;spHcueg2pQA;2022-07-10T14:00:32Z;"📺 New #rstatsvideo: Force Plot Axes to be Square Shaped in R (Example) | How to Set Aspect Ratio to 1 | ggplot2 Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=spHcueg2pQA"
