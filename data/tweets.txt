@@ -11699,3 +11699,120 @@ UCyHEww8_SCdxZvEnkCfi55w;spHcueg2pQA;2022-07-10T14:00:32Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom
 🔗 https://www.youtube.com/watch?v=spHcueg2pQA"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;CXlzkNsDyOo;2022-07-11T10:56:09Z;"📺 New #rstatsvideo: Handling datasets with NA values in R programming - Made easy
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=CXlzkNsDyOo"
+UCMWyr3KjOVAjTxksGQIowuw;KA8tCHcO538;2022-07-11T12:50:22Z;"📺 New #rstatsvideo: How to calculate statistical power for studies included in a meta-analysis
+▶ Daniel Quintana (@dsquintana)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=KA8tCHcO538"
+UCyHEww8_SCdxZvEnkCfi55w;MGtPGbkmchM;2022-07-11T14:00:18Z;"📺 New #rstatsvideo: Combine ggplot2 Line & Barchart with Double-Axis (2 Examples) | Add Secondary Y-Axis to ggplot2 Plot
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobecom #statisticalprogramming #rprogramming
+🔗 https://www.youtube.com/watch?v=MGtPGbkmchM"
+UCCaChdLMTYMxyawR_Qf-kYA;A08gd1X74GQ;2022-07-11T15:31:33Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Uploads and downloads (mshiny03 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=A08gd1X74GQ"
+UCCaChdLMTYMxyawR_Qf-kYA;mPAvK6EzbiQ;2022-07-11T15:32:38Z;"📺 New #rstatsvideo: ggplot2: Writing ggplot2 extensions (ggplot2_01 21)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=mPAvK6EzbiQ"
+UCGuktEl5InrcxPfCjmPWxsA;yc7ZB4F_dc0;2022-07-11T16:00:38Z;"📺 New #rstatsvideo: Using renv to track the version of your packages in R (CC229)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #renvversionpackages #renvverisonpackages #renvpackager #renvrstudio #rpath #rlibpath #rpackages
+🔗 https://www.youtube.com/watch?v=yc7ZB4F_dc0"
+UC2-hKemnrmVCH_29duyJ26A;jQZv31s3v1Y;2022-07-11T16:55:38Z;"📺 New #rstatsvideo: Max Kuhn - Monitor Your Data As Well As Your Model
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=jQZv31s3v1Y"
+UC2-hKemnrmVCH_29duyJ26A;Z4p38TYdmZs;2022-07-11T16:55:41Z;"📺 New #rstatsvideo: Jennifer Hill - Deep Down, Everyone Wants to be Causal
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Z4p38TYdmZs"
+UC2-hKemnrmVCH_29duyJ26A;v4wEpBYIFKU;2022-07-11T16:55:44Z;"📺 New #rstatsvideo: Wes McKinney & Jon Keane - Apache Arrow in an Interconnected World
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=v4wEpBYIFKU"
+UC2-hKemnrmVCH_29duyJ26A;6gzj-7Crek8;2022-07-11T16:55:57Z;"📺 New #rstatsvideo: Ipek Ensari - Functional Data Methods for Characterizing Health & Disease Patterns via mHealth Tech.
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=6gzj-7Crek8"
+UC2-hKemnrmVCH_29duyJ26A;aFiNZ3lCCBw;2022-07-11T16:56:20Z;"📺 New #rstatsvideo: Tom Bliss - Understanding Player Movement in the National Football League Using Tracking Data
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=aFiNZ3lCCBw"
+UC2-hKemnrmVCH_29duyJ26A;o-XRutcj7iE;2022-07-11T16:56:26Z;"📺 New #rstatsvideo: Matt Heaphy - Actuarial Experience Studies and Assumption Setting in R
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=o-XRutcj7iE"
+UC2-hKemnrmVCH_29duyJ26A;W8ZKpep8v5I;2022-07-11T16:56:39Z;"📺 New #rstatsvideo: Daniel Chen- Combining Analysis Work w/ Reports & Presentations What I Would Change About My Dissert
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=W8ZKpep8v5I"
+UC2-hKemnrmVCH_29duyJ26A;TZ8CxNNHiUU;2022-07-11T16:56:41Z;"📺 New #rstatsvideo: Jared Lander - Using R for GIS and Mapping
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=TZ8CxNNHiUU"
+UC2-hKemnrmVCH_29duyJ26A;slMXYOkbvDI;2022-07-11T16:56:44Z;"📺 New #rstatsvideo: Molly Huie - Data for Everyone: Using Shiny to Make Data Accessible for Non-Technical Colleagues
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=slMXYOkbvDI"
+UC2-hKemnrmVCH_29duyJ26A;Ihb4BjzVucY;2022-07-11T16:57:03Z;"📺 New #rstatsvideo: Malorie Hughes - The Anatomy of a Plot: From gg to highcharter
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Ihb4BjzVucY"
+UC2-hKemnrmVCH_29duyJ26A;Mudz-ykLKbo;2022-07-11T16:57:08Z;"📺 New #rstatsvideo: Jeroen Janssens - R and Raylib: All Fun and Games‽
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Mudz-ykLKbo"
+UCmBDds7HAhpG6ZUj9FC2s9Q;Te74FlbnkdE;2022-07-11T17:45:00Z;"📺 New #rstatsvideo: Estimated Marginal Means in ggplot2
+▶ Lacey Maths & Stats Consultancy (@seanwithafada)
+#rstats #goodpracticeinstatisticalanalysis #estimatedmarginalmeans #emmeans #ggplot #ggplot2 #laceymathsstats
+🔗 https://www.youtube.com/watch?v=Te74FlbnkdE"
+UCjXQyxs1iyEg5v98fezgT0w;1PMsl0lDNHw;2022-07-12T07:00:00Z;"📺 New #rstatsvideo: Mehrebenenanalyse R: lme4 Package (multilevel modeling in R)
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #mehrebenenmodellr #mehrebenenanalyser #multilevelmodelr #multilevelmodelingr #mehrebenenmodellrlme4
+🔗 https://www.youtube.com/watch?v=1PMsl0lDNHw"
+UCqQ_cxcNu1ekqHXDc-MbU_w;jniFFhY41Mk;2022-07-12T10:00:33Z;"📺 New #rstatsvideo: ggdensity: probability density estimates for ggplot2
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=jniFFhY41Mk"
+UCyHEww8_SCdxZvEnkCfi55w;dR9cGMW7kLU;2022-07-12T14:00:16Z;"📺 New #rstatsvideo: Test for Prime Number in R (Example) | isprime() Function of matlab Package | as.logical() Command
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=dR9cGMW7kLU"
+UCCaChdLMTYMxyawR_Qf-kYA;qajHhpZWlAQ;2022-07-12T17:51:55Z;"📺 New #rstatsvideo: JS4R: The Full Monty (js4r01 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=qajHhpZWlAQ"
+UCCaChdLMTYMxyawR_Qf-kYA;a-NVS5-SRe0;2022-07-12T22:27:31Z;"📺 New #rstatsvideo: ISLR: Classification Part 2 (islr04 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=a-NVS5-SRe0"
+UCCaChdLMTYMxyawR_Qf-kYA;BPd6-G9e32I;2022-07-12T22:28:31Z;"📺 New #rstatsvideo: Advanced R: Functions (advr06 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=BPd6-G9e32I"
