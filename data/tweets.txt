@@ -11816,3 +11816,47 @@ UCCaChdLMTYMxyawR_Qf-kYA;BPd6-G9e32I;2022-07-12T22:28:31Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=BPd6-G9e32I"
+UCCaChdLMTYMxyawR_Qf-kYA;gp_aNi2oAeE;2022-07-12T22:31:55Z;"📺 New #rstatsvideo: ISLR: Multiple Testing (islr02 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=gp_aNi2oAeE"
+UCCaChdLMTYMxyawR_Qf-kYA;YnZSfzMGhTE;2022-07-12T22:33:05Z;"📺 New #rstatsvideo: R for Data Science: Iteration Part 2 (r4ds06 21)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=YnZSfzMGhTE"
+UCDHzgi5BGU5F-LXxQIIOyDw;J-sCNtorUxA;2022-07-13T01:44:27Z;"📺 New #rstatsvideo: plumber 1.2.0 のリリースノートを眺めてみる （2022/7/12）
+▶ yutannihilationのチャンネル (仮) (@yutannihilation)
+#rstats #rstatsj
+🔗 https://www.youtube.com/watch?v=J-sCNtorUxA"
+UCyHEww8_SCdxZvEnkCfi55w;GtSW4MQcnzE;2022-07-13T14:00:06Z;"📺 New #rstatsvideo: Get Difference Between Dates in Years in R (Examples) | Calculate Time | difftime() & time_length()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=GtSW4MQcnzE"
+UCCaChdLMTYMxyawR_Qf-kYA;JwlQh3eVuB8;2022-07-13T16:04:05Z;"📺 New #rstatsvideo: Bayes Rules! Approximating the Posterior (bayes_rules01 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=JwlQh3eVuB8"
+UCCaChdLMTYMxyawR_Qf-kYA;0z7jqB8mXSo;2022-07-13T16:04:49Z;"📺 New #rstatsvideo: R Packages: Testing Part 3 (rpkgs03 14)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=0z7jqB8mXSo"
+UCCaChdLMTYMxyawR_Qf-kYA;c-cGKTuiaiQ;2022-07-13T16:05:25Z;"📺 New #rstatsvideo: JS4R: Advanced Topics (js4r01 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=c-cGKTuiaiQ"
+UC_R5smHVXRYGhZYDJsnXTwg;dtdd_jc1ybw;2022-07-13T22:06:53Z;"📺 New #rstatsvideo: R Adoption Series - Using R in Regulatory Review
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=dtdd_jc1ybw"
+UC_R5smHVXRYGhZYDJsnXTwg;lWXqfuaxNL8;2022-07-13T23:50:06Z;"📺 New #rstatsvideo: Using R in a GxP environment (Part 2)
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=lWXqfuaxNL8"
