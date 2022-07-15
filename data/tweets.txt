@@ -11860,3 +11860,53 @@ UC_R5smHVXRYGhZYDJsnXTwg;lWXqfuaxNL8;2022-07-13T23:50:06Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rconsortium
 🔗 https://www.youtube.com/watch?v=lWXqfuaxNL8"
+UC6LqpR5qBfNlQp5mVIVsthA;9wKp70M1RLo;2022-07-14T13:00:11Z;"📺 New #rstatsvideo: Workshop: Shiny Powerful Web Apps for Everyone
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9wKp70M1RLo"
+UCCaChdLMTYMxyawR_Qf-kYA;J2YWrDR3fF8;2022-07-14T13:59:55Z;"📺 New #rstatsvideo: FPP: Time series features (fpp01 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=J2YWrDR3fF8"
+UCyHEww8_SCdxZvEnkCfi55w;bTlygwW25tw;2022-07-14T14:00:21Z;"📺 New #rstatsvideo: Print All Data Objects in Workspace in R (2 Examples) | Return Environment | ls() & mget() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=bTlygwW25tw"
+UCGuktEl5InrcxPfCjmPWxsA;QI2Qg_1aySc;2022-07-14T16:00:23Z;"📺 New #rstatsvideo: How to create a conda or mamba environment for R programming to enhance reproducibility (CC230)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rprogrammingcondaenvironment #rprogrammingcondaenviorment
+🔗 https://www.youtube.com/watch?v=QI2Qg_1aySc"
+UCCaChdLMTYMxyawR_Qf-kYA;GCDXXkBQrGk;2022-07-14T18:55:21Z;"📺 New #rstatsvideo: Advanced R: Functions Part 2 (advr06 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GCDXXkBQrGk"
+UCN-OX45aSM1VtXkzocx8Ppg;g_3VUe_3jWE;2022-07-14T21:50:10Z;"📺 New #rstatsvideo: #rstats Project   Analyzing Doctor Who Viewership
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=g_3VUe_3jWE"
+UCN-OX45aSM1VtXkzocx8Ppg;WJMvZCcChKE;2022-07-14T22:36:42Z;"📺 New #rstatsvideo: #rstats Project: Wordle on the Keyboard
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=WJMvZCcChKE"
+UCN-OX45aSM1VtXkzocx8Ppg;rE5RXuVZB1Y;2022-07-14T22:39:17Z;"📺 New #rstatsvideo: #rstats Project: Kusama's Pumpkins
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=rE5RXuVZB1Y"
+UCN-OX45aSM1VtXkzocx8Ppg;EIhMdYM_aGI;2022-07-14T22:40:08Z;"📺 New #rstatsvideo: #rstats Project    Foundation Makeup Shades
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EIhMdYM_aGI"
+UCBsXfUO__nzMnlaLLUx7DFQ;Y-rLyl4rrXw;2022-07-14T23:00:21Z;"📺 New #rstatsvideo: R Finance: The Efficient Frontier
+▶ Probability!
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Y-rLyl4rrXw"
