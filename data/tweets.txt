@@ -11910,3 +11910,37 @@ UCBsXfUO__nzMnlaLLUx7DFQ;Y-rLyl4rrXw;2022-07-14T23:00:21Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=Y-rLyl4rrXw"
+UCrpq9hzMQSq0ldVcXlLgpvQ;zWi009rfz84;2022-07-15T12:00:46Z;"📺 New #rstatsvideo: 16s rRNA Sequencing Analysis and Visualization
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=zWi009rfz84"
+UCyHEww8_SCdxZvEnkCfi55w;G3NPVyyPjss;2022-07-15T14:00:07Z;"📺 New #rstatsvideo: Replace Entire Data Frame Column in R (2 Examples) | Exchange Variable | Substitute by New Values
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=G3NPVyyPjss"
+UCMdihazndR0f9XBoSXWqnYg;wW8V1rUfSsI;2022-07-15T14:25:45Z;"📺 New #rstatsvideo: R & Python - Exploratory Factor Analysis
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing
+🔗 https://www.youtube.com/watch?v=wW8V1rUfSsI"
+UC9Sm1qcdzyGVjQMgWsW4pcw;8P9E9Ut0xhQ;2022-07-15T14:26:15Z;"📺 New #rstatsvideo: Creating a New R Project (RStudio Cloud & RStudio Desktop)
+▶ Jennifer Sloane (@jfsloane)
+#rstats #rgirls #createprojectinrstudiocloud #createprojectinrstudiodesktop #rgirlslessonplan
+🔗 https://www.youtube.com/watch?v=8P9E9Ut0xhQ"
+UCnYkdhuQljgCnGNpCZpPfVA;WfFHF7zTh8g;2022-07-15T15:00:32Z;"📺 New #rstatsvideo: Regressione lineare multipla in R
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=WfFHF7zTh8g"
+UCCaChdLMTYMxyawR_Qf-kYA;wwS-yXJKVNw;2022-07-15T15:59:23Z;"📺 New #rstatsvideo: ISLR: Multiple Testing Part 3 (islr02 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wwS-yXJKVNw"
+UCdrnsZd2xWjDjHUlYsA6Kfw;JCby29lIkAk;2022-07-16T02:29:13Z;"📺 New #rstatsvideo: Moving columns in R with relocate
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters #rstudio #tidyverse
+🔗 https://www.youtube.com/watch?v=JCby29lIkAk"
