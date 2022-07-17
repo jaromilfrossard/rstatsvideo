@@ -11,7 +11,7 @@ standardise_language <- function(x){
     c("ru"),"ru",
     c("yo"),"yo",
     c("es","es-419","es-MX"),"es",
-    c("fa"),"fa",
+    c("fa","fa-IR"),"fa",
     c("hi"),"hi",
     c("vi"),"vi",
     c("zxx"),NA_character_)

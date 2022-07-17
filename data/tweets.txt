@@ -11944,3 +11944,31 @@ UCdrnsZd2xWjDjHUlYsA6Kfw;JCby29lIkAk;2022-07-16T02:29:13Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters #rstudio #tidyverse
 🔗 https://www.youtube.com/watch?v=JCby29lIkAk"
+UCyHEww8_SCdxZvEnkCfi55w;VrpVdX28KgA;2022-07-16T14:00:36Z;"📺 New #rstatsvideo: Remove Highly Correlated Variables from Data Frame (Example) | cor(), upper.tri(), apply() & any()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=VrpVdX28KgA"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;eBsSWxoXAso;2022-07-16T18:16:26Z;"📺 New #rstatsvideo: Eliminating duplicate rows from a dataset
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=eBsSWxoXAso"
+UCtuMKU3a96iqTe1b7JNfhDw;89jSyrqrs8I;2022-07-17T09:41:24Z;"📺 New #rstatsvideo: Stringr- Book Club Session 5 (In Persian) - کار با رشته ها در R
+▶ R-Ladies Urmia (@RLadiesUrmia)
+🗣 🇮🇷
+#rstats
+🔗 https://www.youtube.com/watch?v=89jSyrqrs8I"
+UCY66vV1WTk_2lHg24cuJrtg;X5NXDK6AVtU;2022-07-17T09:50:07Z;"📺 New #rstatsvideo: How to use the 4 different norm() functions in R
+▶ The Data Digest (@DigestData)
+🗣 🇬🇧
+#rstats #rnormfunctioninr #rstudiornorm #rnorm #rnorminr #pnorm #qnorm #dnorm #normalverteilung #normaldistributioninr
+🔗 https://www.youtube.com/watch?v=X5NXDK6AVtU"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;YEDVrOV8gMQ;2022-07-17T12:18:11Z;"📺 New #rstatsvideo: Dates in dataframe
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=YEDVrOV8gMQ"
+UCyHEww8_SCdxZvEnkCfi55w;ilcjGl7uNO4;2022-07-17T14:00:20Z;"📺 New #rstatsvideo: Add Different Line to Each Facet of ggplot2 Plot (R Example) | Draw Lines | facet_grid & facet_wrap
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=ilcjGl7uNO4"
