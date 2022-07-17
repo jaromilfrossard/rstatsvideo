@@ -28,6 +28,7 @@ UCDR9i4RB_ZbnM8QXp4NC9uQ;CalgaryR R User Group;
 UCyZCfIET7753bs5WpmKI_qQ;CARVALHO RIBEIRO;
 UCiJMr_spRePQShPGNCqj7ng;Cassandra;
 UCKFp00-PRnuc1Dx4DaUmJBg;Chad C. Williams;WilliamsNeuro
+UClLZ3QYloyXINc9LkcKtFLQ;Curtis Murray;curtis_w_murray
 UC7C4YZ-9itQW7Nl4RVKDflg;Cleveland R User Group;
 UCBYwP7mrBxJSZbPg-U3uR-A;CodeR;
 UC-vtwz7ueU2dtnHk5e-WblA;Colin Quirk;ColinTQuirk
