@@ -11972,3 +11972,17 @@ UCyHEww8_SCdxZvEnkCfi55w;ilcjGl7uNO4;2022-07-17T14:00:20Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom
 🔗 https://www.youtube.com/watch?v=ilcjGl7uNO4"
+UCCaChdLMTYMxyawR_Qf-kYA;2LQyxFMJ4Kg;2022-07-17T15:28:41Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Dynamic UI (mshiny03 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2LQyxFMJ4Kg"
+UCPfMGYxAOm39sO8nuEMB96Q;doZaXQdN-Pc;2022-07-17T19:43:38Z;"📺 New #rstatsvideo: Cómo completar líneas de código automáticamente en RStudio ❓🕵️
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #cómocompletarlíneasdecódigoautomáticamenteenrstudio
+🔗 https://www.youtube.com/watch?v=doZaXQdN-Pc"
+UCGTWSt8p54ANBnXvWOmF5FA;DW-HPfohfwg;2022-07-18T07:31:59Z;"📺 New #rstatsvideo: Building a basic Shiny app with Golem
+▶ MAURICIO VARGAS (@pachadotdev)
+#rstats
+🔗 https://www.youtube.com/watch?v=DW-HPfohfwg"
