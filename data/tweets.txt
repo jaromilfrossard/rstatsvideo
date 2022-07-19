@@ -11986,3 +11986,32 @@ UCGTWSt8p54ANBnXvWOmF5FA;DW-HPfohfwg;2022-07-18T07:31:59Z;"📺 New #rstatsvideo
 ▶ MAURICIO VARGAS (@pachadotdev)
 #rstats
 🔗 https://www.youtube.com/watch?v=DW-HPfohfwg"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;AzSKbR8RRHg;2022-07-18T12:30:19Z;"📺 New #rstatsvideo: Merging two or more dataframes in R programming
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=AzSKbR8RRHg"
+UCyHEww8_SCdxZvEnkCfi55w;upRbL9_MRBE;2022-07-18T14:00:33Z;"📺 New #rstatsvideo: Apply Function to Each List Element in R (3 Examples) | Mean & Sum for Every Item | lapply & sapply
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=upRbL9_MRBE"
+UCGuktEl5InrcxPfCjmPWxsA;V5Df6vw4-e8;2022-07-18T16:30:04Z;"📺 New #rstatsvideo: Scraping weather data from the internet with R and the tidyverse (CC231)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #scrapingrinternet #rtidyverse #rstudiointernet #rstudioweb #scrapingrwebpage
+🔗 https://www.youtube.com/watch?v=V5Df6vw4-e8"
+UC9Sm1qcdzyGVjQMgWsW4pcw;y_RtQcZ2Qpg;2022-07-18T21:42:21Z;"📺 New #rstatsvideo: Distill Tutorial: Things to Know Before Getting Started UPDATED
+▶ Jennifer Sloane (@jfsloane)
+🗣 🇬🇧
+#rstats #distill #rdistill #distilltutorial #rdistilltutorial #distillthingstoknow
+🔗 https://www.youtube.com/watch?v=y_RtQcZ2Qpg"
+UC9Sm1qcdzyGVjQMgWsW4pcw;NLU05CopNzU;2022-07-18T21:55:54Z;"📺 New #rstatsvideo: Distill Tutorial: Building Your Website
+▶ Jennifer Sloane (@jfsloane)
+🗣 🇬🇧
+#rstats #distill #rdistill #distilltutorial #rdistilltutorial #buildingwebsitedistill #buildingwebsiter
+🔗 https://www.youtube.com/watch?v=NLU05CopNzU"
+UCsqrrplF84DQckpGQuTKTMg;MX6md9uCaXs;2022-07-18T23:45:15Z;"📺 New #rstatsvideo: 161.122 Statistics: Workshop A1 2022
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=MX6md9uCaXs"
