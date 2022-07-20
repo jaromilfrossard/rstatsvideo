@@ -12015,3 +12015,29 @@ UCsqrrplF84DQckpGQuTKTMg;MX6md9uCaXs;2022-07-18T23:45:15Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=MX6md9uCaXs"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;jKJOzpZJok8;2022-07-19T13:20:12Z;"📺 New #rstatsvideo: Scatter plot in details using R programming
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=jKJOzpZJok8"
+UCyHEww8_SCdxZvEnkCfi55w;eL2zZU6QZO0;2022-07-19T14:00:29Z;"📺 New #rstatsvideo: Transpose Data Frame & Set First Column as Header in R (Example) | Rotate & Define Variable Names
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=eL2zZU6QZO0"
+UCfJyQ3P2k_SuqfxVdqIEQNw;eWgKpIeLc4o;2022-07-19T15:00:22Z;"📺 New #rstatsvideo: How to use R studio #short
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=eWgKpIeLc4o"
+UCmBDds7HAhpG6ZUj9FC2s9Q;IFrL4f86nIM;2022-07-19T18:30:16Z;"📺 New #rstatsvideo: Interaction plots in ggplot2
+▶ Lacey Maths & Stats Consultancy (@seanwithafada)
+#rstats #goodpracticeinstatisticalanalysis #interactionplots #interactionplot #ggplot2 #facetgrid #confidenceintervals
+🔗 https://www.youtube.com/watch?v=IFrL4f86nIM"
+UCDHzgi5BGU5F-LXxQIIOyDw;9RFYPmdyALE;2022-07-20T01:26:50Z;"📺 New #rstatsvideo: tidymodels 1.0.0 のリリースノートを眺めてみる （2022/7/19）
+▶ yutannihilationのチャンネル (仮) (@yutannihilation)
+#rstats #rstatsj
+🔗 https://www.youtube.com/watch?v=9RFYPmdyALE"
+UCsqrrplF84DQckpGQuTKTMg;O1Om-b2y-5A;2022-07-20T04:04:18Z;"📺 New #rstatsvideo: 161.122 Statistics: Workshop A02 2022
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=O1Om-b2y-5A"
