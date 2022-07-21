@@ -12041,3 +12041,47 @@ UCsqrrplF84DQckpGQuTKTMg;O1Om-b2y-5A;2022-07-20T04:04:18Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=O1Om-b2y-5A"
+UCSoUNu8x-HblqqOK_EwdZGw;aWNEvJ8unjI;2022-07-20T06:11:08Z;"📺 New #rstatsvideo: Making figures for R Without Statistics
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=aWNEvJ8unjI"
+UCyHEww8_SCdxZvEnkCfi55w;bPjAOsUoYXQ;2022-07-20T14:00:18Z;"📺 New #rstatsvideo: Change Drawing Order of Points in ggplot2 Plot in R (Example) | Control, Switch, Sort & Reorder Data
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=bPjAOsUoYXQ"
+UCCaChdLMTYMxyawR_Qf-kYA;PXfyj9cB7U4;2022-07-20T14:15:30Z;"📺 New #rstatsvideo: Modelado Tidy con R - 10. Remuestreo para Evaluación de Rendimiento (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=PXfyj9cB7U4"
+UCCaChdLMTYMxyawR_Qf-kYA;m2oUyQKryMQ;2022-07-20T14:16:08Z;"📺 New #rstatsvideo: Modelado Tidy con R - 11. Comparando Modelos con Remuestreo (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=m2oUyQKryMQ"
+UCCaChdLMTYMxyawR_Qf-kYA;N7hQaxyFOpM;2022-07-20T14:17:03Z;"📺 New #rstatsvideo: ISLR: Resampling Methods Part 1 (islr04 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=N7hQaxyFOpM"
+UCCaChdLMTYMxyawR_Qf-kYA;NhMI-GvppMo;2022-07-20T14:19:13Z;"📺 New #rstatsvideo: ggplot2: More on ggplot2 internals (ggplot2_01 20+)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=NhMI-GvppMo"
+UCfJyQ3P2k_SuqfxVdqIEQNw;nkHavm56SSw;2022-07-20T15:00:25Z;"📺 New #rstatsvideo: How to use R studio #short
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=nkHavm56SSw"
+UCHCdYfAXVzJIUkMoMSGiZMw;7GHX1j9wagY;2022-07-20T15:21:04Z;"📺 New #rstatsvideo: CDSB2021: Selección de genes
+▶ Community of Bioinformatics Software Developers (@CDSBMexico)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=7GHX1j9wagY"
+UCMdihazndR0f9XBoSXWqnYg;CqpsS5M9avk;2022-07-20T17:32:15Z;"📺 New #rstatsvideo: R - Basic Statistics (3.1 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #analytics #science #mean #median #mode #standarddeviation #variance #histogram
+🔗 https://www.youtube.com/watch?v=CqpsS5M9avk"
