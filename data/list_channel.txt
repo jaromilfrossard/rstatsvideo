@@ -44,6 +44,7 @@ UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
 UCeYbe13SKAaIyuXtO1_cbpA;DASA.VicUni;
 UC0dgTZhVua-2yvtWDfPA_nQ;Data Centric Inc.;
 UC9ykygrgYWoUdwaMA3qhRaw;Data Garden;
+UCH0p67s0WM4-mkMI5l7JSiQ;David Keyes;dgkeyes
 UCdrnsZd2xWjDjHUlYsA6Kfw;Dr Lyndon Walker;DrLyndonWalker
 UCu4Y_H5Hlfivx31yM5FcLeQ;Dimitris Rizopoulos;drizopoulos
 UCb5aI-GwJm3ZxlwtCsLu78Q;Tom Henry - data science with R;
