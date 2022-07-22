@@ -74,6 +74,7 @@ UCJ04koR_DOtHh9SywevkEWg;ggplot2tor;ChBurkhart
 UCHIlDVeRUk3BAh4XEphxVFA;gisela soledispa lucas;
 UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham;hadleywickham
 UCPVGs5EBtrhK5gENc1GACOA;Hansel Ochoa Montero;
+UCfqX9h4wkDzXQIdfcrpLBMQ;Hertie School Data Science Lab;Hertie_DSLab
 UClGaKSIiaYp8o2SB3D3aS_A;InsiderMiner;forcesofhabit
 UCWFju94W4ecD4qNRWW4ztLQ;INWT Statistics;INWT_Statistics
 UC0cF_3ZXpYErsASTc29ftPg;Kelsey Gonzalez;KelseyEGonzalez

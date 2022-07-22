@@ -12085,3 +12085,45 @@ UCMdihazndR0f9XBoSXWqnYg;CqpsS5M9avk;2022-07-20T17:32:15Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statistics #rstudio #open #education #data #analytics #science #mean #median #mode #standarddeviation #variance #histogram
 🔗 https://www.youtube.com/watch?v=CqpsS5M9avk"
+UCrmJdnPmle514qkK3lLOsVQ;Ma0QOfBYJEw;2022-07-20T20:28:42Z;"📺 New #rstatsvideo: #SQL | CASE WHEN & NTILE() Function | #SQLbasics #SQLpractice
+▶ RJ Studio
+#rstats #sqlcasewhen #sqlcasebetween #sqlbetween #sqlntile #casewhenntile #sqldistinct #ntileover #structuredquerylanguage
+🔗 https://www.youtube.com/watch?v=Ma0QOfBYJEw"
+UCyHEww8_SCdxZvEnkCfi55w;xqJRUyggQHA;2022-07-21T14:00:35Z;"📺 New #rstatsvideo: Escape Backslash in Character String in R (2 Examples) | Create Data Object with Double-Backslash
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=xqJRUyggQHA"
+UCCaChdLMTYMxyawR_Qf-kYA;8mgCUBGMzEc;2022-07-21T14:11:37Z;"📺 New #rstatsvideo: JS4R: Linking Widgets (js4r01 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=8mgCUBGMzEc"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;hq6slId8yiU;2022-07-21T15:38:16Z;"📺 New #rstatsvideo: Using a third variable to label a scatterplot
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=hq6slId8yiU"
+UCGuktEl5InrcxPfCjmPWxsA;rbm2pYSPFlU;2022-07-21T16:00:35Z;"📺 New #rstatsvideo: Removing outliers in R with tools from dplyr and ggplot2 (CC232)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #routliersremoving #dataanomalies #rdplyr #rggplot2 #rgeomhistogram #rgeomline #rdropna
+🔗 https://www.youtube.com/watch?v=rbm2pYSPFlU"
+UCCaChdLMTYMxyawR_Qf-kYA;xjkHan4vbfQ;2022-07-21T17:53:01Z;"📺 New #rstatsvideo: Bayes Rules! Balance and Sequentiality in Bayesian Analyses (bayes_rules02 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=xjkHan4vbfQ"
+UCCaChdLMTYMxyawR_Qf-kYA;NaiQa_u-j1k;2022-07-21T18:56:07Z;"📺 New #rstatsvideo: Advanced R: Functions Part 3 (advr06 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=NaiQa_u-j1k"
+UCCaChdLMTYMxyawR_Qf-kYA;2-baO_E9p1s;2022-07-21T18:56:52Z;"📺 New #rstatsvideo: R Packages: DESCRIPTION and NAMESPACE (rpkgs03 10 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2-baO_E9p1s"
+UCT2TrH2M4zbRJZMH6iusyBQ;mh0HMPqLyhQ;2022-07-21T21:03:13Z;"📺 New #rstatsvideo: R in Pharma: shinytest2
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=mh0HMPqLyhQ"
