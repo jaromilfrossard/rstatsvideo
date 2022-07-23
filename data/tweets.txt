@@ -12127,3 +12127,48 @@ UCT2TrH2M4zbRJZMH6iusyBQ;mh0HMPqLyhQ;2022-07-21T21:03:13Z;"📺 New #rstatsvideo
 ▶ R in Pharma (@rinpharma)
 #rstats
 🔗 https://www.youtube.com/watch?v=mh0HMPqLyhQ"
+UCBsXfUO__nzMnlaLLUx7DFQ;wrWmko61WMg;2022-07-22T00:00:28Z;"📺 New #rstatsvideo: R Finance: Monte Carlo Simulations
+▶ Probability!
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wrWmko61WMg"
+UCMwM-3tg_-Pbx8hKO78q5EA;Q6sKc0y5uK8;2022-07-22T10:08:27Z;"📺 New #rstatsvideo: NHS-R Webinar: Shiny Tool Predicting Primary Care Demand from Large Scale Housing Devs, July 2022
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Q6sKc0y5uK8"
+UCrpq9hzMQSq0ldVcXlLgpvQ;8YFqllUXrJg;2022-07-22T12:00:09Z;"📺 New #rstatsvideo: No Code Seurat Analysis | Azimuth First Look
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=8YFqllUXrJg"
+UCCaChdLMTYMxyawR_Qf-kYA;GDIOmvhOgNk;2022-07-22T13:45:30Z;"📺 New #rstatsvideo: R for Data Science: Model basics (r4ds06 23)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GDIOmvhOgNk"
+UCCaChdLMTYMxyawR_Qf-kYA;i1bA54EgaXk;2022-07-22T13:45:59Z;"📺 New #rstatsvideo: Bayes Rules! MCMC under the Hood (bayes_rules01 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=i1bA54EgaXk"
+UCyHEww8_SCdxZvEnkCfi55w;xq4Xj4il7mw;2022-07-22T14:00:37Z;"📺 New #rstatsvideo: Create Duplicate of Data Frame Column in R (Example) | Base R vs. mutate() Function of dplyr Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=xq4Xj4il7mw"
+UC9Sm1qcdzyGVjQMgWsW4pcw;BmCDFD9Cj-g;2022-07-22T18:16:17Z;"📺 New #rstatsvideo: Distill Tutorial: Editing your homepage
+▶ Jennifer Sloane (@jfsloane)
+🗣 🇬🇧
+#rstats #distill #rdistill #distilltutorial #rdistilltutorial #buildingwebsitedistill #editinghomepagedistill
+🔗 https://www.youtube.com/watch?v=BmCDFD9Cj-g"
+UC9Sm1qcdzyGVjQMgWsW4pcw;YqnoSI6desg;2022-07-22T22:19:28Z;"📺 New #rstatsvideo: Distill Tutorial: Custom Color Theme
+▶ Jennifer Sloane (@jfsloane)
+🗣 🇬🇧
+#rstats #distill #rdistill #distilltutorial #rdistilltutorial #buildingwebsitedistill #customcolorthemedistill
+🔗 https://www.youtube.com/watch?v=YqnoSI6desg"
+UCHCdYfAXVzJIUkMoMSGiZMw;oCZvItMCyPk;2022-07-23T07:21:58Z;"📺 New #rstatsvideo: CDSB2021: Reducción de dimensiones
+▶ Community of Bioinformatics Software Developers (@CDSBMexico)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=oCZvItMCyPk"

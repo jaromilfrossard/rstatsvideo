@@ -1398,8 +1398,8 @@
   <use xlink:href="#glyph1-23" x="411.424609" y="352.667969"/>
   <use xlink:href="#glyph1-51" x="416.31875" y="352.667969"/>
   <use xlink:href="#glyph1-35" x="421.212891" y="352.667969"/>
-  <use xlink:href="#glyph1-22" x="424.143359" y="352.667969"/>
-  <use xlink:href="#glyph1-52" x="429.0375" y="352.667969"/>
+  <use xlink:href="#glyph1-40" x="424.143359" y="352.667969"/>
+  <use xlink:href="#glyph1-23" x="429.0375" y="352.667969"/>
   <use xlink:href="#glyph1-4" x="433.931641" y="352.667969"/>
   <use xlink:href="#glyph1-11" x="436.376562" y="352.667969"/>
   <use xlink:href="#glyph1-12" x="441.270703" y="352.667969"/>
@@ -1414,7 +1414,7 @@
   <use xlink:href="#glyph1-52" x="480.905078" y="352.667969"/>
   <use xlink:href="#glyph1-35" x="485.799219" y="352.667969"/>
   <use xlink:href="#glyph1-40" x="488.729687" y="352.667969"/>
-  <use xlink:href="#glyph1-40" x="493.623828" y="352.667969"/>
+  <use xlink:href="#glyph1-49" x="493.623828" y="352.667969"/>
 </g>
 </g>
 </svg>
