@@ -12172,3 +12172,27 @@ UCHCdYfAXVzJIUkMoMSGiZMw;oCZvItMCyPk;2022-07-23T07:21:58Z;"📺 New #rstatsvideo
 🗣 🇪🇸
 #rstats
 🔗 https://www.youtube.com/watch?v=oCZvItMCyPk"
+UCyHEww8_SCdxZvEnkCfi55w;YJth5tfpU3U;2022-07-23T14:00:28Z;"📺 New #rstatsvideo: Replace NA Values in Column by Other Variable in R (Example) | Substitute NAs in Data Frame | is.na
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=YJth5tfpU3U"
+UCPfMGYxAOm39sO8nuEMB96Q;DOQbqyCKNTg;2022-07-23T15:08:26Z;"📺 New #rstatsvideo: Cómo Incluir Variables con Espacios en RStudio
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #cómoincluirvariablesconespaciosenrstudio #cómoincluirvariablesconespaciosenr
+🔗 https://www.youtube.com/watch?v=DOQbqyCKNTg"
+UCCaChdLMTYMxyawR_Qf-kYA;rBGzD4v9qhc;2022-07-23T19:55:02Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Bookmarking (mshiny03 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=rBGzD4v9qhc"
+UCHCdYfAXVzJIUkMoMSGiZMw;0HDe2Rhf7RU;2022-07-23T23:46:13Z;"📺 New #rstatsvideo: CDSB2021: Clustering
+▶ Community of Bioinformatics Software Developers (@CDSBMexico)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=0HDe2Rhf7RU"
+UCP8l94xtoemCH_GxByvTuFQ;9b0CZevj8cg;2022-07-24T07:00:07Z;"📺 New #rstatsvideo: TidyX Episode 111 | Nate Latshaw, UFC Data, and data.table
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=9b0CZevj8cg"
