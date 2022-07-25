@@ -12196,3 +12196,18 @@ UCP8l94xtoemCH_GxByvTuFQ;9b0CZevj8cg;2022-07-24T07:00:07Z;"📺 New #rstatsvideo
 ▶ TidyX (@tidy_explained)
 #rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
 🔗 https://www.youtube.com/watch?v=9b0CZevj8cg"
+UC1A-TUhyfNOpHcNM8da6tJQ;3DK9v4_Oo8M;2022-07-24T13:57:10Z;"📺 New #rstatsvideo: Ejecutar código de Python en RStudio | Matplotlib y Numpy en RStudio | R and Python in RStudio
+▶ Renzo Caceres Rossi (@ARenzoCaceresR)
+🗣 🇪🇸
+#rstats #pythonenrstudio #códigodepythonenrstudio
+🔗 https://www.youtube.com/watch?v=3DK9v4_Oo8M"
+UCyHEww8_SCdxZvEnkCfi55w;XppFmVkyHJg;2022-07-24T14:00:14Z;"📺 New #rstatsvideo: Remove Columns with Duplicate Names from Data Frame in R (2 Examples) | duplicated() & colnames()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=XppFmVkyHJg"
+UCsqrrplF84DQckpGQuTKTMg;W6EsnrsMT6g;2022-07-25T00:00:07Z;"📺 New #rstatsvideo: 161.122 Statistics: Workshop A03 2022
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=W6EsnrsMT6g"
