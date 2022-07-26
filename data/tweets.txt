@@ -12211,3 +12211,29 @@ UCsqrrplF84DQckpGQuTKTMg;W6EsnrsMT6g;2022-07-25T00:00:07Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=W6EsnrsMT6g"
+UCvt6lv8yMrBV8YgsAoQykHw;OnEvY3xLtnI;2022-07-25T12:31:23Z;"📺 New #rstatsvideo: Introdução ao RBio e Experimentos
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=OnEvY3xLtnI"
+UCyHEww8_SCdxZvEnkCfi55w;BUu3zQ4bFc4;2022-07-25T14:00:06Z;"📺 New #rstatsvideo: Check if Column is Date in R (Example) | Test Class of Variables in Data Frame | sapply & is.Date
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=BUu3zQ4bFc4"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;Igz07RaprAk;2022-07-25T14:47:26Z;"📺 New #rstatsvideo: Adding smooth parametric curves to a scatter plot
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=Igz07RaprAk"
+UCGuktEl5InrcxPfCjmPWxsA;9D1wZ2zWyqI;2022-07-25T16:00:05Z;"📺 New #rstatsvideo: Using dplyr's group_by function with and without summarize (CC233)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #dplyrgroupbysummarize #rdplyr #rstudiodplyr #rstudioclimatechange #rclimatechange
+🔗 https://www.youtube.com/watch?v=9D1wZ2zWyqI"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;zfRa6PopaWo;2022-07-25T18:03:16Z;"📺 New #rstatsvideo: Fitting a non parametric curve through a scatterplot
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=zfRa6PopaWo"
+UC_bfGqjzgx4-N8TEQlJTaNQ;v_phpgjmnyk;2022-07-26T03:35:37Z;"📺 New #rstatsvideo: Functional Programming using purrr package with Wolf Riepl
+▶ Abuja R User Group (@AbujaRUG)
+#rstats
+🔗 https://www.youtube.com/watch?v=v_phpgjmnyk"
