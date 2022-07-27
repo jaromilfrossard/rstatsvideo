@@ -12237,3 +12237,31 @@ UC_bfGqjzgx4-N8TEQlJTaNQ;v_phpgjmnyk;2022-07-26T03:35:37Z;"📺 New #rstatsvideo
 ▶ Abuja R User Group (@AbujaRUG)
 #rstats
 🔗 https://www.youtube.com/watch?v=v_phpgjmnyk"
+UCjXQyxs1iyEg5v98fezgT0w;ciqqjkukhKk;2022-07-26T12:00:22Z;"📺 New #rstatsvideo: Robust Oneway ANOVA in R
+▶ Regorz Statistik
+🗣 🇬🇧
+#rstats #robustanovar #robustonewayanovar #robustposthoctestr #kruskalwallistestr
+🔗 https://www.youtube.com/watch?v=ciqqjkukhKk"
+UCyHEww8_SCdxZvEnkCfi55w;96JNnwdXQrA;2022-07-26T14:00:03Z;"📺 New #rstatsvideo: Pass Column Names & Indices to User-Defined ggplot2 Function in R (Example) | Create Plot Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=96JNnwdXQrA"
+UC1ZIcF31fEzBO6akL_HHkBg;moAei68dxr0;2022-07-26T14:44:41Z;"📺 New #rstatsvideo: ds.rpy: Running Python code from RStudio
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=moAei68dxr0"
+UCg4rv97QEhN-2gvLhrGMgEw;aVN-LpG1Sy8;2022-07-26T18:08:33Z;"📺 New #rstatsvideo: Teste Kappa - Análise de Concordância
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=aVN-LpG1Sy8"
+UCu3UVZ1mLOYdsrrrnjjs8Pg;wRL76ddRZn4;2022-07-26T18:39:05Z;"📺 New #rstatsvideo: Time series analysis
+▶ Patrick Mensah (@patmensa39)
+#rstats
+🔗 https://www.youtube.com/watch?v=wRL76ddRZn4"
+UCWPCd6tPtoLJYzQQ681pe5Q;nuYNCPRf8Js;2022-07-26T21:32:04Z;"📺 New #rstatsvideo: How to publish a website FOR FREE in under 60 seconds using Quarto
+▶ ggnot2
+#rstats #quarto #quartopub #rmarkdown #corto #quartopubs #rpubs #websitepublish #quartotutorial #ggnot #ggnot2
+🔗 https://www.youtube.com/watch?v=nuYNCPRf8Js"
