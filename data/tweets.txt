@@ -12265,3 +12265,51 @@ UCWPCd6tPtoLJYzQQ681pe5Q;nuYNCPRf8Js;2022-07-26T21:32:04Z;"📺 New #rstatsvideo
 ▶ ggnot2
 #rstats #quarto #quartopub #rmarkdown #corto #quartopubs #rpubs #websitepublish #quartotutorial #ggnot #ggnot2
 🔗 https://www.youtube.com/watch?v=nuYNCPRf8Js"
+UCsqrrplF84DQckpGQuTKTMg;WY-f13LxdPA;2022-07-27T03:57:28Z;"📺 New #rstatsvideo: 161.122 Statistics: Workshop A04
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=WY-f13LxdPA"
+UCmBDds7HAhpG6ZUj9FC2s9Q;u3VSoIjLGPw;2022-07-27T12:00:30Z;"📺 New #rstatsvideo: Generating a Randomisation Schedule
+▶ Lacey Maths & Stats Consultancy (@seanwithafada)
+#rstats #goodpracticeinstatisticalanalysis #randomisation #randomisationschedule #randomizationschedule #rstudio
+🔗 https://www.youtube.com/watch?v=u3VSoIjLGPw"
+UCyHEww8_SCdxZvEnkCfi55w;awuApdqPBbk;2022-07-27T14:00:03Z;"📺 New #rstatsvideo: Modify Diagonal, Lower & Upper Triangular Part of Matrix (3 Examples) | lower.tri, upper.tri & diag
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=awuApdqPBbk"
+UCE3OyQLmrQ5tnKc9qDIZbtw;diCG4t76k78;2022-07-27T14:00:22Z;"📺 New #rstatsvideo: Déploiement d'une application {shiny} dans docker avec {renv} et {golem}.
+▶ ThinkR Rstats (@thinkR_fr)
+🗣 🇫🇷
+#rstats
+🔗 https://www.youtube.com/watch?v=diCG4t76k78"
+UCg6kociUghEgKz_hLRKQrMQ;-TzH1qvEoGk;2022-07-27T16:51:29Z;"📺 New #rstatsvideo: Como realizar filtros en R! - dplyr
+▶ R Data Science School
+#rstats #wondersharefilmora
+🔗 https://www.youtube.com/watch?v=-TzH1qvEoGk"
+UC3xfbCMLCw1Hh4dWop3XtHg;B2JzHv4FOTU;2022-07-27T21:22:42Z;"📺 New #rstatsvideo: Shiny Programming Practices || Joe Cheng || Posit (RStudio)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology
+🔗 https://www.youtube.com/watch?v=B2JzHv4FOTU"
+UC3xfbCMLCw1Hh4dWop3XtHg;xDxa_mDwN04;2022-07-27T21:23:05Z;"📺 New #rstatsvideo: Getting Started with {shinytest2} Part 3 || Using shiny.testmode in {shinytest2} || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse
+🔗 https://www.youtube.com/watch?v=xDxa_mDwN04"
+UC3xfbCMLCw1Hh4dWop3XtHg;Gucwz865aqQ;2022-07-27T21:23:09Z;"📺 New #rstatsvideo: Getting Started with {shinytest2} Part I || Example + basics || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=Gucwz865aqQ"
+UC3xfbCMLCw1Hh4dWop3XtHg;7KLv6HdIxvU;2022-07-27T21:23:29Z;"📺 New #rstatsvideo: Getting Started with {shinytest2} Part 2 || Exporting values || RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=7KLv6HdIxvU"
+UCMdihazndR0f9XBoSXWqnYg;gu7AJ6NveNc;2022-07-28T00:40:49Z;"📺 New #rstatsvideo: R & Python - Linear Regression
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing #modeling
+🔗 https://www.youtube.com/watch?v=gu7AJ6NveNc"
