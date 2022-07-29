@@ -12313,3 +12313,18 @@ UCMdihazndR0f9XBoSXWqnYg;gu7AJ6NveNc;2022-07-28T00:40:49Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing #modeling
 🔗 https://www.youtube.com/watch?v=gu7AJ6NveNc"
+UCyHEww8_SCdxZvEnkCfi55w;EmTaTQ5OwcU;2022-07-28T14:00:16Z;"📺 New #rstatsvideo: Change Font Size in corrplot in R (3 Examples) | Modify Correlation Coefficient, Text & Legend Label
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=EmTaTQ5OwcU"
+UCGuktEl5InrcxPfCjmPWxsA;facMJFmsUlw;2022-07-28T16:10:15Z;"📺 New #rstatsvideo: Using lubridate and ggplot2 to work with dates in R (CC234)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #lubridateggplot2dates #lubridatepackage #rstudiolubridate #cumulativeprecipitaton
+🔗 https://www.youtube.com/watch?v=facMJFmsUlw"
+UCBsXfUO__nzMnlaLLUx7DFQ;bhyiFjDD9oQ;2022-07-28T23:25:13Z;"📺 New #rstatsvideo: Hedging: Risk vs. Reward
+▶ Probability!
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=bhyiFjDD9oQ"
