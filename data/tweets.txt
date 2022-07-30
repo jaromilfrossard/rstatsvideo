@@ -12328,3 +12328,47 @@ UCBsXfUO__nzMnlaLLUx7DFQ;bhyiFjDD9oQ;2022-07-28T23:25:13Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=bhyiFjDD9oQ"
+UCnYkdhuQljgCnGNpCZpPfVA;Op_o8Sdb7AU;2022-07-29T13:00:12Z;"📺 New #rstatsvideo: Tracciare il GRAFICO A BARRE o BARPLOT in R
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=Op_o8Sdb7AU"
+UC9ykygrgYWoUdwaMA3qhRaw;lFDgTr1RMho;2022-07-29T13:00:33Z;"📺 New #rstatsvideo: Multivariate Imputation for Missing Values in R
+▶ Data Garden
+#rstats #rstudio #excel #dataanalysis #datascience #statistics #stats #learning #tutorial #deeplearning #machinelearning #datavisualization
+🔗 https://www.youtube.com/watch?v=lFDgTr1RMho"
+UCyHEww8_SCdxZvEnkCfi55w;1Ll-hheyyHo;2022-07-29T14:00:02Z;"📺 New #rstatsvideo: How to Combine Factors without Changing Levels to Integer in R (Example) | list & unlist Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=1Ll-hheyyHo"
+UCg4rv97QEhN-2gvLhrGMgEw;-kelWxYOym0;2022-07-29T19:27:45Z;"📺 New #rstatsvideo: Teste Kappa - Análise de Concordância no Software R
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=-kelWxYOym0"
+UC_R5smHVXRYGhZYDJsnXTwg;ELMQmAGblVo;2022-07-29T23:36:51Z;"📺 New #rstatsvideo: Rho: High-Performance R
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=ELMQmAGblVo"
+UCHCdYfAXVzJIUkMoMSGiZMw;Nsp1tSavDZ0;2022-07-29T23:39:42Z;"📺 New #rstatsvideo: CDSB2021: Identificación de genes marcadores
+▶ Community of Bioinformatics Software Developers (@CDSBMexico)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=Nsp1tSavDZ0"
+UC1ZIcF31fEzBO6akL_HHkBg;6vmW3tYVcdk;2022-07-30T01:37:56Z;"📺 New #rstatsvideo: Onboarding: style
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=6vmW3tYVcdk"
+UC1ZIcF31fEzBO6akL_HHkBg;5LFSBjhQn58;2022-07-30T01:39:18Z;"📺 New #rstatsvideo: onboarding: install r
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=5LFSBjhQn58"
+UC1ZIcF31fEzBO6akL_HHkBg;TKd4H1P6SFU;2022-07-30T01:41:13Z;"📺 New #rstatsvideo: onboarding: rstudio setup
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=TKd4H1P6SFU"
