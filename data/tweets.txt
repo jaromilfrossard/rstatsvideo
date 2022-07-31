@@ -12372,3 +12372,43 @@ UC1ZIcF31fEzBO6akL_HHkBg;TKd4H1P6SFU;2022-07-30T01:41:13Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=TKd4H1P6SFU"
+UC1ZIcF31fEzBO6akL_HHkBg;YralbwM4BmQ;2022-07-30T13:03:12Z;"📺 New #rstatsvideo: onboard install r and rstudio
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=YralbwM4BmQ"
+UC1ZIcF31fEzBO6akL_HHkBg;s_rNXu3jBxA;2022-07-30T13:03:26Z;"📺 New #rstatsvideo: onboard rstudio setup
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=s_rNXu3jBxA"
+UC1ZIcF31fEzBO6akL_HHkBg;Nfd7A-NRFqQ;2022-07-30T13:31:19Z;"📺 New #rstatsvideo: onboard git and github part 1
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Nfd7A-NRFqQ"
+UC1ZIcF31fEzBO6akL_HHkBg;_TpKos_ejrM;2022-07-30T13:38:52Z;"📺 New #rstatsvideo: onboard git and github part 2
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=_TpKos_ejrM"
+UCyHEww8_SCdxZvEnkCfi55w;ZFhFBVbQAco;2022-07-30T14:00:14Z;"📺 New #rstatsvideo: Draw Disproportionate Sample from Data Frame in R (Example) | Select with Different Probabilities
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=ZFhFBVbQAco"
+UC1ZIcF31fEzBO6akL_HHkBg;lMQYKCjVVGQ;2022-07-30T14:14:20Z;"📺 New #rstatsvideo: onboard install packages from CRAN and GitHub
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=lMQYKCjVVGQ"
+UC1ZIcF31fEzBO6akL_HHkBg;2_VsJByiXXU;2022-07-30T14:27:53Z;"📺 New #rstatsvideo: onboard use automatic code styling
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2_VsJByiXXU"
+UCHCdYfAXVzJIUkMoMSGiZMw;rVREh3RRFTM;2022-07-31T00:02:58Z;"📺 New #rstatsvideo: CDSB2021: Anotación de clusters de células
+▶ Community of Bioinformatics Software Developers (@CDSBMexico)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=rVREh3RRFTM"
