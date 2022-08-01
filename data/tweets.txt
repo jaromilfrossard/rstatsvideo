@@ -12412,3 +12412,23 @@ UCHCdYfAXVzJIUkMoMSGiZMw;rVREh3RRFTM;2022-07-31T00:02:58Z;"📺 New #rstatsvideo
 🗣 🇪🇸
 #rstats
 🔗 https://www.youtube.com/watch?v=rVREh3RRFTM"
+UCyHEww8_SCdxZvEnkCfi55w;V9rdfTNM-Uc;2022-07-31T14:00:21Z;"📺 New #rstatsvideo: Draw Error Bars with Connected Mean Points in R ggplot2 Plot | geom_errorbar, geom_line & geom_point
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #rprogramming
+🔗 https://www.youtube.com/watch?v=V9rdfTNM-Uc"
+UCHCdYfAXVzJIUkMoMSGiZMw;I5TXA_Nsr_A;2022-07-31T23:32:19Z;"📺 New #rstatsvideo: CDSB2021: Análisis de expresión diferencial
+▶ Community of Bioinformatics Software Developers (@CDSBMexico)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=I5TXA_Nsr_A"
+UCsqrrplF84DQckpGQuTKTMg;MLsD8dCbQtc;2022-08-01T03:42:38Z;"📺 New #rstatsvideo: 161.122 Statistics: Workshop A05 2022
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=MLsD8dCbQtc"
+UCdrnsZd2xWjDjHUlYsA6Kfw;MyOKK36TisE;2022-08-01T07:10:09Z;"📺 New #rstatsvideo: How to create self-contained HTML files in Quarto
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters
+🔗 https://www.youtube.com/watch?v=MyOKK36TisE"
