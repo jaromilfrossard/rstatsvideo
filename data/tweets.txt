@@ -12432,3 +12432,18 @@ UCdrnsZd2xWjDjHUlYsA6Kfw;MyOKK36TisE;2022-08-01T07:10:09Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters
 🔗 https://www.youtube.com/watch?v=MyOKK36TisE"
+UCyHEww8_SCdxZvEnkCfi55w;OcyIeyJwQzY;2022-08-01T14:00:09Z;"📺 New #rstatsvideo: Add Number of Observations by Group to ggplot2 Boxplot in R (Example) | Count Labels | annotate()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=OcyIeyJwQzY"
+UCGuktEl5InrcxPfCjmPWxsA;ir-NMcrYD-I;2022-08-01T16:00:33Z;"📺 New #rstatsvideo: Visualizing correlation with double y-axes using the ggplot2 R package (CC235)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #doubleyaxesggplot2correlation #doulbeyaxesggplot2correlation #doubleyaxis
+🔗 https://www.youtube.com/watch?v=ir-NMcrYD-I"
+UCo0s7d_ZTrEIfjOhHC_aCGg;nSHdexumsWs;2022-08-02T04:23:14Z;"📺 New #rstatsvideo: Sesión 1 - Grupo de estudio ""Mastering Shiny""
+▶ R-Ladies Lima (@RLadiesLima)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=nSHdexumsWs"
