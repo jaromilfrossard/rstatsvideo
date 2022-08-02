@@ -243,6 +243,7 @@ UCyf1AvRK4gmfRUJjeBNMauA;Tunis R User Group;TunisRUserGroup
 UC6mKz34g2V8Ee6VAQbiYx3Q;Tyler Morgan-Wall;tylermorganwall
 UCQ2fY9JECnDzjK4JdFdhpCg;UCLA Library Data Science Center;
 UCmU-94bz7OxehQnkQ1VlUMg;Udemy Free Course;
+UCv_a9ZGZOH588wUZHZl6T_g;useR! Conference;_useRconf
 UC4JoQFwsdvtEYJcPRqXyv1Q;useRchile;
 UCZQlpKYQPlf2QNVdSv_TRdg;UseR Oslo;OURmeetup
 UC_sejq_JJ49KiiK4qh5r-wg;Universe of Data Science;unidatascience
