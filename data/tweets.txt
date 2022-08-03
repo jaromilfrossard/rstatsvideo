@@ -12447,3 +12447,45 @@ UCo0s7d_ZTrEIfjOhHC_aCGg;nSHdexumsWs;2022-08-02T04:23:14Z;"📺 New #rstatsvideo
 🗣 🇪🇸
 #rstats
 🔗 https://www.youtube.com/watch?v=nSHdexumsWs"
+UCjXQyxs1iyEg5v98fezgT0w;H5xAsz8Jp-U;2022-08-02T07:00:05Z;"📺 New #rstatsvideo: Robuste Standardfehler (HC3, HC4) in R bei Heteroskedastizität
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #hc3 #hc4 #robusterstandarfehler #robustestandardfehler #homoskedastitzitätstandardfehler
+🔗 https://www.youtube.com/watch?v=H5xAsz8Jp-U"
+UCdaVFEwp9vOvqUCpbCHY7cw;V526eCkhUE0;2022-08-02T09:37:52Z;"📺 New #rstatsvideo: R Ladies 16th Meet Up: Intro to Working with Spatial Data in R
+▶ R-Ladies Jakarta (@RLadiesJakarta)
+#rstats
+🔗 https://www.youtube.com/watch?v=V526eCkhUE0"
+UCmBDds7HAhpG6ZUj9FC2s9Q;Um30XJAm0Vc;2022-08-02T11:30:06Z;"📺 New #rstatsvideo: Effect size of Pairwise Comparisons using emmeans
+▶ Lacey Maths & Stats Consultancy (@seanwithafada)
+#rstats #goodpracticeinstatisticalanalysis #emmeans #effectsize #estimatedmarginalmeans
+🔗 https://www.youtube.com/watch?v=Um30XJAm0Vc"
+UCyHEww8_SCdxZvEnkCfi55w;3kmctjHBo5Y;2022-08-02T14:00:02Z;"📺 New #rstatsvideo: Find Elements in String Vector that Contain Certain Character in R (2 Examples) | grep & str_detect
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=3kmctjHBo5Y"
+UC5FvzLMVNrTMW-ycrW-4KyA;8sSLJJyw2lA;2022-08-02T15:50:30Z;"📺 New #rstatsvideo: Qmd 작성방법 마스터!
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #r프로그래밍 #데이터사이언스 #기초통계 #r강의 #수리통계 #대학통계 #tidyverse #데이터분석 #adp #혼공 #studywithme #공부자극 #대쉬보드 #롤 #게임분석
+🔗 https://www.youtube.com/watch?v=8sSLJJyw2lA"
+UCg4rv97QEhN-2gvLhrGMgEw;ZVAcUh8sRHM;2022-08-02T18:53:32Z;"📺 New #rstatsvideo: Crie planejamento semanal personalizado no R - Pacote ggweekly
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=ZVAcUh8sRHM"
+UCDHzgi5BGU5F-LXxQIIOyDw;FWrxW68lAnY;2022-08-03T02:06:26Z;"📺 New #rstatsvideo: A Quarto tip a day を眺めてみる （2022/8/2）
+▶ yutannihilationのチャンネル (仮) (@yutannihilation)
+#rstats #rstatsj
+🔗 https://www.youtube.com/watch?v=FWrxW68lAnY"
+UCsqrrplF84DQckpGQuTKTMg;6lHGEvd7R5g;2022-08-03T02:10:51Z;"📺 New #rstatsvideo: 161.122 Statistics: Workshop A06 2022
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=6lHGEvd7R5g"
+UCfu2GCdjq50W-kL-cv3rcLw;6PkCu6LhLBg;2022-08-03T04:09:44Z;"📺 New #rstatsvideo: Independent samples t-test, Levene’s test, effect size, and normality in RStudio / R
+▶ Statistics & Theory (@VahidAryadoust)
+🗣 🇬🇧
+#rstats #ttest #levenestestofequalityofvariances #homogeneityofvariances
+🔗 https://www.youtube.com/watch?v=6PkCu6LhLBg"
