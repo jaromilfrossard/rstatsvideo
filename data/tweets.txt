@@ -12489,3 +12489,62 @@ UCfu2GCdjq50W-kL-cv3rcLw;6PkCu6LhLBg;2022-08-03T04:09:44Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #ttest #levenestestofequalityofvariances #homogeneityofvariances
 🔗 https://www.youtube.com/watch?v=6PkCu6LhLBg"
+UCyHEww8_SCdxZvEnkCfi55w;VJE4rdeAGtw;2022-08-03T14:00:16Z;"📺 New #rstatsvideo: Convert Date of Birth to Age in R (Example) | Birthday Until Today in Years | age_calc() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=VJE4rdeAGtw"
+UC5FvzLMVNrTMW-ycrW-4KyA;yQ9Th5jtA-g;2022-08-03T15:10:13Z;"📺 New #rstatsvideo: 실전에서 바로 쓰는 시계열 데이터 처리와 분석! 고수 초대석 - 이기준님
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #r프로그래밍 #데이터사이언스 #기초통계 #r강의 #수리통계 #대학통계 #tidyverse #데이터분석 #adp #혼공
+🔗 https://www.youtube.com/watch?v=yQ9Th5jtA-g"
+UCYjjz8ANtLZNu9u4P6tHh9g;DpiyeQO_L3I;2022-08-03T15:32:00Z;"📺 New #rstatsvideo: Aprendiendo visualización con Bad Bunny
+▶ R-Ladies Ecuador (@RLadiesBquilla)
+#rstats
+🔗 https://www.youtube.com/watch?v=DpiyeQO_L3I"
+UCpSo0ZG5FtMyKwGnHaGnvrA;k8ibOWcUEqQ;2022-08-03T17:21:51Z;"📺 New #rstatsvideo: Strings and Factors
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #datascience #wvview #americaview #rlanguage #tidyverse
+🔗 https://www.youtube.com/watch?v=k8ibOWcUEqQ"
+UCpSo0ZG5FtMyKwGnHaGnvrA;ud9CKZIcs_M;2022-08-03T17:22:41Z;"📺 New #rstatsvideo: Vector in R
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #datascience #wvview #americaview #rlanguage
+🔗 https://www.youtube.com/watch?v=ud9CKZIcs_M"
+UCpSo0ZG5FtMyKwGnHaGnvrA;R2hlmzEYOG0;2022-08-03T17:23:27Z;"📺 New #rstatsvideo: Arrays in R
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #wvview #americaview #datascience #rlanguage
+🔗 https://www.youtube.com/watch?v=R2hlmzEYOG0"
+UCpSo0ZG5FtMyKwGnHaGnvrA;uNbHIe7WEIs;2022-08-03T17:24:42Z;"📺 New #rstatsvideo: Data Frames in R
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #wvview #americaview #dataframes #datascience #rlanguage
+🔗 https://www.youtube.com/watch?v=uNbHIe7WEIs"
+UCpSo0ZG5FtMyKwGnHaGnvrA;v1x2Anq0f_g;2022-08-03T17:25:31Z;"📺 New #rstatsvideo: R Data Types
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #wvview #americaview #rlanguage #datascience
+🔗 https://www.youtube.com/watch?v=v1x2Anq0f_g"
+UCpSo0ZG5FtMyKwGnHaGnvrA;hYT32WHQEqE;2022-08-03T17:26:20Z;"📺 New #rstatsvideo: Factors in R
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #wvview #americaview #datascience #factors #rlanguage
+🔗 https://www.youtube.com/watch?v=hYT32WHQEqE"
+UCpSo0ZG5FtMyKwGnHaGnvrA;_o7Ssl49XKQ;2022-08-03T17:27:33Z;"📺 New #rstatsvideo: Functions in R
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #wvview #americaview #datascience #rlanguage
+🔗 https://www.youtube.com/watch?v=_o7Ssl49XKQ"
+UCpSo0ZG5FtMyKwGnHaGnvrA;U4AR1Cp-2Go;2022-08-03T17:28:40Z;"📺 New #rstatsvideo: Graphing with ggplot2 Part I
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #rlanguage #ggplot2 #graphing #datascience #wvview #americaview
+🔗 https://www.youtube.com/watch?v=U4AR1Cp-2Go"
+UCpSo0ZG5FtMyKwGnHaGnvrA;fbCPkPXEw7g;2022-08-03T17:29:39Z;"📺 New #rstatsvideo: Graphs with ggplot2 Part II
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #wvview #americaview #ggplot2 #graphing #rlanguage #datascience
+🔗 https://www.youtube.com/watch?v=fbCPkPXEw7g"
