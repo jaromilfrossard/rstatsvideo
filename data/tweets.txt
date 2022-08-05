@@ -12548,3 +12548,76 @@ UCpSo0ZG5FtMyKwGnHaGnvrA;fbCPkPXEw7g;2022-08-03T17:29:39Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #wvview #americaview #ggplot2 #graphing #rlanguage #datascience
 🔗 https://www.youtube.com/watch?v=fbCPkPXEw7g"
+UCpSo0ZG5FtMyKwGnHaGnvrA;RS5ozBgst50;2022-08-03T17:31:44Z;"📺 New #rstatsvideo: If Else in R Language
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #rlanguage #datascience #wvview #americaview
+🔗 https://www.youtube.com/watch?v=RS5ozBgst50"
+UCpSo0ZG5FtMyKwGnHaGnvrA;5v3jwOq-1M4;2022-08-03T17:32:35Z;"📺 New #rstatsvideo: Loops in R
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #wvview #americaview #datascience #rlanguage
+🔗 https://www.youtube.com/watch?v=5v3jwOq-1M4"
+UCpSo0ZG5FtMyKwGnHaGnvrA;OUnSpgbTlxU;2022-08-03T17:33:29Z;"📺 New #rstatsvideo: Matrices in R.
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #wvview #americaview #rlanguage #datascience
+🔗 https://www.youtube.com/watch?v=OUnSpgbTlxU"
+UCpSo0ZG5FtMyKwGnHaGnvrA;3Sxmo9qVxZY;2022-08-03T17:34:15Z;"📺 New #rstatsvideo: Reading Tables into R
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #wvview #americaview #rlanguage #datascience
+🔗 https://www.youtube.com/watch?v=3Sxmo9qVxZY"
+UCpSo0ZG5FtMyKwGnHaGnvrA;AO7FFLYPWJo;2022-08-03T17:35:11Z;"📺 New #rstatsvideo: Variables in R
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #wvview #americaview #rlanguage #datascience
+🔗 https://www.youtube.com/watch?v=AO7FFLYPWJo"
+UCpSo0ZG5FtMyKwGnHaGnvrA;UUz-LwPq1GI;2022-08-03T17:36:15Z;"📺 New #rstatsvideo: Data Wrangling in Base R
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #wvview #americaview #rlanguage #datascience #datawrangling
+🔗 https://www.youtube.com/watch?v=UUz-LwPq1GI"
+UCpSo0ZG5FtMyKwGnHaGnvrA;xImEg3v0wjc;2022-08-03T17:37:19Z;"📺 New #rstatsvideo: Data Wrangling with dplyr in R
+▶ Aaron Maxwell
+🗣 🇬🇧
+#rstats #wvview #americaview #datascience #rlanguage #datawrangling #tidyverse #dplyr
+🔗 https://www.youtube.com/watch?v=xImEg3v0wjc"
+UCfqX9h4wkDzXQIdfcrpLBMQ;xMJTylr4E30;2022-08-04T00:47:57Z;"📺 New #rstatsvideo: Generative Adversarial Networks | Data Science Summer School 2022
+▶ Hertie School Data Science Lab (@Hertie_DSLab)
+#rstats
+🔗 https://www.youtube.com/watch?v=xMJTylr4E30"
+UCo0s7d_ZTrEIfjOhHC_aCGg;vRUdRnX8m-c;2022-08-04T04:31:23Z;"📺 New #rstatsvideo: Sesión 2 - Grupo de estudio ""Mastering Shiny""
+▶ R-Ladies Lima (@RLadiesLima)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=vRUdRnX8m-c"
+UCpjsdW-snzkUAx0lvqTJ7WA;oDUlZS4fTQE;2022-08-04T10:38:16Z;"📺 New #rstatsvideo: R Tutorial- Dealing with missing data
+▶ Statistics Guides with Dr Paul Christiansen (@ChristiansenLiv)
+🗣 🇬🇧
+#rstats #na #rstudio #datacleaning #deletemissing #missingdata #omitmissing #stats #substituemissing
+🔗 https://www.youtube.com/watch?v=oDUlZS4fTQE"
+UCyHEww8_SCdxZvEnkCfi55w;17ux1o4Pg84;2022-08-04T14:00:02Z;"📺 New #rstatsvideo: Extract stat_smooth Regression Line Fit from ggplot2 Plot in R (Example) | ggplot_build() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=17ux1o4Pg84"
+UCGuktEl5InrcxPfCjmPWxsA;v1hTB2b_YkE;2022-08-04T16:00:37Z;"📺 New #rstatsvideo: Stylizing the appearance of facet labels with ggplot2's facet_wrap (CC236)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #ggplot2facetlabels #ggplot2facetwrap #ggplot2theme #ggplotfacetwrap #ggplot2labeller
+🔗 https://www.youtube.com/watch?v=v1hTB2b_YkE"
+UCTTBgWyJl2HrrhQOOc710kA;DK4ERlywtUI;2022-08-04T17:18:56Z;"📺 New #rstatsvideo: Sliding window aggregation for rents in San Francisco
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=DK4ERlywtUI"
+UCBsXfUO__nzMnlaLLUx7DFQ;nvfQuOLr9Ug;2022-08-04T19:44:23Z;"📺 New #rstatsvideo: R Finance: The Rule of 72
+▶ Probability!
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=nvfQuOLr9Ug"
+UCMdihazndR0f9XBoSXWqnYg;JiGRPh49H9A;2022-08-04T23:13:20Z;"📺 New #rstatsvideo: R - Basic Statistics (3.2 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #data #analytics #open #education #rstudio #mean #standarddeviation #median #mode #variance #science #frequency
+🔗 https://www.youtube.com/watch?v=JiGRPh49H9A"
