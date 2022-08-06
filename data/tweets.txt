@@ -12621,3 +12621,33 @@ UCMdihazndR0f9XBoSXWqnYg;JiGRPh49H9A;2022-08-04T23:13:20Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statistics #data #analytics #open #education #rstudio #mean #standarddeviation #median #mode #variance #science #frequency
 🔗 https://www.youtube.com/watch?v=JiGRPh49H9A"
+UCnYkdhuQljgCnGNpCZpPfVA;bRvdPkkVgHQ;2022-08-05T13:00:19Z;"📺 New #rstatsvideo: TABELLA DI FREQUENZA DI UNA SINGOLA VARIABILE (UNIVARIATA)
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=bRvdPkkVgHQ"
+UCg4rv97QEhN-2gvLhrGMgEw;vNSQVJAO9dU;2022-08-05T13:09:30Z;"📺 New #rstatsvideo: Praticando o pacote ggweekly: Crie planejamento semanal personalizado no R
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=vNSQVJAO9dU"
+UCyHEww8_SCdxZvEnkCfi55w;q0HMP_At_Sw;2022-08-05T14:00:35Z;"📺 New #rstatsvideo: Convert Year, Month, Day, Hour, Minutes & Seconds to Date & Time in R (3 Examples) | POSIXlt Class
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=q0HMP_At_Sw"
+UCCaChdLMTYMxyawR_Qf-kYA;G852fyvKl8A;2022-08-05T14:19:50Z;"📺 New #rstatsvideo: R Packages: Other markdown files & Lifecycle (rpkgs03 18 23)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=G852fyvKl8A"
+UCCaChdLMTYMxyawR_Qf-kYA;LkSKXeZTD-0;2022-08-05T14:20:22Z;"📺 New #rstatsvideo: R Packages: Website & Continuous integration (rpkgs03 19 21)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LkSKXeZTD-0"
+UCCaChdLMTYMxyawR_Qf-kYA;akeNn1HBxYI;2022-08-05T18:37:30Z;"📺 New #rstatsvideo: Bayes Rules! Posterior Inference & Prediction (bayes_rules01 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=akeNn1HBxYI"
