@@ -12651,3 +12651,62 @@ UCCaChdLMTYMxyawR_Qf-kYA;akeNn1HBxYI;2022-08-05T18:37:30Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=akeNn1HBxYI"
+UCCaChdLMTYMxyawR_Qf-kYA;wrN7Xv85dWM;2022-08-05T20:15:27Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Tidy evaluation (mshiny03 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wrN7Xv85dWM"
+UCCaChdLMTYMxyawR_Qf-kYA;9n7IX3Y-6zw;2022-08-05T20:37:40Z;"📺 New #rstatsvideo: Bayes Rules! Simple Normal Regression (bayes_rules01 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9n7IX3Y-6zw"
+UC5FvzLMVNrTMW-ycrW-4KyA;P_GitTDHL20;2022-08-06T05:31:00Z;"📺 New #rstatsvideo: 시계열 데이터 처리와 분석 - tsibble 데이터 시각화 방법
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=P_GitTDHL20"
+UCyHEww8_SCdxZvEnkCfi55w;sPu0hYMmNB4;2022-08-06T14:00:20Z;"📺 New #rstatsvideo: Access Attributes of Data Object in R (2 Examples) | Extract Information | attributes() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=sPu0hYMmNB4"
+UCCaChdLMTYMxyawR_Qf-kYA;oo2eX7MPJLo;2022-08-06T15:11:08Z;"📺 New #rstatsvideo: FPP: Time series features (fpp01 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=oo2eX7MPJLo"
+UCCaChdLMTYMxyawR_Qf-kYA;BQsNQljOujM;2022-08-06T15:11:38Z;"📺 New #rstatsvideo: JS4R: Final Revisions (js4r01 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=BQsNQljOujM"
+UCCaChdLMTYMxyawR_Qf-kYA;buUaaOu89EQ;2022-08-06T15:20:38Z;"📺 New #rstatsvideo: Advanced R: Environments (advr06 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=buUaaOu89EQ"
+UCCaChdLMTYMxyawR_Qf-kYA;LD2xOX_svU0;2022-08-06T15:21:00Z;"📺 New #rstatsvideo: R for Data Science: Many models (r4ds06 23)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LD2xOX_svU0"
+UCg6kociUghEgKz_hLRKQrMQ;1S1YucfulUs;2022-08-06T19:20:02Z;"📺 New #rstatsvideo: Edita tus datos facilmente con DataEditR en #R!
+▶ R Data Science School
+#rstats #wondersharefilmora
+🔗 https://www.youtube.com/watch?v=1S1YucfulUs"
+UCCaChdLMTYMxyawR_Qf-kYA;VMX95Dap39Y;2022-08-06T20:23:49Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Why reactivity? (mshiny03 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VMX95Dap39Y"
+UCybzXlZh--K4XRs48s72tnw;BKwD8CnLiPQ;2022-08-07T01:11:49Z;"📺 New #rstatsvideo: Cài đặt R và RStudio trên Windows
+▶ R stats
+🗣 🇻🇳
+#rstats #rprogramminglanguage #rstudio #spss #statistics #research #medicalresearch #phântíchsốliệu
+🔗 https://www.youtube.com/watch?v=BKwD8CnLiPQ"
+UCybzXlZh--K4XRs48s72tnw;ah77js36I2k;2022-08-07T01:24:08Z;"📺 New #rstatsvideo: Giao diện của RStudio
+▶ R stats
+🗣 🇻🇳
+#rstats #rprogramminglanguage #rstudio #spss #statistics #research #medicalresearch #phântíchsốliệu
+🔗 https://www.youtube.com/watch?v=ah77js36I2k"
