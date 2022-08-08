@@ -12710,3 +12710,32 @@ UCybzXlZh--K4XRs48s72tnw;ah77js36I2k;2022-08-07T01:24:08Z;"📺 New #rstatsvideo
 🗣 🇻🇳
 #rstats #rprogramminglanguage #rstudio #spss #statistics #research #medicalresearch #phântíchsốliệu
 🔗 https://www.youtube.com/watch?v=ah77js36I2k"
+UCsqrrplF84DQckpGQuTKTMg;UX6zWHjIW8E;2022-08-07T06:00:06Z;"📺 New #rstatsvideo: 161.122 Statistics: Workshop A07
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=UX6zWHjIW8E"
+UCtuMKU3a96iqTe1b7JNfhDw;RntWjipx6vg;2022-08-07T09:40:25Z;"📺 New #rstatsvideo: Hands on ggplot2 package (in English)
+▶ R-Ladies Urmia (@RLadiesUrmia)
+🗣 🇬🇧
+#rstats #data #rstudio #visualization
+🔗 https://www.youtube.com/watch?v=RntWjipx6vg"
+UCyHEww8_SCdxZvEnkCfi55w;gso6wu0EwF4;2022-08-07T14:00:18Z;"📺 New #rstatsvideo: Add Fitted Line within Certain Range to Plot in R (Example) | Regression Slope in Base R & ggplot2
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=gso6wu0EwF4"
+UC9Sm1qcdzyGVjQMgWsW4pcw;6QYnzuqvbnw;2022-08-07T18:58:20Z;"📺 New #rstatsvideo: Distill Tutorial: Setting up Our Nav Bar and Getting Started Page
+▶ Jennifer Sloane (@jfsloane)
+🗣 🇬🇧
+#rstats #distill #rdistill #distilltutorial #rdistilltutorial #buildingwebsitedistill #distillnavbar
+🔗 https://www.youtube.com/watch?v=6QYnzuqvbnw"
+UCP8l94xtoemCH_GxByvTuFQ;Wzo30S_zpG0;2022-08-07T19:00:09Z;"📺 New #rstatsvideo: TidyX Episode 112 | R Classes and Objects - Making an S3 Object - Part 3 - S3 Tournament
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming
+🔗 https://www.youtube.com/watch?v=Wzo30S_zpG0"
+UCsqrrplF84DQckpGQuTKTMg;ggGxiDr_vTU;2022-08-07T23:37:18Z;"📺 New #rstatsvideo: 161.122 Statistics: Getting quiz data into rstudio (and rstudio projects)
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ggGxiDr_vTU"

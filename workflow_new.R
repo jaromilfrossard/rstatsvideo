@@ -63,7 +63,7 @@ validate_new_channels()
 #update channels videos
 
 
-walk(tb_channel$id_channel, update_channel_video)
+walk(tb_channel$id_channel[-c(1:89)], update_channel_video)
 #which(tb_channel$id_channel=="UCPque9BaFV9p0hcgImrYBzg")
 
 
@@ -108,7 +108,7 @@ videos%>%
 
 
 ###updating performance
-tb_perf <- update_performance_oldest(100)
+tb_perf <- update_performance_oldest(50)
 tb_perf <- update_performance_ratio(100)
 
 
