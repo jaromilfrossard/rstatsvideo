@@ -12739,3 +12739,32 @@ UCsqrrplF84DQckpGQuTKTMg;ggGxiDr_vTU;2022-08-07T23:37:18Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=ggGxiDr_vTU"
+UCtpGCWyRdscfs6KflWjACKw;d4OD2j-MP5o;2022-08-08T12:54:19Z;"📺 New #rstatsvideo: Uso do R em estimativas de parâmetros populacionais na ecologia
+▶ RLadies Belo Horizonte (@RLadiesBH)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=d4OD2j-MP5o"
+UCyHEww8_SCdxZvEnkCfi55w;HcttxmymP8U;2022-08-08T14:00:08Z;"📺 New #rstatsvideo: Calculate Percentage by Group in R (2 Examples) | Subgroup Probability | group_by & mutate Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=HcttxmymP8U"
+UCGuktEl5InrcxPfCjmPWxsA;1Vs-ckEI94M;2022-08-08T16:00:00Z;"📺 New #rstatsvideo: Fitting and visualizing linear regression models with the ggplot2 R package (CC237)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #linearmodelsr #linearmixedmodelsr #linearmodelsregression #rlmggplot2
+🔗 https://www.youtube.com/watch?v=1Vs-ckEI94M"
+UCmBDds7HAhpG6ZUj9FC2s9Q;6l74WGir00M;2022-08-08T17:45:00Z;"📺 New #rstatsvideo: Plot of Effect Sizes from Pairwise Comparisons
+▶ Lacey Maths & Stats Consultancy (@seanwithafada)
+#rstats #goodpracticeinstatisticalanalysis #effectsize #pairwisecomparisons #emmeans #linearmixedmodels
+🔗 https://www.youtube.com/watch?v=6l74WGir00M"
+UC1A-TUhyfNOpHcNM8da6tJQ;5BrGPmC7PPA;2022-08-08T17:49:29Z;"📺 New #rstatsvideo: Publicar página web en GitHub Pages | GitHub Pages como hosting para páginas web | RMarkdown HTML
+▶ Renzo Caceres Rossi (@ARenzoCaceresR)
+🗣 🇪🇸
+#rstats #githubpagesparapublicarwebsite #githubpagestutorial
+🔗 https://www.youtube.com/watch?v=5BrGPmC7PPA"
+UCCaChdLMTYMxyawR_Qf-kYA;ONEtOcZMoZY;2022-08-09T00:28:03Z;"📺 New #rstatsvideo: ISLR: Survival Analysis & Censored Data Part 2 (islr03 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ONEtOcZMoZY"

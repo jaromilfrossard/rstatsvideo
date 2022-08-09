@@ -108,7 +108,7 @@ videos%>%
 
 
 ###updating performance
-tb_perf <- update_performance_oldest(50)
+tb_perf <- update_performance_oldest(100)
 tb_perf <- update_performance_ratio(100)
 
 
