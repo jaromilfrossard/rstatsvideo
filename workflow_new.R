@@ -63,7 +63,7 @@ validate_new_channels()
 #update channels videos
 
 
-walk(tb_channel$id_channel[-c(1:89)], update_channel_video)
+walk(tb_channel$id_channel, update_channel_video)
 #which(tb_channel$id_channel=="UCPque9BaFV9p0hcgImrYBzg")
 
 

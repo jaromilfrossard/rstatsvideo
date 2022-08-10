@@ -12768,3 +12768,37 @@ UCCaChdLMTYMxyawR_Qf-kYA;ONEtOcZMoZY;2022-08-09T00:28:03Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=ONEtOcZMoZY"
+UCCaChdLMTYMxyawR_Qf-kYA;z1DY5xzHUKY;2022-08-09T00:29:38Z;"📺 New #rstatsvideo: FPP: The forecaster’s toolbox (fpp01 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=z1DY5xzHUKY"
+UCjXQyxs1iyEg5v98fezgT0w;r4bNoI0nZfQ;2022-08-09T07:00:15Z;"📺 New #rstatsvideo: Polynomiale Regression mit R
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #polynomialeregressionr #polinomialeregressionr #nichtlineareregressionr
+🔗 https://www.youtube.com/watch?v=r4bNoI0nZfQ"
+UCyHEww8_SCdxZvEnkCfi55w;37l9A45R678;2022-08-09T14:00:01Z;"📺 New #rstatsvideo: Set Multiple Split Arguments in strsplit Function in R (Example) | How to Divide a Character String
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=37l9A45R678"
+UCg4rv97QEhN-2gvLhrGMgEw;UtJ5kuTHRAY;2022-08-09T16:06:32Z;"📺 New #rstatsvideo: Teste Z para proporções - Entenda
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=UtJ5kuTHRAY"
+UC3xfbCMLCw1Hh4dWop3XtHg;yvi5uXQMvu4;2022-08-09T18:33:02Z;"📺 New #rstatsvideo: Welcome to Quarto Workshop!
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=yvi5uXQMvu4"
+UCE3OyQLmrQ5tnKc9qDIZbtw;jx4bU10Q3d4;2022-08-09T20:52:35Z;"📺 New #rstatsvideo: Add a new functionality fo {fusen} using {fusen}: inception
+▶ ThinkR Rstats (@thinkR_fr)
+🗣 🇬🇧
+#rstats #rmarkdown #rstudio #fusen
+🔗 https://www.youtube.com/watch?v=jx4bU10Q3d4"
+UCDHzgi5BGU5F-LXxQIIOyDw;j3Ybd3FBGz8;2022-08-10T02:06:32Z;"📺 New #rstatsvideo: ggplot2 v3.4.0（予定）のリリースノートを眺めてみる （2022/8/9）
+▶ yutannihilationのチャンネル (仮) (@yutannihilation)
+#rstats #rstatsj
+🔗 https://www.youtube.com/watch?v=j3Ybd3FBGz8"
