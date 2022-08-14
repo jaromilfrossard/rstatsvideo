@@ -103,7 +103,7 @@ videos<-
 
 videos%>%
   arrange(ymd_hms_video)%>%
-  {pwalk(list(.$id_channel, .$id_video, .$ymd_hms_video,.$tweet),post_videos,delay=300)}
+  {pwalk(list(.$id_channel, .$id_video, .$ymd_hms_video,.$tweet),post_videos,delay=40)}
 
 
 

@@ -12802,3 +12802,92 @@ UCDHzgi5BGU5F-LXxQIIOyDw;j3Ybd3FBGz8;2022-08-10T02:06:32Z;"📺 New #rstatsvideo
 ▶ yutannihilationのチャンネル (仮) (@yutannihilation)
 #rstats #rstatsj
 🔗 https://www.youtube.com/watch?v=j3Ybd3FBGz8"
+UCXuX-kQ1TbKHWeB75NgmhlA;YrTSdKVvaZ8;2022-08-10T12:00:32Z;"📺 New #rstatsvideo: R for beginners | Part 10: Graphs with ggplot | Most important R commands
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #rprogramminglanguage #datascience #rprogramming #rprogrammingtutorial
+🔗 https://www.youtube.com/watch?v=YrTSdKVvaZ8"
+UCyHEww8_SCdxZvEnkCfi55w;VLPRmhHuS_A;2022-08-10T14:00:17Z;"📺 New #rstatsvideo: Draw ggplot2 Plot with Factor on X-Axis in R (Example) | geom_line() Function of the ggplot2 Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=VLPRmhHuS_A"
+UCCaChdLMTYMxyawR_Qf-kYA;FXE2bfWFx7I;2022-08-10T15:36:50Z;"📺 New #rstatsvideo: Modelado Tidy con R - 12. Ajuste de Modelos y los Peligros de Sobreajuste (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=FXE2bfWFx7I"
+UCCaChdLMTYMxyawR_Qf-kYA;EmjihW5HT7U;2022-08-10T21:41:49Z;"📺 New #rstatsvideo: JS4R: Bidirectional Communication (js4r01 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EmjihW5HT7U"
+UC5w9xVTs77__zlEeRRQILpw;RbVbFXDkV68;2022-08-11T05:14:37Z;"📺 New #rstatsvideo: How to make many models with TidyModels: Classification
+▶ Federica Gazzelloni (@FGazzelloni)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=RbVbFXDkV68"
+UCdrnsZd2xWjDjHUlYsA6Kfw;BwRwjAbXSSU;2022-08-11T06:27:46Z;"📺 New #rstatsvideo: How to plot a color coded map of USA in R
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters #usa #map
+🔗 https://www.youtube.com/watch?v=BwRwjAbXSSU"
+UCTXuqtCYxPVEehq6fJY9GkA;gedsnuMqUdQ;2022-08-11T12:50:54Z;"📺 New #rstatsvideo: ggplot de qualquer coisa
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=gedsnuMqUdQ"
+UCyHEww8_SCdxZvEnkCfi55w;66grtN8Lq8Q;2022-08-11T14:00:03Z;"📺 New #rstatsvideo: Replace NA by FALSE in R (Example) | Exchange in Data Frame Column | Base R & dplyr Package | is.na
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=66grtN8Lq8Q"
+UCCaChdLMTYMxyawR_Qf-kYA;HOTwWnXWnLo;2022-08-11T14:34:05Z;"📺 New #rstatsvideo: Bayes Rules! Approximating the Posterior (bayes_rules02 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=HOTwWnXWnLo"
+UCCaChdLMTYMxyawR_Qf-kYA;VwmrbPUQY1k;2022-08-11T14:34:32Z;"📺 New #rstatsvideo: Advanced R: Conditions (advr06 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VwmrbPUQY1k"
+UCGuktEl5InrcxPfCjmPWxsA;Ky8CIMZzO54;2022-08-11T16:00:21Z;"📺 New #rstatsvideo: Using factors in R to create a new calendar and see how much snow do we get in Michigan (CC238)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #snowmichigan #rsnow #snownoaa #snowclimatechange #ggplot2snow
+🔗 https://www.youtube.com/watch?v=Ky8CIMZzO54"
+UCcGXGFClRdnrwXsPHi7P4ZA;r3uKkmU4VQE;2022-08-11T18:51:18Z;"📺 New #rstatsvideo: R package reviews | sjPlot | Easily Visualize Data And Model Results
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #machinelearning #clearlyexplained #datascience #dataanalysis #forbeginners #stats
+🔗 https://www.youtube.com/watch?v=r3uKkmU4VQE"
+UCrpq9hzMQSq0ldVcXlLgpvQ;vsAkgl--I5I;2022-08-12T12:00:38Z;"📺 New #rstatsvideo: Variational Autoencoder Explained
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudiotutorial #machinelearning #rprogramming #statisticalanalysis #datageneration
+🔗 https://www.youtube.com/watch?v=vsAkgl--I5I"
+UCnYkdhuQljgCnGNpCZpPfVA;5yt5mhvHOkQ;2022-08-12T13:00:04Z;"📺 New #rstatsvideo: TABELLA A DOPPIA ENTRATA
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=5yt5mhvHOkQ"
+UCyHEww8_SCdxZvEnkCfi55w;k1fO3-5ZLqg;2022-08-12T14:00:19Z;"📺 New #rstatsvideo: Get Column Names of Data Frame in R (2 Examples) | Variable in Matrix | colnames & names Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=k1fO3-5ZLqg"
+UCg4rv97QEhN-2gvLhrGMgEw;TLn1xeT-Wss;2022-08-12T14:20:25Z;"📺 New #rstatsvideo: Teste Z para proporções - Pratique no R
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=TLn1xeT-Wss"
+UCCaChdLMTYMxyawR_Qf-kYA;QOKMXNn1X5o;2022-08-12T14:22:54Z;"📺 New #rstatsvideo: R Packages: R CMD check, Releasing to CRAN (rpkgs03 20 22)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=QOKMXNn1X5o"
+UCN-OX45aSM1VtXkzocx8Ppg;q0uGggl3RbM;2022-08-12T19:40:53Z;"📺 New #rstatsvideo: Data Science with the Tidyverse in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=q0uGggl3RbM"
