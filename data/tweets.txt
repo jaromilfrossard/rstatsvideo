@@ -12891,3 +12891,77 @@ UCN-OX45aSM1VtXkzocx8Ppg;q0uGggl3RbM;2022-08-12T19:40:53Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=q0uGggl3RbM"
+UCN-OX45aSM1VtXkzocx8Ppg;Stt3qEuIeso;2022-08-12T19:44:44Z;"📺 New #rstatsvideo: Introducing the Pipe Operator in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Stt3qEuIeso"
+UCMdihazndR0f9XBoSXWqnYg;kTAVO-W2p3M;2022-08-12T22:10:08Z;"📺 New #rstatsvideo: R & Python - Latent Semantic Analysis
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #modeling #language
+🔗 https://www.youtube.com/watch?v=kTAVO-W2p3M"
+UChEWb0dYC8v7wZNWHca9b_A;83J2_iO4Bbw;2022-08-13T09:30:51Z;"📺 New #rstatsvideo: Building Websites in R with Distill
+▶ ArabR
+🗣 🇬🇧
+#rstats #rstudio #distill #website #programming #rcommunities
+🔗 https://www.youtube.com/watch?v=83J2_iO4Bbw"
+UCyHEww8_SCdxZvEnkCfi55w;zwibty-NCnE;2022-08-13T14:00:35Z;"📺 New #rstatsvideo: Draw Stacked Bars within Grouped Barplot in R (Example) | ggplot2 Barchart | facet_grid() & aes()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=zwibty-NCnE"
+UCCaChdLMTYMxyawR_Qf-kYA;FlC0-3B1ZFk;2022-08-13T19:00:58Z;"📺 New #rstatsvideo: Bayes Rules! Evaluating Regression Models (bayes_rules01 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=FlC0-3B1ZFk"
+UCCaChdLMTYMxyawR_Qf-kYA;prc4_l2SIbw;2022-08-13T19:51:40Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: The reactive graph (mshiny03 14)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=prc4_l2SIbw"
+UCP8l94xtoemCH_GxByvTuFQ;SrERb05UVAo;2022-08-14T07:00:08Z;"📺 New #rstatsvideo: TidyX Episode 113 | R Classes and Objects - Making an S4 Object - Part 1
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown
+🔗 https://www.youtube.com/watch?v=SrERb05UVAo"
+UCyHEww8_SCdxZvEnkCfi55w;b97Od5PkzIQ;2022-08-14T14:00:30Z;"📺 New #rstatsvideo: How to Create a Vector with Names in R (Example Code) | Named Numerical Values | setNames() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=b97Od5PkzIQ"
+UC5w9xVTs77__zlEeRRQILpw;hqhGek5ZF98;2022-08-14T21:10:00Z;"📺 New #rstatsvideo: How to make variable importance visualization with ggplot2 (part 2 of Oregon Spotted a Frog series)
+▶ Federica Gazzelloni (@FGazzelloni)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hqhGek5ZF98"
+UCPJZmlXMcBiKjoVQ4cpAMIg;AhZ42vSmDmE;2022-08-15T11:30:02Z;"📺 New #rstatsvideo: How to GET data from an API using R in RStudio | Food Bank & Job Search
+▶ Dean Chereden (@deanchereden)
+🗣 🇬🇧
+#rstats #analytics #datascience #howto #rprogramming #rstudio #apitesting #apitutorialforbeginners
+🔗 https://www.youtube.com/watch?v=AhZ42vSmDmE"
+UCyHEww8_SCdxZvEnkCfi55w;dOi4UOXUqBk;2022-08-15T14:00:16Z;"📺 New #rstatsvideo: Draw Multiple ggplot2 Plots with Consistent Width (Example) | Set Same Legend Size | cowplot Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=dOi4UOXUqBk"
+UCGuktEl5InrcxPfCjmPWxsA;1X9GGgOPKcI;2022-08-15T16:00:02Z;"📺 New #rstatsvideo: Creating a sliding window with the slider R package to quantify the level of drought (CC239)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #slidingwindowr #sliderr #slider #slidingwindowaverager
+🔗 https://www.youtube.com/watch?v=1X9GGgOPKcI"
+UCo0s7d_ZTrEIfjOhHC_aCGg;R5vt0kD_6xA;2022-08-15T17:18:23Z;"📺 New #rstatsvideo: Sesión 3 - Grupo de estudio ""Mastering Shiny""
+▶ R-Ladies Lima (@RLadiesLima)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=R5vt0kD_6xA"
+UCo0s7d_ZTrEIfjOhHC_aCGg;nvUDW-6uDbU;2022-08-15T17:40:54Z;"📺 New #rstatsvideo: Sesión 4 - Grupo de estudio ""Mastering Shiny""
+▶ R-Ladies Lima (@RLadiesLima)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=nvUDW-6uDbU"
+UCCaChdLMTYMxyawR_Qf-kYA;oVmyYeyenhQ;2022-08-15T19:20:03Z;"📺 New #rstatsvideo: ISLR: Moving Beyond Linearity Part 1 (islr04 5 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=oVmyYeyenhQ"
