@@ -12965,3 +12965,46 @@ UCCaChdLMTYMxyawR_Qf-kYA;oVmyYeyenhQ;2022-08-15T19:20:03Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=oVmyYeyenhQ"
+UCo0s7d_ZTrEIfjOhHC_aCGg;9z_OxwstL20;2022-08-16T12:35:08Z;"📺 New #rstatsvideo: Sesión 5 - Grupo de estudio ""Mastering Shiny""
+▶ R-Ladies Lima (@RLadiesLima)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=9z_OxwstL20"
+UC6LqpR5qBfNlQp5mVIVsthA;Bly51jHDV20;2022-08-16T12:46:40Z;"📺 New #rstatsvideo: David Granjon: Comprehensive audit of a Shiny app through CICD toward production readiness
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Bly51jHDV20"
+UCyHEww8_SCdxZvEnkCfi55w;O8L14CzaHkU;2022-08-16T14:00:11Z;"📺 New #rstatsvideo: Sum of List Elements in R (2 Examples) | Calculate Within & Between | Reduce() & sapply() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=O8L14CzaHkU"
+UC6LqpR5qBfNlQp5mVIVsthA;pNljrEZnvNY;2022-08-16T17:53:10Z;"📺 New #rstatsvideo: Appsilon Shiny Conf 2022 Masterclass
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=pNljrEZnvNY"
+UC6LqpR5qBfNlQp5mVIVsthA;Ru1hIA7Ipxw;2022-08-16T18:00:27Z;"📺 New #rstatsvideo: John Coene: Improve performances of shiny applications with dynamic endpoints
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Ru1hIA7Ipxw"
+UCcKPp7AI7ZTBf60WqXo3Bpg;EUntM52IeCQ;2022-08-16T18:02:46Z;"📺 New #rstatsvideo: SLC-RUG August 2022 Anatomy of generative art
+▶ Salt Lake City R Users Group (@slcrug)
+#rstats
+🔗 https://www.youtube.com/watch?v=EUntM52IeCQ"
+UC6LqpR5qBfNlQp5mVIVsthA;OMdA0g_WGVQ;2022-08-16T18:09:27Z;"📺 New #rstatsvideo: Ishan Saran: Standardizing Acute Kidney Injury Across Different Populations
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=OMdA0g_WGVQ"
+UCDHzgi5BGU5F-LXxQIIOyDw;VHAGX34Dd_Q;2022-08-17T01:45:35Z;"📺 New #rstatsvideo: terra 1.6-7 のリリースノートを眺めてみる （2022/8/16）
+▶ yutannihilationのチャンネル (仮) (@yutannihilation)
+#rstats #rstatsj
+🔗 https://www.youtube.com/watch?v=VHAGX34Dd_Q"
+UC5w9xVTs77__zlEeRRQILpw;EbteivKtlN0;2022-08-17T02:44:49Z;"📺 New #rstatsvideo: How to make Network visualization with ggraph (part 3 of Oregon Spotted a Frog series)
+▶ Federica Gazzelloni (@FGazzelloni)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EbteivKtlN0"
