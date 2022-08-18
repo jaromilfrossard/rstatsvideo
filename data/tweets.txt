@@ -13008,3 +13008,38 @@ UC5w9xVTs77__zlEeRRQILpw;EbteivKtlN0;2022-08-17T02:44:49Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=EbteivKtlN0"
+UCXuX-kQ1TbKHWeB75NgmhlA;Cegol-VUp5E;2022-08-17T12:00:14Z;"📺 New #rstatsvideo: R for beginners | Part 11: Save figures with ggsave | Most important R commands
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #rprogramminglanguage #datascience #rprogramming #rprogrammingtutorial
+🔗 https://www.youtube.com/watch?v=Cegol-VUp5E"
+UCyHEww8_SCdxZvEnkCfi55w;G5OVzDEP7Pw;2022-08-17T14:00:06Z;"📺 New #rstatsvideo: Find Positions of Dots in Character String in R (3 Examples) | Locate Position | gregexpr & unlist
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=G5OVzDEP7Pw"
+UC2aSzSLSAKPhcYeBripRQJw;PBerA5gWPVs;2022-08-17T16:00:26Z;"📺 New #rstatsvideo: R语言快速入门08 ggplot2绘图
+▶ DataSense
+🗣 🇨🇳
+#rstats #数据分析
+🔗 https://www.youtube.com/watch?v=PBerA5gWPVs"
+UCCaChdLMTYMxyawR_Qf-kYA;-8ZJJdXpfSw;2022-08-17T17:34:05Z;"📺 New #rstatsvideo: JS4R: A Complete Integration (js4r01 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-8ZJJdXpfSw"
+UCCaChdLMTYMxyawR_Qf-kYA;LcDzmgDmWlU;2022-08-17T22:03:01Z;"📺 New #rstatsvideo: Bayes Rules! MCMC under the Hood (bayes_rules02 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LcDzmgDmWlU"
+UCCaChdLMTYMxyawR_Qf-kYA;HmDlvnp6uNQ;2022-08-17T22:03:32Z;"📺 New #rstatsvideo: Advanced R: Functionals (advr06 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=HmDlvnp6uNQ"
+UC_R5smHVXRYGhZYDJsnXTwg;YVa5cdkypbw;2022-08-18T00:07:37Z;"📺 New #rstatsvideo: BioC 2022 - Hello, Quarto!
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=YVa5cdkypbw"
