@@ -13043,3 +13043,48 @@ UC_R5smHVXRYGhZYDJsnXTwg;YVa5cdkypbw;2022-08-18T00:07:37Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rconsortium
 🔗 https://www.youtube.com/watch?v=YVa5cdkypbw"
+UCpjsdW-snzkUAx0lvqTJ7WA;DPD3pIWVWss;2022-08-18T10:46:33Z;"📺 New #rstatsvideo: R tutorial: Converting imperial to metric
+▶ Statistics Guides with Dr Paul Christiansen (@ChristiansenLiv)
+🗣 🇬🇧
+#rstats #coversions #height #imperialmetric #removeletter #stringtonumeric #weight
+🔗 https://www.youtube.com/watch?v=DPD3pIWVWss"
+UCMdihazndR0f9XBoSXWqnYg;o5a7wQXtAe0;2022-08-18T13:01:26Z;"📺 New #rstatsvideo: R - More Statistics (4.1 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #open #education #data #analytics #rstudio #model #fit #mean #science
+🔗 https://www.youtube.com/watch?v=o5a7wQXtAe0"
+UCyHEww8_SCdxZvEnkCfi55w;GdD69gaHDgY;2022-08-18T14:00:06Z;"📺 New #rstatsvideo: How to Rotate Annotated Text in ggplot2 Plot in R (Example) | Add Label with Specific Degree & Angle
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=GdD69gaHDgY"
+UCN-OX45aSM1VtXkzocx8Ppg;Ld_JZNNahbQ;2022-08-18T14:15:11Z;"📺 New #rstatsvideo: How to Get Started Programming in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Ld_JZNNahbQ"
+UCGuktEl5InrcxPfCjmPWxsA;q9Xq2fliEec;2022-08-18T16:00:26Z;"📺 New #rstatsvideo: Using the drop argument in count and group_by with factors to include missing data (CC240)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #dropcountgroupby #dropcount #dropgroupby #rfactor #rfactors
+🔗 https://www.youtube.com/watch?v=q9Xq2fliEec"
+UC2aSzSLSAKPhcYeBripRQJw;Lu3UL28ljtM;2022-08-18T16:00:27Z;"📺 New #rstatsvideo: R语言快速入门09 自己的数据如何导入R
+▶ DataSense
+🗣 🇨🇳
+#rstats #数据分析
+🔗 https://www.youtube.com/watch?v=Lu3UL28ljtM"
+UCSoUNu8x-HblqqOK_EwdZGw;lzSkVFuJIGM;2022-08-18T18:02:49Z;"📺 New #rstatsvideo: R in 3 Months Sample Feedback Video
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=lzSkVFuJIGM"
+UCSoUNu8x-HblqqOK_EwdZGw;w7-zVTnQNww;2022-08-18T18:10:50Z;"📺 New #rstatsvideo: R in 3 Months Live Session Sample Video
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=w7-zVTnQNww"
+UCFT7Tgi7UAzR-eyzjoxBzxA;PMwpuONWkYQ;2022-08-19T01:27:38Z;"📺 New #rstatsvideo: Meetup Julio 2022: Introducción a Tidyverse
+▶ RLadies Cuernavaca (@RLadiesCuerna)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=PMwpuONWkYQ"
