@@ -13088,3 +13088,32 @@ UCFT7Tgi7UAzR-eyzjoxBzxA;PMwpuONWkYQ;2022-08-19T01:27:38Z;"📺 New #rstatsvideo
 🗣 🇪🇸
 #rstats
 🔗 https://www.youtube.com/watch?v=PMwpuONWkYQ"
+UCMzxf1PB54mTnWJVE8xdGlw;GhHkxgpDg38;2022-08-19T11:30:28Z;"📺 New #rstatsvideo: Excel To R
+▶ R-ladies Gaborone (@RLadiesGaborone)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GhHkxgpDg38"
+UCnYkdhuQljgCnGNpCZpPfVA;K5Z05W1JJv0;2022-08-19T13:00:11Z;"📺 New #rstatsvideo: Test del CHI-QUADRATO
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=K5Z05W1JJv0"
+UCyHEww8_SCdxZvEnkCfi55w;mxGbEiRus-0;2022-08-19T14:00:33Z;"📺 New #rstatsvideo: Keep Trailing Zeros in R (2 Examples) | How to Round Number & Show Zero | sprintf & paste0 Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=mxGbEiRus-0"
+UC2aSzSLSAKPhcYeBripRQJw;1R5W86WiB0o;2022-08-19T16:00:02Z;"📺 New #rstatsvideo: R语言快速入门10 T检验和回归分析
+▶ DataSense
+🗣 🇨🇳
+#rstats #数据分析
+🔗 https://www.youtube.com/watch?v=1R5W86WiB0o"
+UCFT7Tgi7UAzR-eyzjoxBzxA;cquqe_BmfcQ;2022-08-19T16:18:35Z;"📺 New #rstatsvideo: Meetup Julio 2022: Tidyverse avanzado
+▶ RLadies Cuernavaca (@RLadiesCuerna)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=cquqe_BmfcQ"
+UC8bO8eVpfEK8LbqH0oxyc3Q;u4LIpYC0Yaw;2022-08-19T17:23:56Z;"📺 New #rstatsvideo: Intro to Git and GitHub with R and RStudio
+▶ R User Group at Harvard Data Science Initiative (@RUGatHDSI)
+#rstats
+🔗 https://www.youtube.com/watch?v=u4LIpYC0Yaw"
