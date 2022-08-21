@@ -13117,3 +13117,31 @@ UC8bO8eVpfEK8LbqH0oxyc3Q;u4LIpYC0Yaw;2022-08-19T17:23:56Z;"📺 New #rstatsvideo
 ▶ R User Group at Harvard Data Science Initiative (@RUGatHDSI)
 #rstats
 🔗 https://www.youtube.com/watch?v=u4LIpYC0Yaw"
+UCB7N0JYEOoT2IPLuImsx-3w;9mXpBcsiftE;2022-08-20T09:27:07Z;"📺 New #rstatsvideo: R Ladies Bogor 14th Meet Up
+▶ R Ladies Bogor (@RLadiesBogor)
+#rstats
+🔗 https://www.youtube.com/watch?v=9mXpBcsiftE"
+UCyHEww8_SCdxZvEnkCfi55w;BQaUtCC6Wh4;2022-08-20T14:00:06Z;"📺 New #rstatsvideo: Get Correlation of One Variable to All Others in R (Example) | Data Frame & Matrix | cor() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=BQaUtCC6Wh4"
+UCY66vV1WTk_2lHg24cuJrtg;vSd6bJtnemI;2022-08-20T14:17:14Z;"📺 New #rstatsvideo: How to Create Parallel Plots in R with geom_line() and ggparcoord()
+▶ The Data Digest (@DigestData)
+#rstats #parallelplot #parallelcoordinatesplotr #geomlineggplot2 #geomliner #ggparcoord #ggallyr #iris
+🔗 https://www.youtube.com/watch?v=vSd6bJtnemI"
+UCCaChdLMTYMxyawR_Qf-kYA;hN8tHpDP_2o;2022-08-20T14:25:07Z;"📺 New #rstatsvideo: Bayes Rules! Extending the Normal Regression Model (bayes_rules01 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hN8tHpDP_2o"
+UCCaChdLMTYMxyawR_Qf-kYA;TavJRxiGDbE;2022-08-20T14:25:35Z;"📺 New #rstatsvideo: Feature Engineering Book Club: Introduction (feat_eng01 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=TavJRxiGDbE"
+UC2aSzSLSAKPhcYeBripRQJw;ShvfWd7Oc0k;2022-08-20T16:00:12Z;"📺 New #rstatsvideo: R语言快速入门11 将结果整理成apa格式
+▶ DataSense
+🗣 🇨🇳
+#rstats #数据分析
+🔗 https://www.youtube.com/watch?v=ShvfWd7Oc0k"
