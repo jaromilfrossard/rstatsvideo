@@ -5,7 +5,7 @@ standardise_language <- function(x){
   
   tb <- tribble(~conditions,~output,
     c("fr","fr-FR"), "fr",
-    c("en","en-US","en-GB","en-CA"),"en",
+    c("en","en-US","en-GB","en-CA","en-IN"),"en",
     c("de"),"de",
     c("pt", "pt-BR"),"pt",
     c("tr"),"tr",

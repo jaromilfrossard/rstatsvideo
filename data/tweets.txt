@@ -13145,3 +13145,42 @@ UC2aSzSLSAKPhcYeBripRQJw;ShvfWd7Oc0k;2022-08-20T16:00:12Z;"📺 New #rstatsvideo
 🗣 🇨🇳
 #rstats #数据分析
 🔗 https://www.youtube.com/watch?v=ShvfWd7Oc0k"
+UCCaChdLMTYMxyawR_Qf-kYA;JPDAWd4Pi7U;2022-08-20T19:05:57Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Reactive building blocks (mshiny03 15)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=JPDAWd4Pi7U"
+UCDgj5-mFohWZ5irWSFMFcng;9ZKGLv84nZY;2022-08-20T19:38:44Z;"📺 New #rstatsvideo: R-Ladies Bergen (English) - ""Making and publishing your first R package"" - Sarah Popov
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=9ZKGLv84nZY"
+UCwLy_PYrnCEhCU-Ay2F5Drw;UFcWYr9q8FM;2022-08-20T21:23:37Z;"📺 New #rstatsvideo: Working with SQL in R - Vebash Naidoo (Botswana, Eswatini & Bulawayo R User Groups August Meetup)
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=UFcWYr9q8FM"
+UCyHEww8_SCdxZvEnkCfi55w;aHhn3rQPGAY;2022-08-21T14:00:00Z;"📺 New #rstatsvideo: Change Color of ggplot2 Facet Label Background & Text (3 Examples) | strip.background & strip.text
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=aHhn3rQPGAY"
+UCP8l94xtoemCH_GxByvTuFQ;VgIlwMpUsBQ;2022-08-21T21:00:18Z;"📺 New #rstatsvideo: TidyX Episode 114  | camcorder R package
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=VgIlwMpUsBQ"
+UCyZCfIET7753bs5WpmKI_qQ;YLrmz43Ib1M;2022-08-22T00:29:19Z;"📺 New #rstatsvideo: Tutorial R | Como analisar distribuição em dados - histograma curva normal
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats #histograma #curvanormal #duvidahistograma
+🔗 https://www.youtube.com/watch?v=YLrmz43Ib1M"
+UCIwS122xl4mjhw5TdK_K9Rw;9VP4JJMJJFI;2022-08-22T08:29:35Z;"📺 New #rstatsvideo: Step 31_2 : Default condition in if else statement
+▶ R in Action (@Parag52659626)
+🗣 🇬🇧
+#rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning
+🔗 https://www.youtube.com/watch?v=9VP4JJMJJFI"
+UC5w9xVTs77__zlEeRRQILpw;SO0doOrYSnQ;2022-08-22T10:15:44Z;"📺 New #rstatsvideo: How to make a map with leaflet package (part 4 of Oregon Spotted a Frog series)
+▶ Federica Gazzelloni (@FGazzelloni)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=SO0doOrYSnQ"
