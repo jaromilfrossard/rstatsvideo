@@ -13184,3 +13184,41 @@ UC5w9xVTs77__zlEeRRQILpw;SO0doOrYSnQ;2022-08-22T10:15:44Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=SO0doOrYSnQ"
+UCyHEww8_SCdxZvEnkCfi55w;M72DjKNPVDA;2022-08-22T14:00:16Z;"📺 New #rstatsvideo: Create Directory & File Path in R (Example) | file.path() Function | Concatenate Folder Components
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=M72DjKNPVDA"
+UCCaChdLMTYMxyawR_Qf-kYA;Y-oEhx4HFvM;2022-08-22T15:19:52Z;"📺 New #rstatsvideo: ISLR: Moving Beyond Linearity Part 2 (islr04 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Y-oEhx4HFvM"
+UCGuktEl5InrcxPfCjmPWxsA;TmSwDAvPX2Q;2022-08-22T16:00:28Z;"📺 New #rstatsvideo: The magrittr and base R pipe: what's the difference? (CC241)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rpipebasemagrittr #rpipe #rmagrittr #tidyversepipe #baserpipe #piperstudio #dplyrpipe #rpipeline
+🔗 https://www.youtube.com/watch?v=TmSwDAvPX2Q"
+UCfJyQ3P2k_SuqfxVdqIEQNw;x1RFWHV2VUU;2022-08-22T18:56:29Z;"📺 New #rstatsvideo: Doing a t-test using R programming (in 4 minutes)
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=x1RFWHV2VUU"
+UCdrnsZd2xWjDjHUlYsA6Kfw;wPIheWfCdME;2022-08-23T03:08:58Z;"📺 New #rstatsvideo: How to Search & Filter Text in R (with the Friends transcript)
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle
+🔗 https://www.youtube.com/watch?v=wPIheWfCdME"
+UCIwS122xl4mjhw5TdK_K9Rw;0PifutJ7-28;2022-08-23T07:30:00Z;"📺 New #rstatsvideo: Part 10 : Anomaly Detection for Numeric Data
+▶ R in Action (@Parag52659626)
+🗣 🇬🇧
+#rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning
+🔗 https://www.youtube.com/watch?v=0PifutJ7-28"
+UCtuMKU3a96iqTe1b7JNfhDw;6j2_afD_aiE;2022-08-23T11:11:05Z;"📺 New #rstatsvideo: TidyTuesday R Package - (in Persian)
+▶ R-Ladies Urmia (@RLadiesUrmia)
+🗣 🇮🇷
+#rstats #rstudio #rpackage
+🔗 https://www.youtube.com/watch?v=6j2_afD_aiE"
+UCDHzgi5BGU5F-LXxQIIOyDw;lRwvG1_gbKU;2022-08-23T13:48:40Z;"📺 New #rstatsvideo: dplyr & tidyselect 開発版のリリースノートを眺めてみる （2022/8/23）
+▶ yutannihilationのチャンネル (仮) (@yutannihilation)
+#rstats #rstatsj
+🔗 https://www.youtube.com/watch?v=lRwvG1_gbKU"
