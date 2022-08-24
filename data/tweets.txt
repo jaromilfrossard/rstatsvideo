@@ -13222,3 +13222,47 @@ UCDHzgi5BGU5F-LXxQIIOyDw;lRwvG1_gbKU;2022-08-23T13:48:40Z;"📺 New #rstatsvideo
 ▶ yutannihilationのチャンネル (仮) (@yutannihilation)
 #rstats #rstatsj
 🔗 https://www.youtube.com/watch?v=lRwvG1_gbKU"
+UCyHEww8_SCdxZvEnkCfi55w;Vhr6VUSlCA8;2022-08-23T14:00:14Z;"📺 New #rstatsvideo: Exclude Specific Predictors from Linear Regression Model in R (Example) | GLM Formula | lm Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=Vhr6VUSlCA8"
+UCg4rv97QEhN-2gvLhrGMgEw;vbIVvcYtjps;2022-08-23T18:09:25Z;"📺 New #rstatsvideo: Aprenda a fazer leitura de arquivos gerados por outros softwares no R
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=vbIVvcYtjps"
+UCCaChdLMTYMxyawR_Qf-kYA;pTys5kfA6Yc;2022-08-23T21:11:10Z;"📺 New #rstatsvideo: ISLR: Unsupervised Learning Part 2 (islr03 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=pTys5kfA6Yc"
+UC_R5smHVXRYGhZYDJsnXTwg;n-pEkMkXmaU;2022-08-23T21:24:17Z;"📺 New #rstatsvideo: Dreamlet
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=n-pEkMkXmaU"
+UC_R5smHVXRYGhZYDJsnXTwg;R_lt58We9nA;2022-08-23T21:53:53Z;"📺 New #rstatsvideo: Robust Differential Composition and Variability Analysis for Multisample Single-cell Omics
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=R_lt58We9nA"
+UC_R5smHVXRYGhZYDJsnXTwg;iOqmicS-7ck;2022-08-23T21:58:45Z;"📺 New #rstatsvideo: Differential Regulation: A Novel Method to Identify Differentially Regulated Genes
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=iOqmicS-7ck"
+UCeiiqmVK07qhY-wvg3IZiZQ;EPusvEQuO2A;2022-08-24T01:16:01Z;"📺 New #rstatsvideo: Tidy Tuesday live screencast: Analyzing computer chips in R
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=EPusvEQuO2A"
+UCtpGCWyRdscfs6KflWjACKw;7NF7JAnKGlI;2022-08-24T01:23:02Z;"📺 New #rstatsvideo: Como fazer fluxogramas no R
+▶ RLadies Belo Horizonte (@RLadiesBH)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=7NF7JAnKGlI"
+UCOdX7FBvpMPknrC6gtm0y_w;WdqjJpc-CMU;2022-08-24T04:09:54Z;"📺 New #rstatsvideo: I fit a model... now what?
+▶ Southern California R Users Group (@oc_rug)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=WdqjJpc-CMU"
