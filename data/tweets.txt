@@ -13266,3 +13266,31 @@ UCOdX7FBvpMPknrC6gtm0y_w;WdqjJpc-CMU;2022-08-24T04:09:54Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=WdqjJpc-CMU"
+UCXuX-kQ1TbKHWeB75NgmhlA;w6m7OAMZAzk;2022-08-24T12:00:38Z;"📺 New #rstatsvideo: R for beginners | Part 12: Remove missing values | Most important R commands
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #rprogramminglanguage #datascience #rprogramming #rprogrammingtutorial
+🔗 https://www.youtube.com/watch?v=w6m7OAMZAzk"
+UCkAyfZ4tAeO0j9dS-_yU7Gw;GzB9f5K1fBA;2022-08-24T12:59:55Z;"📺 New #rstatsvideo: Bayesian Statistics and Buy-Till-You-Die Models - Workshop 5 - Modelling Recap
+▶ Dublin Data Science
+#rstats
+🔗 https://www.youtube.com/watch?v=GzB9f5K1fBA"
+UCyHEww8_SCdxZvEnkCfi55w;WtNvaJnQKe8;2022-08-24T14:00:30Z;"📺 New #rstatsvideo: Change Space Between Boxplots in R (2 Examples) | Base R & ggplot2 | Draw Boxes at Manual Positions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=WtNvaJnQKe8"
+UCMwM-3tg_-Pbx8hKO78q5EA;ztoWo6hiPkE;2022-08-24T14:07:42Z;"📺 New #rstatsvideo: NHS-R Webinar: PrAna R package to calculate & visualize NHS primary care prescribing data, Aug 2022
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ztoWo6hiPkE"
+UCCaChdLMTYMxyawR_Qf-kYA;RjW8rfwGS6g;2022-08-24T14:59:49Z;"📺 New #rstatsvideo: JS4R: A Complete Integration Part 2 (js4r01 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=RjW8rfwGS6g"
+UCfJyQ3P2k_SuqfxVdqIEQNw;X9wdU7_Kr-I;2022-08-24T16:13:49Z;"📺 New #rstatsvideo: Why we love using R programming for data analysis
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=X9wdU7_Kr-I"
