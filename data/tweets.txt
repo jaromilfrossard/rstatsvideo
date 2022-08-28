@@ -13294,3 +13294,116 @@ UCfJyQ3P2k_SuqfxVdqIEQNw;X9wdU7_Kr-I;2022-08-24T16:13:49Z;"📺 New #rstatsvideo
 ▶ R Programming 101 (@101Programming)
 #rstats
 🔗 https://www.youtube.com/watch?v=X9wdU7_Kr-I"
+UCCaChdLMTYMxyawR_Qf-kYA;FUoYwYFqT7Q;2022-08-25T12:17:17Z;"📺 New #rstatsvideo: Advanced R: Function factories (advr06 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=FUoYwYFqT7Q"
+UCf1ZNSUNLDFy5y3X6qoZGCg;VDNAYbln9CU;2022-08-25T13:46:43Z;"📺 New #rstatsvideo: Build your 1st Shiny app - workshop intro
+▶ Mirai Solutions (@MiraiSolutions)
+🗣 🇬🇧
+#rstats #datascience #rprogramming #rshiny #shiny
+🔗 https://www.youtube.com/watch?v=VDNAYbln9CU"
+UCyHEww8_SCdxZvEnkCfi55w;Ij02mXfTUGI;2022-08-25T14:00:15Z;"📺 New #rstatsvideo: Update Data Frame with Function (Example) | Assign New Values | Modify & Change Values with Command
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=Ij02mXfTUGI"
+UCGuktEl5InrcxPfCjmPWxsA;TtdyFGCUF0M;2022-08-25T16:00:28Z;"📺 New #rstatsvideo: Comparing the same multi-panel figure made using facet_wrap, facet_grid, and patchwork (CC242)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #facetwrapfacetgridpatchwork #facetwrapandfacetgrid #facetwrapinr
+🔗 https://www.youtube.com/watch?v=TtdyFGCUF0M"
+UCCaChdLMTYMxyawR_Qf-kYA;n5QRu0q9p5M;2022-08-25T18:15:32Z;"📺 New #rstatsvideo: Bayes Rules! Posterior Inference & Prediction (bayes_rules02 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=n5QRu0q9p5M"
+UC_R5smHVXRYGhZYDJsnXTwg;jTf_N5zX5wY;2022-08-25T23:14:28Z;"📺 New #rstatsvideo: R/Medicine 101: Intro to R for Clinical Data (Stephan Kadauke, Joe Rudolf, Patrick Mathias)
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=jTf_N5zX5wY"
+UC_R5smHVXRYGhZYDJsnXTwg;KnwQFph3s94;2022-08-25T23:14:32Z;"📺 New #rstatsvideo: Reproducible Medical Research with Quarto (Thomas Mock)
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=KnwQFph3s94"
+UC_R5smHVXRYGhZYDJsnXTwg;p-diyV2E77o;2022-08-25T23:14:35Z;"📺 New #rstatsvideo: Simply Reproducible: Clinical Reporting with {gtsummary} (Daniel Sjoberg)
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=p-diyV2E77o"
+UC_R5smHVXRYGhZYDJsnXTwg;iU1h5b3qp_Y;2022-08-25T23:14:38Z;"📺 New #rstatsvideo: Using Public Data and Maps for Powerful Data Visualizations (Joy Payton)
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=iU1h5b3qp_Y"
+UC_R5smHVXRYGhZYDJsnXTwg;4zgth6566sA;2022-08-25T23:14:41Z;"📺 New #rstatsvideo: Enterprise-grade Shiny App Development with {rhino} (Jakob Nowicki)
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=4zgth6566sA"
+UC_R5smHVXRYGhZYDJsnXTwg;JdX0KeRuWvQ;2022-08-25T23:14:46Z;"📺 New #rstatsvideo: Gene Expression Analysis in R (Siavash Ghaffari)
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=JdX0KeRuWvQ"
+UC_R5smHVXRYGhZYDJsnXTwg;ZmS2V0Cr8Fg;2022-08-25T23:14:50Z;"📺 New #rstatsvideo: Dashboards with Shiny (Chris Beeley)
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=ZmS2V0Cr8Fg"
+UC_R5smHVXRYGhZYDJsnXTwg;DD7bXonh-_E;2022-08-25T23:14:53Z;"📺 New #rstatsvideo: Analyzing Geospatial Data in R
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=DD7bXonh-_E"
+UCyHEww8_SCdxZvEnkCfi55w;UubvanVYCLs;2022-08-26T14:00:31Z;"📺 New #rstatsvideo: Convert & Create Ordered Factor in R (3 Examples) | ordered & is.ordered | Check for Sorted Values
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=UubvanVYCLs"
+UCf1ZNSUNLDFy5y3X6qoZGCg;-Dfe8a9pl9M;2022-08-26T16:28:52Z;"📺 New #rstatsvideo: Make a Shiny App Sparkle - workshop introduction
+▶ Mirai Solutions (@MiraiSolutions)
+🗣 🇬🇧
+#rstats #datascience #rprogramming #rshiny #shiny
+🔗 https://www.youtube.com/watch?v=-Dfe8a9pl9M"
+UCCaChdLMTYMxyawR_Qf-kYA;KEz89fpGDGM;2022-08-26T16:34:43Z;"📺 New #rstatsvideo: Bayes Rules! Poisson & Negative Binomial Regression (bayes_rules01 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=KEz89fpGDGM"
+UCMdihazndR0f9XBoSXWqnYg;SOOWXaOxBvc;2022-08-26T17:29:55Z;"📺 New #rstatsvideo: R & Python - Topic Models
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing #modeling
+🔗 https://www.youtube.com/watch?v=SOOWXaOxBvc"
+UCax5WxTJvQjtS9elybDivbA;HgykLxpd8fo;2022-08-27T01:33:20Z;"📺 New #rstatsvideo: Basic Application of For Loop in R Programming #rstats #rstudio
+▶ Olakunle4impact (@olakunle4impact)
+#rstats #basicapplicationofforloopinrprogramming #forloops #rprogramming #rstudio #programming #loopsinr
+🔗 https://www.youtube.com/watch?v=HgykLxpd8fo"
+UCtuMKU3a96iqTe1b7JNfhDw;aHhNLHD1T80;2022-08-27T09:02:47Z;"📺 New #rstatsvideo: A Guide to Building Your First Neural Network in R (in  English)
+▶ R-Ladies Urmia (@RLadiesUrmia)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=aHhNLHD1T80"
+UCyHEww8_SCdxZvEnkCfi55w;XF9b6XuAHgE;2022-08-27T14:00:28Z;"📺 New #rstatsvideo: which.max & which.min Functions in R (Example) | How to Locate First Max & Min | Find Index Position
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=XF9b6XuAHgE"
+UC_bfGqjzgx4-N8TEQlJTaNQ;HBMrkHtlKcE;2022-08-27T19:07:56Z;"📺 New #rstatsvideo: Data Manipulation the Tidy Way with Bilikisu Olatunji, Data Scientist, Shiny Developer
+▶ Abuja R User Group (@AbujaRUG)
+#rstats
+🔗 https://www.youtube.com/watch?v=HBMrkHtlKcE"
+UCo0s7d_ZTrEIfjOhHC_aCGg;y6EUJWd-DGY;2022-08-27T20:29:48Z;"📺 New #rstatsvideo: Sesión 6 - Cierre del Grupo de estudio ""Mastering Shiny""
+▶ R-Ladies Lima (@RLadiesLima)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=y6EUJWd-DGY"
+UCdrnsZd2xWjDjHUlYsA6Kfw;fIwy30yPYso;2022-08-28T05:57:32Z;"📺 New #rstatsvideo: How to Animate PowerPoint Lists in Quarto
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters #quarto
+🔗 https://www.youtube.com/watch?v=fIwy30yPYso"
