@@ -13407,3 +13407,93 @@ UCdrnsZd2xWjDjHUlYsA6Kfw;fIwy30yPYso;2022-08-28T05:57:32Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters #quarto
 🔗 https://www.youtube.com/watch?v=fIwy30yPYso"
+UCY66vV1WTk_2lHg24cuJrtg;3rsW5gnnhmY;2022-08-28T13:34:31Z;"📺 New #rstatsvideo: Powerful R Functions Every Data Analyst Should Know
+▶ The Data Digest (@DigestData)
+🗣 🇬🇧
+#rstats #rtutorial #dataanalysis #groupbyr #summarizer #pivotwiderr #tidyverse #heatmap #geomtile #diamondsr
+🔗 https://www.youtube.com/watch?v=3rsW5gnnhmY"
+UCyHEww8_SCdxZvEnkCfi55w;DPYpYIxbLc8;2022-08-28T14:00:09Z;"📺 New #rstatsvideo: Convert NA into Factor Level in R (Example) | addNA Function for Missing Data | How to Change Levels
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=DPYpYIxbLc8"
+UCyZCfIET7753bs5WpmKI_qQ;u_hbZB6zpY0;2022-08-28T23:59:20Z;"📺 New #rstatsvideo: Tutorial R | Como Identificar padrões em dados - gráfico de dispersão
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats #scatterplot #diagramadispersão #dispersão
+🔗 https://www.youtube.com/watch?v=u_hbZB6zpY0"
+UCrpq9hzMQSq0ldVcXlLgpvQ;6hwuv8WdhxY;2022-08-29T12:00:07Z;"📺 New #rstatsvideo: Restoring values after Normalisation in R
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #scaling #datamanipulation
+🔗 https://www.youtube.com/watch?v=6hwuv8WdhxY"
+UC0dgTZhVua-2yvtWDfPA_nQ;dFHXENDV0m0;2022-08-29T13:00:23Z;"📺 New #rstatsvideo: text mining in r tutorial
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #textmininginrtutorial
+🔗 https://www.youtube.com/watch?v=dFHXENDV0m0"
+UCyHEww8_SCdxZvEnkCfi55w;AA2iBQDjI_A;2022-08-29T14:00:04Z;"📺 New #rstatsvideo: Find Indices of Multiple Maxima & Minima in R (2 Examples) | Vector & Column | which(), max(), min()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #rprogramming
+🔗 https://www.youtube.com/watch?v=AA2iBQDjI_A"
+UCGuktEl5InrcxPfCjmPWxsA;emjl3QpZ9dw;2022-08-29T16:00:33Z;"📺 New #rstatsvideo: Recreating a jitter plot made with R's ggplot2 two years later (CC243)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #ggplot2rjitter #ggplot2r #tidyverser #ggplot2codereview #codereviewtidyverse #mapdfr
+🔗 https://www.youtube.com/watch?v=emjl3QpZ9dw"
+UCCaChdLMTYMxyawR_Qf-kYA;0j-2e2bKMwM;2022-08-29T16:02:39Z;"📺 New #rstatsvideo: Feature Engineering: Illustrative Example: Predicting Risk of Ischemic Stroke (feat_eng01 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=0j-2e2bKMwM"
+UCCaChdLMTYMxyawR_Qf-kYA;FGexkKxQ_wA;2022-08-29T16:03:27Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Reactive building blocks Part 2 (mshiny03 15)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=FGexkKxQ_wA"
+UCCaChdLMTYMxyawR_Qf-kYA;FZkIJ_a_Z5s;2022-08-29T20:09:02Z;"📺 New #rstatsvideo: Modelado Tidy con R - 13. Búsqueda de Rejilla - Parte 1 (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=FZkIJ_a_Z5s"
+UCCaChdLMTYMxyawR_Qf-kYA;EbKYrLX0iug;2022-08-29T20:10:26Z;"📺 New #rstatsvideo: Modelado Tidy con R - 13. Búsqueda de Rejilla - Parte 2 (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=EbKYrLX0iug"
+UC_R5smHVXRYGhZYDJsnXTwg;2l7gG8aBHHM;2022-08-29T20:18:49Z;"📺 New #rstatsvideo: qsvaR
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=2l7gG8aBHHM"
+UCCaChdLMTYMxyawR_Qf-kYA;wBH7pqql_uU;2022-08-29T20:39:27Z;"📺 New #rstatsvideo: R for Data Science: Cohort 7 Introduction (r4ds07 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wBH7pqql_uU"
+UC_R5smHVXRYGhZYDJsnXTwg;9HXICMUs51Y;2022-08-29T21:41:07Z;"📺 New #rstatsvideo: Data-Driven Identification Of Total RNA Expression Genes (Tregs)
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=9HXICMUs51Y"
+UC_R5smHVXRYGhZYDJsnXTwg;CBS8FWG5Jj0;2022-08-29T21:49:38Z;"📺 New #rstatsvideo: Evolution Of The DECIPHER Package For Comparative Genomics
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=CBS8FWG5Jj0"
+UC_R5smHVXRYGhZYDJsnXTwg;ebhZDLc_r_o;2022-08-29T21:52:26Z;"📺 New #rstatsvideo: igvR: Interactive Genome Exploration From R
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=ebhZDLc_r_o"
+UC_R5smHVXRYGhZYDJsnXTwg;rFNBTrTcY78;2022-08-29T22:59:29Z;"📺 New #rstatsvideo: Introduction to Bioconductor annotation resources
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=rFNBTrTcY78"
+UCjXQyxs1iyEg5v98fezgT0w;JzcIKIW6mfc;2022-08-30T07:00:05Z;"📺 New #rstatsvideo: Lineare Regression mit R (einfach, multiple, hierarchisch)
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #regressionr #multipleregressionr #hierarchischeregressionr #hierarchicalregressionr
+🔗 https://www.youtube.com/watch?v=JzcIKIW6mfc"

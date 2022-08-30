@@ -72,8 +72,8 @@ validate_new_videos()#6aJMGdCxbgA
 ## check date after 9 june, 1 AM
 # tuber::get_video_details("6aJMGdCxbgA")
 
-videos <- choose_videos(max_tweet = 4)%>%
-  filter(!id_video%in%c("t_9Tw118vuc","zAPvbFyMPn0")) # 28 july
+videos <- choose_videos(max_tweet = 3)%>%
+  filter(!id_video%in%c("GoDtWHBJ8WE")) # 28 july
 #videos <- videos%>%filter(new_video)
 
 # 
@@ -103,7 +103,7 @@ videos<-
 
 videos%>%
   arrange(ymd_hms_video)%>%
-  {pwalk(list(.$id_channel, .$id_video, .$ymd_hms_video,.$tweet),post_videos,delay=40)}
+  {pwalk(list(.$id_channel, .$id_video, .$ymd_hms_video,.$tweet),post_videos,delay=240)}
 
 
 
