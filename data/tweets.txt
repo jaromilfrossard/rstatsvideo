@@ -13497,3 +13497,28 @@ UCjXQyxs1iyEg5v98fezgT0w;JzcIKIW6mfc;2022-08-30T07:00:05Z;"📺 New #rstatsvideo
 🗣 🇩🇪
 #rstats #regressionr #multipleregressionr #hierarchischeregressionr #hierarchicalregressionr
 🔗 https://www.youtube.com/watch?v=JzcIKIW6mfc"
+UCyHEww8_SCdxZvEnkCfi55w;CaWjk53uXU0;2022-08-30T14:00:08Z;"📺 New #rstatsvideo: Replace Multiple Values in Several Columns of Data Frame in R (2 Examples) | sapply() & replace()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=CaWjk53uXU0"
+UC1ZIcF31fEzBO6akL_HHkBg;qvQ_YmyjK0U;2022-08-30T14:37:28Z;"📺 New #rstatsvideo: databases: Relational data with dplyr
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=qvQ_YmyjK0U"
+UCB_noR4lYmbKJozwJuPStbg;PrUnbYlC1kY;2022-08-30T15:30:04Z;"📺 New #rstatsvideo: Ingest multiple files from a local file system: iterate functions [Rfun]
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #iteratefunctionsr #csv #import #readcsv #tipsandtricksr #tipsandtricks #importdatar
+🔗 https://www.youtube.com/watch?v=PrUnbYlC1kY"
+UCdrnsZd2xWjDjHUlYsA6Kfw;Q9g1fALSSrk;2022-08-30T20:00:12Z;"📺 New #rstatsvideo: How to add background images to PowerPoint slides in Quarto
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle
+🔗 https://www.youtube.com/watch?v=Q9g1fALSSrk"
+UCx1vXgGDXc7BH7bI1KC_o7Q;kuMXSi1KlGc;2022-08-31T00:00:10Z;"📺 New #rstatsvideo: Criando funções no R
+▶ Fernanda Peres
+🗣 🇵🇹
+#rstats #bioestatística #estatística #estatísticadescritiva #ggplot #ggplot2 #rstudio #gráficos #fernandaperes #funções #pacotes #criarfunção
+🔗 https://www.youtube.com/watch?v=kuMXSi1KlGc"
