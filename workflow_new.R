@@ -64,7 +64,7 @@ validate_new_channels()
 
 
 walk(tb_channel$id_channel, update_channel_video)
-#which(tb_channel$id_channel=="UCZcd0Fp8o_FQVqf6AAoZzqA")
+#which(tb_channel$id_channel=="UC6LqpR5qBfNlQp5mVIVsthA")
 
 
 validate_new_videos()#6aJMGdCxbgA
@@ -73,7 +73,7 @@ validate_new_videos()#6aJMGdCxbgA
 # tuber::get_video_details("6aJMGdCxbgA")
 
 videos <- choose_videos(max_tweet = 3)%>%
-  filter(!id_video%in%c("GoDtWHBJ8WE")) # 28 july
+  filter(!id_video%in%c("eCBhFHalDiM")) # 28 july
 #videos <- videos%>%filter(new_video)
 
 # 
