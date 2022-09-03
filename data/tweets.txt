@@ -13579,3 +13579,40 @@ UCg6kociUghEgKz_hLRKQrMQ;krZCVGIc8FY;2022-09-01T22:33:00Z;"📺 New #rstatsvideo
 ▶ R Data Science School
 #rstats
 🔗 https://www.youtube.com/watch?v=krZCVGIc8FY"
+UCqQ_cxcNu1ekqHXDc-MbU_w;dsBJVQbTCl0;2022-09-02T13:24:26Z;"📺 New #rstatsvideo: Shiny Web Apps for Consulting (Part 1) with LIVE Coding
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=dsBJVQbTCl0"
+UCyHEww8_SCdxZvEnkCfi55w;KIGDT9_jx4s;2022-09-02T14:00:10Z;"📺 New #rstatsvideo: Preserve Width & Position of Single ggplot2 Boxplot in R (2 Examples) | position_dodge() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=KIGDT9_jx4s"
+UCg4rv97QEhN-2gvLhrGMgEw;uuR8U6VeGEw;2022-09-02T17:00:47Z;"📺 New #rstatsvideo: Construir gráficos de dispersão/violino sem sobreposição com o pacote ggbeeswarm
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=uuR8U6VeGEw"
+UCCaChdLMTYMxyawR_Qf-kYA;EPs57es2MsE;2022-09-02T18:01:51Z;"📺 New #rstatsvideo: Advanced R: Function operators (advr06 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EPs57es2MsE"
+UCCaChdLMTYMxyawR_Qf-kYA;VrFzuaGDiJo;2022-09-02T18:02:23Z;"📺 New #rstatsvideo: R for Data Science: Many models (r4ds06 23)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VrFzuaGDiJo"
+UCCaChdLMTYMxyawR_Qf-kYA;aPIx_rFsIXs;2022-09-02T20:13:27Z;"📺 New #rstatsvideo: Bayes Rules! Logistic Regression (bayes_rules01 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=aPIx_rFsIXs"
+UCYjjz8ANtLZNu9u4P6tHh9g;pJUL_W8M2UU;2022-09-02T22:06:44Z;"📺 New #rstatsvideo: Paquete 'survey' para análisis de muestras complejas
+▶ R-Ladies Ecuador (@RLadiesBquilla)
+#rstats
+🔗 https://www.youtube.com/watch?v=pJUL_W8M2UU"
+UCmxRvwPXXLdcv_lWkIqB1yA;gaQdWW2Ws1M;2022-09-03T02:51:34Z;"📺 New #rstatsvideo: Acessando a API do Google Earth Engine com o 'rgee'
+▶ RLadies Ribeirão Preto (@rladiesrp)
+#rstats
+🔗 https://www.youtube.com/watch?v=gaQdWW2Ws1M"
