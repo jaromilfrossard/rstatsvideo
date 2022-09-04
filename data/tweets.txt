@@ -13616,3 +13616,21 @@ UCmxRvwPXXLdcv_lWkIqB1yA;gaQdWW2Ws1M;2022-09-03T02:51:34Z;"📺 New #rstatsvideo
 ▶ RLadies Ribeirão Preto (@rladiesrp)
 #rstats
 🔗 https://www.youtube.com/watch?v=gaQdWW2Ws1M"
+UCrpq9hzMQSq0ldVcXlLgpvQ;mebXoVrfchg;2022-09-03T12:00:24Z;"📺 New #rstatsvideo: Bayesian Network | Introduction and Workshop
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=mebXoVrfchg"
+UCyHEww8_SCdxZvEnkCfi55w;QufG8f42CJ8;2022-09-03T14:00:24Z;"📺 New #rstatsvideo: Test If Two Grouping Factors Have Same Groups (Example) | all_groups_identical | groupdata2 Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=QufG8f42CJ8"
+UCISHpKq_20peU3G1xwtXjjQ;RkWoi57p-Bo;2022-09-04T01:36:33Z;"📺 New #rstatsvideo: Create Microsoft Word Documents Using R (officer package)
+▶ Samer Hijjazi (@SamerHijjazi)
+#rstats #rstudio #rpackage #automation #automateworddocuments #microsoftword
+🔗 https://www.youtube.com/watch?v=RkWoi57p-Bo"
+UCP8l94xtoemCH_GxByvTuFQ;ktlJJHlR0Ck;2022-09-04T07:00:24Z;"📺 New #rstatsvideo: TidyX Episode 115 | R Classes and Objects - Making an S4 Object,  Part 2 - S4 Tournament
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming
+🔗 https://www.youtube.com/watch?v=ktlJJHlR0Ck"
