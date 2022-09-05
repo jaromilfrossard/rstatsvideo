@@ -165,6 +165,7 @@ UCo0s7d_ZTrEIfjOhHC_aCGg;R-Ladies Lima;RLadiesLima
 UCGDrExQGLA3A_jNAQlKBKBA;R-Ladies Madrid;RLadiesMAD
 UClC5yNEjMoE3MmbK-mrV8Ow;R-Ladies Melbourne;RLadiesMelb
 UCRth2ImB1T-_saYc5YBTcyA;R-Ladies Nairobi;RLadiesNairobi
+UCWTFKtW_ReLP9zmMTYjRqug;R-Ladies Paris;RLadiesParis
 UCoL2FUq0Yo3RcjGG0Vf2qmg;R-Ladies Perth;RLadiesPerth
 UCPque9BaFV9p0hcgImrYBzg;R-Ladies Philly;RLadiesPhilly
 UCFZ-jFG9a9Tx0_4EIX-L7bA;R-Ladies Puebla;RLadiesPuebla
