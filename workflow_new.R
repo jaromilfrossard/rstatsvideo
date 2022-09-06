@@ -65,7 +65,7 @@ validate_new_channels()
 
 
 walk(tb_channel$id_channel, update_channel_video)
-#which(tb_channel$id_channel=="UC6LqpR5qBfNlQp5mVIVsthA")
+#which(tb_channel$id_channel=="UCg4rv97QEhN-2gvLhrGMgEw")
 
 
 validate_new_videos()#6aJMGdCxbgA
@@ -104,7 +104,8 @@ videos<-
 
 videos%>%
   arrange(ymd_hms_video)%>%
-  {pwalk(list(.$id_channel, .$id_video, .$ymd_hms_video,.$tweet),post_videos,delay=240)}
+  mutate(delay = c(rep(300,n()-1),0))%>%
+  {pwalk(list(.$id_channel, .$id_video, .$ymd_hms_video,.$tweet,.$delay),post_videos)}
 
 
 

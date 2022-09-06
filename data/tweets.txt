@@ -13668,3 +13668,32 @@ UCIwS122xl4mjhw5TdK_K9Rw;uGf86KLc_4U;2022-09-05T10:30:08Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning
 🔗 https://www.youtube.com/watch?v=uGf86KLc_4U"
+UC0dgTZhVua-2yvtWDfPA_nQ;_IdmMYKZOtA;2022-09-05T13:00:17Z;"📺 New #rstatsvideo: text mining in r tutorial | Text mining on PDF document using tidy text library
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #textmininginrtutorial
+🔗 https://www.youtube.com/watch?v=_IdmMYKZOtA"
+UCyHEww8_SCdxZvEnkCfi55w;F2gQXdeHIIM;2022-09-05T14:00:08Z;"📺 New #rstatsvideo: Add p-Values to Correlation Matrix Plot in R (2 Examples) | psych, corrplot & ggcorrplot Packages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=F2gQXdeHIIM"
+UC9Sm1qcdzyGVjQMgWsW4pcw;b7TLIX6z1JQ;2022-09-05T15:06:43Z;"📺 New #rstatsvideo: Distill Tutorial: Creating Lessons/Posts
+▶ Jennifer Sloane (@jfsloane)
+🗣 🇬🇧
+#rstats #distill #rdistill #distilltutorial #rdistilltutorial #buildingwebsitedistill #distillcreatelessons #distillcreateposts
+🔗 https://www.youtube.com/watch?v=b7TLIX6z1JQ"
+UCCaChdLMTYMxyawR_Qf-kYA;fi4p6a1LLNw;2022-09-05T17:45:45Z;"📺 New #rstatsvideo: ISLR: Tree-Based Methods Part 1 (islr04 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=fi4p6a1LLNw"
+UCAI9XVDrTRsT2cjdFLaTnBw;mPjgdKf0qac;2022-09-06T06:56:25Z;"📺 New #rstatsvideo: Advanced Statistics: 2. R Programming (Leiden University, Sep. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=mPjgdKf0qac"
+UCjXQyxs1iyEg5v98fezgT0w;23qoXybpYUE;2022-09-06T12:00:01Z;"📺 New #rstatsvideo: Brier Score in R
+▶ Regorz Statistik
+🗣 🇬🇧
+#rstats #brierscorer #brierscore #brierscoreml #brierscoremachinelearning #rmachinelearning #rml
+🔗 https://www.youtube.com/watch?v=23qoXybpYUE"
