@@ -62,46 +62,21 @@ validate_new_channels()
 
 
 #update channels videos
-
-
 walk(tb_channel$id_channel, update_channel_video)
 #which(tb_channel$id_channel=="UCg4rv97QEhN-2gvLhrGMgEw")
 
-
 validate_new_videos()#6aJMGdCxbgA
-
-## check date after 9 june, 1 AM
-# tuber::get_video_details("6aJMGdCxbgA")
 
 videos <- choose_videos(max_tweet = 3)%>%
   filter(!id_video%in%c("oFQANK13-k4")) # 28 july
 #videos <- videos%>%filter(new_video)
 
-# 
-# #################
-# videos<-load_current_video()
-# 
-# videos%>%
-#   filter(id_channel=="UClGaKSIiaYp8o2SB3D3aS_A")%>%
-#   check_videos()
-
-
-
-# 
-# tibble_video_infos(id_video)
-# i = 4
-# name_channel = videos$name_channel[i];id_twitter = videos$id_twitter[i]
-# id_video = videos$id_video[i]
-# new_video= videos$new_video[i]
-# write_tweet(name_channel, id_twitter, id_video, new_video)
-
-
+# create txt
 videos<- 
   videos%>%
   mutate(tweet = pmap_chr(list(name_channel, id_twitter, id_video, new_video),write_tweet))
 
-
-
+# post tweet
 videos%>%
   arrange(ymd_hms_video)%>%
   mutate(delay = c(rep(300,n()-1),0))%>%

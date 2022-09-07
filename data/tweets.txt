@@ -13697,3 +13697,42 @@ UCjXQyxs1iyEg5v98fezgT0w;23qoXybpYUE;2022-09-06T12:00:01Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #brierscorer #brierscore #brierscoreml #brierscoremachinelearning #rmachinelearning #rml
 🔗 https://www.youtube.com/watch?v=23qoXybpYUE"
+UCyHEww8_SCdxZvEnkCfi55w;gYtjoGxKKag;2022-09-06T14:00:21Z;"📺 New #rstatsvideo: Draw Two Data Sets with Different Sizes in ggplot2 Plot in R (Example) | Point Size in Scatterplot
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=gYtjoGxKKag"
+UCB_noR4lYmbKJozwJuPStbg;QgasjZGhWlk;2022-09-06T15:30:04Z;"📺 New #rstatsvideo: purrr::map - VERY basic: part 2 iterating functions to import multiple files from local file system
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #iteratefunctionsr #purrr #map #mapdf #tipsandtricksr #importdatar
+🔗 https://www.youtube.com/watch?v=QgasjZGhWlk"
+UCGuktEl5InrcxPfCjmPWxsA;uNQ3fwnUQsE;2022-09-06T16:00:36Z;"📺 New #rstatsvideo: Using the dplyr lag and lead function to find the length of drought (CC245)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #dplyrlaglead #dplyrlag #dplyrlead #tidyverselag #tidyverselead #rstudiodplyr
+🔗 https://www.youtube.com/watch?v=uNQ3fwnUQsE"
+UCg4rv97QEhN-2gvLhrGMgEw;XkISrORalOQ;2022-09-06T17:06:55Z;"📺 New #rstatsvideo: Pacote ggbeeswarm no R: Construa gráficos de dispersão/violino sem sobreposição
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=XkISrORalOQ"
+UCCaChdLMTYMxyawR_Qf-kYA;B0QBc6FBM3o;2022-09-06T17:48:34Z;"📺 New #rstatsvideo: ISLR: Multiple Testing Part 2 (islr03 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=B0QBc6FBM3o"
+UCCaChdLMTYMxyawR_Qf-kYA;eqQJ5tmEGco;2022-09-06T17:51:23Z;"📺 New #rstatsvideo: R for Data Science: Data visualization (r4ds07 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=eqQJ5tmEGco"
+UCeiiqmVK07qhY-wvg3IZiZQ;CTWkJrvfRBc;2022-09-07T01:10:21Z;"📺 New #rstatsvideo: Tidy Tuesday live screencast: Analyzing LEGOs in R
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=CTWkJrvfRBc"
+UCIwS122xl4mjhw5TdK_K9Rw;drMcTW8ZazA;2022-09-07T08:52:26Z;"📺 New #rstatsvideo: Applying Anomaly Detection on Numeric Dataset
+▶ R in Action (@Parag52659626)
+🗣 🇬🇧
+#rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning
+🔗 https://www.youtube.com/watch?v=drMcTW8ZazA"
