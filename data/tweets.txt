@@ -13736,3 +13736,45 @@ UCIwS122xl4mjhw5TdK_K9Rw;drMcTW8ZazA;2022-09-07T08:52:26Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning
 🔗 https://www.youtube.com/watch?v=drMcTW8ZazA"
+UCXuX-kQ1TbKHWeB75NgmhlA;s7sEE_7hmAE;2022-09-07T12:00:26Z;"📺 New #rstatsvideo: R for beginners | Part 14: Rename columns | Most important R commands
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #rprogramminglanguage #datascience #rprogramming #rprogrammingtutorial
+🔗 https://www.youtube.com/watch?v=s7sEE_7hmAE"
+UCyHEww8_SCdxZvEnkCfi55w;EepaCWIn9to;2022-09-07T14:00:07Z;"📺 New #rstatsvideo: How to Convert Four Digit Year Values to Class Date in R (2 Examples) | Base R & lubridate Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=EepaCWIn9to"
+UCMdihazndR0f9XBoSXWqnYg;E7vtorgTFEY;2022-09-07T14:56:07Z;"📺 New #rstatsvideo: R & Python - Network Analysisnt
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing #modeling
+🔗 https://www.youtube.com/watch?v=E7vtorgTFEY"
+UCCaChdLMTYMxyawR_Qf-kYA;QHOw-Mnj_Vo;2022-09-07T18:16:01Z;"📺 New #rstatsvideo: Modelado Tidy con R - 14. Búsqueda Iterativa (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=QHOw-Mnj_Vo"
+UCCaChdLMTYMxyawR_Qf-kYA;lrjPCR4d1RI;2022-09-07T23:13:10Z;"📺 New #rstatsvideo: Bayes Rules! Evaluating Regression Models (bayes_rules02 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=lrjPCR4d1RI"
+UCCaChdLMTYMxyawR_Qf-kYA;rfidR7tI_nQ;2022-09-07T23:13:43Z;"📺 New #rstatsvideo: Advanced R: Base types (advr06 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=rfidR7tI_nQ"
+UCISHpKq_20peU3G1xwtXjjQ;dfhFpZ_vabI;2022-09-08T06:19:58Z;"📺 New #rstatsvideo: Introduction to Optical Character Recognition OCR Using R (Tesseract)
+▶ Samer Hijjazi (@SamerHijjazi)
+#rstats #ocr #opticalcharacterrecognition #textanalytics #tesseract #rstudio #rprogramming
+🔗 https://www.youtube.com/watch?v=dfhFpZ_vabI"
+UCAI9XVDrTRsT2cjdFLaTnBw;TclVl62m0jM;2022-09-08T06:50:41Z;"📺 New #rstatsvideo: Basic Statistics: 4. Probability Distributions (Leiden University, Sep. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=TclVl62m0jM"
+UCAI9XVDrTRsT2cjdFLaTnBw;q1-lrT_EHqU;2022-09-08T08:10:09Z;"📺 New #rstatsvideo: Basic Statistics: 4 (part 2). Publication-Grade Graphics (Leiden University, Sep. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=q1-lrT_EHqU"
