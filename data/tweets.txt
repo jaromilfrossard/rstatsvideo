@@ -13778,3 +13778,36 @@ UCAI9XVDrTRsT2cjdFLaTnBw;q1-lrT_EHqU;2022-09-08T08:10:09Z;"📺 New #rstatsvideo
 ▶ Biostatistics
 #rstats
 🔗 https://www.youtube.com/watch?v=q1-lrT_EHqU"
+UCCaChdLMTYMxyawR_Qf-kYA;pPau7AzQAww;2022-09-08T11:23:10Z;"📺 New #rstatsvideo: JS4R: Custom Outputs (js4r01 14)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=pPau7AzQAww"
+UCPJZmlXMcBiKjoVQ4cpAMIg;1VnLslmQe9c;2022-09-08T13:45:00Z;"📺 New #rstatsvideo: How to create a Pivot Table with SUBTOTALS and GRAND TOTALS in R | RStudio
+▶ Dean Chereden (@deanchereden)
+🗣 🇬🇧
+#rstats #analytics #datascience #howto #rprogramming #rstudio #dataanalytics
+🔗 https://www.youtube.com/watch?v=1VnLslmQe9c"
+UCyHEww8_SCdxZvEnkCfi55w;b6CKfrjvnlg;2022-09-08T14:00:15Z;"📺 New #rstatsvideo: Order Rows & Columns of Heatmap in R (2 Examples) | Manual & Without Dendrogram | heatmap() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=b6CKfrjvnlg"
+UCGuktEl5InrcxPfCjmPWxsA;olu821RTQA8;2022-09-08T16:00:27Z;"📺 New #rstatsvideo: Organizing a new project with git and conda and synching it to GitHub (CC246)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #githubcondagitproject #github #condaenvironment #condaenvcreate #githubanaconda
+🔗 https://www.youtube.com/watch?v=olu821RTQA8"
+UCTTBgWyJl2HrrhQOOc710kA;5s7fI4cl2C8;2022-09-08T16:38:54Z;"📺 New #rstatsvideo: Deploy a model for LEGO sets with Docker
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=5s7fI4cl2C8"
+UCg6kociUghEgKz_hLRKQrMQ;OEnixX-dAmM;2022-09-08T20:37:40Z;"📺 New #rstatsvideo: Ridge lines plot en #R
+▶ R Data Science School
+#rstats #wondersharefilmora
+🔗 https://www.youtube.com/watch?v=OEnixX-dAmM"
+UCSoUNu8x-HblqqOK_EwdZGw;PIgKw9N2Hy0;2022-09-08T23:49:49Z;"📺 New #rstatsvideo: Demystifying R: A Guided Tour
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=PIgKw9N2Hy0"
