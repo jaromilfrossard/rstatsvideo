@@ -48,8 +48,7 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
                                   id_channel = col_character(),
                                   name_channel = col_character(),
                                   id_twitter = col_character()),
-                                lazy = FALSE)%>%
-  filter(id_channel!="UCWTFKtW_ReLP9zmMTYjRqug")#rladies paris
+                                lazy = FALSE)
 
 
 # tb_channel%>%

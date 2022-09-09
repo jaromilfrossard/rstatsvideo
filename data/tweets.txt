@@ -13811,3 +13811,8 @@ UCSoUNu8x-HblqqOK_EwdZGw;PIgKw9N2Hy0;2022-09-08T23:49:49Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=PIgKw9N2Hy0"
+UCWTFKtW_ReLP9zmMTYjRqug;Qqpcj-Q5fcc;2022-09-09T09:53:29Z;"📺 New #rstatsvideo: Keeping it Tidy: Using the Tidyverse to Organize, Transform, and Visualize Data by Meghan Hall
+▶ R-Ladies Paris (@RLadiesParis)
+🗣 🇬🇧
+#rstats #rstudio #onlinemeetup #workshop #datavisualization #dataviz
+🔗 https://www.youtube.com/watch?v=Qqpcj-Q5fcc"
