@@ -13816,3 +13816,112 @@ UCWTFKtW_ReLP9zmMTYjRqug;Qqpcj-Q5fcc;2022-09-09T09:53:29Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rstudio #onlinemeetup #workshop #datavisualization #dataviz
 🔗 https://www.youtube.com/watch?v=Qqpcj-Q5fcc"
+UCyHEww8_SCdxZvEnkCfi55w;3vfjIzs2w0c;2022-09-09T14:00:03Z;"📺 New #rstatsvideo: Convert Dates to Seasons in R (Example) | How to Find Season of Certain Date | hydroTSM package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=3vfjIzs2w0c"
+UCg4rv97QEhN-2gvLhrGMgEw;DNK_6bTAl9k;2022-09-09T14:26:27Z;"📺 New #rstatsvideo: Teste T: Comparação de médias
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=DNK_6bTAl9k"
+UC_R5smHVXRYGhZYDJsnXTwg;49HXkA2EcD4;2022-09-09T17:58:39Z;"📺 New #rstatsvideo: Tidymodels Approaches to Predicting Severe C diff Infections with Multicenter Cohorts
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=49HXkA2EcD4"
+UC_R5smHVXRYGhZYDJsnXTwg;tiwx8mSUL1c;2022-09-09T17:59:17Z;"📺 New #rstatsvideo: A Quart o' {rUM} (Using the {rUM} Package for Reproducible Medical Research)
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=tiwx8mSUL1c"
+UC_R5smHVXRYGhZYDJsnXTwg;Yxeic7WXzFw;2022-09-09T18:00:08Z;"📺 New #rstatsvideo: Using the {arrow} and {duckdb} packages to wrangle medical datasets that are Larger than RAM
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=Yxeic7WXzFw"
+UC_R5smHVXRYGhZYDJsnXTwg;s-IYmN1TBJg;2022-09-09T18:02:33Z;"📺 New #rstatsvideo: Making Swimmer Plots for Longitudinal Data with {ggplot2}
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=s-IYmN1TBJg"
+UC_R5smHVXRYGhZYDJsnXTwg;Gkm3l9UP9WE;2022-09-09T18:12:14Z;"📺 New #rstatsvideo: Automation of statistics summary and analysis using R shiny
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=Gkm3l9UP9WE"
+UC_R5smHVXRYGhZYDJsnXTwg;PvONU3C9uIA;2022-09-09T18:18:31Z;"📺 New #rstatsvideo: The {regmed} package for regularized mediation
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=PvONU3C9uIA"
+UC_R5smHVXRYGhZYDJsnXTwg;F4Rutkru6mg;2022-09-09T18:20:42Z;"📺 New #rstatsvideo: Viewing Multiple Interactive Plots Using Plotly And Trelliscopejs
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=F4Rutkru6mg"
+UCDozrYAxG1rTopPRA6GVYAg;ja8SnEeuqaM;2022-09-09T18:24:09Z;"📺 New #rstatsvideo: Taller R-9CIMA-S1-1
+▶ ScitecEducation
+#rstats
+🔗 https://www.youtube.com/watch?v=ja8SnEeuqaM"
+UC_R5smHVXRYGhZYDJsnXTwg;24U4_qhcSMk;2022-09-09T18:33:19Z;"📺 New #rstatsvideo: Using data and R to deliver evidence-based care for substance use disorders
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=24U4_qhcSMk"
+UCDozrYAxG1rTopPRA6GVYAg;CcrWtCdghpk;2022-09-09T19:28:49Z;"📺 New #rstatsvideo: Taller R-9CIMA-S1-2
+▶ ScitecEducation
+#rstats
+🔗 https://www.youtube.com/watch?v=CcrWtCdghpk"
+UCDozrYAxG1rTopPRA6GVYAg;1DasuGujgqs;2022-09-09T19:47:42Z;"📺 New #rstatsvideo: Taller R-9CIMA-S2-1
+▶ ScitecEducation
+#rstats
+🔗 https://www.youtube.com/watch?v=1DasuGujgqs"
+UCDozrYAxG1rTopPRA6GVYAg;xIowXUlnVOE;2022-09-09T19:55:59Z;"📺 New #rstatsvideo: Taller R-9CIMA-S2-2
+▶ ScitecEducation
+#rstats
+🔗 https://www.youtube.com/watch?v=xIowXUlnVOE"
+UC_R5smHVXRYGhZYDJsnXTwg;8XBcT_weemg;2022-09-09T20:20:37Z;"📺 New #rstatsvideo: Detecting SARS Cov 2 Lineages And Mutational Load In Municipal Wastewater
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=8XBcT_weemg"
+UC_R5smHVXRYGhZYDJsnXTwg;X0K2mb1FKI8;2022-09-09T21:36:23Z;"📺 New #rstatsvideo: Bioconductor Helm Chart: A Customizable Deployment Stack For Bioconductor Rstudio
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=X0K2mb1FKI8"
+UC_R5smHVXRYGhZYDJsnXTwg;xlF-HmnNy7U;2022-09-09T21:43:47Z;"📺 New #rstatsvideo: Sparsearray Objects
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=xlF-HmnNy7U"
+UC_R5smHVXRYGhZYDJsnXTwg;XyYc_KPPUec;2022-09-09T21:47:28Z;"📺 New #rstatsvideo: Reusedata: An Open-Source, Open-Development Tool For Reusable & Reproducible Genomic Data Management
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=XyYc_KPPUec"
+UC_R5smHVXRYGhZYDJsnXTwg;3Eh-smsIebo;2022-09-09T21:55:00Z;"📺 New #rstatsvideo: Using Bioconductor On GPU Enabled Cloud Vms
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=3Eh-smsIebo"
+UCDozrYAxG1rTopPRA6GVYAg;Y69kPV4wDuw;2022-09-10T00:27:56Z;"📺 New #rstatsvideo: Taller R-9CIMA-S3
+▶ ScitecEducation
+#rstats
+🔗 https://www.youtube.com/watch?v=Y69kPV4wDuw"
+UCdrnsZd2xWjDjHUlYsA6Kfw;twnO2RIuUjg;2022-09-10T08:58:11Z;"📺 New #rstatsvideo: The Best R Resource on the Web? The Big Book of R
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters
+🔗 https://www.youtube.com/watch?v=twnO2RIuUjg"
+UCdFC653IaBVC5kwj7CGo2sQ;7kWW8rkpfqc;2022-09-10T12:20:13Z;"📺 New #rstatsvideo: How to fix the sizes in your ggplots
+▶ RappA (@rappa753)
+#rstats
+🔗 https://www.youtube.com/watch?v=7kWW8rkpfqc"
+UCyHEww8_SCdxZvEnkCfi55w;2xcMoABTuuQ;2022-09-10T14:00:01Z;"📺 New #rstatsvideo: Remove Negative Values from Vector & Data Frame (2 Examples) | Delete Elements or Rows | na.omit()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=2xcMoABTuuQ"
