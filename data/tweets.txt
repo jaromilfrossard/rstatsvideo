@@ -13925,3 +13925,18 @@ UCyHEww8_SCdxZvEnkCfi55w;2xcMoABTuuQ;2022-09-10T14:00:01Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=2xcMoABTuuQ"
+UCCaChdLMTYMxyawR_Qf-kYA;4fLiLGNhkPw;2022-09-10T15:32:18Z;"📺 New #rstatsvideo: Feature Engineering: Exploratory Visualizations (feat_eng01 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=4fLiLGNhkPw"
+UCcGXGFClRdnrwXsPHi7P4ZA;M_7MOkAm9WU;2022-09-11T11:03:25Z;"📺 New #rstatsvideo: R demo | Robust Regression (don't depend on influential data)
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #clearlyexplained #datascience #dataanalysis #forbeginners #stats #introductiontostatistics #regression
+🔗 https://www.youtube.com/watch?v=M_7MOkAm9WU"
+UCyHEww8_SCdxZvEnkCfi55w;PFvhWVwfSZ4;2022-09-11T14:00:10Z;"📺 New #rstatsvideo: Add Polynomial Regression Line to Plot in R (2 Examples) | Base R & ggplot2 | lm() & stat_smooth()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=PFvhWVwfSZ4"
