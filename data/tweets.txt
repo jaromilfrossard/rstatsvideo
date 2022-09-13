@@ -13940,3 +13940,20 @@ UCyHEww8_SCdxZvEnkCfi55w;PFvhWVwfSZ4;2022-09-11T14:00:10Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=PFvhWVwfSZ4"
+UCyHEww8_SCdxZvEnkCfi55w;zqqsi0q8uyg;2022-09-12T14:00:36Z;"📺 New #rstatsvideo: Sort Rows of data.table in R (3 Examples) | Order with setorder Function | Single & Multiple Columns
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=zqqsi0q8uyg"
+UCAI9XVDrTRsT2cjdFLaTnBw;0ThAns8zrsg;2022-09-12T21:01:58Z;"📺 New #rstatsvideo: Advanced Statistics: Monday 12 Sep. (Leiden University, Sep. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=0ThAns8zrsg"
+UCAI9XVDrTRsT2cjdFLaTnBw;iwHtP50LMHw;2022-09-12T22:55:21Z;"📺 New #rstatsvideo: Advanced Statistics: Monday 12 Sep. Part 2 (Leiden University, Sep. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=iwHtP50LMHw"
+UCTXuqtCYxPVEehq6fJY9GkA;AHPafkosVaU;2022-09-13T00:15:53Z;"📺 New #rstatsvideo: Shiny e futebol (parte 1)
+▶ Curso-R (@curso_r)
+#rstats #games #twitch
+🔗 https://www.youtube.com/watch?v=AHPafkosVaU"
