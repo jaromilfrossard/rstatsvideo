@@ -13957,3 +13957,64 @@ UCTXuqtCYxPVEehq6fJY9GkA;AHPafkosVaU;2022-09-13T00:15:53Z;"📺 New #rstatsvideo
 ▶ Curso-R (@curso_r)
 #rstats #games #twitch
 🔗 https://www.youtube.com/watch?v=AHPafkosVaU"
+UCyZCfIET7753bs5WpmKI_qQ;Vhuo96UdFu8;2022-09-13T02:51:32Z;"📺 New #rstatsvideo: Tutorial R | Como construir tabela para artigo técnico - gtsummary
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats #gtsummary #tabelas #quiquadrado #contingencia
+🔗 https://www.youtube.com/watch?v=Vhuo96UdFu8"
+UCjXQyxs1iyEg5v98fezgT0w;k4iD6S0lEHo;2022-09-13T07:00:14Z;"📺 New #rstatsvideo: Pfadanalyse mit R lavaan 8: Nur mit Kovarianz-/Korrelationsmatrix (ohne die Rohdaten)
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #lavaankorrelationsmatrix #lavaankovarianzmatrix #lavaanvarianzkovarianz
+🔗 https://www.youtube.com/watch?v=k4iD6S0lEHo"
+UCyHEww8_SCdxZvEnkCfi55w;Dr9qVx2Peak;2022-09-13T11:00:12Z;"📺 New #rstatsvideo: Draw Boxplot with Precomputed Values in R (3 Examples) | Calculated Stats | Base R & ggplot2 Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=Dr9qVx2Peak"
+UCg4rv97QEhN-2gvLhrGMgEw;HbzZAGPJ_lE;2022-09-13T12:35:58Z;"📺 New #rstatsvideo: Aplicação do Teste T no R: Comparação de médias
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=HbzZAGPJ_lE"
+UCdFC653IaBVC5kwj7CGo2sQ;1sCQEpJzv1U;2022-09-13T13:46:00Z;"📺 New #rstatsvideo: Avoid code duplication with Shiny modules
+▶ RappA (@rappa753)
+#rstats
+🔗 https://www.youtube.com/watch?v=1sCQEpJzv1U"
+UC0dgTZhVua-2yvtWDfPA_nQ;DOj3bWB0UsU;2022-09-13T14:00:06Z;"📺 New #rstatsvideo: text mining in r tutorial | Text mining on PDF document using tidy text library
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #textmininginrtutorial
+🔗 https://www.youtube.com/watch?v=DOj3bWB0UsU"
+UC1ZIcF31fEzBO6akL_HHkBg;DeLK1OKNQlw;2022-09-13T14:43:32Z;"📺 New #rstatsvideo: ds.database: Relational data with the dm package
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=DeLK1OKNQlw"
+UCB_noR4lYmbKJozwJuPStbg;kZf11zbVpr0;2022-09-13T15:15:01Z;"📺 New #rstatsvideo: nest() data frames then iterate with purrr::map()
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #iteratefunctionsr #nest #groupby #purrr #map #mapdf #tipsandtricksr #rfun #datatypes #forloops #for #tidyverse
+🔗 https://www.youtube.com/watch?v=kZf11zbVpr0"
+UCfJyQ3P2k_SuqfxVdqIEQNw;0_lSx0CJiSc;2022-09-13T16:24:51Z;"📺 New #rstatsvideo: Today I learned in R - native pipes and the cut function
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=0_lSx0CJiSc"
+UCCaChdLMTYMxyawR_Qf-kYA;lgmQmtXcjRk;2022-09-13T17:50:22Z;"📺 New #rstatsvideo: ISLR: Tree-Based Methods Part 2 (islr04 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=lgmQmtXcjRk"
+UCXuX-kQ1TbKHWeB75NgmhlA;t6BACAStVvI;2022-09-13T22:00:32Z;"📺 New #rstatsvideo: R for beginners | Part 15: Create custom categories | Most important R commands
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #rprogramminglanguage #datascience #rprogramming #rprogrammingtutorial
+🔗 https://www.youtube.com/watch?v=t6BACAStVvI"
+UCeiiqmVK07qhY-wvg3IZiZQ;hG0ILWaVnH4;2022-09-14T01:26:40Z;"📺 New #rstatsvideo: Tidy Tuesday live screencast: Analyzing Bigfoot in R
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=hG0ILWaVnH4"
+UCAI9XVDrTRsT2cjdFLaTnBw;AI70ZeZdLx0;2022-09-14T06:38:15Z;"📺 New #rstatsvideo: Advanced Statistics: Wednesday 14-Sep (Leiden University, Sep. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=AI70ZeZdLx0"
