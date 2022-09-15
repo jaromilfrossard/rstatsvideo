@@ -14018,3 +14018,52 @@ UCAI9XVDrTRsT2cjdFLaTnBw;AI70ZeZdLx0;2022-09-14T06:38:15Z;"📺 New #rstatsvideo
 ▶ Biostatistics
 #rstats
 🔗 https://www.youtube.com/watch?v=AI70ZeZdLx0"
+UCyHEww8_SCdxZvEnkCfi55w;9d-oI_GzntU;2022-09-14T14:00:03Z;"📺 New #rstatsvideo: How to Count Occurrences of Value in Data Frame in R (2 Examples) | One Column or Entire Data Frame
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=9d-oI_GzntU"
+UCWOMdzXlQgRu6f-plf9DTcg;vEL2U2umXrE;2022-09-14T14:46:17Z;"📺 New #rstatsvideo: Visualización Customizada con etiquetas
+▶ Miguel Bustos
+#rstats
+🔗 https://www.youtube.com/watch?v=vEL2U2umXrE"
+UC_R5smHVXRYGhZYDJsnXTwg;9jGc0TxoRco;2022-09-14T16:24:50Z;"📺 New #rstatsvideo: Quarto - J.J. Allaire
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=9jGc0TxoRco"
+UC_R5smHVXRYGhZYDJsnXTwg;tZCOlivV_Us;2022-09-14T16:34:48Z;"📺 New #rstatsvideo: Spatial health data with R Shiny and custom reporting feature
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=tZCOlivV_Us"
+UC_R5smHVXRYGhZYDJsnXTwg;v0mn2iulGiY;2022-09-14T16:50:14Z;"📺 New #rstatsvideo: Discovering hidden patterns in clinical data with the {vtree} package
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=v0mn2iulGiY"
+UC_R5smHVXRYGhZYDJsnXTwg;Ws-spOj3JZM;2022-09-14T16:52:24Z;"📺 New #rstatsvideo: Getting R in the hands of frontline public health responders
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=Ws-spOj3JZM"
+UC_R5smHVXRYGhZYDJsnXTwg;-Yo9vtwxm9A;2022-09-14T17:04:48Z;"📺 New #rstatsvideo: Development and application of an immunization validation engine utilizing R
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=-Yo9vtwxm9A"
+UC_R5smHVXRYGhZYDJsnXTwg;DmslEfczYqM;2022-09-14T17:07:06Z;"📺 New #rstatsvideo: Introducing {gtreg}
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=DmslEfczYqM"
+UCCaChdLMTYMxyawR_Qf-kYA;wFin9zsH2f8;2022-09-14T17:15:38Z;"📺 New #rstatsvideo: JS4R: Custom Outputs Part 2 (js4r01 14)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wFin9zsH2f8"
+UCMdihazndR0f9XBoSXWqnYg;k74656b1Q1M;2022-09-14T21:43:09Z;"📺 New #rstatsvideo: R - Data Visualization (5.1 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #data #visualization #science #analytics #ggplot2 #rstudio #graphs #histogram #bargraph #linegraph #scatterplot
+🔗 https://www.youtube.com/watch?v=k74656b1Q1M"
