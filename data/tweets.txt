@@ -14067,3 +14067,28 @@ UCMdihazndR0f9XBoSXWqnYg;k74656b1Q1M;2022-09-14T21:43:09Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statistics #data #visualization #science #analytics #ggplot2 #rstudio #graphs #histogram #bargraph #linegraph #scatterplot
 🔗 https://www.youtube.com/watch?v=k74656b1Q1M"
+UCyHEww8_SCdxZvEnkCfi55w;pYu-gC6Q7gA;2022-09-15T14:00:24Z;"📺 New #rstatsvideo: How to Change Classes of Data Frame Columns Automatically in R (Example) | type.convert() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #rprogramming
+🔗 https://www.youtube.com/watch?v=pYu-gC6Q7gA"
+UCdrnsZd2xWjDjHUlYsA6Kfw;8CQiVVgQoH0;2022-09-16T03:42:42Z;"📺 New #rstatsvideo: How to change document fonts & formats in Quarto (Word/Docx)
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle
+🔗 https://www.youtube.com/watch?v=8CQiVVgQoH0"
+UCyHEww8_SCdxZvEnkCfi55w;xkpO0UBsNzg;2022-09-16T14:00:27Z;"📺 New #rstatsvideo: Append data.table to Another in R (Example) | Concatenate & Combine Two Tables | rbindlist Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=xkpO0UBsNzg"
+UCCaChdLMTYMxyawR_Qf-kYA;fysvHBMSXz8;2022-09-16T15:17:39Z;"📺 New #rstatsvideo: Bayes Rules! Extending the Normal Regression Model (bayes_rules02 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=fysvHBMSXz8"
+UCCaChdLMTYMxyawR_Qf-kYA;vzbl2o-MEeQ;2022-09-16T15:18:19Z;"📺 New #rstatsvideo: Advanced R: S3 (advr06 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vzbl2o-MEeQ"
