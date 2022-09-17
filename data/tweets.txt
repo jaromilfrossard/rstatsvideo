@@ -14092,3 +14092,18 @@ UCCaChdLMTYMxyawR_Qf-kYA;vzbl2o-MEeQ;2022-09-16T15:18:19Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=vzbl2o-MEeQ"
+UCCaChdLMTYMxyawR_Qf-kYA;FXR0WWyqDf8;2022-09-16T21:24:18Z;"📺 New #rstatsvideo: R for Data Science: Model Building (r4ds06 24)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=FXR0WWyqDf8"
+UCCaChdLMTYMxyawR_Qf-kYA;HeCaORJNdJM;2022-09-16T21:24:52Z;"📺 New #rstatsvideo: Bayes Rules! Naive Bayes Classification (bayes_rules01 14)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=HeCaORJNdJM"
+UCSoUNu8x-HblqqOK_EwdZGw;oCMVhUdQuzY;2022-09-17T07:10:37Z;"📺 New #rstatsvideo: Redoing DHM data viz
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=oCMVhUdQuzY"
