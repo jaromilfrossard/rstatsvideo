@@ -14107,3 +14107,18 @@ UCSoUNu8x-HblqqOK_EwdZGw;oCMVhUdQuzY;2022-09-17T07:10:37Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=oCMVhUdQuzY"
+UCyHEww8_SCdxZvEnkCfi55w;RsIHamZopNk;2022-09-17T14:00:12Z;"📺 New #rstatsvideo: Draw ggplot2 Barplot with Round Corners (2 Examples) | ggchicklet Package | Stacked ggplot2 Barchart
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=RsIHamZopNk"
+UCCaChdLMTYMxyawR_Qf-kYA;hRl4nh_sUc4;2022-09-17T18:04:40Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Escaping the graph (mshiny03 16)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hRl4nh_sUc4"
+UCCaChdLMTYMxyawR_Qf-kYA;3FQaLXi-DZM;2022-09-17T19:43:27Z;"📺 New #rstatsvideo: Feature Engineering: Encoding Categorical Predictors (feat_eng01 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=3FQaLXi-DZM"
