@@ -14122,3 +14122,34 @@ UCCaChdLMTYMxyawR_Qf-kYA;3FQaLXi-DZM;2022-09-17T19:43:27Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=3FQaLXi-DZM"
+UCCaChdLMTYMxyawR_Qf-kYA;9Koz35bNUUA;2022-09-18T13:53:58Z;"📺 New #rstatsvideo: Geospatial health: Cohort 1 Introduction (geohealth01 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9Koz35bNUUA"
+UCyHEww8_SCdxZvEnkCfi55w;T02jUjSkeeE;2022-09-18T14:00:15Z;"📺 New #rstatsvideo: How to Generate Random Sample of POSIXct Dates & Times in R (Example) | seq() & sample() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=T02jUjSkeeE"
+UCP8l94xtoemCH_GxByvTuFQ;MHwZbritF9I;2022-09-18T17:15:00Z;"📺 New #rstatsvideo: TidyX Episode 116 | R Classes and Objects - Making an S4 Object,  Part 3 - S4 Tournament
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming
+🔗 https://www.youtube.com/watch?v=MHwZbritF9I"
+UCb_qPFrtCiD-0apuOqPmODQ;JtFH4tOUOcI;2022-09-19T01:09:18Z;"📺 New #rstatsvideo: Combining Multiple figures in R. Patchwork.
+▶ Confused Postdoc
+#rstats
+🔗 https://www.youtube.com/watch?v=JtFH4tOUOcI"
+UCTXuqtCYxPVEehq6fJY9GkA;S-lupRrmjaw;2022-09-19T01:23:27Z;"📺 New #rstatsvideo: Shiny e futebol - parte 2
+▶ Curso-R (@curso_r)
+#rstats #games #twitch
+🔗 https://www.youtube.com/watch?v=S-lupRrmjaw"
+UCAI9XVDrTRsT2cjdFLaTnBw;2yHnuqn5Bek;2022-09-19T06:51:29Z;"📺 New #rstatsvideo: Basic Statistics: Monday 19-Sep (Leiden University, Sep. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=2yHnuqn5Bek"
+UCDgj5-mFohWZ5irWSFMFcng;nCh8E98XjTY;2022-09-19T10:22:55Z;"📺 New #rstatsvideo: R-Ladies Johannesburg (Eng) - How to Send Email With R - Sharon Machlis
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=nCh8E98XjTY"
