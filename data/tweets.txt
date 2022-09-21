@@ -14153,3 +14153,109 @@ UCDgj5-mFohWZ5irWSFMFcng;nCh8E98XjTY;2022-09-19T10:22:55Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #coding #programming
 🔗 https://www.youtube.com/watch?v=nCh8E98XjTY"
+UCyHEww8_SCdxZvEnkCfi55w;GRUpAnuX2i0;2022-09-19T14:00:17Z;"📺 New #rstatsvideo: Non-Redundant Version of expand.grid in R (Example) | No Duplicate Combinations | combn() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=GRUpAnuX2i0"
+UCGuktEl5InrcxPfCjmPWxsA;nNKwcIfcwgo;2022-09-19T16:00:36Z;"📺 New #rstatsvideo: R tools in readr for reading in fixed width files and other formats (CC249)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rfixedwidthfiles #readrpackge #rreadr #readfwf #readtsv #readcsv #rcolumntypes
+🔗 https://www.youtube.com/watch?v=nNKwcIfcwgo"
+UChEWb0dYC8v7wZNWHca9b_A;ByeNpxr3z0M;2022-09-19T18:52:32Z;"📺 New #rstatsvideo: كيفية تجريف مواقع الانترنت العربية لتجميع البيانات
+▶ ArabR
+🗣 Arabic
+#rstats #rstudio #rvest #تجريفالويب #البياناتالعربية #webscraping #rcommunity
+🔗 https://www.youtube.com/watch?v=ByeNpxr3z0M"
+UC_R5smHVXRYGhZYDJsnXTwg;NCrrN3Al-kw;2022-09-19T19:53:34Z;"📺 New #rstatsvideo: R Workflow for reproducible biomedical research using Quarto
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=NCrrN3Al-kw"
+UC_R5smHVXRYGhZYDJsnXTwg;cCqS1pF7VLk;2022-09-19T19:54:51Z;"📺 New #rstatsvideo: Censored: A tidymodels package for survival models
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=cCqS1pF7VLk"
+UC_R5smHVXRYGhZYDJsnXTwg;OrThBFV85m4;2022-09-19T19:55:44Z;"📺 New #rstatsvideo: Setting a Reproducible R Shiny Project Environment
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=OrThBFV85m4"
+UC_R5smHVXRYGhZYDJsnXTwg;zvr1bvN38c8;2022-09-19T19:56:36Z;"📺 New #rstatsvideo: Contessa: A Shiny app to help evaluate the impact of COVID-19 test-trace-isolate programs
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=zvr1bvN38c8"
+UC_R5smHVXRYGhZYDJsnXTwg;MeG9KCbzuu4;2022-09-19T20:19:15Z;"📺 New #rstatsvideo: REDCapTidieR: Extracting REDCap Databases into Tidy Tibbles
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=MeG9KCbzuu4"
+UC_R5smHVXRYGhZYDJsnXTwg;C-3YQ_Tel3k;2022-09-19T20:22:38Z;"📺 New #rstatsvideo: Unsupervised analyses of spatially-resolved transcriptomics data with {nnSVG} and R/Bioconductor
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=C-3YQ_Tel3k"
+UC3xfbCMLCw1Hh4dWop3XtHg;l-AQ4yAQXy0;2022-09-20T00:23:22Z;"📺 New #rstatsvideo: Let's Create a Quarto Doc & Share it on Quarto.Pub | Table Contest 2022
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=l-AQ4yAQXy0"
+UC3xfbCMLCw1Hh4dWop3XtHg;t8qtcDyCRFA;2022-09-20T00:23:22Z;"📺 New #rstatsvideo: Create & Publish a Quarto Blog on Quarto Pub in 100 Seconds | Quarto Pub
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=t8qtcDyCRFA"
+UCjXQyxs1iyEg5v98fezgT0w;VuN010c_mFc;2022-09-20T07:00:16Z;"📺 New #rstatsvideo: Pfadanalyse mit R/lavaan 9: Binäre AV (oder binärer MED)
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #pfadanalysebinär #pfadanalysekategorial #pfadanalyseordinal #pfadanalysekategoriale #pfadanalyseordinale
+🔗 https://www.youtube.com/watch?v=VuN010c_mFc"
+UCCaChdLMTYMxyawR_Qf-kYA;LsU9XZ8iNws;2022-09-20T13:32:42Z;"📺 New #rstatsvideo: R for Data Science: Workflow: basics (r4ds07 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LsU9XZ8iNws"
+UCyHEww8_SCdxZvEnkCfi55w;fAD-75EFE2I;2022-09-20T14:00:25Z;"📺 New #rstatsvideo: Remove NA when Summarizing data.table in R (2 Examples) | Delete & Drop Missings | na.rm Argument
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=fAD-75EFE2I"
+UC1ZIcF31fEzBO6akL_HHkBg;Ulz8Vfnr2P4;2022-09-20T14:55:09Z;"📺 New #rstatsvideo: ds.database: Validate data quality
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Ulz8Vfnr2P4"
+UCB_noR4lYmbKJozwJuPStbg;UCrYhpGT_B0;2022-09-20T15:30:09Z;"📺 New #rstatsvideo: regex: finding patterns in [text] strings
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #iteratefunctionsr #nest #regex #stringr #tipsandtricksr #rfun #regularexpressions #tidyverse #findandreplace
+🔗 https://www.youtube.com/watch?v=UCrYhpGT_B0"
+UCg4rv97QEhN-2gvLhrGMgEw;B1vsVeVsnQI;2022-09-20T18:52:07Z;"📺 New #rstatsvideo: Teste McNemar: Comparação de proporções pareadas
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=B1vsVeVsnQI"
+UCAI9XVDrTRsT2cjdFLaTnBw;pV8D53HijYA;2022-09-20T21:30:17Z;"📺 New #rstatsvideo: Basic Statistics: Tuesday 20-Sep (Leiden University, Sep. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=pV8D53HijYA"
+UCCigEL4N49pgIGszAz_v7Uw;0Gt2iA8zapM;2022-09-20T22:31:08Z;"📺 New #rstatsvideo: Moment Generating Function (MGF) of Multivariate Normal random vectors with example in R
+▶ Julian Righ Sampedro (@JRigh)
+#rstats #probability #probabilitydistirubtion #probabilitytheory #mgf
+🔗 https://www.youtube.com/watch?v=0Gt2iA8zapM"
+UC2aSzSLSAKPhcYeBripRQJw;0xE-3U2rsBQ;2022-09-21T03:12:32Z;"📺 New #rstatsvideo: R语言做结构方程模型入门
+▶ DataSense
+🗣 🇨🇳
+#rstats #数据分析
+🔗 https://www.youtube.com/watch?v=0xE-3U2rsBQ"
+UCAI9XVDrTRsT2cjdFLaTnBw;7VGLEDRUzq8;2022-09-21T06:52:19Z;"📺 New #rstatsvideo: Advanced Statistics: Wednesday 21-Sep (Leiden University, Sep. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=7VGLEDRUzq8"
+UCcKPp7AI7ZTBf60WqXo3Bpg;svHT7H1ZykA;2022-09-21T07:02:58Z;"📺 New #rstatsvideo: Sept SLC-RUG Visualize logistic regression results for your non-technical audience
+▶ Salt Lake City R Users Group (@slcrug)
+#rstats
+🔗 https://www.youtube.com/watch?v=svHT7H1ZykA"

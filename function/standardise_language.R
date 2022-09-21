@@ -4,6 +4,7 @@ standardise_language <- function(x){
   
   
   tb <- tribble(~conditions,~output,
+    c("ar"),"ar",
     c("fr","fr-FR"), "fr",
     c("en","en-US","en-GB","en-CA","en-IN"),"en",
     c("de"),"de",
@@ -45,6 +46,7 @@ language2emoji <- function(x){
   x <- as.character(x)
   
   tb <- tribble(~lang,~emoji,
+                "ar","Arabic",
                 "de","\U001F1E9\U001F1EA",
                 "es","\U001F1EA\U001F1F8",
                 "en","\U001F1EC\U001F1E7",
