@@ -14259,3 +14259,45 @@ UCcKPp7AI7ZTBf60WqXo3Bpg;svHT7H1ZykA;2022-09-21T07:02:58Z;"📺 New #rstatsvideo
 ▶ Salt Lake City R Users Group (@slcrug)
 #rstats
 🔗 https://www.youtube.com/watch?v=svHT7H1ZykA"
+UCqQ_cxcNu1ekqHXDc-MbU_w;j1pkPsjYw5s;2022-09-21T10:00:34Z;"📺 New #rstatsvideo: explore: simplified exploratory data analysis (EDA) in R
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=j1pkPsjYw5s"
+UCcGXGFClRdnrwXsPHi7P4ZA;tQ8dC0oLTnA;2022-09-21T11:51:52Z;"📺 New #rstatsvideo: R demo | Many (Grouped / Nested) Models Simultaneously are Very Effective
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #machinelearning #clearlyexplained #datascience #dataanalysis #forbeginners
+🔗 https://www.youtube.com/watch?v=tQ8dC0oLTnA"
+UCXuX-kQ1TbKHWeB75NgmhlA;3I97nbJdnIE;2022-09-21T12:00:03Z;"📺 New #rstatsvideo: R for beginners | Part 16: read and write files | Most important R commands
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #rprogramminglanguage #datascience #rprogramming #rprogrammingtutorial
+🔗 https://www.youtube.com/watch?v=3I97nbJdnIE"
+UCyHEww8_SCdxZvEnkCfi55w;xwmom7voeuc;2022-09-21T14:00:33Z;"📺 New #rstatsvideo: Remove NA Columns from xts Time Series in R (Example) | All or Some Missings | colSums, is.na & nrow
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=xwmom7voeuc"
+UCCaChdLMTYMxyawR_Qf-kYA;8Ojnl-NSxJs;2022-09-21T19:29:49Z;"📺 New #rstatsvideo: JS4R: Custom Inputs (js4r01 15)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=8Ojnl-NSxJs"
+UCMdihazndR0f9XBoSXWqnYg;v_RXQnp4oqc;2022-09-22T03:26:11Z;"📺 New #rstatsvideo: R & Python - Similarity
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing #modeling #language
+🔗 https://www.youtube.com/watch?v=v_RXQnp4oqc"
+UCPJZmlXMcBiKjoVQ4cpAMIg;idPAdbt1TYQ;2022-09-22T08:00:27Z;"📺 New #rstatsvideo: How to create a WORDCLOUD in R & Export to PNG | RStudio, wordcloud2, tm & dplyr package
+▶ Dean Chereden (@deanchereden)
+🗣 🇬🇧
+#rstats #analytics #datascience #dataanalyst #howto #rprogramming #rstudio
+🔗 https://www.youtube.com/watch?v=idPAdbt1TYQ"
+UCAI9XVDrTRsT2cjdFLaTnBw;A3HpC5guWbA;2022-09-22T08:52:18Z;"📺 New #rstatsvideo: Advanced Statistics: Thursday 22-Sep (Leiden University, Sep. 2022)
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=A3HpC5guWbA"
+UCkAyfZ4tAeO0j9dS-_yU7Gw;MPYHDR13ykA;2022-09-22T09:30:23Z;"📺 New #rstatsvideo: Bayesian Statistics and Buy-Till-You-Die Models - Workshop 6 - Introducing the PNBD Model
+▶ Dublin Data Science
+#rstats
+🔗 https://www.youtube.com/watch?v=MPYHDR13ykA"
