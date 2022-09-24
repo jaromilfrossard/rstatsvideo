@@ -14301,3 +14301,63 @@ UCkAyfZ4tAeO0j9dS-_yU7Gw;MPYHDR13ykA;2022-09-22T09:30:23Z;"📺 New #rstatsvideo
 ▶ Dublin Data Science
 #rstats
 🔗 https://www.youtube.com/watch?v=MPYHDR13ykA"
+UCyHEww8_SCdxZvEnkCfi55w;jeorGcJqA7o;2022-09-22T14:00:18Z;"📺 New #rstatsvideo: Split Image into Raster Grid in R (Example) | Divide & Separate Graphic | ggplot2 & magick Packages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=jeorGcJqA7o"
+UCpjsdW-snzkUAx0lvqTJ7WA;yPav_q6vULY;2022-09-22T15:09:50Z;"📺 New #rstatsvideo: R tutorial: Automatically clean column names
+▶ Statistics Guides with Dr Paul Christiansen (@ChristiansenLiv)
+🗣 🇬🇧
+#rstats #rstudio #columntitles #janitor
+🔗 https://www.youtube.com/watch?v=yPav_q6vULY"
+UCGuktEl5InrcxPfCjmPWxsA;LKprlFCLnSA;2022-09-22T21:00:08Z;"📺 New #rstatsvideo: Using the archive R package to read and write tar.gz and other archive files (CC250)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rarchivepackage #rtargz #rtar #rgz #rzip #rtgz #rstatstargz #rstatstar
+🔗 https://www.youtube.com/watch?v=LKprlFCLnSA"
+UCg6kociUghEgKz_hLRKQrMQ;UYlLvza3WNE;2022-09-22T23:14:16Z;"📺 New #rstatsvideo: select: Como seleccionar variables - dplyr 8 ejemplos
+▶ R Data Science School
+#rstats #select #selectdplyr #dplyr #datawrangling #datascience #learnr #tutorialr #selectvariables #subsetvariables
+🔗 https://www.youtube.com/watch?v=UYlLvza3WNE"
+UCdrnsZd2xWjDjHUlYsA6Kfw;SPTM5dzG8kw;2022-09-23T05:14:07Z;"📺 New #rstatsvideo: Correlation for Binary Variables: Tetrachoric Correlations in R
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting
+🔗 https://www.youtube.com/watch?v=SPTM5dzG8kw"
+UCDgj5-mFohWZ5irWSFMFcng;oYRnA-8ncPU;2022-09-23T07:50:45Z;"📺 New #rstatsvideo: R-Ladies DC (English) - How to Spatial Modeling with R - Federica Gazzelloni
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=oYRnA-8ncPU"
+UCs7EU95YMjhvNozJKCD92xQ;YR0nbDI9Xu0;2022-09-23T10:00:20Z;"📺 New #rstatsvideo: Providing Statistical Support
+▶ Statistics for Sustainable Development (Stats4SD) (@Stats4SD)
+🗣 🇬🇧
+#rstats #statistics #researchmethods #researchmethodssupport #ccrp #statisticalsupport #data #dataanalysis
+🔗 https://www.youtube.com/watch?v=YR0nbDI9Xu0"
+UCxQFEv8HNqM01DXzdQLCy6Q;6i_hvns9TcM;2022-09-23T13:01:42Z;"📺 New #rstatsvideo: Why so many admiral repos?
+▶ pharmaverse
+#rstats
+🔗 https://www.youtube.com/watch?v=6i_hvns9TcM"
+UCyHEww8_SCdxZvEnkCfi55w;xw0iPEuFpsg;2022-09-23T14:00:33Z;"📺 New #rstatsvideo: How to Check if Number is Odd or Even in R (2 Examples) | %%, ! and == Operators | Logical Indicator
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=xw0iPEuFpsg"
+UCydYJplH_n0PvEzpxPe1AdA;0iuxLEHste8;2022-09-23T16:55:19Z;"📺 New #rstatsvideo: Regression summary lab (STAT 320, lab04_regression-summary)
+▶ Amelia McNamara (@AmeliaMN)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=0iuxLEHste8"
+UC_bfGqjzgx4-N8TEQlJTaNQ;5nee4G1ZFCM;2022-09-23T20:19:42Z;"📺 New #rstatsvideo: INTERACTIVE MAPS IN SHINY DASHBOARDS USING THE LEAFLET PACKAGE by Janith Wanniarachchi RShiny Dev.
+▶ Abuja R User Group (@AbujaRUG)
+#rstats
+🔗 https://www.youtube.com/watch?v=5nee4G1ZFCM"
+UCKJFCIbcGs2a5RGt8RjdbFA;itv-H-kOhJw;2022-09-23T23:27:09Z;"📺 New #rstatsvideo: Week 1: SSH keys
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=itv-H-kOhJw"
+UCax5WxTJvQjtS9elybDivbA;JEYsje_DTKE;2022-09-24T00:19:17Z;"📺 New #rstatsvideo: While Loop, Break and Next Statement in R #olakunle4impact #rstats
+▶ Olakunle4impact (@olakunle4impact)
+#rstats #whileloopinr #whileloopsinr #breakstatement #nextstatement #loopinr #loopsinr #whileloop
+🔗 https://www.youtube.com/watch?v=JEYsje_DTKE"
