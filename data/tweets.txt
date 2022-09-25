@@ -14361,3 +14361,18 @@ UCax5WxTJvQjtS9elybDivbA;JEYsje_DTKE;2022-09-24T00:19:17Z;"📺 New #rstatsvideo
 ▶ Olakunle4impact (@olakunle4impact)
 #rstats #whileloopinr #whileloopsinr #breakstatement #nextstatement #loopinr #loopsinr #whileloop
 🔗 https://www.youtube.com/watch?v=JEYsje_DTKE"
+UCtuMKU3a96iqTe1b7JNfhDw;u-p693ICv9Y;2022-09-24T10:27:40Z;"📺 New #rstatsvideo: Program in R - Book Club Session 7 (In Persian) -
+▶ R-Ladies Urmia (@RLadiesUrmia)
+🗣 🇮🇷
+#rstats #rstudio
+🔗 https://www.youtube.com/watch?v=u-p693ICv9Y"
+UCyHEww8_SCdxZvEnkCfi55w;PcQ5oj0l9ZQ;2022-09-24T14:00:10Z;"📺 New #rstatsvideo: Add Empty Column to Data Frame in R (2 Examples) | How to Attach Blank Character Strings & NA Values
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=PcQ5oj0l9ZQ"
+UCCaChdLMTYMxyawR_Qf-kYA;RrqGRbonF8o;2022-09-24T15:38:22Z;"📺 New #rstatsvideo: Bayes Rules! Poisson & Negative Binomial Regression (bayes_rules02 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=RrqGRbonF8o"
