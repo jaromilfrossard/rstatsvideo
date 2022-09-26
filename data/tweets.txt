@@ -14376,3 +14376,42 @@ UCCaChdLMTYMxyawR_Qf-kYA;RrqGRbonF8o;2022-09-24T15:38:22Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=RrqGRbonF8o"
+UCTTBgWyJl2HrrhQOOc710kA;XM_p0XpLd5s;2022-09-24T16:23:28Z;"📺 New #rstatsvideo: Deploy different prediction types for a Bigfoot sighting model
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=XM_p0XpLd5s"
+UCxk3XVMK_-dYf8di9_AzypA;yZbHE1QNpd8;2022-09-24T18:39:44Z;"📺 New #rstatsvideo: R-Ladies Xalapa. Detalle Estadístico de San Valentín
+▶ R-Ladies Xalapa (@RLadiesXalapa)
+#rstats
+🔗 https://www.youtube.com/watch?v=yZbHE1QNpd8"
+UCrG34lup96IfDweTSDkPHDA;Hgbt5eHRII0;2022-09-25T06:40:14Z;"📺 New #rstatsvideo: R-Ladies México: Tercer encuentro anual
+▶ RLadies Mexico
+#rstats
+🔗 https://www.youtube.com/watch?v=Hgbt5eHRII0"
+UCyHEww8_SCdxZvEnkCfi55w;BDuZNvYvszU;2022-09-25T14:00:09Z;"📺 New #rstatsvideo: Create Copy of Data Frame in R (2 Examples) | Same & Different Memory Address | tracemem() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=BDuZNvYvszU"
+UCP8l94xtoemCH_GxByvTuFQ;j90DX0_7RD0;2022-09-25T16:00:20Z;"📺 New #rstatsvideo: TidyX Episode 117 | Creating Participant IDs
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown #tidyverse
+🔗 https://www.youtube.com/watch?v=j90DX0_7RD0"
+UCY66vV1WTk_2lHg24cuJrtg;sZcjUsCKkhw;2022-09-25T19:51:30Z;"📺 New #rstatsvideo: R Beginner? Start Here!
+▶ The Data Digest (@DigestData)
+#rstats #rprogramming #statistics #length #rep #letters #sample #table #addmargins #seq #cut #unique #duplicated #names #plot #dim #head #summary
+🔗 https://www.youtube.com/watch?v=sZcjUsCKkhw"
+UCxk3XVMK_-dYf8di9_AzypA;CU_gXih0DAg;2022-09-25T20:07:37Z;"📺 New #rstatsvideo: R-Ladies Xalapa. Creación de redes con VisNetwork
+▶ R-Ladies Xalapa (@RLadiesXalapa)
+#rstats
+🔗 https://www.youtube.com/watch?v=CU_gXih0DAg"
+UCCaChdLMTYMxyawR_Qf-kYA;EuTubeJ1VUw;2022-09-25T23:07:49Z;"📺 New #rstatsvideo: Advanced R: R6 (advr06 14)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EuTubeJ1VUw"
+UCCaChdLMTYMxyawR_Qf-kYA;JdisqyPzfHo;2022-09-25T23:08:52Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: General guidelines (mshiny03 17)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=JdisqyPzfHo"
