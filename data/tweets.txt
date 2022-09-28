@@ -14415,3 +14415,98 @@ UCCaChdLMTYMxyawR_Qf-kYA;JdisqyPzfHo;2022-09-25T23:08:52Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=JdisqyPzfHo"
+UCCaChdLMTYMxyawR_Qf-kYA;iHlF2GOq_VI;2022-09-25T23:09:15Z;"📺 New #rstatsvideo: Geospatial health: Introduction to R Markdown (geohealth01 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=iHlF2GOq_VI"
+UCpjsdW-snzkUAx0lvqTJ7WA;ty3VRsQJus8;2022-09-26T11:24:15Z;"📺 New #rstatsvideo: R tutorial: Automatically delete rows and columns of missing data
+▶ Statistics Guides with Dr Paul Christiansen (@ChristiansenLiv)
+🗣 🇬🇧
+#rstats #janitor #rstudio #deletecolumns #janitorpackage #missingdata
+🔗 https://www.youtube.com/watch?v=ty3VRsQJus8"
+UCAI9XVDrTRsT2cjdFLaTnBw;t6vdjwhauF8;2022-09-26T11:55:39Z;"📺 New #rstatsvideo: Survival Analysis
+▶ Biostatistics
+#rstats
+🔗 https://www.youtube.com/watch?v=t6vdjwhauF8"
+UCyHEww8_SCdxZvEnkCfi55w;3olVWBhtUkU;2022-09-26T14:00:04Z;"📺 New #rstatsvideo: How to Copy Data Frame to Clipboard in R (Example) | Paste to Excel & TXT File | write_clip Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=3olVWBhtUkU"
+UCfJyQ3P2k_SuqfxVdqIEQNw;MlF3_nGYBqw;2022-09-26T15:04:55Z;"📺 New #rstatsvideo: Encircled observations - use ggplot and ggalt to create great plots and data visualization.
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=MlF3_nGYBqw"
+UCSoUNu8x-HblqqOK_EwdZGw;3Anr7MQGTeY;2022-09-26T18:47:53Z;"📺 New #rstatsvideo: Cédric Scherer and Georgios Karamanis Discuss Their Data Viz on Drought in the US
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=3Anr7MQGTeY"
+UClC5yNEjMoE3MmbK-mrV8Ow;6Ka021fABxk;2022-09-27T09:23:56Z;"📺 New #rstatsvideo: Switching between space and time: Spatio-temporal analysis with cubble with Sherry Zhang
+▶ R-Ladies Melbourne (@RLadiesMelb)
+#rstats
+🔗 https://www.youtube.com/watch?v=6Ka021fABxk"
+UCqQ_cxcNu1ekqHXDc-MbU_w;-xgxA8I9PJY;2022-09-27T10:00:00Z;"📺 New #rstatsvideo: ggradar: radar plots in R
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=-xgxA8I9PJY"
+UCpjsdW-snzkUAx0lvqTJ7WA;dWv7Fjv3yYw;2022-09-27T10:05:20Z;"📺 New #rstatsvideo: R Tutorial: Identifying duplicates in a data set
+▶ Statistics Guides with Dr Paul Christiansen (@ChristiansenLiv)
+🗣 🇬🇧
+#rstats #janitor #rstudio #duplicatevalues #duplicates
+🔗 https://www.youtube.com/watch?v=dWv7Fjv3yYw"
+UCWPCd6tPtoLJYzQQ681pe5Q;_QQGW_RUw_I;2022-09-27T11:00:30Z;"📺 New #rstatsvideo: How to send automated emails on a schedule using R for FREE (blastula, Quarto, and GitHub Actions)
+▶ ggnot2
+🗣 🇬🇧
+#rstats #blastula #quarto #quartopub #quartopubs #rmarkdown #githubactions #rstudio #git #cron
+🔗 https://www.youtube.com/watch?v=_QQGW_RUw_I"
+UCyHEww8_SCdxZvEnkCfi55w;mP-ccIAUKfU;2022-09-27T14:00:32Z;"📺 New #rstatsvideo: Group Data Frame Rows by Range in R (2 Examples) | Aggregate Interval, Year & Date | dplyr Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=mP-ccIAUKfU"
+UCg4rv97QEhN-2gvLhrGMgEw;S8hs8ULdNgs;2022-09-27T14:06:53Z;"📺 New #rstatsvideo: Teste McNemar: Primeiro caso prático
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=S8hs8ULdNgs"
+UC1ZIcF31fEzBO6akL_HHkBg;H9lARi3re9I;2022-09-27T14:26:19Z;"📺 New #rstatsvideo: ds.database: Using a Relational Database Management System (RDBMS)
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=H9lARi3re9I"
+UCB_noR4lYmbKJozwJuPStbg;3_YCIWR5XJk;2022-09-27T15:30:01Z;"📺 New #rstatsvideo: Separate multivalue fields
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #iteratefunctionsr #separate #separaterows #unite #multivaluefieldstipsandtricksr #tipsandtricks #rfun #tidyverse #talldata #widedata
+🔗 https://www.youtube.com/watch?v=3_YCIWR5XJk"
+UCCigEL4N49pgIGszAz_v7Uw;lqQ59cm8AsA;2022-09-27T17:55:41Z;"📺 New #rstatsvideo: Sampling distribution of the OLS estimators in linear regression
+▶ Julian Righ Sampedro (@JRigh)
+#rstats #linear #regression #model #linearregression #matrixols #leastsquares #algebra #ordinary #ols #math
+🔗 https://www.youtube.com/watch?v=lqQ59cm8AsA"
+UCKJFCIbcGs2a5RGt8RjdbFA;KC7YyJsOnQI;2022-09-27T23:07:34Z;"📺 New #rstatsvideo: Week 2.x: Changing visual defaults
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=KC7YyJsOnQI"
+UCKJFCIbcGs2a5RGt8RjdbFA;YWTskQW-EkE;2022-09-27T23:28:02Z;"📺 New #rstatsvideo: Week 2.1: Intro to RStudio (Part 1)
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=YWTskQW-EkE"
+UCKJFCIbcGs2a5RGt8RjdbFA;VEQ79huOPwo;2022-09-27T23:34:13Z;"📺 New #rstatsvideo: Week 2.2: Intro to RStudio (Part 2)
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=VEQ79huOPwo"
+UCxk3XVMK_-dYf8di9_AzypA;uBXEtM-OHlI;2022-09-28T00:57:37Z;"📺 New #rstatsvideo: R-Ladies Xalapa. Introducción al paquete Xaringan
+▶ R-Ladies Xalapa (@RLadiesXalapa)
+#rstats
+🔗 https://www.youtube.com/watch?v=uBXEtM-OHlI"
+UCOdX7FBvpMPknrC6gtm0y_w;08VI3rRzT1o;2022-09-28T02:52:27Z;"📺 New #rstatsvideo: A UseR’s Introduction to Machine Learning in AWS
+▶ Southern California R Users Group (@oc_rug)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=08VI3rRzT1o"
+UCKJFCIbcGs2a5RGt8RjdbFA;eMd_9Lb6wfc;2022-09-28T04:02:26Z;"📺 New #rstatsvideo: Week 2.3: File paths and folder set-up
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=eMd_9Lb6wfc"
