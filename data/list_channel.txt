@@ -67,6 +67,7 @@ UCN-OX45aSM1VtXkzocx8Ppg;Duke Center for Computational Thinking;duke_cct
 UCZ2KQdo1-FhNRtEBYxai5Aw;Ecological Forecasting;eco4cast
 UCfB2mPM4oU5pMgh9gbEqpWA;EdinbR;edinb_r
 UCkcMJvaf6rWOtizaSiUBj1Q;Elizabeth Marshallsay;
+UCKv0Y6QDe7M_bK3fFVnfCIw;Emi Tanaka;statsgen
 UCAu9zxmEgQdWYkl84BiziSQ;Eskisehir R User Group;eskisehiR_users
 UC5w9xVTs77__zlEeRRQILpw;Federica Gazzelloni;FGazzelloni
 UCx1vXgGDXc7BH7bI1KC_o7Q;Fernanda Peres;
@@ -134,6 +135,7 @@ UCax5WxTJvQjtS9elybDivbA;Olakunle4impact;olakunle4impact
 UCoCfOfaj2c4sMxFv_nglycw;Open Data Science Deutschland;
 UCwVZbwV_5GQpdUVB0BDmeXg;Parsimony;parsimonyinc
 UCu3UVZ1mLOYdsrrrnjjs8Pg;Patrick Mensah;patmensa39
+UC3YGwtENLTykphX-S00P4Jw;paulfharrison;paulfharrison
 UCxQFEv8HNqM01DXzdQLCy6Q;pharmaverse;
 UCBsXfUO__nzMnlaLLUx7DFQ;Probability!;
 UC1NEZyGbSpcgBxcosNAjojA;Quick R Tutorials;

@@ -14510,3 +14510,87 @@ UCKJFCIbcGs2a5RGt8RjdbFA;eMd_9Lb6wfc;2022-09-28T04:02:26Z;"📺 New #rstatsvideo
 ▶ Liza Wood (@wood__liza)
 #rstats
 🔗 https://www.youtube.com/watch?v=eMd_9Lb6wfc"
+UCTXUFl30vDC32UrohjWB8kQ;fp77mwkDAOI;2022-09-28T07:00:14Z;"📺 New #rstatsvideo: RStudio Dplyr comprehensive tutorial
+▶ Matthew Peterson (@ecomattp)
+#rstats
+🔗 https://www.youtube.com/watch?v=fp77mwkDAOI"
+UCXuX-kQ1TbKHWeB75NgmhlA;CzTYy8dyBlA;2022-09-28T12:00:08Z;"📺 New #rstatsvideo: Strange chromosomes in PLINK data files
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #howtoanalysedata #howtoanalysegenotypes #genomicanalysis #singlenucleotidepolymorphism #geneticcode #animalbreeding
+🔗 https://www.youtube.com/watch?v=CzTYy8dyBlA"
+UCyHEww8_SCdxZvEnkCfi55w;qXBxOYwakKM;2022-09-28T14:00:29Z;"📺 New #rstatsvideo: Create Multiplication Table in R (Example) | Calculate, Construct & Print | User-Defined Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=qXBxOYwakKM"
+UCCaChdLMTYMxyawR_Qf-kYA;eT7x7ujjhxg;2022-09-28T14:26:31Z;"📺 New #rstatsvideo: Bayes Rules! Hierarchical Models are Exciting (bayes_rules01 15)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=eT7x7ujjhxg"
+UCyZCfIET7753bs5WpmKI_qQ;h-touCMsiYQ;2022-09-28T15:27:02Z;"📺 New #rstatsvideo: Tutorial R | Como construir gráficos para artigo técnico.
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats #gtsummary #tabelas #quiquadrado #contingencia
+🔗 https://www.youtube.com/watch?v=h-touCMsiYQ"
+UCax5WxTJvQjtS9elybDivbA;KUevpV4RSIw;2022-09-28T16:25:31Z;"📺 New #rstatsvideo: Book Launch: Basic Statistics for Undergraduate Studies Using R #olakunle4impact
+▶ Olakunle4impact (@olakunle4impact)
+#rstats #basicstatisticsforundergraduatestudiesusingr #rprogramming #book #statistics
+🔗 https://www.youtube.com/watch?v=KUevpV4RSIw"
+UCKJFCIbcGs2a5RGt8RjdbFA;mmkwJH1h6UM;2022-09-28T23:14:07Z;"📺 New #rstatsvideo: Week 2.4: How R Thinks Data I (vector objects)
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=mmkwJH1h6UM"
+UCKJFCIbcGs2a5RGt8RjdbFA;4zOCBgVPueM;2022-09-28T23:15:16Z;"📺 New #rstatsvideo: Week 2.5: How R Thinks Data II (subsetting and indexing vectors)
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=4zOCBgVPueM"
+UCMwM-3tg_-Pbx8hKO78q5EA;cVmB6jcmGdc;2022-09-29T12:19:00Z;"📺 New #rstatsvideo: NHS-R Webinar: Live Data Analysis with Chris Mainey - September 2022
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=cVmB6jcmGdc"
+UCyHEww8_SCdxZvEnkCfi55w;v7upBNJkUVA;2022-09-29T14:00:25Z;"📺 New #rstatsvideo: Convert Data Frame to Array in R (Example) | How to Reshape & Transform | Multiple Input Data Frames
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=v7upBNJkUVA"
+UCCaChdLMTYMxyawR_Qf-kYA;wlYh2KewQcI;2022-09-29T14:12:07Z;"📺 New #rstatsvideo: R for Data Science: Workflow: pipes (r4ds07 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wlYh2KewQcI"
+UCGuktEl5InrcxPfCjmPWxsA;NSy-WByR8Qo;2022-09-29T16:00:13Z;"📺 New #rstatsvideo: How to split files from the command line and integrate bash and R scripts (CC252)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #splitcommandline #bashsplit #zshsplit #rscript #bashscript #splitfilebyline
+🔗 https://www.youtube.com/watch?v=NSy-WByR8Qo"
+UCIwS122xl4mjhw5TdK_K9Rw;WLpqpRTuTes;2022-09-29T16:20:23Z;"📺 New #rstatsvideo: Read Big Datasets in R
+▶ R in Action (@Parag52659626)
+#rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning #algorithhm #creditrisk
+🔗 https://www.youtube.com/watch?v=WLpqpRTuTes"
+UC8bO8eVpfEK8LbqH0oxyc3Q;_indbXPXUw8;2022-09-29T22:41:47Z;"📺 New #rstatsvideo: Level Up Your Plots with Cara Thompson
+▶ R User Group at Harvard Data Science Initiative (@RUGatHDSI)
+#rstats
+🔗 https://www.youtube.com/watch?v=_indbXPXUw8"
+UCBsXfUO__nzMnlaLLUx7DFQ;wfTXGkydG7g;2022-09-29T23:44:13Z;"📺 New #rstatsvideo: Intro to Dplyr
+▶ Probability!
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wfTXGkydG7g"
+UCCaChdLMTYMxyawR_Qf-kYA;YomsXY2nj9Y;2022-09-29T23:46:26Z;"📺 New #rstatsvideo: Bayes Rules! Logistic Regression (bayes_rules02 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=YomsXY2nj9Y"
+UCCaChdLMTYMxyawR_Qf-kYA;jMXyhgS4AVg;2022-09-29T23:46:52Z;"📺 New #rstatsvideo: R for Data Science: Model Building Part 2 (r4ds06 24)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=jMXyhgS4AVg"
+UCCaChdLMTYMxyawR_Qf-kYA;p_zDuXV6mN4;2022-09-29T23:47:17Z;"📺 New #rstatsvideo: Bayes Rules! (Normal) Hierarchical Models without Predictors (bayes_rules01 16)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=p_zDuXV6mN4"
