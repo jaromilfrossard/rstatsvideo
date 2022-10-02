@@ -14594,3 +14594,45 @@ UCCaChdLMTYMxyawR_Qf-kYA;p_zDuXV6mN4;2022-09-29T23:47:17Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=p_zDuXV6mN4"
+UCIwS122xl4mjhw5TdK_K9Rw;V22nVeuUn3c;2022-09-30T02:32:22Z;"📺 New #rstatsvideo: Training an Isolation Forest Part 1
+▶ R in Action (@Parag52659626)
+🗣 🇬🇧
+#rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning #algorithhm
+🔗 https://www.youtube.com/watch?v=V22nVeuUn3c"
+UCCaChdLMTYMxyawR_Qf-kYA;q1-QUFJsbLA;2022-09-30T12:26:40Z;"📺 New #rstatsvideo: Advanced R: S4 (advr06 15)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=q1-QUFJsbLA"
+UCyHEww8_SCdxZvEnkCfi55w;x36V_yn_Z4Y;2022-09-30T14:00:35Z;"📺 New #rstatsvideo: Delete Data Frame from Workspace (3 Examples) | How ot Drop, Remove, Clear | Single, Multiple or All
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=x36V_yn_Z4Y"
+UCWPCd6tPtoLJYzQQ681pe5Q;u8EOVOjX13Y;2022-09-30T20:57:17Z;"📺 New #rstatsvideo: How to include fontawesome icons in Quarto documents: basic styling AND special effects
+▶ ggnot2
+🗣 🇬🇧
+#rstats #fontawesome #quarto #fontsawesome #favicon #quartopub #quartopubs #rstudio #rtutorial
+🔗 https://www.youtube.com/watch?v=u8EOVOjX13Y"
+UCIwS122xl4mjhw5TdK_K9Rw;hxaJd8DMqpM;2022-10-01T10:47:27Z;"📺 New #rstatsvideo: Save file to other folder
+▶ R in Action (@Parag52659626)
+#rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning #algorithhm #creditrisk
+🔗 https://www.youtube.com/watch?v=hxaJd8DMqpM"
+UCyHEww8_SCdxZvEnkCfi55w;EV-38syONbg;2022-10-01T14:00:07Z;"📺 New #rstatsvideo: Convert Date to Julian Day in R (3 Examples) | Get Days of Year | as.POSIXlt(), format() or yday()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=EV-38syONbg"
+UCCaChdLMTYMxyawR_Qf-kYA;uYOGgrRvjXQ;2022-10-01T15:37:25Z;"📺 New #rstatsvideo: Feature Engineering: Detecting Interaction Effects (feat_eng01 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=uYOGgrRvjXQ"
+UCmxRvwPXXLdcv_lWkIqB1yA;eYaViNaddEA;2022-10-02T00:18:00Z;"📺 New #rstatsvideo: Visualização de dados com 'ggplot2' e 'dplyr'
+▶ RLadies Ribeirão Preto (@rladiesrp)
+#rstats
+🔗 https://www.youtube.com/watch?v=eYaViNaddEA"
+UCIwS122xl4mjhw5TdK_K9Rw;h3uJPir68Pg;2022-10-02T05:37:32Z;"📺 New #rstatsvideo: Install multiple packages simultaneously
+▶ R in Action (@Parag52659626)
+#rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning #algorithhm
+🔗 https://www.youtube.com/watch?v=h3uJPir68Pg"
