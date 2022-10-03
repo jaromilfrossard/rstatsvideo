@@ -14636,3 +14636,30 @@ UCIwS122xl4mjhw5TdK_K9Rw;h3uJPir68Pg;2022-10-02T05:37:32Z;"📺 New #rstatsvideo
 ▶ R in Action (@Parag52659626)
 #rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning #algorithhm
 🔗 https://www.youtube.com/watch?v=h3uJPir68Pg"
+UCP8l94xtoemCH_GxByvTuFQ;gg71yd17xlc;2022-10-02T07:00:14Z;"📺 New #rstatsvideo: TidyX Episode 118 | Windowing Functions with {zoo} and tidyverse
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown
+🔗 https://www.youtube.com/watch?v=gg71yd17xlc"
+UCyHEww8_SCdxZvEnkCfi55w;KArCEomMrI0;2022-10-02T14:00:14Z;"📺 New #rstatsvideo: Size of Data Frame in R (4 Examples) | Dimension, Length, Number of Rows & Columns | dim() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #rprogramming
+🔗 https://www.youtube.com/watch?v=KArCEomMrI0"
+UC7C4YZ-9itQW7Nl4RVKDflg;7DFKGPgLeiE;2022-10-02T20:30:03Z;"📺 New #rstatsvideo: Meta Programming by Matt Dupree (9/28/2022)
+▶ Cleveland R User Group
+#rstats
+🔗 https://www.youtube.com/watch?v=7DFKGPgLeiE"
+UCCaChdLMTYMxyawR_Qf-kYA;KK7dJe9AoXs;2022-10-02T23:07:05Z;"📺 New #rstatsvideo: R for Data Science: Cohort 8 Introduction (r4ds08 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=KK7dJe9AoXs"
+UCMdihazndR0f9XBoSXWqnYg;IYUf4YQEnuQ;2022-10-02T23:14:05Z;"📺 New #rstatsvideo: R - Data Visualization (5.2 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #data #science #analytics #open #education #rstudio #ggplot2 #graph #visualization #histogram #bargraph #linegraph
+🔗 https://www.youtube.com/watch?v=IYUf4YQEnuQ"
+UCqQ_cxcNu1ekqHXDc-MbU_w;p0QnqgwdLTg;2022-10-03T10:00:25Z;"📺 New #rstatsvideo: How To Make A Web App In 15-Minutes (With R Shiny)
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=p0QnqgwdLTg"
