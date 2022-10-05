@@ -14663,3 +14663,84 @@ UCqQ_cxcNu1ekqHXDc-MbU_w;p0QnqgwdLTg;2022-10-03T10:00:25Z;"📺 New #rstatsvideo
 ▶ Business Science (@bizScienc)
 #rstats
 🔗 https://www.youtube.com/watch?v=p0QnqgwdLTg"
+UCCaChdLMTYMxyawR_Qf-kYA;J_B47H_2jGU;2022-10-03T13:39:56Z;"📺 New #rstatsvideo: Geospatial health: Spatial data and R packages for mapping (geohealth01 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=J_B47H_2jGU"
+UCyHEww8_SCdxZvEnkCfi55w;_nHpQ4mbP-E;2022-10-03T14:00:16Z;"📺 New #rstatsvideo: Convert Array to Data Frame in R (Example) | Reshape, Transform Class | as.data.frame.table Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=_nHpQ4mbP-E"
+UCGuktEl5InrcxPfCjmPWxsA;gy2jaP_OK_c;2022-10-03T16:00:20Z;"📺 New #rstatsvideo: Six approaches to rounding numbers in R (CC253)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rroundingnumbers #rrond #rround #rroundingmunbers #rtrunc #rfloor #rcieling #rasinteger #rreadfwf
+🔗 https://www.youtube.com/watch?v=gy2jaP_OK_c"
+UCC0n35R84-ufqPstR1YtCxA;54Y9qxESlps;2022-10-03T17:26:13Z;"📺 New #rstatsvideo: [ARABIC] missing data pattern: md.pattern using mice
+▶ Stat Pharm
+#rstats
+🔗 https://www.youtube.com/watch?v=54Y9qxESlps"
+UCKJFCIbcGs2a5RGt8RjdbFA;kAU2UFUR1i8;2022-10-03T18:03:29Z;"📺 New #rstatsvideo: Week 3.2: Reading in and exploring data
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=kAU2UFUR1i8"
+UCKJFCIbcGs2a5RGt8RjdbFA;8d0kxYEbuPA;2022-10-03T18:13:51Z;"📺 New #rstatsvideo: Week 2.6: Vector match and recycling
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=8d0kxYEbuPA"
+UCKJFCIbcGs2a5RGt8RjdbFA;Fd5ygOAPADI;2022-10-03T18:14:09Z;"📺 New #rstatsvideo: Week 2.7: Vectors and missing values
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=Fd5ygOAPADI"
+UCKJFCIbcGs2a5RGt8RjdbFA;EWGRfBnmIH0;2022-10-03T18:14:25Z;"📺 New #rstatsvideo: Week 2.8: R & non-vector objects
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=EWGRfBnmIH0"
+UC2-hKemnrmVCH_29duyJ26A;0zNPgGa-Cu0;2022-10-03T19:42:55Z;"📺 New #rstatsvideo: JD Long - reprex-How Reproducible Examples are the Secret to Faster Learning & Faster Code
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=0zNPgGa-Cu0"
+UCKJFCIbcGs2a5RGt8RjdbFA;cq7U24UOHTk;2022-10-03T22:59:50Z;"📺 New #rstatsvideo: Week 3.3: Tidyverse
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=cq7U24UOHTk"
+UCIwS122xl4mjhw5TdK_K9Rw;tfDAqGnRUD4;2022-10-04T00:30:21Z;"📺 New #rstatsvideo: Access first and last element
+▶ R in Action (@Parag52659626)
+#rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning #algorithhm #creditrisk
+🔗 https://www.youtube.com/watch?v=tfDAqGnRUD4"
+UCZ2KQdo1-FhNRtEBYxai5Aw;t5Fl_Ty0N8s;2022-10-04T05:38:18Z;"📺 New #rstatsvideo: Statistical Methods Series: Spatial Occupancy Models
+▶ Ecological Forecasting (@eco4cast)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=t5Fl_Ty0N8s"
+UCjXQyxs1iyEg5v98fezgT0w;HTNSou3GQlE;2022-10-04T07:00:05Z;"📺 New #rstatsvideo: CFA mit R/lavaan 3: Faktor(en) höhere Ordnung
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #cfahöhererordnung #cfaübergeordneterfaktor #konfirmatorischefaktorenanalysehöhererordnung
+🔗 https://www.youtube.com/watch?v=HTNSou3GQlE"
+UCdrnsZd2xWjDjHUlYsA6Kfw;bVkttL0rJ3I;2022-10-04T07:02:03Z;"📺 New #rstatsvideo: Explore all the R packages on a topic with CRAN Task View
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle
+🔗 https://www.youtube.com/watch?v=bVkttL0rJ3I"
+UCxQFEv8HNqM01DXzdQLCy6Q;tTdWoiLdJsA;2022-10-04T10:28:41Z;"📺 New #rstatsvideo: Why does admiral have a modular design?
+▶ pharmaverse
+#rstats
+🔗 https://www.youtube.com/watch?v=tTdWoiLdJsA"
+UCCigEL4N49pgIGszAz_v7Uw;w-1XvnGAS9Y;2022-10-04T12:02:25Z;"📺 New #rstatsvideo: Inference in the Linear model: Confidence Intervals for individual coefficients (w/ R code)
+▶ Julian Righ Sampedro (@JRigh)
+#rstats #linear #model #linearregression #regression #leastsquares #parameters
+🔗 https://www.youtube.com/watch?v=w-1XvnGAS9Y"
+UCyHEww8_SCdxZvEnkCfi55w;UW55XHc3Qd0;2022-10-04T14:00:24Z;"📺 New #rstatsvideo: Convert Julian Day to Date in R (Example) | How to Get Calendar Dates | as.Date Function & Origin
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=UW55XHc3Qd0"
+UCB_noR4lYmbKJozwJuPStbg;hv7GASNKRLc;2022-10-04T15:30:07Z;"📺 New #rstatsvideo: case_when() - a vectorized if_else()
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #iteratefunctionsr #ifelse #casewhen #tipsandtricks #rfun #tidyverse #tipsandtricksr
+🔗 https://www.youtube.com/watch?v=hv7GASNKRLc"
