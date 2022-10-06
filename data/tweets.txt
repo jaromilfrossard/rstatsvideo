@@ -14744,3 +14744,114 @@ UCB_noR4lYmbKJozwJuPStbg;hv7GASNKRLc;2022-10-04T15:30:07Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #iteratefunctionsr #ifelse #casewhen #tipsandtricks #rfun #tidyverse #tipsandtricksr
 🔗 https://www.youtube.com/watch?v=hv7GASNKRLc"
+UCCaChdLMTYMxyawR_Qf-kYA;g3DtwvQ9VvM;2022-10-04T18:57:43Z;"📺 New #rstatsvideo: Modelado Tidy con R - 15. Evaluando Muchos Modelos (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=g3DtwvQ9VvM"
+UCb_qPFrtCiD-0apuOqPmODQ;q6gRHE24U3I;2022-10-04T21:27:16Z;"📺 New #rstatsvideo: Plotting in ggplot2
+▶ Confused Postdoc
+#rstats
+🔗 https://www.youtube.com/watch?v=q6gRHE24U3I"
+UCQ7DcXWJm3es06U7lGmBDkw;kyylrzlO9n0;2022-10-05T01:55:47Z;"📺 New #rstatsvideo: R-Ladies St. Louis Meetup Oct 4, 2022: Wrangling Data in the Tidyverse
+▶ R Ladies STL (@RLadiesSTL)
+#rstats
+🔗 https://www.youtube.com/watch?v=kyylrzlO9n0"
+UCWPCd6tPtoLJYzQQ681pe5Q;59gbgBqlaJc;2022-10-05T10:30:01Z;"📺 New #rstatsvideo: How to automatically run an R script on a schedule using a GitLab CI/CD Pipeline
+▶ ggnot2
+🗣 🇬🇧
+#rstats #git #gitlab #cicd #continuousintegration #continuousdevelopment #gitlabciyml #gitlabpipeline #rtutorial
+🔗 https://www.youtube.com/watch?v=59gbgBqlaJc"
+UCfJyQ3P2k_SuqfxVdqIEQNw;0EA5aPQpqYY;2022-10-05T13:25:30Z;"📺 New #rstatsvideo: ANOVA using R programming.
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=0EA5aPQpqYY"
+UCyHEww8_SCdxZvEnkCfi55w;cy2H7o2m2YM;2022-10-05T14:00:18Z;"📺 New #rstatsvideo: Convert hms Object into Seconds in R | period_to_seconds() of lubridate Package | Hours & Minutes
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=cy2H7o2m2YM"
+UCCaChdLMTYMxyawR_Qf-kYA;2zHJ9v8Or9Y;2022-10-05T14:24:08Z;"📺 New #rstatsvideo: R for Data Science: Data tidying (r4ds07 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2zHJ9v8Or9Y"
+UCIwS122xl4mjhw5TdK_K9Rw;C0koY3AThD8;2022-10-05T14:30:11Z;"📺 New #rstatsvideo: Credit Risk dataset in R
+▶ R in Action (@Parag52659626)
+#rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning #algorithhm #creditrisk
+🔗 https://www.youtube.com/watch?v=C0koY3AThD8"
+UC_R5smHVXRYGhZYDJsnXTwg;n9G3V_4I51Y;2022-10-05T16:48:35Z;"📺 New #rstatsvideo: Using Tercen To Run Bioconductor Pipelines: Save Time And Share Data Easy With Collaborators
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=n9G3V_4I51Y"
+UC_R5smHVXRYGhZYDJsnXTwg;L0CSumbweOA;2022-10-05T16:48:39Z;"📺 New #rstatsvideo: CITE-Viz: Reproducing The Flow Cytometry Workflow Using CITE-Seq Data
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=L0CSumbweOA"
+UC_R5smHVXRYGhZYDJsnXTwg;gyJRr5S4M5g;2022-10-05T16:48:43Z;"📺 New #rstatsvideo: Analyzing Cellular Heterogeneity Across Time And Across Biological Interventions
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=gyJRr5S4M5g"
+UC_R5smHVXRYGhZYDJsnXTwg;JgTc2jiMPF0;2022-10-05T16:48:50Z;"📺 New #rstatsvideo: Comparative Genomics with DECIPHER and SynExtend
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=JgTc2jiMPF0"
+UC_R5smHVXRYGhZYDJsnXTwg;1bWXQcx-pfo;2022-10-05T16:48:53Z;"📺 New #rstatsvideo: SpatialOmicsOverlay: Overlay of Structurally Profiled Regions of Interest on GeoMx DSP Tissue Images
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=1bWXQcx-pfo"
+UC_R5smHVXRYGhZYDJsnXTwg;__bUgS4NZtw;2022-10-05T16:48:56Z;"📺 New #rstatsvideo: Deploy Custom Bioconductor Data Science VM on Azure with Linux Extension
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=__bUgS4NZtw"
+UC_R5smHVXRYGhZYDJsnXTwg;LNClJFoFlSA;2022-10-05T16:49:00Z;"📺 New #rstatsvideo: SpatialFeatureExperiment: An S4 Class Bringing Geospatial Tools To Spatial Omics
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=LNClJFoFlSA"
+UC_R5smHVXRYGhZYDJsnXTwg;ixmbVtYe504;2022-10-05T16:49:06Z;"📺 New #rstatsvideo: Rcwl/RcwlPipelines: Use R to Build, Read, Write, and execute CWL Workflows
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=ixmbVtYe504"
+UC_R5smHVXRYGhZYDJsnXTwg;i4v-2JAjCAA;2022-10-05T16:49:10Z;"📺 New #rstatsvideo: Spatial Analysis Of High Dimensional In Situ Cytometry Data
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=i4v-2JAjCAA"
+UC_R5smHVXRYGhZYDJsnXTwg;h5oT_qfvtds;2022-10-05T16:49:13Z;"📺 New #rstatsvideo: Bioconductor Docker Images For Multi-Node Parallel Computing On The Cloud
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=h5oT_qfvtds"
+UC_R5smHVXRYGhZYDJsnXTwg;LtoBGSCA2oI;2022-10-05T16:49:20Z;"📺 New #rstatsvideo: Genomicsupersignature: Interpretation Of RNA-Seq Experiments
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=LtoBGSCA2oI"
+UC_R5smHVXRYGhZYDJsnXTwg;pxudA36dIx4;2022-10-05T16:49:23Z;"📺 New #rstatsvideo: Using And Extending Biomedical Ontologies With Ontoproc
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=pxudA36dIx4"
+UC_R5smHVXRYGhZYDJsnXTwg;LGMvCRNwxb8;2022-10-05T16:49:26Z;"📺 New #rstatsvideo: SEESAW: Statistical Estimation Of Allelic Expression Using Salmon And Swish
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=LGMvCRNwxb8"
+UC_R5smHVXRYGhZYDJsnXTwg;3-vG9V8YSyA;2022-10-05T16:49:32Z;"📺 New #rstatsvideo: A Framework For Multiplexed Image Processing And Spatial Analysis
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=3-vG9V8YSyA"
+UC_R5smHVXRYGhZYDJsnXTwg;3zFXxCTjOog;2022-10-05T16:49:44Z;"📺 New #rstatsvideo: Part 1: Multi-omic Integration Of Cbioportal And TCGA Data With Multiassayexperiment
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=3zFXxCTjOog"
