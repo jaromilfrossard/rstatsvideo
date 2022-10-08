@@ -14855,3 +14855,121 @@ UC_R5smHVXRYGhZYDJsnXTwg;3zFXxCTjOog;2022-10-05T16:49:44Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rconsortium
 🔗 https://www.youtube.com/watch?v=3zFXxCTjOog"
+UC_R5smHVXRYGhZYDJsnXTwg;jPHvC3P4y-8;2022-10-05T16:49:59Z;"📺 New #rstatsvideo: Accessing Human Cell Atlas Data Locally And On The Anvil Cloud
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=jPHvC3P4y-8"
+UC_R5smHVXRYGhZYDJsnXTwg;LKWcut6l--c;2022-10-05T16:50:02Z;"📺 New #rstatsvideo: Tidy Transcriptomics For Single-Cell RNA Sequencing Analyses
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=LKWcut6l--c"
+UC_R5smHVXRYGhZYDJsnXTwg;JzLBz4ZixmA;2022-10-05T16:50:06Z;"📺 New #rstatsvideo: Part 2: Multi-omic Integration Of Cbioportal And TCGA Data With Multiassayexperiment
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=JzLBz4ZixmA"
+UC_R5smHVXRYGhZYDJsnXTwg;gy_m0wFZij0;2022-10-05T16:50:12Z;"📺 New #rstatsvideo: Cola: A General Framework For Consensus Partitioning
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=gy_m0wFZij0"
+UC_R5smHVXRYGhZYDJsnXTwg;lZ8HLXU47c4;2022-10-05T16:50:17Z;"📺 New #rstatsvideo: Identifying Differentially Methylated Genomic Regions With Comethdmr
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=lZ8HLXU47c4"
+UC_R5smHVXRYGhZYDJsnXTwg;VGSDzUrvE38;2022-10-05T16:50:21Z;"📺 New #rstatsvideo: Nullranges: Modular Workflow For Overlap Enrichment
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=VGSDzUrvE38"
+UC_R5smHVXRYGhZYDJsnXTwg;u2ahgX823Fg;2022-10-05T16:50:24Z;"📺 New #rstatsvideo: Epidemiology for Bioinformaticians
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=u2ahgX823Fg"
+UC_R5smHVXRYGhZYDJsnXTwg;2XhApWWW1Xw;2022-10-05T16:50:30Z;"📺 New #rstatsvideo: Genomicdistributions: Fast, Easy, And Flexible Summary And Visualization Of Genomic Regions
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=2XhApWWW1Xw"
+UC_R5smHVXRYGhZYDJsnXTwg;bWgOXqLsmYc;2022-10-05T16:50:33Z;"📺 New #rstatsvideo: Introduction To Using Bioconductor’s Carpentries-Style Training Materials
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=bWgOXqLsmYc"
+UC_R5smHVXRYGhZYDJsnXTwg;YDvHvmA4nHw;2022-10-05T16:50:36Z;"📺 New #rstatsvideo: Bioconductor Experimenthub And Annotationhub -- How To Use And How To Contribute
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=YDvHvmA4nHw"
+UCCaChdLMTYMxyawR_Qf-kYA;ov7LilCv2As;2022-10-05T19:07:22Z;"📺 New #rstatsvideo: JS4R: Cookies (js4r01 16)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ov7LilCv2As"
+UC_R5smHVXRYGhZYDJsnXTwg;T9vltTWjCOc;2022-10-05T23:12:28Z;"📺 New #rstatsvideo: Birds of a Feather: Bioconductor Ladies
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=T9vltTWjCOc"
+UC_R5smHVXRYGhZYDJsnXTwg;DT6ANl6lN2g;2022-10-05T23:17:55Z;"📺 New #rstatsvideo: Birds of a Feather: Developer’s Welcome
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=DT6ANl6lN2g"
+UCMdihazndR0f9XBoSXWqnYg;00QmJ1GrOlc;2022-10-05T23:24:05Z;"📺 New #rstatsvideo: R & Python - word2vec
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown #naturallanguageprocessing #modeling #language
+🔗 https://www.youtube.com/watch?v=00QmJ1GrOlc"
+UCdrnsZd2xWjDjHUlYsA6Kfw;dBZiRy6nfO8;2022-10-06T06:45:52Z;"📺 New #rstatsvideo: It's All Regression! My recent viral Tweet & a blog on how linear models underpin most common tests
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics
+🔗 https://www.youtube.com/watch?v=dBZiRy6nfO8"
+UCCaChdLMTYMxyawR_Qf-kYA;vEButxFIvLw;2022-10-06T11:39:18Z;"📺 New #rstatsvideo: Advanced R: Trade-offs (advr06 16)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vEButxFIvLw"
+UCIwS122xl4mjhw5TdK_K9Rw;A7_tt61iYKY;2022-10-06T13:39:58Z;"📺 New #rstatsvideo: Replace NA with mean
+▶ R in Action (@Parag52659626)
+#rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning #algorithhm #creditrisk
+🔗 https://www.youtube.com/watch?v=A7_tt61iYKY"
+UCyHEww8_SCdxZvEnkCfi55w;7ls5W5DLXGQ;2022-10-06T14:00:03Z;"📺 New #rstatsvideo: Find Out Number of Days of a Month in R (2 Examples) | lubridate & Hmisc Package | days_in_month()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticalprogramming #rprogramming
+🔗 https://www.youtube.com/watch?v=7ls5W5DLXGQ"
+UCGuktEl5InrcxPfCjmPWxsA;3rVvgfcpM-k;2022-10-06T16:00:02Z;"📺 New #rstatsvideo: Join data frames in R with inner_join and anti_join (CC254)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rjoindataframes #rantijoin #rinnerjoin #rjoiningdataframes #rtidyverseinnerjoin #rtidyversejoin
+🔗 https://www.youtube.com/watch?v=3rVvgfcpM-k"
+UCZ2KQdo1-FhNRtEBYxai5Aw;arYqlfs6lIQ;2022-10-06T16:43:02Z;"📺 New #rstatsvideo: Statistical Methods Series: Spatial Occupancy Models
+▶ Ecological Forecasting (@eco4cast)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=arYqlfs6lIQ"
+UCg4rv97QEhN-2gvLhrGMgEw;ctwGZoXauJ8;2022-10-07T12:53:32Z;"📺 New #rstatsvideo: Teste McNemar:  Segundo caso prático
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=ctwGZoXauJ8"
+UCCaChdLMTYMxyawR_Qf-kYA;BaGzNVLqfAE;2022-10-07T13:02:25Z;"📺 New #rstatsvideo: Introduction to R Packages (rpkgs04 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=BaGzNVLqfAE"
+UCIwS122xl4mjhw5TdK_K9Rw;iDy8HHv3WnY;2022-10-07T13:56:40Z;"📺 New #rstatsvideo: Replace NA with Mode
+▶ R in Action (@Parag52659626)
+#rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning #algorithhm #creditrisk
+🔗 https://www.youtube.com/watch?v=iDy8HHv3WnY"
+UCyHEww8_SCdxZvEnkCfi55w;5l-oeupBdI0;2022-10-07T14:00:06Z;"📺 New #rstatsvideo: Apply Function to Each Cell of Data Frame in R (2 Examples) | All Elements | BaseR vs. dplyr Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=5l-oeupBdI0"
