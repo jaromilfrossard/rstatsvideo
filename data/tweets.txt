@@ -14973,3 +14973,47 @@ UCyHEww8_SCdxZvEnkCfi55w;5l-oeupBdI0;2022-10-07T14:00:06Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom
 🔗 https://www.youtube.com/watch?v=5l-oeupBdI0"
+UCcGXGFClRdnrwXsPHi7P4ZA;sjCxIHVGkdE;2022-10-07T15:55:31Z;"📺 New #rstatsvideo: 4 Reasons Non-Parametric Bootstrapped Regression (via tidymodels) is Better then Ordinary Regression
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #machinelearning #clearlyexplained #datascience #dataanalysis
+🔗 https://www.youtube.com/watch?v=sjCxIHVGkdE"
+UCCaChdLMTYMxyawR_Qf-kYA;v1OawROf1ZQ;2022-10-07T18:46:07Z;"📺 New #rstatsvideo: R for Data Science: Many Models Part 1 (r4ds06 25)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=v1OawROf1ZQ"
+UCDgj5-mFohWZ5irWSFMFcng;JUrRYYFDWJc;2022-10-07T21:27:03Z;"📺 New #rstatsvideo: R-Ladies Cologne & Paris (English) - Bringing Your Plots to Cloud 9 With {Plotnine} - Tanya Shapiro
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming #datavisualization #python
+🔗 https://www.youtube.com/watch?v=JUrRYYFDWJc"
+UCg6kociUghEgKz_hLRKQrMQ;kerZsDo2Rjs;2022-10-08T01:02:28Z;"📺 New #rstatsvideo: Convertir graficos estaticos a interactivos en #R - 3 ejemplos
+▶ R Data Science School
+#rstats #ggplot2 #plotly #interactivegraphic #learnr #rgraphics #rgraphic #tutorialr #rprogramming #ggplot #ggplotly
+🔗 https://www.youtube.com/watch?v=kerZsDo2Rjs"
+UCrpq9hzMQSq0ldVcXlLgpvQ;MUw560ui_00;2022-10-08T12:00:15Z;"📺 New #rstatsvideo: 8 Tips and Tricks on R Markdown & Where have I been
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #machinelearning #rprogramming #statisticalanalysis
+🔗 https://www.youtube.com/watch?v=MUw560ui_00"
+UCyHEww8_SCdxZvEnkCfi55w;FMRkUqy1Sjw;2022-10-08T14:00:14Z;"📺 New #rstatsvideo: Summary Statistics of Data Frame in R (4 Examples) | Calculate Descriptive Metrics | Mean, Max & Sum
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=FMRkUqy1Sjw"
+UCCaChdLMTYMxyawR_Qf-kYA;Fbuwz4hJTno;2022-10-08T14:22:33Z;"📺 New #rstatsvideo: Bayes Rules! (Normal) Hierarchical Models without Predictors Part 2 (bayes_rules01 16)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Fbuwz4hJTno"
+UCCaChdLMTYMxyawR_Qf-kYA;Cq9lEV0ZlR0;2022-10-08T14:23:36Z;"📺 New #rstatsvideo: Computational Genomics: Cohort 1 Introduction (comp_genom01 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Cq9lEV0ZlR0"
+UCCaChdLMTYMxyawR_Qf-kYA;XdB85Hw1Igo;2022-10-08T14:24:12Z;"📺 New #rstatsvideo: Feature Engineering: Handling Missing Data (feat_eng01 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=XdB85Hw1Igo"
