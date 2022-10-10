@@ -15017,3 +15017,45 @@ UCCaChdLMTYMxyawR_Qf-kYA;XdB85Hw1Igo;2022-10-08T14:24:12Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=XdB85Hw1Igo"
+UCdrnsZd2xWjDjHUlYsA6Kfw;fJSMCDjaR6Y;2022-10-08T19:30:02Z;"📺 New #rstatsvideo: Sports Analytics Packages in R
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters #sportsstatistics
+🔗 https://www.youtube.com/watch?v=fJSMCDjaR6Y"
+UCCaChdLMTYMxyawR_Qf-kYA;U2vtBWwWUU8;2022-10-08T19:39:59Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Functions (mshiny03 18)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=U2vtBWwWUU8"
+UCCaChdLMTYMxyawR_Qf-kYA;UNLjwYTCGuc;2022-10-08T21:30:35Z;"📺 New #rstatsvideo: R4DS Project Club Introduction (proj01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=UNLjwYTCGuc"
+UCCaChdLMTYMxyawR_Qf-kYA;xFxs-AuCuEE;2022-10-08T21:32:46Z;"📺 New #rstatsvideo: Geospatial health: Bayesian inference and INLA (geohealth01 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=xFxs-AuCuEE"
+UC5FvzLMVNrTMW-ycrW-4KyA;2DBMGZodXSk;2022-10-09T04:39:11Z;"📺 New #rstatsvideo: [구독자 Q&A] 설문조사 데이터, 1번으로 응답한 문항 수는 어떻게 세나요?
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=2DBMGZodXSk"
+UCP8l94xtoemCH_GxByvTuFQ;RdtmKHTizMc;2022-10-09T07:00:10Z;"📺 New #rstatsvideo: TidyX Episode 119 | Slice n' Dicing data with tidyverse
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=RdtmKHTizMc"
+UCyHEww8_SCdxZvEnkCfi55w;n1Y6yMsAz84;2022-10-09T14:00:34Z;"📺 New #rstatsvideo: Difference Between data.frame & as.data.frame Functions in R (2 Examples) | Create & Convert Data
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=n1Y6yMsAz84"
+UC_sejq_JJ49KiiK4qh5r-wg;KrUsFICg2pE;2022-10-09T15:00:49Z;"📺 New #rstatsvideo: How to Sort a Data Frame by Single and Multiple Columns in R
+▶ Universe of Data Science (@unidatascience)
+#rstats #datascience #howtosortdatainr
+🔗 https://www.youtube.com/watch?v=KrUsFICg2pE"
+UCCigEL4N49pgIGszAz_v7Uw;tX4toP9Ifcc;2022-10-10T00:01:57Z;"📺 New #rstatsvideo: Inference in the Linear model: hypothesis testing for individual coefficients and F-test
+▶ Julian Righ Sampedro (@JRigh)
+#rstats #linear #model #statistics #statistical #linearregression #linearmodel
+🔗 https://www.youtube.com/watch?v=tX4toP9Ifcc"
