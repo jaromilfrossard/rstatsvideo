@@ -51,6 +51,7 @@ UCdrnsZd2xWjDjHUlYsA6Kfw;Dr Lyndon Walker;DrLyndonWalker
 UCu4Y_H5Hlfivx31yM5FcLeQ;Dimitris Rizopoulos;drizopoulos
 UCb5aI-GwJm3ZxlwtCsLu78Q;Tom Henry - data science with R;
 UCo7yZB1Pz_V9infLSUnfjUg;dataAnalysisR;
+UCNkd3Ws7oIkuJO0KO8wupOA;dataFish;
 UCi9RPnuGJq1dRduPXerufxA;datapointier;datapointier
 UCBV194XNr6CIQCCuw1v2rMQ;dataslice;dataslice
 UCvoQhepa71X9UclThhYbX6Q;Data Specs;DomnickKonde
@@ -78,8 +79,9 @@ UCJ04koR_DOtHh9SywevkEWg;ggplot2tor;ChBurkhart
 UCHIlDVeRUk3BAh4XEphxVFA;gisela soledispa lucas;
 UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham;hadleywickham
 UCPVGs5EBtrhK5gENc1GACOA;Hansel Ochoa Montero;
-UCfqX9h4wkDzXQIdfcrpLBMQ;Hertie School Data Science Lab;Hertie_DSLab
 UCctc3RvC6n5dJXP_NR7wfjQ;Hefin Rhys;HRJ21
+UCN5UEJ-D9X5neLYOGtRfJug;Herb Wilson;
+UCfqX9h4wkDzXQIdfcrpLBMQ;Hertie School Data Science Lab;Hertie_DSLab
 UClGaKSIiaYp8o2SB3D3aS_A;InsiderMiner;forcesofhabit
 UCWFju94W4ecD4qNRWW4ztLQ;INWT Statistics;INWT_Statistics
 UC3wk--LSO6RkhoMXC6LM_9g;Kasper Welbers;KasperWelbers

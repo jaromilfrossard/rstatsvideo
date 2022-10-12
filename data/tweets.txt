@@ -15059,3 +15059,56 @@ UCCigEL4N49pgIGszAz_v7Uw;tX4toP9Ifcc;2022-10-10T00:01:57Z;"📺 New #rstatsvideo
 ▶ Julian Righ Sampedro (@JRigh)
 #rstats #linear #model #statistics #statistical #linearregression #linearmodel
 🔗 https://www.youtube.com/watch?v=tX4toP9Ifcc"
+UCTXUFl30vDC32UrohjWB8kQ;h1UTx6HpeXU;2022-10-10T07:00:12Z;"📺 New #rstatsvideo: Comparing Syntax in R
+▶ Matthew Peterson (@ecomattp)
+#rstats
+🔗 https://www.youtube.com/watch?v=h1UTx6HpeXU"
+UCxQFEv8HNqM01DXzdQLCy6Q;eKLV2tdwXU8;2022-10-10T08:30:00Z;"📺 New #rstatsvideo: {admiral} ADSL demo and company specific approach
+▶ pharmaverse
+#rstats
+🔗 https://www.youtube.com/watch?v=eKLV2tdwXU8"
+UCyHEww8_SCdxZvEnkCfi55w;xLz5ZQe2aas;2022-10-10T14:00:36Z;"📺 New #rstatsvideo: R Error: bad restore file magic number (corrupted) - no data loaded | How to Fix & Solve | readRDS
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=xLz5ZQe2aas"
+UCIwS122xl4mjhw5TdK_K9Rw;MEZRAISDjuQ;2022-10-10T16:42:47Z;"📺 New #rstatsvideo: Introduction to dplyr
+▶ R in Action (@Parag52659626)
+#rstats #rtutorial #rprogramming #rlearningvideos #rcompleteguide #outlierdetection #data #datascience #machinelearning #algorithhm #creditrisk
+🔗 https://www.youtube.com/watch?v=MEZRAISDjuQ"
+UCCaChdLMTYMxyawR_Qf-kYA;RRxtbv5QCA4;2022-10-10T22:16:19Z;"📺 New #rstatsvideo: R for Data Science: Data visualization (r4ds08 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=RRxtbv5QCA4"
+UCCaChdLMTYMxyawR_Qf-kYA;LHYUEAXaYoM;2022-10-10T22:17:19Z;"📺 New #rstatsvideo: R for Data Science: Workflow: code style (r4ds07 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LHYUEAXaYoM"
+UCKJFCIbcGs2a5RGt8RjdbFA;QgLcDEmMhl0;2022-10-10T23:13:03Z;"📺 New #rstatsvideo: Week 4.1: Data wrangling Pt 1a
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=QgLcDEmMhl0"
+UCPque9BaFV9p0hcgImrYBzg;tcfHr0oeOMw;2022-10-10T23:30:43Z;"📺 New #rstatsvideo: Webscraping, Geocoding & Interactive Map-Making with Center City Sips Data
+▶ R-Ladies Philly (@RLadiesPhilly)
+#rstats
+🔗 https://www.youtube.com/watch?v=tcfHr0oeOMw"
+UCKJFCIbcGs2a5RGt8RjdbFA;SxB6rGc9suc;2022-10-11T01:08:56Z;"📺 New #rstatsvideo: Week 4.2: Data wrangling Part 1b
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=SxB6rGc9suc"
+UCyHEww8_SCdxZvEnkCfi55w;-_ZGBBAV5oo;2022-10-11T14:00:00Z;"📺 New #rstatsvideo: which() Function & Data Frame in R (2 Examples) | Specify Logical Condition | Extract Certain Rows
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=-_ZGBBAV5oo"
+UCB_noR4lYmbKJozwJuPStbg;EV3pOavW95g;2022-10-11T15:30:03Z;"📺 New #rstatsvideo: Custom functions, tidy evaluation, and data masking
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #iteratefunctionsr #functions #customfunctions #tidyevaluation #datamasking #tipsandtricksr #tipsandtricks #rfun
+🔗 https://www.youtube.com/watch?v=EV3pOavW95g"
+UChEWb0dYC8v7wZNWHca9b_A;Z0_79oi9f0w;2022-10-11T18:20:10Z;"📺 New #rstatsvideo: الخطوات الأولى في تحليل البيانات في لغة الآر
+▶ ArabR
+#rstats #rstatsdatascience
+🔗 https://www.youtube.com/watch?v=Z0_79oi9f0w"
