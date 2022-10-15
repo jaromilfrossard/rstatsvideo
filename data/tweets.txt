@@ -15112,3 +15112,153 @@ UChEWb0dYC8v7wZNWHca9b_A;Z0_79oi9f0w;2022-10-11T18:20:10Z;"📺 New #rstatsvideo
 ▶ ArabR
 #rstats #rstatsdatascience
 🔗 https://www.youtube.com/watch?v=Z0_79oi9f0w"
+UC93s4srvbDK8B9sPskLErfw;baKJOrqfaUY;2022-10-11T19:49:20Z;"📺 New #rstatsvideo: Calculating Refund Rates for Customers | Ifelse Statements in R
+▶ Daniel Bonneau
+🗣 🇬🇧
+#rstats #rstudio #rcoding #refundrates
+🔗 https://www.youtube.com/watch?v=baKJOrqfaUY"
+UCMzxf1PB54mTnWJVE8xdGlw;bT7LfwfFPVo;2022-10-12T10:14:18Z;"📺 New #rstatsvideo: Sentiment Analysis using R with Dr.Manika Lamba #nlp #rstats #sentimentanalysis #openscience
+▶ R-ladies Gaborone (@RLadiesGaborone)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=bT7LfwfFPVo"
+UCyHEww8_SCdxZvEnkCfi55w;pLX-Mn7-NcA;2022-10-12T14:00:35Z;"📺 New #rstatsvideo: Log Transformation of Data Frame in R (Example) | Convert All Values & Columns | Apply log Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=pLX-Mn7-NcA"
+UCN-OX45aSM1VtXkzocx8Ppg;PAE8oaC0vtk;2022-10-12T20:25:01Z;"📺 New #rstatsvideo: Creating Summary Statistics Using dplyr in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=PAE8oaC0vtk"
+UCN-OX45aSM1VtXkzocx8Ppg;FVLq9MGxq9o;2022-10-12T20:26:12Z;"📺 New #rstatsvideo: Between and Near Functions with dplyr
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=FVLq9MGxq9o"
+UCN-OX45aSM1VtXkzocx8Ppg;6zZFujiDPmQ;2022-10-12T20:32:15Z;"📺 New #rstatsvideo: Working with Advanced Filters Using dplyr in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=6zZFujiDPmQ"
+UCCaChdLMTYMxyawR_Qf-kYA;AydrtOASCUw;2022-10-12T21:41:19Z;"📺 New #rstatsvideo: Bayes Rules! Hierarchical Models are Exciting (bayes_rules02 15)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=AydrtOASCUw"
+UC_R5smHVXRYGhZYDJsnXTwg;ifhbYNjrw_o;2022-10-12T22:03:31Z;"📺 New #rstatsvideo: Using Metadata for Speedy Delivery
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=ifhbYNjrw_o"
+UCMdihazndR0f9XBoSXWqnYg;ZBk99pCVDto;2022-10-13T02:04:04Z;"📺 New #rstatsvideo: R - Data Screening Accuracy (6.1 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #data #science #open #education #analytics #rstudio #assumptions #datascreening #accuacy #outliers
+🔗 https://www.youtube.com/watch?v=ZBk99pCVDto"
+UCCaChdLMTYMxyawR_Qf-kYA;Vy9ii3nCics;2022-10-13T13:01:38Z;"📺 New #rstatsvideo: Bayes Rules! The Big (Bayesian) Picture (bayes_rules03 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Vy9ii3nCics"
+UCt950nC6jlh2ELDRPigWOkg;wh2mxd-_2_U;2022-10-13T13:10:10Z;"📺 New #rstatsvideo: TuRismo en Argentina (Ruiz Nicolini y Tiscornia)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wh2mxd-_2_U"
+UCt950nC6jlh2ELDRPigWOkg;A4U0aXPDFps;2022-10-13T13:10:17Z;"📺 New #rstatsvideo: CRAN Task Views (Rocío Joo et al.)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=A4U0aXPDFps"
+UCt950nC6jlh2ELDRPigWOkg;uNuUGroEqmE;2022-10-13T13:10:29Z;"📺 New #rstatsvideo: mapeAr: visualizando datos geográficos de turismo (Soutullo)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=uNuUGroEqmE"
+UCt950nC6jlh2ELDRPigWOkg;F8vUIbqGp0o;2022-10-13T13:10:40Z;"📺 New #rstatsvideo: API Codificación automática (Lehmann, Agloni, Pizarro)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=F8vUIbqGp0o"
+UCt950nC6jlh2ELDRPigWOkg;Mqf24pEXvLc;2022-10-13T13:10:49Z;"📺 New #rstatsvideo: Scripts y el paquete annotater (Luis D. Verde Arregoitia)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Mqf24pEXvLc"
+UCt950nC6jlh2ELDRPigWOkg;AmUQnQbKabQ;2022-10-13T13:11:00Z;"📺 New #rstatsvideo: Repositorio gobiernos locales (B. González-Bustamante)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=AmUQnQbKabQ"
+UCt950nC6jlh2ELDRPigWOkg;qMUKYmOnk2E;2022-10-13T13:11:07Z;"📺 New #rstatsvideo: Shiny: De los datos a la acción (Franco, Pérez, Ruiz)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=qMUKYmOnk2E"
+UCt950nC6jlh2ELDRPigWOkg;SNUWgkgqjuc;2022-10-13T13:11:14Z;"📺 New #rstatsvideo: ML para eventos políticos (B. González-Bustamante)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=SNUWgkgqjuc"
+UCt950nC6jlh2ELDRPigWOkg;n0q9kUZW370;2022-10-13T13:11:24Z;"📺 New #rstatsvideo: Uso de R en la exploración de la investigación artística
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=n0q9kUZW370"
+UCt950nC6jlh2ELDRPigWOkg;7x8d-nDXtaw;2022-10-13T13:11:36Z;"📺 New #rstatsvideo: Rebalanceando sistemas de bicicletas (J. Venegas et.al)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=7x8d-nDXtaw"
+UCt950nC6jlh2ELDRPigWOkg;Mh_UhBODiXE;2022-10-13T13:11:42Z;"📺 New #rstatsvideo: Paquetes de R potenciados por fastmatrix (Osorio y Ogueda))
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Mh_UhBODiXE"
+UCt950nC6jlh2ELDRPigWOkg;c8kStR3Thto;2022-10-13T13:25:03Z;"📺 New #rstatsvideo: Reporte automatizado de garantías GES (Paulo Villarroel)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=c8kStR3Thto"
+UCt950nC6jlh2ELDRPigWOkg;svARVzk9NAY;2022-10-13T13:25:23Z;"📺 New #rstatsvideo: Movilidad Google y Combustibles con R ( Irma N. No, et.al)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=svARVzk9NAY"
+UCt950nC6jlh2ELDRPigWOkg;zt1rI13xdXw;2022-10-13T13:25:32Z;"📺 New #rstatsvideo: Predicción de robos-enfoque espaciotemporal (Rafael Zambrano)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=zt1rI13xdXw"
+UCt950nC6jlh2ELDRPigWOkg;nw46EQPyLGw;2022-10-13T13:34:01Z;"📺 New #rstatsvideo: srvyuRu:Paquete para procesar encuestas con metaprogramación
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=nw46EQPyLGw"
+UCyHEww8_SCdxZvEnkCfi55w;5uLf5ngjD_4;2022-10-13T14:00:03Z;"📺 New #rstatsvideo: R Error: contrasts can be applied only to factors with 2 or more levels | Reproduce, Debug & Fix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=5uLf5ngjD_4"
+UCt950nC6jlh2ELDRPigWOkg;PIK609mZPeQ;2022-10-13T14:15:57Z;"📺 New #rstatsvideo: Medición Cadenas Agropecuarias (Martinez, Spairani)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=PIK609mZPeQ"
+UCt950nC6jlh2ELDRPigWOkg;kqGSdKLKcMc;2022-10-13T14:16:11Z;"📺 New #rstatsvideo: Shiny App AgroMeteorologia (INTA)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=kqGSdKLKcMc"
+UCt950nC6jlh2ELDRPigWOkg;3poL9xJD8E8;2022-10-13T14:16:18Z;"📺 New #rstatsvideo: Desafíos en la creación de shiny apps (Gómez y Opertti)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=3poL9xJD8E8"
+UCGuktEl5InrcxPfCjmPWxsA;eNpt6hz-UGo;2022-10-13T16:00:33Z;"📺 New #rstatsvideo: Live coding in R: No edits! Pat calculates the z-score (CC256)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #livecodingr #livecodereveiw #livecoding #livecodingtidyverselivecodingr #livecodingrstudio
+🔗 https://www.youtube.com/watch?v=eNpt6hz-UGo"
