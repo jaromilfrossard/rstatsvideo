@@ -15262,3 +15262,93 @@ UCGuktEl5InrcxPfCjmPWxsA;eNpt6hz-UGo;2022-10-13T16:00:33Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #livecodingr #livecodereveiw #livecoding #livecodingtidyverselivecodingr #livecodingrstudio
 🔗 https://www.youtube.com/watch?v=eNpt6hz-UGo"
+UC93s4srvbDK8B9sPskLErfw;w9fpTGuIV5s;2022-10-13T16:32:50Z;"📺 New #rstatsvideo: ifelse statement r | Checking Conditions and Assigning Values
+▶ Daniel Bonneau
+🗣 🇬🇧
+#rstats #rstudio #ifelse #ifelseinr
+🔗 https://www.youtube.com/watch?v=w9fpTGuIV5s"
+UCCaChdLMTYMxyawR_Qf-kYA;UKASy8ynWvg;2022-10-13T21:48:48Z;"📺 New #rstatsvideo: R Packages: The whole game (rpkgs04 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=UKASy8ynWvg"
+UChEWb0dYC8v7wZNWHca9b_A;qbI_Xp_EubA;2022-10-14T05:54:14Z;"📺 New #rstatsvideo: Getting Familiar with the Use of Git and GitHub in RStudio
+▶ ArabR
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=qbI_Xp_EubA"
+UCt950nC6jlh2ELDRPigWOkg;5yyzpE3tJKw;2022-10-14T13:44:22Z;"📺 New #rstatsvideo: Series de Tiempo con {sknifedatar}(Zambrano & Bartolomé)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=5yyzpE3tJKw"
+UCt950nC6jlh2ELDRPigWOkg;k_Pjh1gLEZw;2022-10-14T13:44:54Z;"📺 New #rstatsvideo: GridDER: Detecção e avaliação de dados de grade no R
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=k_Pjh1gLEZw"
+UCt950nC6jlh2ELDRPigWOkg;XrJ6k0wH3jI;2022-10-14T13:45:02Z;"📺 New #rstatsvideo: Analizando estructura de mercado con R (Andreas Schneider)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=XrJ6k0wH3jI"
+UCyHEww8_SCdxZvEnkCfi55w;_5db1YjQlQQ;2022-10-14T14:00:28Z;"📺 New #rstatsvideo: Add Variable Labels to Data Frame in R (Example) | Assign Text to Column | Hmisc & labelled Packages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=_5db1YjQlQQ"
+UCCaChdLMTYMxyawR_Qf-kYA;McHy3nsORcs;2022-10-14T14:46:17Z;"📺 New #rstatsvideo: Bayes Rules! Non-Normal Hierarchical Regression & Classification (bayes_rules01 18)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=McHy3nsORcs"
+UCt950nC6jlh2ELDRPigWOkg;qu_u3MI1itQ;2022-10-14T15:11:21Z;"📺 New #rstatsvideo: Paquete gfwr (Global Fishing Watch)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=qu_u3MI1itQ"
+UCt950nC6jlh2ELDRPigWOkg;7a7Rw1PGALU;2022-10-14T15:11:32Z;"📺 New #rstatsvideo: Multiweb: análisis de redes ecológicas (Saravia et al.)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=7a7Rw1PGALU"
+UCt950nC6jlh2ELDRPigWOkg;3yg5dQMS3is;2022-10-14T15:11:55Z;"📺 New #rstatsvideo: PCA analysis of viral infection in plants (Manacorda et al.)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=3yg5dQMS3is"
+UCt950nC6jlh2ELDRPigWOkg;zGQKYUZrXXU;2022-10-14T15:12:13Z;"📺 New #rstatsvideo: Estudio de algunas propiedades del método de clustering k-modes mediante remuestreo
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=zGQKYUZrXXU"
+UCt950nC6jlh2ELDRPigWOkg;fu_EOJyaDyY;2022-10-14T15:12:20Z;"📺 New #rstatsvideo: Estudio del método ChainLadder de reservas técnicas
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=fu_EOJyaDyY"
+UCWTFKtW_ReLP9zmMTYjRqug;EnNWkF9Jtj4;2022-10-14T15:36:05Z;"📺 New #rstatsvideo: Introduction to {ggplot2} in R by Tanya Shapiro @tanya_shapiro | R-Ladies Paris
+▶ R-Ladies Paris (@RLadiesParis)
+🗣 🇬🇧
+#rstats #ggplot2 #dataviz #tidyverse #rladiesparis #rstudio #onlinemeetup #workshop
+🔗 https://www.youtube.com/watch?v=EnNWkF9Jtj4"
+UCg4rv97QEhN-2gvLhrGMgEw;XVc5ErBRNnQ;2022-10-14T17:31:10Z;"📺 New #rstatsvideo: Principais funções do pacote dplyr
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=XVc5ErBRNnQ"
+UCt950nC6jlh2ELDRPigWOkg;J4gODxwW9gs;2022-10-14T23:06:19Z;"📺 New #rstatsvideo: Organizing inclusive conferences
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=J4gODxwW9gs"
+UCt950nC6jlh2ELDRPigWOkg;6PILgf_1ZOI;2022-10-14T23:06:23Z;"📺 New #rstatsvideo: STRANGE-R METHODOLOGIES: Ensinando R de trás-pra-frente
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=6PILgf_1ZOI"
+UCt950nC6jlh2ELDRPigWOkg;Q_C_zBz39ls;2022-10-14T23:06:29Z;"📺 New #rstatsvideo: Teaching Community Engaged Data Science (Laurie Baker)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Q_C_zBz39ls"
