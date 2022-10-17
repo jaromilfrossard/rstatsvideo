@@ -15352,3 +15352,60 @@ UCt950nC6jlh2ELDRPigWOkg;Q_C_zBz39ls;2022-10-14T23:06:29Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=Q_C_zBz39ls"
+UCt950nC6jlh2ELDRPigWOkg;utzo0qm-7k0;2022-10-14T23:06:33Z;"📺 New #rstatsvideo: Cómo ganarse la vida enseñando R (Bellini, Wilson)
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=utzo0qm-7k0"
+UCyHEww8_SCdxZvEnkCfi55w;znBYZHcMBr8;2022-10-15T14:00:34Z;"📺 New #rstatsvideo: Convert Time Series to Data Frame in R (Example) | Transform xts Object | as.data.frame() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=znBYZHcMBr8"
+UCt950nC6jlh2ELDRPigWOkg;UmrB7aRmD2M;2022-10-15T16:00:18Z;"📺 New #rstatsvideo: Tutorial 2022: Criando apresentações com Quarto / Creando presentaciones con Quarto #quartopub
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=UmrB7aRmD2M"
+UCt950nC6jlh2ELDRPigWOkg;d8jSN998Mtw;2022-10-15T16:00:22Z;"📺 New #rstatsvideo: Introducción a RMarkdown, creando reportes con R y Python en RStudio
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=d8jSN998Mtw"
+UCt950nC6jlh2ELDRPigWOkg;mikarBgV-8w;2022-10-15T16:00:23Z;"📺 New #rstatsvideo: Tutoriales: Creating Shiny Apps with Rhino: the new framework Shiny apps.
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=mikarBgV-8w"
+UCvt6lv8yMrBV8YgsAoQykHw;-w15pUwvDfs;2022-10-15T18:40:39Z;"📺 New #rstatsvideo: Universo Tidyverse: Transformando dados com o pacote dplyr
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=-w15pUwvDfs"
+UCvt6lv8yMrBV8YgsAoQykHw;rOq2qhKn3sU;2022-10-15T19:01:26Z;"📺 New #rstatsvideo: Linguagem R como Ferramenta de SIG
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=rOq2qhKn3sU"
+UCCaChdLMTYMxyawR_Qf-kYA;HSI_0CNVGxA;2022-10-15T19:20:23Z;"📺 New #rstatsvideo: Geospatial health: The R-INLA package (geohealth01 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=HSI_0CNVGxA"
+UCt950nC6jlh2ELDRPigWOkg;3xIRQ-3QCEk;2022-10-15T21:10:23Z;"📺 New #rstatsvideo: Introduction to Text Analysis with R.
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=3xIRQ-3QCEk"
+UCCaChdLMTYMxyawR_Qf-kYA;FwmcE-avReA;2022-10-15T22:48:44Z;"📺 New #rstatsvideo: Computational Genomics: Introduction to R for Genomic Data Analysis (comp_genom01 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=FwmcE-avReA"
+UCP8l94xtoemCH_GxByvTuFQ;4FmWhPQh6qI;2022-10-16T07:00:05Z;"📺 New #rstatsvideo: TidyX Episode 120 | Working with columns in Tidyverse
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=4FmWhPQh6qI"
+UCyHEww8_SCdxZvEnkCfi55w;GKWI5sLUleY;2022-10-16T14:00:07Z;"📺 New #rstatsvideo: ggplot2 Error in R: Cannot use `+.gg()` with a single argument – new line? | How to Replicate & Fix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=GKWI5sLUleY"
