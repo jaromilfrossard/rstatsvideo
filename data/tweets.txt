@@ -15409,3 +15409,89 @@ UCyHEww8_SCdxZvEnkCfi55w;GKWI5sLUleY;2022-10-16T14:00:07Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom
 🔗 https://www.youtube.com/watch?v=GKWI5sLUleY"
+UCCaChdLMTYMxyawR_Qf-kYA;FeSYfRx2esU;2022-10-16T14:43:13Z;"📺 New #rstatsvideo: R for Data Science: Workflow: basics (r4ds08 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=FeSYfRx2esU"
+UCCaChdLMTYMxyawR_Qf-kYA;v8aZTWPE--8;2022-10-16T14:44:25Z;"📺 New #rstatsvideo: Modelado Tidy con R - Extra. Explorando los Pingüinos de Palmer (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=v8aZTWPE--8"
+UCt950nC6jlh2ELDRPigWOkg;CAw3-pZhzfk;2022-10-17T01:25:01Z;"📺 New #rstatsvideo: Tutorial: Conquistando errores en R
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=CAw3-pZhzfk"
+UCdFC653IaBVC5kwj7CGo2sQ;aQ1IKMsTd0A;2022-10-17T07:46:56Z;"📺 New #rstatsvideo: Eine (sehr) kurze R Einführung
+▶ RappA (@rappa753)
+#rstats
+🔗 https://www.youtube.com/watch?v=aQ1IKMsTd0A"
+UCyHEww8_SCdxZvEnkCfi55w;Q5Ox0ujWSLY;2022-10-17T14:00:15Z;"📺 New #rstatsvideo: Matrix Multiplication Error in R: non-conformable arguments (2 Examples) | How to Replicate & Fix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #rprogramming
+🔗 https://www.youtube.com/watch?v=Q5Ox0ujWSLY"
+UCGuktEl5InrcxPfCjmPWxsA;J6JIKk2MGs4;2022-10-17T16:00:22Z;"📺 New #rstatsvideo: How to force Snakemake to rerun a rule and visualize a pipeline (CC257)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #snakemakeforcererun #snakemaketutorial #snakeforcererun #snakemakepipeline
+🔗 https://www.youtube.com/watch?v=J6JIKk2MGs4"
+UCt950nC6jlh2ELDRPigWOkg;HH2V_B7aFeg;2022-10-17T16:09:00Z;"📺 New #rstatsvideo: Tutorial Herramientas y atajos para programar eficientemente con RStudio
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=HH2V_B7aFeg"
+UCKJFCIbcGs2a5RGt8RjdbFA;thFdHm-uILk;2022-10-17T17:48:02Z;"📺 New #rstatsvideo: Week 5.1: Data wrangling Part 2a
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=thFdHm-uILk"
+UCCaChdLMTYMxyawR_Qf-kYA;zMqelxtBt_4;2022-10-17T19:50:18Z;"📺 New #rstatsvideo: ISLR: Deep Learning Part 2 (islr04 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=zMqelxtBt_4"
+UCCaChdLMTYMxyawR_Qf-kYA;hb7eSpCMGDU;2022-10-17T19:50:50Z;"📺 New #rstatsvideo: R for Data Science: Data import (r4ds07 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hb7eSpCMGDU"
+UC93s4srvbDK8B9sPskLErfw;MhCTjM3xHZY;2022-10-17T21:43:27Z;"📺 New #rstatsvideo: Rename Columns in R
+▶ Daniel Bonneau
+🗣 🇬🇧
+#rstats #rstudio #dplyr #renamecolumnsinr
+🔗 https://www.youtube.com/watch?v=MhCTjM3xHZY"
+UCQ7DcXWJm3es06U7lGmBDkw;M38LmxAXTmc;2022-10-17T23:25:06Z;"📺 New #rstatsvideo: R-Ladies St. Louis Meetup Oct 11, 2022: Intro to Iteration
+▶ R Ladies STL (@RLadiesSTL)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=M38LmxAXTmc"
+UCKJFCIbcGs2a5RGt8RjdbFA;HYyIBZUm3yU;2022-10-18T01:20:53Z;"📺 New #rstatsvideo: Week 5.2: Data wrangling Part 2b
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=HYyIBZUm3yU"
+UCdrnsZd2xWjDjHUlYsA6Kfw;rDNGJWVn6WM;2022-10-18T09:26:18Z;"📺 New #rstatsvideo: Code Templates for R Graphs on r-charts.com
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters #rstudio
+🔗 https://www.youtube.com/watch?v=rDNGJWVn6WM"
+UCkAyfZ4tAeO0j9dS-_yU7Gw;ZPxEFq4uQUk;2022-10-18T09:38:02Z;"📺 New #rstatsvideo: Bayesian Statistics and Buy-Till-You-Die Models - Workshop 7 - Fitting the PNBD Model
+▶ Dublin Data Science
+#rstats
+🔗 https://www.youtube.com/watch?v=ZPxEFq4uQUk"
+UCjXQyxs1iyEg5v98fezgT0w;ZsBxH2MJjPM;2022-10-18T11:00:18Z;"📺 New #rstatsvideo: CFA lavaan: Bifactor Analysis in R
+▶ Regorz Statistik
+🗣 🇬🇧
+#rstats #bifactorcfa #bifactoranalysis #bifactorlavaan #bifactorr
+🔗 https://www.youtube.com/watch?v=ZsBxH2MJjPM"
+UCyHEww8_SCdxZvEnkCfi55w;a42D62R9V7I;2022-10-18T14:00:01Z;"📺 New #rstatsvideo: Draw Table in Plot in R (4 Examples) | Create Barplot, Histogram & Heatmap | Base R, ggplot2 Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=a42D62R9V7I"
+UCB_noR4lYmbKJozwJuPStbg;ExDaJUiivZw;2022-10-18T15:30:05Z;"📺 New #rstatsvideo: Cleaning data: tidying excel worksheets embedded within a workbook
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #iteratefunctionsr #iterate #readxl #worksheets #functions #customfunctions #mapdf #map #purrr
+🔗 https://www.youtube.com/watch?v=ExDaJUiivZw"
