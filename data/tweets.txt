@@ -15495,3 +15495,32 @@ UCB_noR4lYmbKJozwJuPStbg;ExDaJUiivZw;2022-10-18T15:30:05Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #iteratefunctionsr #iterate #readxl #worksheets #functions #customfunctions #mapdf #map #purrr
 🔗 https://www.youtube.com/watch?v=ExDaJUiivZw"
+UCPJZmlXMcBiKjoVQ4cpAMIg;oBFKQKs40xE;2022-10-18T15:30:12Z;"📺 New #rstatsvideo: How to GROUP data in R using the dplyr function group_by
+▶ Dean Chereden (@deanchereden)
+🗣 🇬🇧
+#rstats #analytics #datascience #howto #rprogramming #rstudio #dataanalytics #datasciencetraining
+🔗 https://www.youtube.com/watch?v=oBFKQKs40xE"
+UCG1_1eqe_KvoVByZeFFFErQ;JXU37PxTWgM;2022-10-18T17:26:00Z;"📺 New #rstatsvideo: IX Xornada de Usuarios de R en Galicia | Difusión en vivo
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=JXU37PxTWgM"
+UCQ7DcXWJm3es06U7lGmBDkw;ZIozb41Nxaw;2022-10-18T18:08:04Z;"📺 New #rstatsvideo: R-Ladies St. Louis Meetup Oct. 17, 2022: Clinical Reporting with {gtsummary}
+▶ R Ladies STL (@RLadiesSTL)
+#rstats
+🔗 https://www.youtube.com/watch?v=ZIozb41Nxaw"
+UClGaKSIiaYp8o2SB3D3aS_A;5g53pdV3HGM;2022-10-19T05:43:15Z;"📺 New #rstatsvideo: installing swirl
+▶ InsiderMiner (@forcesofhabit)
+🗣 🇬🇧
+#rstats #rprogramming #probability #statistics #programming #datascience #machinelearning
+🔗 https://www.youtube.com/watch?v=5g53pdV3HGM"
+UCXuX-kQ1TbKHWeB75NgmhlA;LzGpZel5D_Y;2022-10-19T12:00:27Z;"📺 New #rstatsvideo: The 15 most important R commands | R for beginners
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #rprogramminglanguage #datascience #rprogramming #rprogrammingtutorial #rprogrammingtraining
+🔗 https://www.youtube.com/watch?v=LzGpZel5D_Y"
+UCyHEww8_SCdxZvEnkCfi55w;D_aBxFUyXFI;2022-10-19T14:00:15Z;"📺 New #rstatsvideo: R Error in xy.coords(x, y, xlabel, ylabel, log) : ‘x’ and ‘y’ length differ | How to Replicate & Fix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=D_aBxFUyXFI"
