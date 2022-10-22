@@ -15524,3 +15524,70 @@ UCyHEww8_SCdxZvEnkCfi55w;D_aBxFUyXFI;2022-10-19T14:00:15Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom
 🔗 https://www.youtube.com/watch?v=D_aBxFUyXFI"
+UC3xfbCMLCw1Hh4dWop3XtHg;QbcAX3ayyzk;2022-10-19T18:17:00Z;"📺 New #rstatsvideo: What's New in gt 0.7.0?
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology #coding #connect #serverpro #shiny
+🔗 https://www.youtube.com/watch?v=QbcAX3ayyzk"
+UCCaChdLMTYMxyawR_Qf-kYA;WBDLLZTJ_QE;2022-10-20T11:14:34Z;"📺 New #rstatsvideo: Advanced R: Q&A with Hadley Wickham (advr06 16)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=WBDLLZTJ_QE"
+UCyHEww8_SCdxZvEnkCfi55w;QUc7XJUEkdU;2022-10-20T14:00:11Z;"📺 New #rstatsvideo: Table by Group in R (Example) | table() Function | Frequency Counts of Elements in the Column ""x""
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=QUc7XJUEkdU"
+UCCaChdLMTYMxyawR_Qf-kYA;RygccxWeHSE;2022-10-20T15:36:53Z;"📺 New #rstatsvideo: Bayes Rules! Bayes’ Rule (bayes_rules03 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=RygccxWeHSE"
+UCGuktEl5InrcxPfCjmPWxsA;FnJKF3QfqwY;2022-10-20T16:00:15Z;"📺 New #rstatsvideo: Creating a heatmap map with geom_tile from ggplot2 in R (CC258)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #heatmapgeomtileggplot2 #geomraster #geomtile #heatmapinr #rheatmap #ggplot2heatmap
+🔗 https://www.youtube.com/watch?v=FnJKF3QfqwY"
+UCTTBgWyJl2HrrhQOOc710kA;2wcDYVb-2AY;2022-10-20T16:34:06Z;"📺 New #rstatsvideo: Find high FREX and high lift words in Stranger Things dialogue
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=2wcDYVb-2AY"
+UCCaChdLMTYMxyawR_Qf-kYA;fttQAPfB4Mw;2022-10-20T21:16:43Z;"📺 New #rstatsvideo: Bayes Rules! Adding More Layers (bayes_rules01 19)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=fttQAPfB4Mw"
+UCCaChdLMTYMxyawR_Qf-kYA;Trrc57hCtVo;2022-10-20T22:44:40Z;"📺 New #rstatsvideo: R Packages: System setup & Package structure and state (rpkgs04 3 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Trrc57hCtVo"
+UCA2w7SQxsYH0NKGS8vmAqbg;VUeYRfHJrHU;2022-10-21T06:54:50Z;"📺 New #rstatsvideo: Publication ready and reproducible summary tables with {gtsummary}
+▶ R in Grenoble
+#rstats
+🔗 https://www.youtube.com/watch?v=VUeYRfHJrHU"
+UC_bfGqjzgx4-N8TEQlJTaNQ;AAotbYDQVdM;2022-10-21T11:51:25Z;"📺 New #rstatsvideo: rOpenSci, a community for R developers and scientists, Yanina Bellini Saibene
+▶ Abuja R User Group (@AbujaRUG)
+#rstats
+🔗 https://www.youtube.com/watch?v=AAotbYDQVdM"
+UCnYkdhuQljgCnGNpCZpPfVA;XrOr_vliA14;2022-10-21T12:00:31Z;"📺 New #rstatsvideo: Come generare casualmente una distribuzione di valori con distribuzione normale in R
+▶ Samuel Leanza - WebTutorDiMatematica
+🗣 🇮🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=XrOr_vliA14"
+UCNpws2MZ2_VhABXs_BamVBA;rzCRU6eUd48;2022-10-21T13:24:59Z;"📺 New #rstatsvideo: Rserve, renv, flask, Vue.js dans un docker pour intégrer des données omiques avec ASTERICS
+▶ R-Toulouse RUG (@RUG_Toulouse)
+🗣 🇫🇷
+#rstats
+🔗 https://www.youtube.com/watch?v=rzCRU6eUd48"
+UCNpws2MZ2_VhABXs_BamVBA;5IDUumqhQ04;2022-10-21T13:36:33Z;"📺 New #rstatsvideo: Validation de données avec {pointblank}
+▶ R-Toulouse RUG (@RUG_Toulouse)
+🗣 🇫🇷
+#rstats
+🔗 https://www.youtube.com/watch?v=5IDUumqhQ04"
+UCyHEww8_SCdxZvEnkCfi55w;1gvfW4tLOnw;2022-10-21T14:00:02Z;"📺 New #rstatsvideo: R Warning Message – In Ops.factor : not meaningful for factors (Example) | as.numeric & as.character
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=1gvfW4tLOnw"
