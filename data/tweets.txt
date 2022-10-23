@@ -15591,3 +15591,32 @@ UCyHEww8_SCdxZvEnkCfi55w;1gvfW4tLOnw;2022-10-21T14:00:02Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom
 🔗 https://www.youtube.com/watch?v=1gvfW4tLOnw"
+UCg4rv97QEhN-2gvLhrGMgEw;Q409odbb5u8;2022-10-21T17:16:26Z;"📺 New #rstatsvideo: Funções do pacote dplyr no Software R
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=Q409odbb5u8"
+UCyHEww8_SCdxZvEnkCfi55w;bQdvmmkf2Ig;2022-10-22T14:00:16Z;"📺 New #rstatsvideo: identical Function in R (Example) | Test Data Objects for Exact Equality | Compare Vector Elements
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=bQdvmmkf2Ig"
+UCCaChdLMTYMxyawR_Qf-kYA;4DleINdy7cw;2022-10-22T14:59:56Z;"📺 New #rstatsvideo: Computational Genomics: Statistics for Genomics (comp_genom01 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=4DleINdy7cw"
+UCg6kociUghEgKz_hLRKQrMQ;A6CPCyaK3uA;2022-10-22T17:15:19Z;"📺 New #rstatsvideo: Como leer archivos excel en #R - 3 ejemplos
+▶ R Data Science School
+#rstats #excel #readexcel #learnr #importexcel #importdatainr #readxl #readsheetsexcel #readsheetexcel #rdatasienceschool
+🔗 https://www.youtube.com/watch?v=A6CPCyaK3uA"
+UCCaChdLMTYMxyawR_Qf-kYA;O1Fe_IHWcS0;2022-10-22T21:36:01Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Shiny modules (mshiny03 19)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=O1Fe_IHWcS0"
+UCCaChdLMTYMxyawR_Qf-kYA;AqCiwVMEwfc;2022-10-22T21:36:25Z;"📺 New #rstatsvideo: Geospatial health: Areal data (geohealth01 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=AqCiwVMEwfc"
