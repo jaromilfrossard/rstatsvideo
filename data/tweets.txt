@@ -15620,3 +15620,85 @@ UCCaChdLMTYMxyawR_Qf-kYA;AqCiwVMEwfc;2022-10-22T21:36:25Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=AqCiwVMEwfc"
+UCP8l94xtoemCH_GxByvTuFQ;RvV6aL5RD4U;2022-10-23T07:00:07Z;"📺 New #rstatsvideo: TidyX Episode 121 | Tell me what you want - user submitted data
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown
+🔗 https://www.youtube.com/watch?v=RvV6aL5RD4U"
+UCyHEww8_SCdxZvEnkCfi55w;lObDIpk1Ayk;2022-10-23T14:00:18Z;"📺 New #rstatsvideo: approx & approxfun Interpolation Functions (3 Examples) | How to Apply | Two or Multiple Coordinates
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=lObDIpk1Ayk"
+UCDgj5-mFohWZ5irWSFMFcng;v5QZEerzI4s;2022-10-23T16:25:21Z;"📺 New #rstatsvideo: R-Ladies New York (English) - Lightning Talks 2022
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=v5QZEerzI4s"
+UCDgj5-mFohWZ5irWSFMFcng;dXV5bx1WQTM;2022-10-23T16:39:28Z;"📺 New #rstatsvideo: R-Ladies New York (English) - Writing Meaningful Alt-Texts for Data Visualizations in R - Liz Hare
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=dXV5bx1WQTM"
+UCCaChdLMTYMxyawR_Qf-kYA;aJFrAAmTCVE;2022-10-23T16:58:03Z;"📺 New #rstatsvideo: R for Data Science: Data transformation (r4ds08 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=aJFrAAmTCVE"
+UC5FvzLMVNrTMW-ycrW-4KyA;hezGLmr9MGk;2022-10-23T17:34:22Z;"📺 New #rstatsvideo: 계리사면서 데이터분석 전문가!? ADP 한방 컷 한 홍성원님의 ADP 소개 및 책 추천!
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=hezGLmr9MGk"
+UCyZCfIET7753bs5WpmKI_qQ;F0YbmZuC2BM;2022-10-24T03:12:47Z;"📺 New #rstatsvideo: Tutorial R | Como comunicar dados em artigos técnicos no R - Quarto
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats #gtsummary #tabelas #quiquadrado #contingencia
+🔗 https://www.youtube.com/watch?v=F0YbmZuC2BM"
+UCFT7Tgi7UAzR-eyzjoxBzxA;OpRnKqah4aA;2022-10-24T06:40:27Z;"📺 New #rstatsvideo: Meetup Septiembre 2022: Gráficos con ggplot2
+▶ RLadies Cuernavaca (@RLadiesCuerna)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=OpRnKqah4aA"
+UCFT7Tgi7UAzR-eyzjoxBzxA;hpnPskKksTc;2022-10-24T07:28:28Z;"📺 New #rstatsvideo: Meetup Octubre 2022: Gráficos avanzados
+▶ RLadies Cuernavaca (@RLadiesCuerna)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=hpnPskKksTc"
+UCrG34lup96IfDweTSDkPHDA;YReKCOXQCvo;2022-10-24T08:25:19Z;"📺 New #rstatsvideo: Talleres Tercer encuentro anual RLadiesMX 2022: Gráficos con ggplot2
+▶ RLadies Mexico
+#rstats
+🔗 https://www.youtube.com/watch?v=YReKCOXQCvo"
+UCqQ_cxcNu1ekqHXDc-MbU_w;AQ1h_EAUgZM;2022-10-24T12:00:07Z;"📺 New #rstatsvideo: how to make a secondary y-axis in R plots (ggplot2 tutorial)
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=AQ1h_EAUgZM"
+UCyHEww8_SCdxZvEnkCfi55w;bAUa03wCvkk;2022-10-24T14:00:17Z;"📺 New #rstatsvideo: Print Table in R (2 Examples) | View() & table() Functions | Display in RStudio Console & New Window
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=bAUa03wCvkk"
+UCGuktEl5InrcxPfCjmPWxsA;ozta7H7WK58;2022-10-24T16:00:37Z;"📺 New #rstatsvideo: Using GitHub pages to host a web page made with Rmarkdown (CC259)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #githubpagesrmarkdown #rmarkdownhtml #rmarkdowngithubpages #githubpagesmarkdown #rmarkdown
+🔗 https://www.youtube.com/watch?v=ozta7H7WK58"
+UC3xfbCMLCw1Hh4dWop3XtHg;66wssEdpR84;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Greg Swinehart | Designing for people is hard | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=66wssEdpR84"
+UC3xfbCMLCw1Hh4dWop3XtHg;6NH3Hxk3fWM;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Tanya Cashorali | Cross-Industry Anomaly Detection Solutions with R and Shiny | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=6NH3Hxk3fWM"
+UC3xfbCMLCw1Hh4dWop3XtHg;A9QRN4cpsDY;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Devin Pastoor | Websites & Books & Blogs, oh my! Creating Rich Content with Quarto | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=A9QRN4cpsDY"
+UC3xfbCMLCw1Hh4dWop3XtHg;D2Mxy33_Ac0;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Jacqueline Nolis | I made an entire e-commerce platform on Shiny | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=D2Mxy33_Ac0"
