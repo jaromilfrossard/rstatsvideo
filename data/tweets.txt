@@ -15702,3 +15702,183 @@ UC3xfbCMLCw1Hh4dWop3XtHg;D2Mxy33_Ac0;2022-10-24T17:05:41Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=D2Mxy33_Ac0"
+UC3xfbCMLCw1Hh4dWop3XtHg;kwLu3hxwn5M;2022-10-24T17:05:42Z;"📺 New #rstatsvideo: Winston Chang | Running Shiny without a server | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=kwLu3hxwn5M"
+UC3xfbCMLCw1Hh4dWop3XtHg;nmVrZ5YT9mQ;2022-10-24T17:05:42Z;"📺 New #rstatsvideo: Dan Caley | Demystifying the art of creating custom libraries for your organization | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=nmVrZ5YT9mQ"
+UC3xfbCMLCw1Hh4dWop3XtHg;ttLnLdU1-CQ;2022-10-24T17:05:42Z;"📺 New #rstatsvideo: Tracy Teal | These are a few of my favorite things (about Quarto presentations) | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ttLnLdU1-CQ"
+UC3xfbCMLCw1Hh4dWop3XtHg;L6fGW947uK8;2022-10-24T17:05:44Z;"📺 New #rstatsvideo: David Robinson | dbcooper: Turn any database into an R or Python package | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=L6fGW947uK8"
+UC3xfbCMLCw1Hh4dWop3XtHg;dUBnitXf5mk;2022-10-24T17:05:44Z;"📺 New #rstatsvideo: June Choe | Cracking open ggplot internals with {ggtrace} | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=dUBnitXf5mk"
+UC3xfbCMLCw1Hh4dWop3XtHg;-8Qp9rcslfw;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Mike Stackhouse | Dive Deep into Metadata with Tplyr  | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-8Qp9rcslfw"
+UC3xfbCMLCw1Hh4dWop3XtHg;9w4WFe48rEg;2022-10-24T17:08:00Z;"📺 New #rstatsvideo: Meghan S Harris | Making Data Pipelines in R: A Story From A “Self-Taught” Perspective  | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9w4WFe48rEg"
+UC3xfbCMLCw1Hh4dWop3XtHg;F4osY469UoY;2022-10-24T17:08:00Z;"📺 New #rstatsvideo: Mark Rieke | Introducing workboots: Generate prediction intervals from tidymodel workflows
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=F4osY469UoY"
+UC3xfbCMLCw1Hh4dWop3XtHg;QZ9mAzrNN3I;2022-10-24T17:08:00Z;"📺 New #rstatsvideo: Yihui Xie | Highlights of the knitr package from the past two years | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=QZ9mAzrNN3I"
+UC3xfbCMLCw1Hh4dWop3XtHg;015rGZe2Lkk;2022-10-24T17:11:08Z;"📺 New #rstatsvideo: Julia Silge & Max Kuhn | Good practices for applied machine learning | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=015rGZe2Lkk"
+UC3xfbCMLCw1Hh4dWop3XtHg;Vf301YCxP1Q;2022-10-24T17:11:08Z;"📺 New #rstatsvideo: Jeff Leek | Data science training in communities with limited technology resources and opportunities
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Vf301YCxP1Q"
+UC3xfbCMLCw1Hh4dWop3XtHg;DhmxA08bstQ;2022-10-24T17:13:00Z;"📺 New #rstatsvideo: Jon Harmon | {shinyslack}: Connecting Slack Teams to Shiny Apps | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=DhmxA08bstQ"
+UC3xfbCMLCw1Hh4dWop3XtHg;DMgAW4m5aTI;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Barret Schloerke | {shinytest2}: Unit testing for Shiny applications | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=DMgAW4m5aTI"
+UC3xfbCMLCw1Hh4dWop3XtHg;GwVx_pf2uz4;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: E. David Aja | You should be using renv | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GwVx_pf2uz4"
+UC3xfbCMLCw1Hh4dWop3XtHg;JuxMCmgKaOI;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Weihuang Wong & Kiegan Rice | How to be a pollinatoR | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=JuxMCmgKaOI"
+UC3xfbCMLCw1Hh4dWop3XtHg;KDNohZ3ySr4;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Sydeaka Watson | A Robust Framework for Automated Shiny App Testing | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=KDNohZ3ySr4"
+UC3xfbCMLCw1Hh4dWop3XtHg;Knnn6w5_g7w;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Peter Gandenberger | Dashboard-Builder: Building Shiny Apps without writing any code | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Knnn6w5_g7w"
+UC3xfbCMLCw1Hh4dWop3XtHg;LPotWAJnE_s;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Mike Cheng | The Polygons of Another World - realtime interactive rendering in R | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LPotWAJnE_s"
+UC3xfbCMLCw1Hh4dWop3XtHg;P3FxCvSueag;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Hadley Wickham | An introduction to R7 | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=P3FxCvSueag"
+UC3xfbCMLCw1Hh4dWop3XtHg;S1lwLI6BoW8;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Kamil Zyla | Introducing Rhino: Shiny application framework for enterprise | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=S1lwLI6BoW8"
+UC3xfbCMLCw1Hh4dWop3XtHg;U0PxKGSVxHo;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Meghan Hall |. Cultivating Your Own R Ecosystem as a Solo Contributor | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=U0PxKGSVxHo"
+UC3xfbCMLCw1Hh4dWop3XtHg;UIaigpCAIqE;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Nick Strayer | A new way to build your Shiny app's UI | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=UIaigpCAIqE"
+UC3xfbCMLCw1Hh4dWop3XtHg;ai8QU5jJNIw;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Aaron R. Williams | The tidysynthesis R package | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ai8QU5jJNIw"
+UC3xfbCMLCw1Hh4dWop3XtHg;c9oU7ALJS3o;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Bryan Shalloway | From summarizing projects to setting tags, uses of parsing R files | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=c9oU7ALJS3o"
+UC3xfbCMLCw1Hh4dWop3XtHg;eGI-SJMiWgM;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Kirill Müller | dm: Analyze, build and deploy relational data models | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=eGI-SJMiWgM"
+UC3xfbCMLCw1Hh4dWop3XtHg;hRKx-obmFx8;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Tyler Morgan-Wall | Building a ggplot2 rollercoaster: Creating amazing 3D data visualizations in R
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hRKx-obmFx8"
+UC3xfbCMLCw1Hh4dWop3XtHg;iS9toBHswBY;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Melissa Van Bussel | Achieving a seamless workflow between R, Python and SAS from within RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=iS9toBHswBY"
+UC3xfbCMLCw1Hh4dWop3XtHg;imYEdQ81JPk;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Mark Sellors | The worlds smallest R environment? Running R on a $15 computer | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=imYEdQ81JPk"
+UC3xfbCMLCw1Hh4dWop3XtHg;jTVM5dZq6sM;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Zhian N. Kamvar | Building Accessible Lessons with R and Friends | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=jTVM5dZq6sM"
+UC3xfbCMLCw1Hh4dWop3XtHg;nKYs6vul2y8;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Alice Walsh | Becoming Creative: How I Designed a Quilt with R | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=nKYs6vul2y8"
+UC3xfbCMLCw1Hh4dWop3XtHg;p7Hxu4coDl8;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Mine Çetinkaya-Rundel & Julia Stewart Lowndes | Hello Quarto: Share, Collaborate, Teach, Reimagine
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse
+🔗 https://www.youtube.com/watch?v=p7Hxu4coDl8"
+UC3xfbCMLCw1Hh4dWop3XtHg;pjDw85Scwgc;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Maya Gans | Creating a Design System for Shiny and RMarkdown | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=pjDw85Scwgc"
+UC3xfbCMLCw1Hh4dWop3XtHg;w-vRkVst1zE;2022-10-24T17:05:41Z;"📺 New #rstatsvideo: Eric Wanjau & Ian Muchiri | A touch of R in Robotics | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=w-vRkVst1zE"
+UC3xfbCMLCw1Hh4dWop3XtHg;7wHMaUmoWFA;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Ryan E Wade | The R integration in Power BI: Why R developers should be Interested | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=7wHMaUmoWFA"
+UC3xfbCMLCw1Hh4dWop3XtHg;9ijjOwDb_pE;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Josiah Parry | Exploratory Spatial Data Analysis in the tidyverse | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=9ijjOwDb_pE"
+UC3xfbCMLCw1Hh4dWop3XtHg;A9SzzQ4pfJE;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Alex Farach | Let's start at the beginning - bits to character encoding in R | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=A9SzzQ4pfJE"
