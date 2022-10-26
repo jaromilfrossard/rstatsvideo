@@ -15882,3 +15882,93 @@ UC3xfbCMLCw1Hh4dWop3XtHg;A9SzzQ4pfJE;2022-10-24T17:07:59Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=A9SzzQ4pfJE"
+UC3xfbCMLCw1Hh4dWop3XtHg;ChwczkfFsXM;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Matthew Kay | Visualizing distributions and uncertainty using ggdist | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ChwczkfFsXM"
+UC3xfbCMLCw1Hh4dWop3XtHg;DPU7TJZXWvo;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Davis Vaughan | It's about time | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=DPU7TJZXWvo"
+UC3xfbCMLCw1Hh4dWop3XtHg;HpqLXB_TnpI;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Joe Cheng | The Past and Future of Shiny | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology
+🔗 https://www.youtube.com/watch?v=HpqLXB_TnpI"
+UC3xfbCMLCw1Hh4dWop3XtHg;K2VYzU0XCmA;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Lewis Kirvan | Sometimes you just need words | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=K2VYzU0XCmA"
+UC3xfbCMLCw1Hh4dWop3XtHg;OIjxtlEorYU;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Liz Roten | Oddly Satisfying - Find delight in the mundane | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=OIjxtlEorYU"
+UC3xfbCMLCw1Hh4dWop3XtHg;R8qHydY5-L0;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Andreas Hofheinz | leafdown: Interactive multi-layer maps in Shiny apps | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=R8qHydY5-L0"
+UC3xfbCMLCw1Hh4dWop3XtHg;ScpUmLfZBeA;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Amelia McNamara | Implications of R syntax in intro stats | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ScpUmLfZBeA"
+UC3xfbCMLCw1Hh4dWop3XtHg;YBppl9UUZpg;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Nicola Rennie | Say Hello! to Multilingual Shiny Apps | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=YBppl9UUZpg"
+UC3xfbCMLCw1Hh4dWop3XtHg;ZUuPJOe2q1o;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: David Smith | Zero-setup R workshops with GitHub Codespaces | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ZUuPJOe2q1o"
+UC3xfbCMLCw1Hh4dWop3XtHg;_PyrtxTW8yM;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: George Stagg | WebR: R compiled for WebAssembly and running in the browser | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=_PyrtxTW8yM"
+UC3xfbCMLCw1Hh4dWop3XtHg;_zNu6Fyv6q0;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Ben Matheson | How Anchorage Built Alaska’s Vaccine Finder with R | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=_zNu6Fyv6q0"
+UC3xfbCMLCw1Hh4dWop3XtHg;bVKrvNYVlM0;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Hannah Podzorski | Advocating for Automation: Adapting Current Tools in Environmental Science with R
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=bVKrvNYVlM0"
+UC3xfbCMLCw1Hh4dWop3XtHg;iEL1uLbiFys;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Jamie Ralph | Developing internal tools for multi-lingual teams | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=iEL1uLbiFys"
+UC3xfbCMLCw1Hh4dWop3XtHg;kTtRr4kUJro;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Dewey Dunnington | Accelerating geospatial computing using Apache Arrow | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=kTtRr4kUJro"
+UC3xfbCMLCw1Hh4dWop3XtHg;mrvhk2XUfWo;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Tom Mock | Quarto for the Curious | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=mrvhk2XUfWo"
+UC3xfbCMLCw1Hh4dWop3XtHg;mvjqYHCeRF8;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: James Blair | R, Python, and Tableau: A Love Triangle | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=mvjqYHCeRF8"
+UC3xfbCMLCw1Hh4dWop3XtHg;rH4BP5LCNUE;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Nicholas Tierney | The Future of missing data | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=rH4BP5LCNUE"
+UC3xfbCMLCw1Hh4dWop3XtHg;sSeUsieIemM;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Beatriz Milz | Making awesome automations with GitHub Actions | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=sSeUsieIemM"
