@@ -15972,3 +15972,78 @@ UC3xfbCMLCw1Hh4dWop3XtHg;sSeUsieIemM;2022-10-24T17:07:59Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=sSeUsieIemM"
+UC3xfbCMLCw1Hh4dWop3XtHg;uP09-9KbAfo;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Becca Krouse | R Package Assessment: Lessons from Pharma | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=uP09-9KbAfo"
+UC3xfbCMLCw1Hh4dWop3XtHg;uy2xKAuiYNE;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Kelly Bodwin | Translating from {tidymodels} and scikit-learn: Lessons from a 'bilingual' course
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=uy2xKAuiYNE"
+UC3xfbCMLCw1Hh4dWop3XtHg;wzcz4xNGeTI;2022-10-24T17:07:59Z;"📺 New #rstatsvideo: Tan Ho | Project Immortality: Using GitHub To Make Your Work Live Forever | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wzcz4xNGeTI"
+UC3xfbCMLCw1Hh4dWop3XtHg;bgsQJ5Ox4X0;2022-10-24T17:08:00Z;"📺 New #rstatsvideo: Colin Gillespie | Comparing package versions with Diffify | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=bgsQJ5Ox4X0"
+UC3xfbCMLCw1Hh4dWop3XtHg;hzxBXZyKilM;2022-10-24T17:08:00Z;"📺 New #rstatsvideo: Kolbi Parrish & Andy Pham | R Markdown + RStudio Connect + R Shiny | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hzxBXZyKilM"
+UC3xfbCMLCw1Hh4dWop3XtHg;t-Is-8Qfym0;2022-10-24T17:08:00Z;"📺 New #rstatsvideo: David Maguire | Robust R Deployments: Building a Pipeline from RStudio to Production | RStudio
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=t-Is-8Qfym0"
+UC3xfbCMLCw1Hh4dWop3XtHg;E5XG1c7tNW0;2022-10-24T17:13:00Z;"📺 New #rstatsvideo: Hannah Frick | censored - Survival Analysis in tidymodels | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=E5XG1c7tNW0"
+UC3xfbCMLCw1Hh4dWop3XtHg;Nd5uMHFsY88;2022-10-24T17:13:00Z;"📺 New #rstatsvideo: Ivonne Carrillo Dominguez | R Shiny - From Conception to the Cloud | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Nd5uMHFsY88"
+UC3xfbCMLCw1Hh4dWop3XtHg;hzrFU5-_9-E;2022-10-24T17:13:00Z;"📺 New #rstatsvideo: Isabel Zimmerman | Demystifying MLOps | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hzrFU5-_9-E"
+UC3xfbCMLCw1Hh4dWop3XtHg;vsXJBO6-nQk;2022-10-24T17:13:00Z;"📺 New #rstatsvideo: Emil Hvitfeldt | tidyclust - expanding tidymodels to clustering | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vsXJBO6-nQk"
+UC3xfbCMLCw1Hh4dWop3XtHg;-JKz7u7NXzU;2022-10-24T17:13:01Z;"📺 New #rstatsvideo: Shelmith Nyagathiri Kariuki | Let your mobile shine - Leveraging CSS to make shiny mobile responsive
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-JKz7u7NXzU"
+UC3xfbCMLCw1Hh4dWop3XtHg;QkFFwUT4XQI;2022-10-24T17:14:25Z;"📺 New #rstatsvideo: Johnny Breen | Model Migration: from Excel to R | RStudio (2022)
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=QkFFwUT4XQI"
+UCjXQyxs1iyEg5v98fezgT0w;m0UFxVNdoOA;2022-10-25T07:00:14Z;"📺 New #rstatsvideo: SEM R lavaan: Latente Interaktionen (Moderation) mit Double Mean Centering
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #semlatenteinteraktion #lavaanlatenteinteraktion #semlatentemoderation #semlatenterproduktterm
+🔗 https://www.youtube.com/watch?v=m0UFxVNdoOA"
+UCyHEww8_SCdxZvEnkCfi55w;5FZUCsyTOoc;2022-10-25T14:00:01Z;"📺 New #rstatsvideo: Scale ggplot2 Color Gradient to Range Outside of Data (Example) | Specify Colors, Limits & Breaks
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=5FZUCsyTOoc"
+UCB_noR4lYmbKJozwJuPStbg;wMJb5Kcuwuc;2022-10-25T15:30:09Z;"📺 New #rstatsvideo: Iterating functions w/ nested data - case study: transform excel workbooks & worksheets to tidy data
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #iteratefunctionsr #iterate #readxl #worksheets
+🔗 https://www.youtube.com/watch?v=wMJb5Kcuwuc"
