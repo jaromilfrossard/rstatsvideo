@@ -16089,3 +16089,18 @@ UCMdihazndR0f9XBoSXWqnYg;pEjW8Svn280;2022-10-26T19:09:09Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statistics #data #science #education #open #analytics #datascreening #assumptions #rstudio #accuracy #missingdata
 🔗 https://www.youtube.com/watch?v=pEjW8Svn280"
+UC5FvzLMVNrTMW-ycrW-4KyA;87AdofxosQg;2022-10-27T02:06:28Z;"📺 New #rstatsvideo: 정규성 검정의 대표검정, Shapiro-Wilk 검정의 직관적 이해
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=87AdofxosQg"
+UCCaChdLMTYMxyawR_Qf-kYA;1KCDnDqOhCQ;2022-10-27T13:08:43Z;"📺 New #rstatsvideo: Bayes Rules! (Normal) Hierarchical Models with Predictors (bayes_rules02 17)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=1KCDnDqOhCQ"
+UCCaChdLMTYMxyawR_Qf-kYA;ol3BJTgS9NI;2022-10-27T13:09:11Z;"📺 New #rstatsvideo: Bayes Rules! Bayes’ Rule (bayes_rules03 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ol3BJTgS9NI"
