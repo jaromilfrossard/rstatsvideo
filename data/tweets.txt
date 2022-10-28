@@ -16047,3 +16047,45 @@ UCB_noR4lYmbKJozwJuPStbg;wMJb5Kcuwuc;2022-10-25T15:30:09Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #iteratefunctionsr #iterate #readxl #worksheets
 🔗 https://www.youtube.com/watch?v=wMJb5Kcuwuc"
+UCKJFCIbcGs2a5RGt8RjdbFA;2q2Hfg6zi8Y;2022-10-25T17:55:27Z;"📺 New #rstatsvideo: Week 6.1: Data visualization Part 1a
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=2q2Hfg6zi8Y"
+UCKJFCIbcGs2a5RGt8RjdbFA;FOAe4PnnAoA;2022-10-25T18:55:21Z;"📺 New #rstatsvideo: Week 6.2: Data Visualization Part 1b
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=FOAe4PnnAoA"
+UCCaChdLMTYMxyawR_Qf-kYA;LL86xwJ8qx8;2022-10-25T21:32:11Z;"📺 New #rstatsvideo: ISLR: Survival Analysis and Censored Data Part 1 (islr04 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LL86xwJ8qx8"
+UC3quDkWY1BBFasaIzaJUBXA;6DStckg8NhE;2022-10-26T03:50:55Z;"📺 New #rstatsvideo: Introduction to Latent Class Analysis with Example in R
+▶ Practical Propensity Score Analysis (@WalterLLeite1)
+#rstats
+🔗 https://www.youtube.com/watch?v=6DStckg8NhE"
+UCCaChdLMTYMxyawR_Qf-kYA;xrZdzkOC_Ts;2022-10-26T12:04:46Z;"📺 New #rstatsvideo: R for Data Science: Workflow: scripts and projects (r4ds07 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=xrZdzkOC_Ts"
+UCCaChdLMTYMxyawR_Qf-kYA;vfTg6upHvO4;2022-10-26T12:05:44Z;"📺 New #rstatsvideo: Advanced R: Introduction (advr07 0)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vfTg6upHvO4"
+UCCaChdLMTYMxyawR_Qf-kYA;IUPGryVFpVI;2022-10-26T12:07:02Z;"📺 New #rstatsvideo: JS4R: Webpack with R (js4r01 23 24)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=IUPGryVFpVI"
+UCyHEww8_SCdxZvEnkCfi55w;b491BZAt1qA;2022-10-26T14:00:32Z;"📺 New #rstatsvideo: duplicated Function in R (2 Examples) | Determine Duplicate Elements | Vector Object & Data Frame
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=b491BZAt1qA"
+UCMdihazndR0f9XBoSXWqnYg;pEjW8Svn280;2022-10-26T19:09:09Z;"📺 New #rstatsvideo: R - Data Screening Missing (6.2 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #data #science #education #open #analytics #datascreening #assumptions #rstudio #accuracy #missingdata
+🔗 https://www.youtube.com/watch?v=pEjW8Svn280"

@@ -139,6 +139,7 @@ UCwVZbwV_5GQpdUVB0BDmeXg;Parsimony;parsimonyinc
 UCu3UVZ1mLOYdsrrrnjjs8Pg;Patrick Mensah;patmensa39
 UC3YGwtENLTykphX-S00P4Jw;paulfharrison;paulfharrison
 UCxQFEv8HNqM01DXzdQLCy6Q;pharmaverse;
+UC3quDkWY1BBFasaIzaJUBXA;Practical Propensity Score Analysis;WalterLLeite1
 UCBsXfUO__nzMnlaLLUx7DFQ;Probability!;
 UC1NEZyGbSpcgBxcosNAjojA;Quick R Tutorials;
 UCljumcPvitx5W0OEC_Thk2Q;Rania Ismail;
@@ -270,4 +271,4 @@ UCDHzgi5BGU5F-LXxQIIOyDw;yutannihilationのチャンネル (仮);yutannihilation
 UCF9ymC7Dpjwr0lge2QR_A5Q;webin-R;
 UCwLy_PYrnCEhCU-Ay2F5Drw;Why R? Foundation;whyRconf
 UCr8qT7gK9WQZjCNz7Agi7sA;Why R? Turkey;WhyRTurkey
-
+UCW-epmIvjBEhhVXw_F0Nqbw;한국 R 사용자회;
