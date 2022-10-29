@@ -16104,3 +16104,46 @@ UCCaChdLMTYMxyawR_Qf-kYA;ol3BJTgS9NI;2022-10-27T13:09:11Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=ol3BJTgS9NI"
+UCCaChdLMTYMxyawR_Qf-kYA;Ddd_43gw8nA;2022-10-27T13:09:39Z;"📺 New #rstatsvideo: Advanced R: (Metaprogramming) Big picture (advr06 17)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Ddd_43gw8nA"
+UCyHEww8_SCdxZvEnkCfi55w;MRjXIjWDucc;2022-10-27T14:00:08Z;"📺 New #rstatsvideo: Error: attempt to apply non-function in R (2 Examples) | How to Fix | Insert a Mathematical Operator
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=MRjXIjWDucc"
+UC7C4YZ-9itQW7Nl4RVKDflg;puSFD1_0DRw;2022-10-27T14:49:58Z;"📺 New #rstatsvideo: Data Validation with Pointblank by Meghan Harris (10/26/2022)
+▶ Cleveland R User Group
+#rstats
+🔗 https://www.youtube.com/watch?v=puSFD1_0DRw"
+UCwVZbwV_5GQpdUVB0BDmeXg;gri9Ztz8I3A;2022-10-27T18:52:37Z;"📺 New #rstatsvideo: How to get SPSS data into R (using the haven package)
+▶ Parsimony (@parsimonyinc)
+🗣 🇬🇧
+#rstats #readspssdatainr #read spss data in r #spss #rprogramming #statistics #readspssfileinr #rtutorial #foreignpackage
+🔗 https://www.youtube.com/watch?v=gri9Ztz8I3A"
+UCQ7DcXWJm3es06U7lGmBDkw;y6_xMIBKuP4;2022-10-28T02:02:37Z;"📺 New #rstatsvideo: R-Ladies STL: Introduction to Quarto with Isabella Velásquez
+▶ R Ladies STL (@RLadiesSTL)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=y6_xMIBKuP4"
+UC8bO8eVpfEK8LbqH0oxyc3Q;1G0RLm0hSIc;2022-10-28T13:29:02Z;"📺 New #rstatsvideo: Using RStan with Fayette Klaassen
+▶ R User Group at Harvard Data Science Initiative (@RUGatHDSI)
+#rstats
+🔗 https://www.youtube.com/watch?v=1G0RLm0hSIc"
+UCyHEww8_SCdxZvEnkCfi55w;QbJsxLBVIxg;2022-10-28T14:00:24Z;"📺 New #rstatsvideo: intersect Function in R (2 Examples) | Intersection of Vectors & Data Frames | Base R, dplyr Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=QbJsxLBVIxg"
+UCCaChdLMTYMxyawR_Qf-kYA;PX7y2jlRYuU;2022-10-28T14:51:32Z;"📺 New #rstatsvideo: R for Data Science: Many models Part 2 (r4ds06 25)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=PX7y2jlRYuU"
+UCCaChdLMTYMxyawR_Qf-kYA;RMeQx0u05Ok;2022-10-28T14:51:53Z;"📺 New #rstatsvideo: R Packages: System setup & Package structure and state (rpkgs04 3 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=RMeQx0u05Ok"
