@@ -16147,3 +16147,47 @@ UCCaChdLMTYMxyawR_Qf-kYA;RMeQx0u05Ok;2022-10-28T14:51:53Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=RMeQx0u05Ok"
+UC2-hKemnrmVCH_29duyJ26A;nJS9rGWiJ_g;2022-10-28T15:18:37Z;"📺 New #rstatsvideo: Bob Rudis - Democratizing Data Science Team Comms With Quarto
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=nJS9rGWiJ_g"
+UC3xfbCMLCw1Hh4dWop3XtHg;WfPEvRb92mg;2022-10-29T05:08:39Z;"📺 New #rstatsvideo: Open Source Chat - {gt} with Rich Iannone
+▶ RStudio (@rstudio)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology #coding #connect
+🔗 https://www.youtube.com/watch?v=WfPEvRb92mg"
+UCyHEww8_SCdxZvEnkCfi55w;X1y0JFKpvZc;2022-10-29T14:00:18Z;"📺 New #rstatsvideo: Move X-Axis to Top of Plot in R (2 Examples) | Base R & ggplot2 Package | plot() & axis() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=X1y0JFKpvZc"
+UCCaChdLMTYMxyawR_Qf-kYA;i_-9IYOJCYg;2022-10-29T18:09:49Z;"📺 New #rstatsvideo: Computational Genomics: Statistics for Genomics Part 2 (comp_genom01 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=i_-9IYOJCYg"
+UCCaChdLMTYMxyawR_Qf-kYA;CDSDAVye-Fk;2022-10-29T18:10:35Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Packages (mshiny03 20)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=CDSDAVye-Fk"
+UCg6kociUghEgKz_hLRKQrMQ;Tir3Iv6iM2k;2022-10-29T20:07:22Z;"📺 New #rstatsvideo: Importando Datos de Google sheet
+▶ R Data Science School
+#rstats #googlesheet #learnr #importdata #import #tutorialr #importgooglesheet #readdata
+🔗 https://www.youtube.com/watch?v=Tir3Iv6iM2k"
+UCCaChdLMTYMxyawR_Qf-kYA;b2GWwkN8rR8;2022-10-30T00:57:21Z;"📺 New #rstatsvideo: DevOps for Data Science: Environments as Code (do4ds01 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=b2GWwkN8rR8"
+UCCaChdLMTYMxyawR_Qf-kYA;k7U0ufIqsys;2022-10-30T00:57:45Z;"📺 New #rstatsvideo: Geospatial health: Areal data Part 2 (geohealth01 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=k7U0ufIqsys"
+UCCaChdLMTYMxyawR_Qf-kYA;_NbdlBznxIE;2022-10-30T00:58:07Z;"📺 New #rstatsvideo: R for Data Science: Data transformation Part 2 (r4ds08 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=_NbdlBznxIE"
