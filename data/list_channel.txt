@@ -131,8 +131,9 @@ UClspbw7f-6Wk0BUiI6H05OQ;MMID Coding Workshop;
 UCID33pDULsQg2y4FVlv4CnQ;Mouna Belaid;mounaa_belaid
 UCei62Pt5vczohDZm45tiuvg;#NairobiR;
 UCU6vtQ59YrGqIrytnJ2CRug;Nasrin Fathollahzadeh Attar;NasrinAttar
-UCEbPGn_boFJj7_sPh37mBfA;Nnenna Asidianya;asidianya
 UCMwM-3tg_-Pbx8hKO78q5EA;NHSR Community;NHSrCommunity
+UCEbPGn_boFJj7_sPh37mBfA;Nnenna Asidianya;asidianya
+UCbh2y2fylQmgbsfQfYyYI4A;Noam Ross;noamross
 UCax5WxTJvQjtS9elybDivbA;Olakunle4impact;olakunle4impact
 UCoCfOfaj2c4sMxFv_nglycw;Open Data Science Deutschland;
 UCwVZbwV_5GQpdUVB0BDmeXg;Parsimony;parsimonyinc
