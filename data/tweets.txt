@@ -16191,3 +16191,16 @@ UCCaChdLMTYMxyawR_Qf-kYA;_NbdlBznxIE;2022-10-30T00:58:07Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=_NbdlBznxIE"
+UCP8l94xtoemCH_GxByvTuFQ;NktBcmWXJd4;2022-10-30T07:00:15Z;"📺 New #rstatsvideo: TidyX Episode 122 | Event based data and filtering
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown #rstudio
+🔗 https://www.youtube.com/watch?v=NktBcmWXJd4"
+UCyHEww8_SCdxZvEnkCfi55w;6ls7gVnmhyo;2022-10-30T15:00:03Z;"📺 New #rstatsvideo: hasName Function in R (Example) | Apply to Data Frame Column | Check if Variable Name is Contained
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=6ls7gVnmhyo"
+UC9ykygrgYWoUdwaMA3qhRaw;8zEllVQd-gQ;2022-10-30T16:00:04Z;"📺 New #rstatsvideo: Multivariate Imputation for Missing Values in R - Part 2
+▶ Data Garden
+#rstats #rstudio #excel #dataanalysis #datascience #statistics #stats #learning #tutorial #deeplearning #machinelearning
+🔗 https://www.youtube.com/watch?v=8zEllVQd-gQ"
