@@ -88,6 +88,7 @@ UC3wk--LSO6RkhoMXC6LM_9g;Kasper Welbers;KasperWelbers
 UC0cF_3ZXpYErsASTc29ftPg;Kelsey Gonzalez;KelseyEGonzalez
 UCchB_GC3WYW8kuGPyllLE7Q;Kelly Bodwin;KellyBodwin
 UCrxjf_pqTZKMdAuU-WbkENA;Kianté Fernandez;
+UCXKQBlJczU7YTyVu_wW7yHA;Japan.R;Japan_R_net
 UCYTxHFYjftv-kxhogQuwXhA;Jasper Tjaden;JasperTjaden
 UC9Sm1qcdzyGVjQMgWsW4pcw;Jennifer Sloane;jfsloane
 UCE2WK5bvNtDblu4NO9PGtJA;Jesse Mostipak;kierisi
@@ -223,7 +224,7 @@ UCOFcXLjW9atcEuCa5kbOPSw;RLadies Santa Fe;RLadiesSantaFe
 UCU3ePTnZQurDkYgPK61DAOw;RLadies São Paulo;RLadiesSaoPaulo
 UCkrf5iL8ef1QHe--zstechA;RLadies Sydney;RLadiesSydney
 UCv3be7W260HXd2BoK9KihMQ;ronak shah;shahronak47
-UC3xfbCMLCw1Hh4dWop3XtHg;RStudio;rstudio
+UC3xfbCMLCw1Hh4dWop3XtHg;Posit PBC;posit_pbc
 UCISHpKq_20peU3G1xwtXjjQ;Samer Hijjazi;SamerHijjazi
 UCnYkdhuQljgCnGNpCZpPfVA;Samuel Leanza - WebTutorDiMatematica;
 UCTKiybNLjigMcV7_22Hiz0A;Salt City Data Community;saltcitydata

@@ -16204,3 +16204,63 @@ UC9ykygrgYWoUdwaMA3qhRaw;8zEllVQd-gQ;2022-10-30T16:00:04Z;"📺 New #rstatsvideo
 ▶ Data Garden
 #rstats #rstudio #excel #dataanalysis #datascience #statistics #stats #learning #tutorial #deeplearning #machinelearning
 🔗 https://www.youtube.com/watch?v=8zEllVQd-gQ"
+UCktFo5XoX5QZMWb2Gb3KY2A;ZANp3oqcH_0;2022-10-31T12:14:07Z;"📺 New #rstatsvideo: Running code while we're sleeping: Introduction to GitHub Actions for R Users by Beatriz Milz
+▶ R-Ladies Abuja (@RLadiesAbuja)
+#rstats
+🔗 https://www.youtube.com/watch?v=ZANp3oqcH_0"
+UCvt6lv8yMrBV8YgsAoQykHw;ApA4l-2uD4I;2022-10-31T13:13:28Z;"📺 New #rstatsvideo: Metanálise: Uma introdução a partir dos pacotes metaDigitise e metafor
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=ApA4l-2uD4I"
+UCyHEww8_SCdxZvEnkCfi55w;U9pvmV9DCuo;2022-10-31T15:00:19Z;"📺 New #rstatsvideo: Remove or Show NA Values in Table in R (Examples) | table() Function & useNA Argument | Missing Data
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=U9pvmV9DCuo"
+UC_R5smHVXRYGhZYDJsnXTwg;x7Mv2Pa3wJ4;2022-10-31T16:31:28Z;"📺 New #rstatsvideo: R/Insurance: Automated (and stunning) actuarial reports with R Markdown and ggplot2
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=x7Mv2Pa3wJ4"
+UCxB1IGhLzlEOikTL-aDwqFg;YoBW7IiNzQA;2022-10-31T17:57:57Z;"📺 New #rstatsvideo: [2022-10-14] Compressed and storage-backed matrix data with SummarizedExperiment
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #bioconductor #hdf5array #matrix #summarizedexperiment #compression
+🔗 https://www.youtube.com/watch?v=YoBW7IiNzQA"
+UCMwM-3tg_-Pbx8hKO78q5EA;CEh-jeQdOqA;2022-11-01T14:08:08Z;"📺 New #rstatsvideo: NHS-R Conference Workshop: Building a TidyModels model from scratch – 01/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=CEh-jeQdOqA"
+UCyHEww8_SCdxZvEnkCfi55w;SqJwpi0wr3o;2022-11-01T15:00:29Z;"📺 New #rstatsvideo: How to Calculate Correlation Coefficients in R (5 Examples) | cor() Function | Pearson, Kendall & NA
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=SqJwpi0wr3o"
+UCB_noR4lYmbKJozwJuPStbg;zOedeLeLmu4;2022-11-01T15:30:17Z;"📺 New #rstatsvideo: Tidy variable names and the snake case with janitor::clean_names()
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #iteratefunctionsr #tipsandtricks #rfun #tidyverse #datacleaning #cleannames #janitor #snakecase
+🔗 https://www.youtube.com/watch?v=zOedeLeLmu4"
+UCMwM-3tg_-Pbx8hKO78q5EA;4aE0a_JnERU;2022-11-01T15:31:57Z;"📺 New #rstatsvideo: NHS-R Conference Webinar: Shiny and Advanced Shiny – 1/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=4aE0a_JnERU"
+UCKJFCIbcGs2a5RGt8RjdbFA;GKiJNuvfT5k;2022-11-01T16:34:41Z;"📺 New #rstatsvideo: Week 7.1: Data visualization Part 2a
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=GKiJNuvfT5k"
+UCg6kociUghEgKz_hLRKQrMQ;iblEamP7qDQ;2022-11-01T17:51:28Z;"📺 New #rstatsvideo: Webinar Gratuito: VISUALIZACION DE DATOS EN R
+▶ R Data Science School
+🗣 🇪🇸
+#rstats #visualizacion #datavisualization #learnr #ggplot #ggplot2 #plotly #rtutorial #webinar #webinarr #webinarfree #rprogramming
+🔗 https://www.youtube.com/watch?v=iblEamP7qDQ"
+UCKJFCIbcGs2a5RGt8RjdbFA;50wbb1-XjI0;2022-11-01T20:51:43Z;"📺 New #rstatsvideo: Week 7.2: Data visualization Part 2B
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=50wbb1-XjI0"
+UCPque9BaFV9p0hcgImrYBzg;hc7VaKRcrcY;2022-11-01T22:58:01Z;"📺 New #rstatsvideo: Collages and Patterns: Making art in R
+▶ R-Ladies Philly (@RLadiesPhilly)
+#rstats
+🔗 https://www.youtube.com/watch?v=hc7VaKRcrcY"
