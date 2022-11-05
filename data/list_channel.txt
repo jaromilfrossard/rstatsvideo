@@ -54,6 +54,7 @@ UCo7yZB1Pz_V9infLSUnfjUg;dataAnalysisR;
 UCNkd3Ws7oIkuJO0KO8wupOA;dataFish;
 UCi9RPnuGJq1dRduPXerufxA;datapointier;datapointier
 UCBV194XNr6CIQCCuw1v2rMQ;dataslice;dataslice
+UCOEuOH6cY8yisodud25hb7w;Data Science Garage;
 UCvoQhepa71X9UclThhYbX6Q;Data Specs;DomnickKonde
 UCYKBDZyqcB3a2ZAbL1vV37w;David Caughlin;
 UCk66R2sZ_ZzaaDYgILxKZ9g;David Granjon;divadnojnarg
@@ -231,6 +232,7 @@ UCTKiybNLjigMcV7_22Hiz0A;Salt City Data Community;saltcitydata
 UCcKPp7AI7ZTBf60WqXo3Bpg;Salt Lake City R Users Group;slcrug
 UC7VV1Ix1-8jncW7hTRZ50bg;satRday Neuchâtel;satRdayNeuCH
 UCYgIy7zeC7v6iZhx0-NywBw;satRdays;satRdays_org
+UCwVLSVjjZgR5U3a9SuPZKzw;Schilling Data Studio;datavizjenn
 UCDozrYAxG1rTopPRA6GVYAg;ScitecEducation;
 UC911C0LKoMMwn3cHV2wSN1g;SER SEMINÁRIO INTERNACIONAL DE ESTATÍSTICA COM R;
 UCwQ7lkY6YWzZjT807Itbvtw;Shiny DeveloperSeries;theRcast

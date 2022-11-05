@@ -16327,3 +16327,17 @@ UCFT7Tgi7UAzR-eyzjoxBzxA;CB8_MqDJY_w;2022-11-05T02:34:01Z;"📺 New #rstatsvideo
 🗣 🇪🇸
 #rstats
 🔗 https://www.youtube.com/watch?v=CB8_MqDJY_w"
+UCwVLSVjjZgR5U3a9SuPZKzw;1zDMLEMzDxU;2022-11-02T02:14:43Z;"📺 New #rstatsvideo: #TidyTuesday Livestream Nov 1 2022 - Focus on Formatting
+▶ Schilling Data Studio (@datavizjenn)
+🗣 🇬🇧
+#rstats #data #dataviz #datavisualization #datascience #dataanalysis #dataanalytics #graphs #charts #plots
+🔗 https://www.youtube.com/watch?v=1zDMLEMzDxU"
+UCOEuOH6cY8yisodud25hb7w;KBRl9-qd3Os;2022-11-02T12:48:29Z;"📺 New #rstatsvideo: **2022-10-26 (meeting #103)** Intro to the {mlr3} package in R (Ed)
+▶ Data Science Garage
+#rstats
+🔗 https://www.youtube.com/watch?v=KBRl9-qd3Os"
+UCwVLSVjjZgR5U3a9SuPZKzw;34cGlY2-ym0;2022-10-25T06:00:01Z;"📺 New #rstatsvideo: Sentiment Analysis in R for #TidyTuesday Stranger Things Dialogue
+▶ Schilling Data Studio (@datavizjenn)
+🗣 🇬🇧
+#rstats #dataviztutorial #dataviz #datavisualization #datascience #dataanalysis #dataanalytics
+🔗 https://www.youtube.com/watch?v=34cGlY2-ym0"

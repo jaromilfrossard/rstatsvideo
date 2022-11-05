@@ -56,7 +56,7 @@ choose_videos <- function(file_tweet = "data/tweets.txt",
   
   tb_videos_new <- 
     tb_videos %>%
-    filter(ymd_hms_video>(max(tb_tweet_old$ymd_hms_video)-60*60*24*3))%>%
+    filter(ymd_hms_video>(max(tb_tweet_old$ymd_hms_video)-60*60*24*14))%>%
     anti_join(select(tb_tweet_old,id_video),by = c("id_video"="id_video"))%>%
     filter(id_channel%in%tb_channel$id_channel)
   
