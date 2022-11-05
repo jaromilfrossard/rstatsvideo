@@ -16264,3 +16264,66 @@ UCPque9BaFV9p0hcgImrYBzg;hc7VaKRcrcY;2022-11-01T22:58:01Z;"📺 New #rstatsvideo
 ▶ R-Ladies Philly (@RLadiesPhilly)
 #rstats
 🔗 https://www.youtube.com/watch?v=hc7VaKRcrcY"
+UCeiiqmVK07qhY-wvg3IZiZQ;Eucfn-KY-t0;2022-11-02T01:15:59Z;"📺 New #rstatsvideo: Tidy Tuesday live screencast: Analyzing Horror Movies in R
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=Eucfn-KY-t0"
+UCMwM-3tg_-Pbx8hKO78q5EA;VzVwdWn11s8;2022-11-02T09:53:05Z;"📺 New #rstatsvideo: NHS-R Webinar: Introduction to business case analytics using Decision Analysis in R – 01/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VzVwdWn11s8"
+UCyHEww8_SCdxZvEnkCfi55w;u2ADopvmBJs;2022-11-02T15:00:38Z;"📺 New #rstatsvideo: Sort Table in R (Examples) | Increasing & Decreasing Order | Base R & dplyr Package | order Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=u2ADopvmBJs"
+UCMdihazndR0f9XBoSXWqnYg;eHKODnpJyEI;2022-11-02T22:39:59Z;"📺 New #rstatsvideo: R - Data Screening Outliers (6.3 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #data #science #analytics #open #education #rstudio #datascreening #outliers #accuracy #missingdata
+🔗 https://www.youtube.com/watch?v=eHKODnpJyEI"
+UCcKPp7AI7ZTBf60WqXo3Bpg;7EsNRXAKXbM;2022-11-03T07:06:57Z;"📺 New #rstatsvideo: SLC-RUG - CI/CD with Bitbucket and R
+▶ Salt Lake City R Users Group (@slcrug)
+#rstats
+🔗 https://www.youtube.com/watch?v=7EsNRXAKXbM"
+UCMwM-3tg_-Pbx8hKO78q5EA;sKYZ0RHhYBw;2022-11-02T16:38:02Z;"📺 New #rstatsvideo: NHS-R Workshop: Introduction to statistics in R, 02/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=sKYZ0RHhYBw"
+UCMwM-3tg_-Pbx8hKO78q5EA;dS91HzZLD_c;2022-11-03T14:25:07Z;"📺 New #rstatsvideo: NHS-R Workshop: Intro to R and RStudio (Part 1) - 02/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=dS91HzZLD_c"
+UCMwM-3tg_-Pbx8hKO78q5EA;1tjQkxYfSGk;2022-11-03T14:57:25Z;"📺 New #rstatsvideo: NHS-R Workshop: Intro to R and RStudio (Part 2) - 03/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=1tjQkxYfSGk"
+UCyHEww8_SCdxZvEnkCfi55w;H-vkYiHfd-8;2022-11-03T15:00:16Z;"📺 New #rstatsvideo: R Error in read.table: duplicate ‘row.names’ are not allowed (3 Examples) | read.csv() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=H-vkYiHfd-8"
+UCGuktEl5InrcxPfCjmPWxsA;BLCzG5k35xw;2022-11-03T16:00:08Z;"📺 New #rstatsvideo: How to use a custom font in R with showtext and google fonts (CC262)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rfontcustomization #rfontcustom #ggplot2font #ggplotfont #showtextr #rgooglefonts
+🔗 https://www.youtube.com/watch?v=BLCzG5k35xw"
+UCMwM-3tg_-Pbx8hKO78q5EA;LK_vxLS9BNg;2022-11-03T13:13:51Z;"📺 New #rstatsvideo: NHS-R Workshop: Building Websites in R with Distill - 02/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LK_vxLS9BNg"
+UCyHEww8_SCdxZvEnkCfi55w;sw0eM0b12CY;2022-11-04T15:00:41Z;"📺 New #rstatsvideo: search & searchpaths Functions in R (2 Examples) | Return List of Attached Packages, Objects & Paths
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=sw0eM0b12CY"
+UCFT7Tgi7UAzR-eyzjoxBzxA;CB8_MqDJY_w;2022-11-05T02:34:01Z;"📺 New #rstatsvideo: Meetup Noviembre 2022: Gráficos para publicación
+▶ RLadies Cuernavaca (@RLadiesCuerna)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=CB8_MqDJY_w"
