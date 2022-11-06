@@ -13,6 +13,7 @@ UChEWb0dYC8v7wZNWHca9b_A;ArabR;
 UCVkj__s6Atxd1s2BwEY3kVA;Arman Hossain Chowdhury;
 UCLIphG_4eXZqf4C6VBg8pUw;Artem Golubnichy;
 UC-xerHeYXyvyXWXwBAP2gYA;Athanasia Monika Mowinckel;DrMowinckels
+UCeoagWtIzhguFaZl5lFzz3g;Bayes@Lund;
 UCDOEA0M2D0FuTMFzJIGZEFg;Benjamin Smith;
 UCULDYwwVDYo1Pd3uLB33cHg;bernogarcia;bernogarcia1
 UCbDOKk931538Jt32sSErrcA;Bilal Kurban;bilalkurban
@@ -59,6 +60,7 @@ UCvoQhepa71X9UclThhYbX6Q;Data Specs;DomnickKonde
 UCYKBDZyqcB3a2ZAbL1vV37w;David Caughlin;
 UCk66R2sZ_ZzaaDYgILxKZ9g;David Granjon;divadnojnarg
 UCeiiqmVK07qhY-wvg3IZiZQ;David Robinson;drob
+UCvT8pH5dx7WbbCmtMZ0UAbw;Davis Vaughan;dvaughan32
 UCPJZmlXMcBiKjoVQ4cpAMIg;Dean Chereden;deanchereden
 UC4_hSKmvUG4w0w270AH5bXQ;Derek Sollberger;DerekSollberger
 UCeoF_5Kw0YyWOqhAbQGrxJQ;Dragonfly Statistics;
@@ -92,6 +94,7 @@ UCrxjf_pqTZKMdAuU-WbkENA;Kianté Fernandez;
 UCXKQBlJczU7YTyVu_wW7yHA;Japan.R;Japan_R_net
 UCYTxHFYjftv-kxhogQuwXhA;Jasper Tjaden;JasperTjaden
 UC9Sm1qcdzyGVjQMgWsW4pcw;Jennifer Sloane;jfsloane
+UCHe1BSq0GyFONcrc-iEnAOQ;Jenny Bryan;JennyBryan
 UCE2WK5bvNtDblu4NO9PGtJA;Jesse Mostipak;kierisi
 UC3mcThQVORlwCY4k1vB0FmQ;Jim Hester;jimhester_
 UCaonzTNPMjkxcBRqhe3qHyQ;Joe Guinness;JoeGuinnesss
@@ -125,8 +128,10 @@ UCgdZkOZfmrAFHkDHYI5taVw;Matthew Ross;
 UCYNVcihAKkRW-bhzIrguvVw;math et al;
 UCGTWSt8p54ANBnXvWOmF5FA;MAURICIO VARGAS;pachadotdev
 UC1ZIcF31fEzBO6akL_HHkBg;Mauro Lepore;mauro_lepore
+UCU2_ZKzs__wKRtsvc-MS3GQ;Max Kuhn;topepos
 UCulCmsf4ClxMibkBpD-JYmg;Michael Hahsler;
 UCWOMdzXlQgRu6f-plf9DTcg;Miguel Bustos;
+UClHxi-ei0TXjC-0A0QXwMpg;Miles Chen;
 UCeTqWLMlko7MjRny-b_dNeA;Mine Çetinkaya-Rundel;minebocek
 UCf1ZNSUNLDFy5y3X6qoZGCg;Mirai Solutions;MiraiSolutions
 UClspbw7f-6Wk0BUiI6H05OQ;MMID Coding Workshop;
