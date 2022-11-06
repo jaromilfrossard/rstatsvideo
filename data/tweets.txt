@@ -16341,3 +16341,27 @@ UCwVLSVjjZgR5U3a9SuPZKzw;34cGlY2-ym0;2022-10-25T06:00:01Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #dataviztutorial #dataviz #datavisualization #datascience #dataanalysis #dataanalytics
 🔗 https://www.youtube.com/watch?v=34cGlY2-ym0"
+UClHxi-ei0TXjC-0A0QXwMpg;Su34_cdpea0;2022-10-26T18:05:05Z;"📺 New #rstatsvideo: 2022 10 26 Stats 15
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Su34_cdpea0"
+UClHxi-ei0TXjC-0A0QXwMpg;MAkvwrk5ggg;2022-11-04T18:08:02Z;"📺 New #rstatsvideo: 2022 11 04 Stats 15
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=MAkvwrk5ggg"
+UCcGXGFClRdnrwXsPHi7P4ZA;GtAX7Y2F4aY;2022-11-05T12:35:23Z;"📺 New #rstatsvideo: R package reviews {rsample} Effective Resampling in Tidymodels
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #machinelearning #clearlyexplained #datascience #dataanalysis #forbeginners #stats
+🔗 https://www.youtube.com/watch?v=GtAX7Y2F4aY"
+UCyHEww8_SCdxZvEnkCfi55w;6hwa0o3kxC8;2022-11-05T15:00:05Z;"📺 New #rstatsvideo: Contingency Table Across Multiple Columns in R (Example) | t(), sapply(), tapply() & sum() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=6hwa0o3kxC8"
+UCP8l94xtoemCH_GxByvTuFQ;rtVpbedQ2Fw;2022-11-06T07:00:16Z;"📺 New #rstatsvideo: TidyX Episode 123 | Criss Cross Apple Sauce - crossing in tidyverse
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown
+🔗 https://www.youtube.com/watch?v=rtVpbedQ2Fw"
