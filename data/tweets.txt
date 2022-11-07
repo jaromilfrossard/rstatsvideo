@@ -16365,3 +16365,37 @@ UCP8l94xtoemCH_GxByvTuFQ;rtVpbedQ2Fw;2022-11-06T07:00:16Z;"📺 New #rstatsvideo
 ▶ TidyX (@tidy_explained)
 #rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown
 🔗 https://www.youtube.com/watch?v=rtVpbedQ2Fw"
+UCyHEww8_SCdxZvEnkCfi55w;xTCOCCVbx7Y;2022-11-06T15:00:27Z;"📺 New #rstatsvideo: R ggplot2 Error: must be data frame or other object coercible, not integer | How to Reproduce & Fix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=xTCOCCVbx7Y"
+UC0dgTZhVua-2yvtWDfPA_nQ;cLi97kH_twg;2022-11-07T05:00:14Z;"📺 New #rstatsvideo: Easy text mining in R
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #easytextmininginr
+🔗 https://www.youtube.com/watch?v=cLi97kH_twg"
+UCyHEww8_SCdxZvEnkCfi55w;oN6D8_ztl04;2020-07-17T14:00:29Z;"📺 #rstatsvideo: Overlay Histogram with Fitted Density Curve in Base R & ggplot2 Package (2 Examples) | Kernel & hist
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=oN6D8_ztl04"
+UCt950nC6jlh2ELDRPigWOkg;s1ONP_s8ASg;2022-10-11T13:38:34Z;"📺 #rstatsvideo: LatinR 2022 - Conferencia en vivo día 2
+▶ LatinR (@LatinR_Conf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=s1ONP_s8ASg"
+UCCaChdLMTYMxyawR_Qf-kYA;30Qhw0yrCUg;2021-03-02T21:00:16Z;"📺 #rstatsvideo: R for Data Science Book Club: Chapter 11 (2021-02-24) (r4ds04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=30Qhw0yrCUg"
+UC1ZIcF31fEzBO6akL_HHkBg;O_tkgjsUT6g;2021-08-03T16:19:12Z;"📺 #rstatsvideo: Shiny: Packages
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio #dsincubator #shiny
+🔗 https://www.youtube.com/watch?v=O_tkgjsUT6g"
+UCyWGeP-J1I0Xasd62QumS3w;tUKNNHCINzQ;2022-05-18T18:02:42Z;"📺 #rstatsvideo: STAT 5660 Lecture 3 Data Types
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=tUKNNHCINzQ"
