@@ -16399,3 +16399,26 @@ UCyWGeP-J1I0Xasd62QumS3w;tUKNNHCINzQ;2022-05-18T18:02:42Z;"📺 #rstatsvideo: ST
 ▶ Stephen Carden
 #rstats
 🔗 https://www.youtube.com/watch?v=tUKNNHCINzQ"
+UCWPCd6tPtoLJYzQQ681pe5Q;WmLkYUEIU4U;2022-11-07T13:30:09Z;"📺 New #rstatsvideo: How to Perform Supervised Topic Modelling (Supervised Latent Dirichlet Allocation, sLDA) in R
+▶ ggnot2
+🗣 🇬🇧
+#rstats #supervisedtopicmodelling #supervisedtopicmodeling #topicmodelling #topicmodeling #lda #slda
+🔗 https://www.youtube.com/watch?v=WmLkYUEIU4U"
+UCISHpKq_20peU3G1xwtXjjQ;mWUOdV2nMOk;2022-11-07T13:30:10Z;"📺 New #rstatsvideo: How to Web Scrape RateMyProfessors
+▶ Samer Hijjazi (@SamerHijjazi)
+#rstats #rselenium #selenium #webscraping #webscrape #dataanalysis #datascienceproject #rprogramming #rstudio #project #rtutorial
+🔗 https://www.youtube.com/watch?v=mWUOdV2nMOk"
+UCyHEww8_SCdxZvEnkCfi55w;LUMMRTtUN4c;2022-11-07T15:00:17Z;"📺 New #rstatsvideo: Subset Table Object in R (Example) | Extract Elements by Logical Condition | Get Frequency Counts
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=LUMMRTtUN4c"
+UCfJyQ3P2k_SuqfxVdqIEQNw;cJRPZ8HD-zI;2022-11-07T16:46:52Z;"📺 New #rstatsvideo: Chi squared test using R programming
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=cJRPZ8HD-zI"
+UCGuktEl5InrcxPfCjmPWxsA;ddJtPQ9FECQ;2022-11-07T17:00:33Z;"📺 New #rstatsvideo: Incorporating logic into a visual made with R using a case_when statement (CC263)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #rlogic #rlogicalvectoroperations #dplyrlogic #rcasewhen #dplyrcasewhen
+🔗 https://www.youtube.com/watch?v=ddJtPQ9FECQ"
