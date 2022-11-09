@@ -16422,3 +16422,78 @@ UCGuktEl5InrcxPfCjmPWxsA;ddJtPQ9FECQ;2022-11-07T17:00:33Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rlogic #rlogicalvectoroperations #dplyrlogic #rcasewhen #dplyrcasewhen
 🔗 https://www.youtube.com/watch?v=ddJtPQ9FECQ"
+UCljumcPvitx5W0OEC_Thk2Q;hxq3gtVgSYY;2022-11-07T17:13:23Z;"📺 New #rstatsvideo: Probability and statistic 2 using R (summary chapter 1)
+▶ Rania Ismail
+#rstats
+🔗 https://www.youtube.com/watch?v=hxq3gtVgSYY"
+UClHxi-ei0TXjC-0A0QXwMpg;3CY8g0j2m6M;2022-11-07T19:07:18Z;"📺 New #rstatsvideo: 2022 11 07 Stats 15
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=3CY8g0j2m6M"
+UCKJFCIbcGs2a5RGt8RjdbFA;4gHuVmuyBI8;2022-11-08T01:24:20Z;"📺 New #rstatsvideo: Week 8.2: Function-writing
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=4gHuVmuyBI8"
+UCKJFCIbcGs2a5RGt8RjdbFA;pnST9AkbF9o;2022-11-08T01:48:48Z;"📺 New #rstatsvideo: Week 8.1: Dates and Times in R
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=pnST9AkbF9o"
+UCZ2KQdo1-FhNRtEBYxai5Aw;DUSbFROpQnk;2022-11-08T06:37:05Z;"📺 New #rstatsvideo: Statistical Methods Webinar Series: Analyzing Bioacoustic Data
+▶ Ecological Forecasting (@eco4cast)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=DUSbFROpQnk"
+UCdrnsZd2xWjDjHUlYsA6Kfw;FesYr6vRTok;2022-11-08T08:32:17Z;"📺 New #rstatsvideo: Play Classic Arcade Games in R with the Rcade Package
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters
+🔗 https://www.youtube.com/watch?v=FesYr6vRTok"
+UCMwM-3tg_-Pbx8hKO78q5EA;Zt_SMnNPLX0;2022-11-08T09:24:06Z;"📺 New #rstatsvideo: NHS-R Workshop: Level up your plots! - 04/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Zt_SMnNPLX0"
+UCjXQyxs1iyEg5v98fezgT0w;gAV2fmHrPPw;2022-11-08T12:00:25Z;"📺 New #rstatsvideo: SEM R lavaan: Latent Interactions (Moderation) With Double Mean Centering
+▶ Regorz Statistik
+🗣 🇬🇧
+#rstats #semlatentinteraction #lavaanlatentinteraction #semlatentmoderation #semlatentproductterm
+🔗 https://www.youtube.com/watch?v=gAV2fmHrPPw"
+UCxrh1zXhO2rL0t3Y5rSzWSw;UuhNOCLN66Q;2022-10-31T06:45:01Z;"📺 New #rstatsvideo: Using R Shiny insertUI to Dynamically Change the Content for the Dashboard - Part 12
+▶ Pascal Schmidt (@pascy28)
+#rstats
+🔗 https://www.youtube.com/watch?v=UuhNOCLN66Q"
+UCxrh1zXhO2rL0t3Y5rSzWSw;hTL-g-1NoMU;2022-11-07T07:45:02Z;"📺 New #rstatsvideo: Creating a Modal Spinner in R and Shiny + Adding a Table to Google Analytics Dashboard
+▶ Pascal Schmidt (@pascy28)
+#rstats
+🔗 https://www.youtube.com/watch?v=hTL-g-1NoMU"
+UCyHEww8_SCdxZvEnkCfi55w;Brinp7wj7BE;2022-11-08T15:00:07Z;"📺 New #rstatsvideo: R Error in plot.window(…) : need finite ‘xlim’ values (2 Examples) | How to Reproduce, Debug & Fix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Brinp7wj7BE"
+UCMwM-3tg_-Pbx8hKO78q5EA;vO_Wn2tgIck;2022-11-08T15:36:01Z;"📺 New #rstatsvideo: NHS-R Webinar: Tips and tricks learnt from building production {shiny} apps  - 07/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vO_Wn2tgIck"
+UCB_noR4lYmbKJozwJuPStbg;S_7CajSabfA;2022-11-08T16:30:05Z;"📺 New #rstatsvideo: Import compressed files into R
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #iteratefunctionsr #tipsandtricks #rfun #tidyverse #datacleaning #importdata #tsv #csv #uncompress #unzip #gz #zip #readr #fread
+🔗 https://www.youtube.com/watch?v=S_7CajSabfA"
+UCMwM-3tg_-Pbx8hKO78q5EA;fmelRhf14PE;2022-11-08T16:55:37Z;"📺 New #rstatsvideo: NHS-R Conference Workshop: Introduction to Interactive plotting with R – 03/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=fmelRhf14PE"
+UCG1_1eqe_KvoVByZeFFFErQ;jntULBin_kA;2022-11-08T17:00:44Z;"📺 New #rstatsvideo: 1.El paquete Biosensors usc  | Marcos Matabuena
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=jntULBin_kA"
+UCG1_1eqe_KvoVByZeFFFErQ;yC8y040Bdks;2022-11-08T17:08:21Z;"📺 New #rstatsvideo: 2.TUGIabR, un paquete de R para juegos coalicionales | Iago Núñez Lugilde
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=yC8y040Bdks"
