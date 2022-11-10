@@ -16497,3 +16497,72 @@ UCG1_1eqe_KvoVByZeFFFErQ;yC8y040Bdks;2022-11-08T17:08:21Z;"📺 New #rstatsvideo
 🗣 Galician
 #rstats
 🔗 https://www.youtube.com/watch?v=yC8y040Bdks"
+UCG1_1eqe_KvoVByZeFFFErQ;IqgWpjCOHYs;2022-11-08T17:12:55Z;"📺 New #rstatsvideo: 6.Knobi An R package implementing knownbiomass production models | Anxo Paz Cuña
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=IqgWpjCOHYs"
+UCG1_1eqe_KvoVByZeFFFErQ;pj-UGAj4m3Y;2022-11-08T17:13:16Z;"📺 New #rstatsvideo: 4.Aplicacións de gráficos control para a carga viral do Covid 19 nas augas residuais | Salvador Naya
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=pj-UGAj4m3Y"
+UCG1_1eqe_KvoVByZeFFFErQ;do2o1RE-0vA;2022-11-08T17:18:28Z;"📺 New #rstatsvideo: 7.LearningStats Un paquete en R para a docencia | Sabela Varela Rey
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=do2o1RE-0vA"
+UCG1_1eqe_KvoVByZeFFFErQ;t1cLRIN7Kl4;2022-11-08T17:28:22Z;"📺 New #rstatsvideo: 9.Do one thing every day that scares you | Ariel Levy
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=t1cLRIN7Kl4"
+UCG1_1eqe_KvoVByZeFFFErQ;yc0UcWKlh4o;2022-11-08T17:29:55Z;"📺 New #rstatsvideo: 10.Colaborar y pedir ayuda en Stackoverflow | Marcos Fernández Arias
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=yc0UcWKlh4o"
+UCG1_1eqe_KvoVByZeFFFErQ;RYaIy5_RuYs;2022-11-08T17:32:41Z;"📺 New #rstatsvideo: 11.Aplicación de consulta de datos do marco input output de Galicia en R Shiny | Esther Calvo Ocampo
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=RYaIy5_RuYs"
+UCG1_1eqe_KvoVByZeFFFErQ;AbdpAY-XiX8;2022-11-08T17:33:32Z;"📺 New #rstatsvideo: 13. A new measure of dependence Distance correlation | María Vidal García
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=AbdpAY-XiX8"
+UCG1_1eqe_KvoVByZeFFFErQ;B1H4V1SXf-4;2022-11-08T17:39:23Z;"📺 New #rstatsvideo: 12.Prototipado rápido con R RAD de aplicacións Shiny e AEDA de datos | Miguel Ángel Rodríguez Muiños
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=B1H4V1SXf-4"
+UCG1_1eqe_KvoVByZeFFFErQ;HGb3igZlxuw;2022-11-08T17:40:05Z;"📺 New #rstatsvideo: 14.Construindo mandalas com R | Luciane Ferreira Alcoforado
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=HGb3igZlxuw"
+UCG1_1eqe_KvoVByZeFFFErQ;2XLbObI3JnU;2022-11-08T17:40:22Z;"📺 New #rstatsvideo: 16.New covariates selection method in dynamic regressionmodels with a public implementation R
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=2XLbObI3JnU"
+UCG1_1eqe_KvoVByZeFFFErQ;f1fp9BXV0is;2022-11-08T17:55:10Z;"📺 New #rstatsvideo: 17.Matching para o estudo do impacto de políticas públicas | José Manuel Amoedo Meijide
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=f1fp9BXV0is"
+UCG1_1eqe_KvoVByZeFFFErQ;1krZ9qZYa60;2022-11-08T17:58:06Z;"📺 New #rstatsvideo: 18.Con R de frikismo Learning vs knowing,  the match of the century | Álvaro Fernández Theotonio
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=1krZ9qZYa60"
+UCG1_1eqe_KvoVByZeFFFErQ;pRVk0JeXu_o;2022-11-08T18:00:32Z;"📺 New #rstatsvideo: 19.R para o processamento de textos | Afonso Xavier Canosa Rodrigues
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=pRVk0JeXu_o"
+UCSoUNu8x-HblqqOK_EwdZGw;yC2z8QFq2B8;2022-11-08T18:01:02Z;"📺 New #rstatsvideo: Making bbplot: A Conversation with Nassos Stylianou and Clara Guibourg
+▶ R for the Rest of Us (@rfortherest)
+#rstats
+🔗 https://www.youtube.com/watch?v=yC2z8QFq2B8"
