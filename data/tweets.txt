@@ -16566,3 +16566,110 @@ UCSoUNu8x-HblqqOK_EwdZGw;yC2z8QFq2B8;2022-11-08T18:01:02Z;"📺 New #rstatsvideo
 ▶ R for the Rest of Us (@rfortherest)
 #rstats
 🔗 https://www.youtube.com/watch?v=yC2z8QFq2B8"
+UCG1_1eqe_KvoVByZeFFFErQ;KBQL-n5ac-k;2022-11-08T18:02:20Z;"📺 New #rstatsvideo: 20. Refreg Un paquete de R para estimar rexións de referencia | Óscar Lado Baleato
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=KBQL-n5ac-k"
+UCG1_1eqe_KvoVByZeFFFErQ;0Kb49ioGFvY;2022-11-08T18:03:05Z;"📺 New #rstatsvideo: 21.Riesgo de invasión basada en modelos de distribución de especies | Victoria Formoso Freire
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=0Kb49ioGFvY"
+UCG1_1eqe_KvoVByZeFFFErQ;AsyECJ-u9Xs;2022-11-08T18:09:38Z;"📺 New #rstatsvideo: 22.Clustcurv Clustering of nonparametric curves | Nora M Villanueva
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=AsyECJ-u9Xs"
+UCMwM-3tg_-Pbx8hKO78q5EA;Rv3JJAqbrFY;2022-11-08T18:10:45Z;"📺 New #rstatsvideo: NHS-R Online Speaker Conference 2022 -  Day 1: 8th November
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Rv3JJAqbrFY"
+UCMdihazndR0f9XBoSXWqnYg;yv0X1qyNTXQ;2022-11-09T14:32:25Z;"📺 New #rstatsvideo: R - Data Screening Assumptions (7.1 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #data #open #science #education #analytics #rstudio #assumptions #datascreening #accuracy #missingdata
+🔗 https://www.youtube.com/watch?v=yv0X1qyNTXQ"
+UCyHEww8_SCdxZvEnkCfi55w;bcZoWo9qsL8;2022-11-09T15:00:34Z;"📺 New #rstatsvideo: Create Dummy Data Frame in R (Example) | Construct Binary 1/0 Columns | rbinom & matrix Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=bcZoWo9qsL8"
+UCkAyfZ4tAeO0j9dS-_yU7Gw;IpbmOM9JVz4;2022-11-09T16:20:58Z;"📺 New #rstatsvideo: Bayesian Statistics and Buy-Till-You-Die Models - Workshop 8 - The P/NBD Model with Real data
+▶ Dublin Data Science
+#rstats
+🔗 https://www.youtube.com/watch?v=IpbmOM9JVz4"
+UCMwM-3tg_-Pbx8hKO78q5EA;fWYehE5U6Vs;2022-11-09T17:35:52Z;"📺 New #rstatsvideo: NHS-R Online Speaker Conference 2022 -  Day 2: 9th November
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=fWYehE5U6Vs"
+UCvoQhepa71X9UclThhYbX6Q;y9qSEKy3yb4;2022-11-09T18:48:03Z;"📺 New #rstatsvideo: t-test in R (one sample)
+▶ Data Specs (@DomnickKonde)
+#rstats
+🔗 https://www.youtube.com/watch?v=y9qSEKy3yb4"
+UClHxi-ei0TXjC-0A0QXwMpg;oGi1FOqGutA;2022-11-09T21:15:43Z;"📺 New #rstatsvideo: 2022 11 09 Stats 15
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=oGi1FOqGutA"
+UCCaChdLMTYMxyawR_Qf-kYA;FPwELaXjdg4;2022-11-10T13:47:04Z;"📺 New #rstatsvideo: Bayes Rules! Non-Normal Hierarchical Regression & Classification (bayes_rules02 18)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=FPwELaXjdg4"
+UCyHEww8_SCdxZvEnkCfi55w;-AbD3GQYilw;2022-11-10T15:00:00Z;"📺 New #rstatsvideo: Table Names & Labels in R (2 Examples) | How to Modify & Adjust | names(), paste0() & row.names()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=-AbD3GQYilw"
+UCZ2KQdo1-FhNRtEBYxai5Aw;dYlkDCUTbAs;2022-11-10T15:36:10Z;"📺 New #rstatsvideo: Statistical Methods Series: Species Archetype Models & Regions of Common Profile Models
+▶ Ecological Forecasting (@eco4cast)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=dYlkDCUTbAs"
+UCCaChdLMTYMxyawR_Qf-kYA;K8w28ee3CR8;2022-11-10T15:53:39Z;"📺 New #rstatsvideo: Advanced R: Expressions (advr06 18)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=K8w28ee3CR8"
+UC71A3VDo0iIA9ryWTsbgmug;Uul_Hpih9dM;2022-11-10T15:54:14Z;"📺 New #rstatsvideo: R-Ladies Rabat (English) - Iterating well with purrr! - Shannon Pileggi, PhD
+▶ R-Ladies Rabat (@RLadies_Rabat)
+🗣 🇬🇧
+#rstats #rladies #r
+🔗 https://www.youtube.com/watch?v=Uul_Hpih9dM"
+UCCaChdLMTYMxyawR_Qf-kYA;ZjUx0jkLyGM;2022-11-10T15:54:29Z;"📺 New #rstatsvideo: Bayes Rules! Balance and Sequentiality in Bayesian Analyses (bayes_rules03 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ZjUx0jkLyGM"
+UCGuktEl5InrcxPfCjmPWxsA;r_Q4s0XcP40;2022-11-10T17:00:47Z;"📺 New #rstatsvideo: How to add maps to a ggplot2 figure in R (CC264)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #ggplot2maps #ggplot2worldmap #ggplot2countryborders #rmap #rcountrymap #rcombineplots #rcombinefigures
+🔗 https://www.youtube.com/watch?v=r_Q4s0XcP40"
+UCMwM-3tg_-Pbx8hKO78q5EA;GWeZt1to1Po;2022-11-10T17:22:52Z;"📺 New #rstatsvideo: NHS-R Online Speaker Conference 2022 -  Day 3: 10th November
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GWeZt1to1Po"
+UCCaChdLMTYMxyawR_Qf-kYA;xHYtYBrNAbg;2022-11-10T19:33:45Z;"📺 New #rstatsvideo: R Packages: The package within (rpkgs04 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=xHYtYBrNAbg"
+UCyHEww8_SCdxZvEnkCfi55w;v2cinfbjFWU;2022-11-11T15:00:47Z;"📺 New #rstatsvideo: Convert POSIXct Date & Time to UNIX Epoch Timestamp in R (Example) | Apply as.numeric() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=v2cinfbjFWU"
+UCyHEww8_SCdxZvEnkCfi55w;Pn5E-_Y8T2E;2022-11-12T15:00:15Z;"📺 New #rstatsvideo: Create Data Frame from Another Existing Data Set in R (2 Examples) | Column Names & Index Position
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Pn5E-_Y8T2E"
+UCvoQhepa71X9UclThhYbX6Q;xJ9t93AF-Ik;2022-11-12T18:50:39Z;"📺 New #rstatsvideo: t test in R (two-sample)
+▶ Data Specs (@DomnickKonde)
+#rstats
+🔗 https://www.youtube.com/watch?v=xJ9t93AF-Ik"
