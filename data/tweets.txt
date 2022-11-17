@@ -16673,3 +16673,88 @@ UCvoQhepa71X9UclThhYbX6Q;xJ9t93AF-Ik;2022-11-12T18:50:39Z;"📺 New #rstatsvideo
 ▶ Data Specs (@DomnickKonde)
 #rstats
 🔗 https://www.youtube.com/watch?v=xJ9t93AF-Ik"
+UCCaChdLMTYMxyawR_Qf-kYA;dG5PcCDMDdI;2022-11-12T21:51:57Z;"📺 New #rstatsvideo: R for Data Science: Communicate (r4ds06 26 27)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=dG5PcCDMDdI"
+UC_sejq_JJ49KiiK4qh5r-wg;5jJM1HOOq1U;2022-11-13T00:00:24Z;"📺 New #rstatsvideo: How to Find Class of Each Column in R Data Frame
+▶ Universe of Data Science (@unidatascience)
+#rstats
+🔗 https://www.youtube.com/watch?v=5jJM1HOOq1U"
+UCP8l94xtoemCH_GxByvTuFQ;3ooQee4HCro;2022-11-13T08:00:03Z;"📺 New #rstatsvideo: TidyX Episode 124 | Combining Multiple Conditions
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=3ooQee4HCro"
+UCMwM-3tg_-Pbx8hKO78q5EA;evzo-F2Yp5g;2022-11-13T09:55:49Z;"📺 New #rstatsvideo: NHS-R Workshop: Debugging in R - 11/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=evzo-F2Yp5g"
+UCyHEww8_SCdxZvEnkCfi55w;LIlHO924AFk;2022-11-13T15:00:12Z;"📺 New #rstatsvideo: Create Data Frame from Vectors in R (Example) | How to Construct, Define, Make | data.frame Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=LIlHO924AFk"
+UCCaChdLMTYMxyawR_Qf-kYA;MNf6w_FpxVw;2022-11-13T15:33:41Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Testing (mshiny03 21)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=MNf6w_FpxVw"
+UCyZCfIET7753bs5WpmKI_qQ;oghhyjUPXpw;2022-11-14T02:08:27Z;"📺 New #rstatsvideo: Tutorial R | Como alterar escalas em gráficos e resultados de modelos - scales package
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats #unitofmeasurement #scalespackage #ggplot2
+🔗 https://www.youtube.com/watch?v=oghhyjUPXpw"
+UCxrh1zXhO2rL0t3Y5rSzWSw;ZLbyZ8ZQ6Hg;2022-11-14T07:45:01Z;"📺 New #rstatsvideo: Crreating a Login Form With Shiny and the shinyauhr Package - Part 14
+▶ Pascal Schmidt (@pascy28)
+#rstats
+🔗 https://www.youtube.com/watch?v=ZLbyZ8ZQ6Hg"
+UCCaChdLMTYMxyawR_Qf-kYA;gyrXfqlJoXo;2022-11-14T14:07:00Z;"📺 New #rstatsvideo: R4DS Project Club: Census Explorer Shiny App (proj01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=gyrXfqlJoXo"
+UCCaChdLMTYMxyawR_Qf-kYA;uEYKR3xs4Y0;2022-11-14T14:08:00Z;"📺 New #rstatsvideo: R for Data Science: Workflow: Pipes (r4ds08 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=uEYKR3xs4Y0"
+UCCaChdLMTYMxyawR_Qf-kYA;koFvLRBogYw;2022-11-14T14:08:52Z;"📺 New #rstatsvideo: Geospatial health: Spatial modeling of areal data. Lip cancer in Scotland (geohealth01 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=koFvLRBogYw"
+UCyHEww8_SCdxZvEnkCfi55w;B-A7LtFWC5E;2022-11-14T15:00:05Z;"📺 New #rstatsvideo: Create Data Frame with Column Names in R (4 Examples) | Construct & Make | From Scratch & Matrix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=B-A7LtFWC5E"
+UCvt6lv8yMrBV8YgsAoQykHw;tE88RxsUOuc;2022-11-14T16:21:27Z;"📺 New #rstatsvideo: Universo Tidyverse: Do R para SQL com o pacote dbplyr
+▶ RLadies Goiânia (@rladiesgyn)
+#rstats
+🔗 https://www.youtube.com/watch?v=tE88RxsUOuc"
+UCCaChdLMTYMxyawR_Qf-kYA;OdtiBD7zIp8;2022-11-14T18:48:28Z;"📺 New #rstatsvideo: Methods for Network Analysis: Introduction (mnetanal01 1 2 3 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=OdtiBD7zIp8"
+UCCaChdLMTYMxyawR_Qf-kYA;REshRlsPf4U;2022-11-14T22:38:58Z;"📺 New #rstatsvideo: ISLR: Survival Analysis and Censored Data Part 2 (islr04 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=REshRlsPf4U"
+UCB7N0JYEOoT2IPLuImsx-3w;L3O5QGqz6gQ;2022-11-15T02:53:33Z;"📺 New #rstatsvideo: R Ladies Bogor 15th Meet Up: Metabarcoding and intro to Vegan
+▶ R Ladies Bogor (@RLadiesBogor)
+#rstats
+🔗 https://www.youtube.com/watch?v=L3O5QGqz6gQ"
+UCjXQyxs1iyEg5v98fezgT0w;7CdHpAEbBXQ;2022-11-15T08:00:05Z;"📺 New #rstatsvideo: CFA mit R/lavaan 4: Bifaktormodell
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #bifaktorcfa #bifactorcfa #konfirmatorischefaktorenanalysebifaktor #konfirmatorischefaktorenanalysebifactor
+🔗 https://www.youtube.com/watch?v=7CdHpAEbBXQ"
+UCs7EU95YMjhvNozJKCD92xQ;tnuNTyuY-bk;2022-11-15T10:09:59Z;"📺 New #rstatsvideo: Getting Started With RStudio
+▶ Statistics for Sustainable Development (Stats4SD) (@Stats4SD)
+🗣 🇬🇧
+#rstats #rstudio #statistics #code #coding #markdown
+🔗 https://www.youtube.com/watch?v=tnuNTyuY-bk"
