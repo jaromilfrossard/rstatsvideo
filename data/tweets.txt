@@ -16758,3 +16758,67 @@ UCs7EU95YMjhvNozJKCD92xQ;tnuNTyuY-bk;2022-11-15T10:09:59Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rstudio #statistics #code #coding #markdown
 🔗 https://www.youtube.com/watch?v=tnuNTyuY-bk"
+UCktsoPDepBLb4fHx8bLhGjw;nj6XSnJB6t8;2022-11-12T15:57:53Z;"📺 New #rstatsvideo: Lisa Lendway - ""Parameterized Reporting with RMarkdown""
+▶ CANSSI Ontario (@CANSSIOntario)
+#rstats
+🔗 https://www.youtube.com/watch?v=nj6XSnJB6t8"
+UCktsoPDepBLb4fHx8bLhGjw;uyNhK18LLYU;2022-11-12T15:59:02Z;"📺 New #rstatsvideo: Vincent Arel-Bundock -  ""How to interpret and report estimates from (almost) any `R` model?""
+▶ CANSSI Ontario (@CANSSIOntario)
+#rstats
+🔗 https://www.youtube.com/watch?v=uyNhK18LLYU"
+UCktsoPDepBLb4fHx8bLhGjw;R2bThq16v_M;2022-11-12T16:00:35Z;"📺 New #rstatsvideo: Dirk Eddelbuettel - ""r2u: CRAN as Ubuntu Binaries""
+▶ CANSSI Ontario (@CANSSIOntario)
+#rstats
+🔗 https://www.youtube.com/watch?v=R2bThq16v_M"
+UCktsoPDepBLb4fHx8bLhGjw;9Gh4VmR0DRk;2022-11-12T16:01:46Z;"📺 New #rstatsvideo: Emily Riederer - ""The Data (error) Generating Process""
+▶ CANSSI Ontario (@CANSSIOntario)
+#rstats
+🔗 https://www.youtube.com/watch?v=9Gh4VmR0DRk"
+UCktsoPDepBLb4fHx8bLhGjw;DVSFpLJgldo;2022-11-12T16:03:55Z;"📺 New #rstatsvideo: Hannah Frick - ""Censored: A tidymodels package for survival models""
+▶ CANSSI Ontario (@CANSSIOntario)
+#rstats
+🔗 https://www.youtube.com/watch?v=DVSFpLJgldo"
+UCktsoPDepBLb4fHx8bLhGjw;4yRAR9fS3pg;2022-11-12T16:07:19Z;"📺 New #rstatsvideo: Ariel Mundo Ortiz - ""Reproducible papers in the life sciences using R""
+▶ CANSSI Ontario (@CANSSIOntario)
+#rstats
+🔗 https://www.youtube.com/watch?v=4yRAR9fS3pg"
+UCktsoPDepBLb4fHx8bLhGjw;cY1n-s3qE3c;2022-11-12T16:11:54Z;"📺 New #rstatsvideo: John Fox - ""Regression Graphics: Added-Variable and Component+Residual Plots""
+▶ CANSSI Ontario (@CANSSIOntario)
+#rstats
+🔗 https://www.youtube.com/watch?v=cY1n-s3qE3c"
+UCktsoPDepBLb4fHx8bLhGjw;-Z0sikR8STQ;2022-11-12T16:12:51Z;"📺 New #rstatsvideo: Jens Von Bergmann - ""An ecosystem of R packages to access and process Canadian data""
+▶ CANSSI Ontario (@CANSSIOntario)
+#rstats
+🔗 https://www.youtube.com/watch?v=-Z0sikR8STQ"
+UCktsoPDepBLb4fHx8bLhGjw;lIl0CvrWQHY;2022-11-12T16:24:07Z;"📺 New #rstatsvideo: Michael Jongho Moon - ""mverse: The R package is designed to help students explore the multiverse""
+▶ CANSSI Ontario (@CANSSIOntario)
+#rstats
+🔗 https://www.youtube.com/watch?v=lIl0CvrWQHY"
+UCktsoPDepBLb4fHx8bLhGjw;sDsierx_XL8;2022-11-12T16:24:54Z;"📺 New #rstatsvideo: Sherry Zhang - ""Switching between space and time: Spatio-temporal analysis with cubble""
+▶ CANSSI Ontario (@CANSSIOntario)
+#rstats
+🔗 https://www.youtube.com/watch?v=sDsierx_XL8"
+UCktsoPDepBLb4fHx8bLhGjw;jiYVkyWGrbs;2022-11-12T16:27:44Z;"📺 New #rstatsvideo: David Keyes - ""No Designer Needed: How to Create Beautiful Reports Using Only R""
+▶ CANSSI Ontario (@CANSSIOntario)
+#rstats
+🔗 https://www.youtube.com/watch?v=jiYVkyWGrbs"
+UCyHEww8_SCdxZvEnkCfi55w;f5uu_2gJYYk;2022-11-15T15:00:26Z;"📺 New #rstatsvideo: Convert Summary Statistics to Data Frame in R (Example) | summary() Function Output to Data Frame
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=f5uu_2gJYYk"
+UCB_noR4lYmbKJozwJuPStbg;aWLwfxeof9c;2022-11-15T16:30:01Z;"📺 New #rstatsvideo: Iterate:  readxl workflows
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #iteratefunctionsr #tipsandtricks #rfun #tidyverse #datacleaning #importdata #readxl #readexcel #excel #worksheets
+🔗 https://www.youtube.com/watch?v=aWLwfxeof9c"
+UCx1vXgGDXc7BH7bI1KC_o7Q;irGog6rdED4;2022-11-15T19:00:22Z;"📺 New #rstatsvideo: Gráfico de barras com médias e barras de erro no R com o pacote ggplot2
+▶ Fernanda Peres
+🗣 🇵🇹
+#rstats #bioestatística #estatística #estatísticadescritiva #ggplot #ggplot2 #rstudio #gráficos #gráfico #graph
+🔗 https://www.youtube.com/watch?v=irGog6rdED4"
+UCCaChdLMTYMxyawR_Qf-kYA;kpAUoGO6elE;2022-11-15T19:40:39Z;"📺 New #rstatsvideo: Advanced R: Names and values (advr07 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=kpAUoGO6elE"
