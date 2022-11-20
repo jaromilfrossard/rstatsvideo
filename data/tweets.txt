@@ -16822,3 +16822,61 @@ UCCaChdLMTYMxyawR_Qf-kYA;kpAUoGO6elE;2022-11-15T19:40:39Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=kpAUoGO6elE"
+UCMdihazndR0f9XBoSXWqnYg;ab-c7kSMelM;2022-11-16T02:18:37Z;"📺 New #rstatsvideo: R - Data Screening Assumptions (7.2 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #data #science #education #open #analytics #rstudio #assumptions #datascreening #missingdata #outliers
+🔗 https://www.youtube.com/watch?v=ab-c7kSMelM"
+UCyHEww8_SCdxZvEnkCfi55w;BU3F5ag2Wb0;2022-11-16T15:00:07Z;"📺 New #rstatsvideo: Assign NULL to List Element in R (2 Examples) | Remove & Replace Item | Drop List Element & Shift
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=BU3F5ag2Wb0"
+UCOEuOH6cY8yisodud25hb7w;h1Csh4KUeeo;2022-11-16T15:46:44Z;"📺 New #rstatsvideo: **2022-11-02 (meeting #104)** Tidy data and stats for a mysterious experiment (Eric S)
+▶ Data Science Garage
+#rstats
+🔗 https://www.youtube.com/watch?v=h1Csh4KUeeo"
+UCCaChdLMTYMxyawR_Qf-kYA;AJh03Py6Tmk;2022-11-16T18:10:36Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Cohort 4 Launch (mshiny04 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=AJh03Py6Tmk"
+UClHxi-ei0TXjC-0A0QXwMpg;e-7wacOcIZg;2022-11-16T21:35:25Z;"📺 New #rstatsvideo: 2022 11 16 Stats 15
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=e-7wacOcIZg"
+UC5FvzLMVNrTMW-ycrW-4KyA;L810t-VJesA;2022-11-17T00:50:44Z;"📺 New #rstatsvideo: 같이 공부하실? - 3시간 달려봅니다~!
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #r프로그래밍 #데이터사이언스 #기초통계 #r강의 #수리통계 #대학통계 #tidyverse #데이터분석 #adp #혼공 #studywithme #공부자극 #대쉬보드 #롤
+🔗 https://www.youtube.com/watch?v=L810t-VJesA"
+UCOEuOH6cY8yisodud25hb7w;UIs7rMhqg-w;2022-11-17T12:11:06Z;"📺 New #rstatsvideo: 2022-11-16 (meeting #105) Earwigs, wooly apple aphids and binomial regression. Oh, my! (Hayden)
+▶ Data Science Garage
+#rstats
+🔗 https://www.youtube.com/watch?v=UIs7rMhqg-w"
+UCyHEww8_SCdxZvEnkCfi55w;_WU-pGCuh6Q;2022-11-17T15:00:24Z;"📺 New #rstatsvideo: ave Function in R (Example) | Get Group Averages Over Factor Levels | Calculate Mean & Add to Data
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=_WU-pGCuh6Q"
+UCDgj5-mFohWZ5irWSFMFcng;EwtQm0H3fX8;2022-11-17T18:24:19Z;"📺 New #rstatsvideo: R-Ladies New York (English) - All Aboard Transportation and Data - Mikaela Jordan & Lisa Mae Fiedler
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=EwtQm0H3fX8"
+UCyHEww8_SCdxZvEnkCfi55w;JnJY6HD8i4w;2022-11-18T15:00:23Z;"📺 New #rstatsvideo: Add Diagonal Line to Plot (2 Examples) | Overlay Base R & ggplot2 Graphic | Change Color & Thickness
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=JnJY6HD8i4w"
+UCCaChdLMTYMxyawR_Qf-kYA;-TKYo__mqZg;2022-11-18T16:25:56Z;"📺 New #rstatsvideo: Bayes Rules! Adding More Layers (bayes_rules02 19)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-TKYo__mqZg"
+UCPfMGYxAOm39sO8nuEMB96Q;8vSC6R7YT0s;2022-11-18T16:30:31Z;"📺 New #rstatsvideo: Regresión simple | Clase #9: Curso Estadística Inferencial Aplicada
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #regresiónsimple|clase9cursoestadísticainferencialaplicada #regresiónsimple
+🔗 https://www.youtube.com/watch?v=8vSC6R7YT0s"
