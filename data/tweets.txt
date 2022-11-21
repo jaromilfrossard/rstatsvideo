@@ -16880,3 +16880,32 @@ UCPfMGYxAOm39sO8nuEMB96Q;8vSC6R7YT0s;2022-11-18T16:30:31Z;"📺 New #rstatsvideo
 🗣 🇪🇸
 #rstats #regresiónsimple|clase9cursoestadísticainferencialaplicada #regresiónsimple
 🔗 https://www.youtube.com/watch?v=8vSC6R7YT0s"
+UCDgj5-mFohWZ5irWSFMFcng;JXmH3VLY4oA;2022-11-18T20:45:39Z;"📺 New #rstatsvideo: R-Ladies D.C. (English) - Introduction to R Shiny - Ashton Drew
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats #coding #programming
+🔗 https://www.youtube.com/watch?v=JXmH3VLY4oA"
+UCTXUFl30vDC32UrohjWB8kQ;4gJaFNEbxrk;2022-11-19T00:00:02Z;"📺 New #rstatsvideo: This is so easy to overlook!
+▶ Matthew Peterson (@ecomattp)
+#rstats #rstudio #shorts #datascience #tutorial
+🔗 https://www.youtube.com/watch?v=4gJaFNEbxrk"
+UCCaChdLMTYMxyawR_Qf-kYA;OBodjc80y-E;2022-11-19T13:40:44Z;"📺 New #rstatsvideo: Advanced R: Quasiquotation (advr06 19)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=OBodjc80y-E"
+UCCaChdLMTYMxyawR_Qf-kYA;zva5guIAOic;2022-11-19T14:01:21Z;"📺 New #rstatsvideo: Bayes Rules! Conjugate Families (bayes_rules03 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=zva5guIAOic"
+UCCaChdLMTYMxyawR_Qf-kYA;E6Mvas6V-4E;2022-11-19T14:02:37Z;"📺 New #rstatsvideo: R Packages: The package within (rpkgs04 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=E6Mvas6V-4E"
+UCCaChdLMTYMxyawR_Qf-kYA;qQrnNef9fkM;2022-11-19T14:03:46Z;"📺 New #rstatsvideo: R for Data Science: Communicate Part 2 (r4ds06 28 29 30)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=qQrnNef9fkM"
