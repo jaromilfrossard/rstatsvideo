@@ -51,6 +51,7 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
                                 lazy = FALSE)
 
 
+
 # tb_channel%>%
 #   arrange(name_channel)%>%
 #   readr::write_delim(file="data/list_channel.txt", delim=";",na = "")
