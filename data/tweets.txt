@@ -16909,3 +16909,32 @@ UCCaChdLMTYMxyawR_Qf-kYA;qQrnNef9fkM;2022-11-19T14:03:46Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=qQrnNef9fkM"
+UCyHEww8_SCdxZvEnkCfi55w;hpaC7I_gmhE;2022-11-19T15:00:27Z;"📺 New #rstatsvideo: unclass() Function in R (2 Examples) | Convert Factor to Integer | Change Group Names of Factors
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=hpaC7I_gmhE"
+UCxrh1zXhO2rL0t3Y5rSzWSw;twhmiaX-5vs;2022-11-20T08:00:31Z;"📺 New #rstatsvideo: Connecting to a Mongo Database With an R Shiny Applciation - Part 15
+▶ Pascal Schmidt (@pascy28)
+#rstats
+🔗 https://www.youtube.com/watch?v=twhmiaX-5vs"
+UCyHEww8_SCdxZvEnkCfi55w;YbWBdGaWTns;2022-11-20T15:00:18Z;"📺 New #rstatsvideo: Avoid Losing Column Names when Adding Rows to Empty Data Frame in R (Example) | Keep Variable Names
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=YbWBdGaWTns"
+UCyZCfIET7753bs5WpmKI_qQ;8c5V5lfoP50;2022-11-20T18:42:33Z;"📺 New #rstatsvideo: Tutorial R | Plano para o canal YouTube 2023
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats #unitofmeasurement #scalespackage #ggplot2
+🔗 https://www.youtube.com/watch?v=8c5V5lfoP50"
+UCMwM-3tg_-Pbx8hKO78q5EA;RfiuBGD5IeU;2022-11-21T14:46:45Z;"📺 New #rstatsvideo: NHS-R Conference 2022 - Day 1 (16th November 2022) - Edgbaston, Birmingham
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=RfiuBGD5IeU"
+UCyHEww8_SCdxZvEnkCfi55w;F15ksbnYRsY;2022-11-21T15:00:22Z;"📺 New #rstatsvideo: Split Number into Digits in R (2 Examples) | How to Apply digits() Function of TeachingDemos Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticalprogramming #rprogramming
+🔗 https://www.youtube.com/watch?v=F15ksbnYRsY"
