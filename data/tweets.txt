@@ -16938,3 +16938,76 @@ UCyHEww8_SCdxZvEnkCfi55w;F15ksbnYRsY;2022-11-21T15:00:22Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticalprogramming #rprogramming
 🔗 https://www.youtube.com/watch?v=F15ksbnYRsY"
+UCMwM-3tg_-Pbx8hKO78q5EA;GS8CThaMZXM;2022-11-21T16:06:32Z;"📺 New #rstatsvideo: NHS-R Conference 2022 - Day 2 (17th November 2022) - Edgbaston, Birmingham
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GS8CThaMZXM"
+UCcGXGFClRdnrwXsPHi7P4ZA;hyP3Hx_1kTM;2022-11-21T17:34:06Z;"📺 New #rstatsvideo: R package reviews {gtsummary} Publication-Ready Tables of Data, Statistical Tests and Models!
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #clearlyexplained #datascience #dataanalysis #forbeginners #stats
+🔗 https://www.youtube.com/watch?v=hyP3Hx_1kTM"
+UCg6kociUghEgKz_hLRKQrMQ;LBHAjf4-90k;2022-11-21T19:07:01Z;"📺 New #rstatsvideo: 4 Shorcuts de Rstudio (Que subiran tu nivel!)
+▶ R Data Science School
+#rstats #rstudio #learnr #rprogramming #shorcut #rshorcut #rstudioshortcut #pipeoperator #courser #rcourses
+🔗 https://www.youtube.com/watch?v=LBHAjf4-90k"
+UCeiiqmVK07qhY-wvg3IZiZQ;CRlbkBKI5iU;2022-11-15T19:22:55Z;"📺 New #rstatsvideo: Tidy Tuesday live screencast: Analyzing web page metrics in R
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=CRlbkBKI5iU"
+UCCaChdLMTYMxyawR_Qf-kYA;SwIp_r-mnZ0;2022-11-21T19:13:27Z;"📺 New #rstatsvideo: Comp Genomics: Exploratory Data Analysis with Unsupervised Machine Learning Part 2 (comp_genom01 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=SwIp_r-mnZ0"
+UCCaChdLMTYMxyawR_Qf-kYA;JTg3IWUCB88;2022-11-21T19:14:23Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Security (mshiny03 22)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=JTg3IWUCB88"
+UClHxi-ei0TXjC-0A0QXwMpg;B2u0BXmPDXI;2022-11-21T19:48:26Z;"📺 New #rstatsvideo: 2022 11 21 Stats 15
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=B2u0BXmPDXI"
+UCCaChdLMTYMxyawR_Qf-kYA;xKthmzkTerU;2022-11-21T22:42:18Z;"📺 New #rstatsvideo: R for Data Science: Workflow: Data tidying (r4ds08 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=xKthmzkTerU"
+UCCaChdLMTYMxyawR_Qf-kYA;-3mKJn8AMZI;2022-11-21T22:43:24Z;"📺 New #rstatsvideo: Geospatial health: Spatio-temporal modeling of areal data. Lung cancer in Ohio (geohealth01 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-3mKJn8AMZI"
+UCCaChdLMTYMxyawR_Qf-kYA;xIdfPzZUxFk;2022-11-21T22:44:13Z;"📺 New #rstatsvideo: Methods for Network Analysis: Understanding Network Data Structures (mnetanal01 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=xIdfPzZUxFk"
+UCCaChdLMTYMxyawR_Qf-kYA;F-vr9yl_hmQ;2022-11-21T22:44:39Z;"📺 New #rstatsvideo: R for Data Science: Exploratory Data Analysis (r4ds07 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=F-vr9yl_hmQ"
+UClHxi-ei0TXjC-0A0QXwMpg;09_iLricNJQ;2022-11-22T05:03:23Z;"📺 New #rstatsvideo: 2022 11 21 Stats 401 part2
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=09_iLricNJQ"
+UC5FvzLMVNrTMW-ycrW-4KyA;dF6m7LiNIjg;2022-11-22T05:43:42Z;"📺 New #rstatsvideo: R로 2중 축 그래프 가장 쉽게 그리는 방법입니다.
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=dF6m7LiNIjg"
+UCyHEww8_SCdxZvEnkCfi55w;gIE6UpRqj0w;2022-11-22T15:00:21Z;"📺 New #rstatsvideo: Subset Data Frame within for-Loop in R (Example) | How to Split, Divide & Separate Values by Group
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=gIE6UpRqj0w"
+UCMwM-3tg_-Pbx8hKO78q5EA;BZLY7lWzidA;2022-11-22T19:11:05Z;"📺 New #rstatsvideo: NHS-R Conference Webinar: Shiny in Production and Debugging Shiny Apps - 22/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=BZLY7lWzidA"
