@@ -17011,3 +17011,58 @@ UCMwM-3tg_-Pbx8hKO78q5EA;BZLY7lWzidA;2022-11-22T19:11:05Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=BZLY7lWzidA"
+UCyHEww8_SCdxZvEnkCfi55w;-RQRwlVZFXc;2022-11-23T15:00:00Z;"📺 New #rstatsvideo: Round All Values in Matrix in R (2 Examples) | Rounding Each Element | To Zero Digits & to N Digits
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=-RQRwlVZFXc"
+UCMdihazndR0f9XBoSXWqnYg;LPlDgz6CNBE;2022-11-23T19:17:29Z;"📺 New #rstatsvideo: R - Correlation (8.1 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #correlation #rstudio #education #open #data #science #analytics #stem #partial #semipartial #comparecorrelations
+🔗 https://www.youtube.com/watch?v=LPlDgz6CNBE"
+UCCaChdLMTYMxyawR_Qf-kYA;QcdByYHo1ms;2022-11-23T20:57:17Z;"📺 New #rstatsvideo: Advanced R: Vectors (advr07 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=QcdByYHo1ms"
+UCCaChdLMTYMxyawR_Qf-kYA;hBYkhLT9xfo;2022-11-23T20:57:49Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Basic UI (mshiny04 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hBYkhLT9xfo"
+UCdrnsZd2xWjDjHUlYsA6Kfw;Go3qjqrIC-I;2022-11-24T08:39:21Z;"📺 New #rstatsvideo: APA Tables and Psychology Oriented Analysis in R with the rempsyc Package
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting
+🔗 https://www.youtube.com/watch?v=Go3qjqrIC-I"
+UCMwM-3tg_-Pbx8hKO78q5EA;htQWauSV9J4;2022-11-24T11:28:00Z;"📺 New #rstatsvideo: NHS-R Workshop: Working with databases in R - 23//11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=htQWauSV9J4"
+UCMwM-3tg_-Pbx8hKO78q5EA;E1et8cSIRMQ;2022-11-24T14:27:07Z;"📺 New #rstatsvideo: NHS-R Workshop: PHM ExploreR An open source tool for Population Health Management  - 24/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=E1et8cSIRMQ"
+UCyHEww8_SCdxZvEnkCfi55w;tgZ2VjhsnZM;2022-11-24T15:00:38Z;"📺 New #rstatsvideo: Remove Fill from ggplot2 Polygon Plot in R (Example) | geom_polygon Filling | Transparent Background
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=tgZ2VjhsnZM"
+UCCaChdLMTYMxyawR_Qf-kYA;8FT2BA18Ghg;2022-11-24T19:44:25Z;"📺 New #rstatsvideo: Advanced R: Evaluation (advr06 20)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=8FT2BA18Ghg"
+UCMwM-3tg_-Pbx8hKO78q5EA;86sviwkA088;2022-11-25T13:33:16Z;"📺 New #rstatsvideo: NHS-R Workshop: Fitting Distributions in R - 25/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=86sviwkA088"
+UCMwM-3tg_-Pbx8hKO78q5EA;yaMpZsordu4;2022-11-25T14:30:48Z;"📺 New #rstatsvideo: NHS-R Workshop - Regression Modelling in R - 24/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=yaMpZsordu4"
