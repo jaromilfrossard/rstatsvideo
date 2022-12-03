@@ -17066,3 +17066,159 @@ UCMwM-3tg_-Pbx8hKO78q5EA;yaMpZsordu4;2022-11-25T14:30:48Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=yaMpZsordu4"
+UCyHEww8_SCdxZvEnkCfi55w;84V_K50UB5w;2022-11-25T15:00:08Z;"📺 New #rstatsvideo: Change Column Names in List of Data Frames in R (Example) | Rename Variables | lapply() & setNames()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=84V_K50UB5w"
+UCCaChdLMTYMxyawR_Qf-kYA;A7K8K11RFs4;2022-11-25T15:19:06Z;"📺 New #rstatsvideo: Bayes Rules! Approximating the Posterior (bayes_rules03 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=A7K8K11RFs4"
+UCg6kociUghEgKz_hLRKQrMQ;YPA4n7rufWs;2022-11-25T17:05:14Z;"📺 New #rstatsvideo: Creacion de Generaciones (Baby boomer, Gen X, Millenial, Gen Z ...) en #R
+▶ R Data Science School
+#rstats #dplyr #learnr #featureengineering #generation #ggplot #learnggplot #datascience #mutate #rtip
+🔗 https://www.youtube.com/watch?v=YPA4n7rufWs"
+UCTTBgWyJl2HrrhQOOc710kA;7GP-K-i6Y54;2022-11-25T21:54:49Z;"📺 New #rstatsvideo: How to handle high cardinality predictors for data on museums in the UK
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=7GP-K-i6Y54"
+UCyHEww8_SCdxZvEnkCfi55w;06vcVfBC91c;2022-11-26T15:00:00Z;"📺 New #rstatsvideo: Remove Numbers from Character String in R (Example) | Extract Only Letters from Alphanumeric Data
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=06vcVfBC91c"
+UCP8l94xtoemCH_GxByvTuFQ;EFwvt5vf-zU;2022-11-27T08:00:05Z;"📺 New #rstatsvideo: TidyX Episode 125 | Combining Multiple Conditions Follow-up
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=EFwvt5vf-zU"
+UCyHEww8_SCdxZvEnkCfi55w;mtqjaO43XvM;2022-11-27T15:00:34Z;"📺 New #rstatsvideo: Create Raster Plot from Data Frame in R (2 Examples) | Convert with rasterFromXYZ of raster Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=mtqjaO43XvM"
+UCljumcPvitx5W0OEC_Thk2Q;vZX0745Ohqg;2022-11-27T18:13:27Z;"📺 New #rstatsvideo: Probability and statistic 2 using R (summary chapter 1)
+▶ Rania Ismail
+#rstats
+🔗 https://www.youtube.com/watch?v=vZX0745Ohqg"
+UCztAJhENVqsqv0cvyxs4sgg;wciGM5rMBos;2022-11-27T20:29:11Z;"📺 New #rstatsvideo: Creando tablas en {gt} con Spotify API & Bad Bunny
+▶ RLadies Buenos Aires (@RLadiesBA)
+#rstats
+🔗 https://www.youtube.com/watch?v=wciGM5rMBos"
+UCCaChdLMTYMxyawR_Qf-kYA;GFbRR--E8Ow;2022-11-27T20:29:28Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Performance (mshiny03 23)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GFbRR--E8Ow"
+UCCaChdLMTYMxyawR_Qf-kYA;MvzrbyCuFLw;2022-11-27T20:29:59Z;"📺 New #rstatsvideo: R for Data Science: Workflow: code style (r4ds08 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=MvzrbyCuFLw"
+UC_bfGqjzgx4-N8TEQlJTaNQ;G3KvPcfwbZQ;2022-11-28T13:10:32Z;"📺 New #rstatsvideo: naijR, An R package on Nigeria and for Nigeriaby Dr. Victor Ordu, MD, and Public Health
+▶ Abuja R User Group (@AbujaRUG)
+#rstats
+🔗 https://www.youtube.com/watch?v=G3KvPcfwbZQ"
+UCCaChdLMTYMxyawR_Qf-kYA;H8ihh6AyZ4I;2022-11-28T13:18:17Z;"📺 New #rstatsvideo: Methods for Network Analysis: Your First Network (mnetanal01 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=H8ihh6AyZ4I"
+UCyHEww8_SCdxZvEnkCfi55w;DJRpZDf-vIk;2022-11-28T15:00:08Z;"📺 New #rstatsvideo: Remove Values Less & Greater than 5th & 95th Percentiles in R (Examples) | Delete Data Frame Rows
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=DJRpZDf-vIk"
+UCxrh1zXhO2rL0t3Y5rSzWSw;YecdqHm_EZQ;2022-11-28T20:56:18Z;"📺 New #rstatsvideo: Writing User Data to a Mongo Database with R and Shiny - Part 16
+▶ Pascal Schmidt (@pascy28)
+#rstats
+🔗 https://www.youtube.com/watch?v=YecdqHm_EZQ"
+UCMwM-3tg_-Pbx8hKO78q5EA;EmOUBXd6DCk;2022-11-29T11:52:13Z;"📺 New #rstatsvideo: NHS-R Webinar: padr package - 25/11/22
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EmOUBXd6DCk"
+UCjXQyxs1iyEg5v98fezgT0w;ghmU7nodhSM;2022-11-29T14:00:15Z;"📺 New #rstatsvideo: R: Regression With Multiple Imputation (missing data handling)
+▶ Regorz Statistik
+🗣 🇬🇧
+#rstats #rmultipleimputation #rmice #regressionmultipleimputation #regressionmice #multipleimputationbychainedequations
+🔗 https://www.youtube.com/watch?v=ghmU7nodhSM"
+UCyHEww8_SCdxZvEnkCfi55w;BG_DBqu9sh4;2022-11-29T15:00:06Z;"📺 New #rstatsvideo: Split Character String into Letters & Numbers in R (2 Examples) | gsub, strsplit & unlist Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=BG_DBqu9sh4"
+UCCaChdLMTYMxyawR_Qf-kYA;kmc54BI9GTg;2022-11-29T18:24:31Z;"📺 New #rstatsvideo: R for Data Science: Workflow: Getting help (r4ds07 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=kmc54BI9GTg"
+UCCaChdLMTYMxyawR_Qf-kYA;NI2zDORs1KA;2022-11-29T19:13:31Z;"📺 New #rstatsvideo: Modelado Tidy con R - 16. Reducción de Dimensionalidad (tmwr_es01) - Parte 1
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=NI2zDORs1KA"
+UCyZCfIET7753bs5WpmKI_qQ;u-zED9AAA4A;2022-11-30T02:15:39Z;"📺 New #rstatsvideo: Tutorial R | Modelo preditivo | tidymodels decision tree rpart diabetes
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats #unitofmeasurement #scalespackage #ggplot2
+🔗 https://www.youtube.com/watch?v=u-zED9AAA4A"
+UCXuX-kQ1TbKHWeB75NgmhlA;4zEvDTwyu9w;2022-11-30T13:00:02Z;"📺 New #rstatsvideo: Picture to hex codes | Color code extraction from pictures
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #rimagepalette #tidyverse #colorpalette #colourpalette #howtoextracthexcolors #hexcolourcodes
+🔗 https://www.youtube.com/watch?v=4zEvDTwyu9w"
+UCyHEww8_SCdxZvEnkCfi55w;fHXnYYGutTI;2022-11-30T15:00:28Z;"📺 New #rstatsvideo: Temporarily Remove Warning Messages in R (Example) | as.numeric() & suppressWarnings() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=fHXnYYGutTI"
+UCMdihazndR0f9XBoSXWqnYg;zD5op6nHSpU;2022-11-30T20:07:02Z;"📺 New #rstatsvideo: R - Correlation (8.2 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #correlation #data #science #analytics #open #education #stem #comparingcorrelations #partial #semipartial #rstudio
+🔗 https://www.youtube.com/watch?v=zD5op6nHSpU"
+UC4_hSKmvUG4w0w270AH5bXQ;C6bYLyUW4Vo;2022-12-01T05:39:37Z;"📺 New #rstatsvideo: AdventOfCode2022   Day 1 in R (beginner tutorial)
+▶ Derek Sollberger (@DerekSollberger)
+#rstats
+🔗 https://www.youtube.com/watch?v=C6bYLyUW4Vo"
+UCdrnsZd2xWjDjHUlYsA6Kfw;lyXd3zCCxto;2022-12-01T08:02:27Z;"📺 New #rstatsvideo: Animating ggplots in R with gganimate
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters #rstudio
+🔗 https://www.youtube.com/watch?v=lyXd3zCCxto"
+UCCaChdLMTYMxyawR_Qf-kYA;Xr6-2H6x_h8;2022-12-01T13:48:15Z;"📺 New #rstatsvideo: Probabilty 4 Data Science: Cohort 1 Introduction (prob4ds01 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Xr6-2H6x_h8"
+UCCaChdLMTYMxyawR_Qf-kYA;_-uwFjO5CyM;2022-12-01T13:48:47Z;"📺 New #rstatsvideo: Advanced R: Translating R code (advr06 21)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=_-uwFjO5CyM"
+UCyHEww8_SCdxZvEnkCfi55w;5lu4h_CPhi0;2022-12-01T15:00:05Z;"📺 New #rstatsvideo: Avoid Overlap of Text Labels in ggplot2 Plot in R (Example) | geom_text_repel() of ggrepel Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=5lu4h_CPhi0"
+UCHCdYfAXVzJIUkMoMSGiZMw;iv08zmyzKVE;2022-12-01T15:15:01Z;"📺 New #rstatsvideo: CDSB2022: Control de versiones con GitHub y RStudio
+▶ Community of Bioinformatics Software Developers (@CDSBMexico)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=iv08zmyzKVE"
+UCCaChdLMTYMxyawR_Qf-kYA;ft4l9YR8BkI;2022-12-01T19:51:25Z;"📺 New #rstatsvideo: R Packages: Data (rpkgs04 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ft4l9YR8BkI"
+UCCaChdLMTYMxyawR_Qf-kYA;CCpL8IpUTEE;2022-12-01T23:05:14Z;"📺 New #rstatsvideo: Bayes Rules! MCMC under the Hood (bayes_rules03 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=CCpL8IpUTEE"
+UC4_hSKmvUG4w0w270AH5bXQ;2S5QoOSB_wQ;2022-12-02T05:59:09Z;"📺 New #rstatsvideo: Advent of Code 2022  Day 02 (in R, for novices)
+▶ Derek Sollberger (@DerekSollberger)
+#rstats
+🔗 https://www.youtube.com/watch?v=2S5QoOSB_wQ"
