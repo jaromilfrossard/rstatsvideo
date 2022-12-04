@@ -17222,3 +17222,37 @@ UC4_hSKmvUG4w0w270AH5bXQ;2S5QoOSB_wQ;2022-12-02T05:59:09Z;"📺 New #rstatsvideo
 ▶ Derek Sollberger (@DerekSollberger)
 #rstats
 🔗 https://www.youtube.com/watch?v=2S5QoOSB_wQ"
+UCCaChdLMTYMxyawR_Qf-kYA;nqDlyIKEjn0;2022-12-02T13:39:34Z;"📺 New #rstatsvideo: RWTF: Cohort 1 Introduction (rwtf01 0)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=nqDlyIKEjn0"
+UCCaChdLMTYMxyawR_Qf-kYA;l4CgxBlnuuA;2022-12-02T13:41:11Z;"📺 New #rstatsvideo: Regression and Other Stories: Cohort 2 Introduction (ros02 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=l4CgxBlnuuA"
+UCyHEww8_SCdxZvEnkCfi55w;WKVk-CkDVvk;2022-12-02T15:00:25Z;"📺 New #rstatsvideo: Find Character Pattern in Data Frame Column (2 Examples) | Test, Check & Identify | str_detect()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #rprogramming #statistics
+🔗 https://www.youtube.com/watch?v=WKVk-CkDVvk"
+UCHCdYfAXVzJIUkMoMSGiZMw;rFBvonOcUuU;2022-12-03T04:08:48Z;"📺 New #rstatsvideo: CDSB2022: Generación de Reportes con R Markdown
+▶ Community of Bioinformatics Software Developers (@CDSBMexico)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=rFBvonOcUuU"
+UCHCdYfAXVzJIUkMoMSGiZMw;Q-ntpjKOKXQ;2022-12-03T04:43:13Z;"📺 New #rstatsvideo: CDSB2022: Keynote-Convirtiendo tu flujo de análisis en un paquete de R/Bioconductor
+▶ Community of Bioinformatics Software Developers (@CDSBMexico)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=Q-ntpjKOKXQ"
+UC4_hSKmvUG4w0w270AH5bXQ;-bFb7joXpHM;2022-12-03T06:50:43Z;"📺 New #rstatsvideo: Advent of Code Day 03 (in R, for novices)
+▶ Derek Sollberger (@DerekSollberger)
+#rstats
+🔗 https://www.youtube.com/watch?v=-bFb7joXpHM"
+UCyHEww8_SCdxZvEnkCfi55w;BLtr8gsNqRw;2022-12-03T15:00:09Z;"📺 New #rstatsvideo: Change Number of Decimal Places on Axis Tick Labels of Plot in R (2 Examples) | Base R vs. ggplot2
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=BLtr8gsNqRw"
