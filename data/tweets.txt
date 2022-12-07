@@ -17256,3 +17256,78 @@ UCyHEww8_SCdxZvEnkCfi55w;BLtr8gsNqRw;2022-12-03T15:00:09Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=BLtr8gsNqRw"
+UCP8l94xtoemCH_GxByvTuFQ;sZgcWupB9G4;2022-12-04T08:00:19Z;"📺 New #rstatsvideo: TidyX Episode 126 |  Keeping duplicates on pivoting
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=sZgcWupB9G4"
+UCyHEww8_SCdxZvEnkCfi55w;hEn_pnLddoA;2022-12-04T15:00:19Z;"📺 New #rstatsvideo: Remove Rows with Non-Numeric Characters (Example) | Drop & Delete | as.numeric() & is.na() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=hEn_pnLddoA"
+UCCaChdLMTYMxyawR_Qf-kYA;1K-AxVl4sIw;2022-12-04T18:31:26Z;"📺 New #rstatsvideo: Comp Genomics: Predictive Modeling with Supervised Machine Learning (comp_genom01 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=1K-AxVl4sIw"
+UCCaChdLMTYMxyawR_Qf-kYA;2UNlzmC9Dnw;2022-12-04T18:32:26Z;"📺 New #rstatsvideo: Geospatial health: Geostatistical data (geohealth01 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2UNlzmC9Dnw"
+UCCaChdLMTYMxyawR_Qf-kYA;UFC_S1D9WGk;2022-12-04T18:33:00Z;"📺 New #rstatsvideo: DevOps for Data Science: Logging and Monitoring (do4ds01 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=UFC_S1D9WGk"
+UC4_hSKmvUG4w0w270AH5bXQ;ydR0PfrTS6k;2022-12-05T01:12:33Z;"📺 New #rstatsvideo: Advent of Code Day 04 in R, for novices
+▶ Derek Sollberger (@DerekSollberger)
+#rstats
+🔗 https://www.youtube.com/watch?v=ydR0PfrTS6k"
+UC0dgTZhVua-2yvtWDfPA_nQ;xujaErFvXGg;2022-12-05T05:00:31Z;"📺 New #rstatsvideo: Simple text mining on PDF document
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #simpletextminingonpdfdocument
+🔗 https://www.youtube.com/watch?v=xujaErFvXGg"
+UC4_hSKmvUG4w0w270AH5bXQ;FBlJeOZx5XA;2022-12-05T06:24:15Z;"📺 New #rstatsvideo: Advent of Code 2022 Day 05 in R, for novices
+▶ Derek Sollberger (@DerekSollberger)
+#rstats
+🔗 https://www.youtube.com/watch?v=FBlJeOZx5XA"
+UCDHzgi5BGU5F-LXxQIIOyDw;rgaHSZ0ePaw;2022-12-03T02:03:51Z;"📺 New #rstatsvideo: slider 0.3.0 のリリースノートを眺めてみる （2022/12/6）
+▶ yutannihilationのチャンネル (仮) (@yutannihilation)
+#rstats #rstatsj
+🔗 https://www.youtube.com/watch?v=rgaHSZ0ePaw"
+UC5FvzLMVNrTMW-ycrW-4KyA;bjIy-b00hQI;2022-12-05T09:19:41Z;"📺 New #rstatsvideo: tidymodels 를 사용한 머신러닝 챕터 10장 - Cross validation 구현하기
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=bjIy-b00hQI"
+UCyHEww8_SCdxZvEnkCfi55w;JLjH-JymqUE;2022-12-05T15:00:09Z;"📺 New #rstatsvideo: Change y-Axis Limits of Boxplot (2 Examples) | Base R & ggplot2 Graph | coord_cartesian() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=JLjH-JymqUE"
+UCZ2KQdo1-FhNRtEBYxai5Aw;kdNAbcFVQy0;2022-12-05T17:00:08Z;"📺 New #rstatsvideo: Statistical Methods Series: Structural Equation Models
+▶ Ecological Forecasting (@eco4cast)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=kdNAbcFVQy0"
+UCCaChdLMTYMxyawR_Qf-kYA;7fB8M1WP91w;2022-12-05T19:59:42Z;"📺 New #rstatsvideo: Methods for Network Analysis: Network Visualization and Aesthetics (mnetanal01 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=7fB8M1WP91w"
+UC4_hSKmvUG4w0w270AH5bXQ;7V7uaf8ArIE;2022-12-06T05:51:20Z;"📺 New #rstatsvideo: Advent of Code 2022 Day 06 in R, for novices
+▶ Derek Sollberger (@DerekSollberger)
+#rstats
+🔗 https://www.youtube.com/watch?v=7V7uaf8ArIE"
+UCjXQyxs1iyEg5v98fezgT0w;bbQQQH7-7Zw;2022-12-06T08:00:11Z;"📺 New #rstatsvideo: CFA mit R/lavaan 5: Mehrgruppen CFA (MGCFA) - Messinvarianz
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #lavaancfamultigroup #lavaancfamehrgruppen #lavaankonfirmatorischefaktorenanalysemehrgruppen #lavaanmessinvarianz
+🔗 https://www.youtube.com/watch?v=bbQQQH7-7Zw"
+UCyHEww8_SCdxZvEnkCfi55w;RPUTw4263Rw;2022-12-06T15:00:12Z;"📺 New #rstatsvideo: Filter Data Frame Rows Based On Range of Numbers in R (4 Examples) | Extract Subset | dplyr Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=RPUTw4263Rw"
