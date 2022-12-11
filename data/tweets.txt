@@ -17331,3 +17331,114 @@ UCyHEww8_SCdxZvEnkCfi55w;RPUTw4263Rw;2022-12-06T15:00:12Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom
 🔗 https://www.youtube.com/watch?v=RPUTw4263Rw"
+UCg4rv97QEhN-2gvLhrGMgEw;logcKzEVR30;2022-12-06T15:24:40Z;"📺 New #rstatsvideo: Intervalos de Confiança: aplicação no R
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=logcKzEVR30"
+UCCaChdLMTYMxyawR_Qf-kYA;crc1zcEKBWQ;2022-12-06T16:05:12Z;"📺 New #rstatsvideo: R for Data Science: Logical vectors (r4ds07 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=crc1zcEKBWQ"
+UCg6kociUghEgKz_hLRKQrMQ;ZH0y991s_yE;2022-12-06T18:27:50Z;"📺 New #rstatsvideo: Usando google trends en #R!
+▶ R Data Science School
+#rstats #learnr #tutorialr #googletrends #rtrends #datascience #marketing #rmarketing
+🔗 https://www.youtube.com/watch?v=ZH0y991s_yE"
+UCeiiqmVK07qhY-wvg3IZiZQ;d7uFpxtiXyk;2022-12-07T02:18:57Z;"📺 New #rstatsvideo: Tidy Tuesday live screencast: Analyzing NYC elevators in R
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=d7uFpxtiXyk"
+UCyHEww8_SCdxZvEnkCfi55w;cawOlDACjkM;2022-12-07T15:00:30Z;"📺 New #rstatsvideo: Create Symmetric Matrix in R (Example) | upper.tri() & lower.tri() Function | Data Set not Symmetric
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=cawOlDACjkM"
+UCCaChdLMTYMxyawR_Qf-kYA;LBU-Ew_IM7A;2022-12-07T15:55:28Z;"📺 New #rstatsvideo: Advanced R: Subsetting Part 1 (advr07 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LBU-Ew_IM7A"
+UCCaChdLMTYMxyawR_Qf-kYA;pXvqryklIg0;2022-12-07T18:11:14Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Basic Interactivity (mshiny04 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=pXvqryklIg0"
+UC7C4YZ-9itQW7Nl4RVKDflg;XlSxTlNww7I;2022-12-08T04:00:00Z;"📺 New #rstatsvideo: r2u - CRAN as Ubuntu Binaries with Dirk Eddelbuettel (12/7/2022)
+▶ Cleveland R User Group
+#rstats
+🔗 https://www.youtube.com/watch?v=XlSxTlNww7I"
+UC4_hSKmvUG4w0w270AH5bXQ;IVuVJuUc9Mw;2022-12-08T08:00:55Z;"📺 New #rstatsvideo: Advent of Code 2022 Day 08 in R, for novices
+▶ Derek Sollberger (@DerekSollberger)
+#rstats
+🔗 https://www.youtube.com/watch?v=IVuVJuUc9Mw"
+UC6LqpR5qBfNlQp5mVIVsthA;X0gku6K03N0;2022-12-08T14:30:06Z;"📺 New #rstatsvideo: {drawCell} Shiny app for drawing cells (biology) | Álvaro Sánchez | Interview with a Shiny Developer
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=X0gku6K03N0"
+UCyHEww8_SCdxZvEnkCfi55w;7N4np5zKM9w;2022-12-08T15:00:05Z;"📺 New #rstatsvideo: Sort Character Vector in R (3 Examples) | sort() & str_sort() Functions | Base R & stringr Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=7N4np5zKM9w"
+UCMdihazndR0f9XBoSXWqnYg;KHWd1btlFuQ;2022-12-08T16:58:49Z;"📺 New #rstatsvideo: R - Regression (9.1 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #regression #linear #data #science #education #stem #open #analytics #hierarchical #dummycoding #categorical #variables
+🔗 https://www.youtube.com/watch?v=KHWd1btlFuQ"
+UCN-OX45aSM1VtXkzocx8Ppg;U_ssaccrTe8;2022-12-08T17:34:04Z;"📺 New #rstatsvideo: Code Along: Using Data Science to Analyze ""Neoclassical Economics""
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=U_ssaccrTe8"
+UCCaChdLMTYMxyawR_Qf-kYA;YvT-knh1baA;2022-12-08T17:44:26Z;"📺 New #rstatsvideo: Advanced R: Debugging (advr06 22)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=YvT-knh1baA"
+UCCaChdLMTYMxyawR_Qf-kYA;jInkta2vZnA;2022-12-08T17:45:07Z;"📺 New #rstatsvideo: Bayes Rules! Posterior Inference & Prediction (bayes_rules03 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=jInkta2vZnA"
+UCCaChdLMTYMxyawR_Qf-kYA;Dohr28WYaX0;2022-12-08T17:46:02Z;"📺 New #rstatsvideo: R Packages: Other components & DESCRIPTION and NAMESPACE (rpkgs04 9 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Dohr28WYaX0"
+UC_R5smHVXRYGhZYDJsnXTwg;69xbQiOYy18;2022-12-09T00:20:34Z;"📺 New #rstatsvideo: R/Database: Using R at Scale on Database Data
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=69xbQiOYy18"
+UC2aSzSLSAKPhcYeBripRQJw;VTybOls3aPw;2022-12-09T05:27:03Z;"📺 New #rstatsvideo: chatGPT数据分析解读结果生成APA格式报告
+▶ DataSense
+🗣 🇨🇳
+#rstats #数据分析 #chatgpt #解读结果 #r语言
+🔗 https://www.youtube.com/watch?v=VTybOls3aPw"
+UCxQFEv8HNqM01DXzdQLCy6Q;PXzCvQHskJc;2022-12-09T09:05:25Z;"📺 New #rstatsvideo: admiral release 0.9.0 overview
+▶ pharmaverse
+#rstats
+🔗 https://www.youtube.com/watch?v=PXzCvQHskJc"
+UCCaChdLMTYMxyawR_Qf-kYA;tVTfTSdmWtY;2022-12-09T14:33:10Z;"📺 New #rstatsvideo: RWTF: Saving source and blank slates (rwtf01 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=tVTfTSdmWtY"
+UCT2TrH2M4zbRJZMH6iusyBQ;00lGhuANUJw;2022-12-09T14:47:40Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 1: Christina Fillmore. Why do I spend all my life formatting tables?
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=00lGhuANUJw"
+UCT2TrH2M4zbRJZMH6iusyBQ;37-HBiXGyVc;2022-12-09T14:47:40Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 2: Tom Mock. Introduction to Quarto
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=37-HBiXGyVc"
+UCT2TrH2M4zbRJZMH6iusyBQ;8HPpdv8crHo;2022-12-09T14:47:40Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 3: Ben Straub & Craig Gower-Page. How CI/CD enhances development of R packages
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=8HPpdv8crHo"
+UCT2TrH2M4zbRJZMH6iusyBQ;APMDOS4v9Hk;2022-12-09T14:47:40Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 2: Ross Farrugia. Breaking boundaries through open-source collaboration
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=APMDOS4v9Hk"
