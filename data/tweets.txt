@@ -17442,3 +17442,27 @@ UCT2TrH2M4zbRJZMH6iusyBQ;APMDOS4v9Hk;2022-12-09T14:47:40Z;"📺 New #rstatsvideo
 ▶ R in Pharma (@rinpharma)
 #rstats
 🔗 https://www.youtube.com/watch?v=APMDOS4v9Hk"
+UCT2TrH2M4zbRJZMH6iusyBQ;G1JVt0m9qOo;2022-12-09T14:47:40Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 3: Nicole Jones. Asynchronous Processing of Long-Running Tasks in Shiny
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=G1JVt0m9qOo"
+UCT2TrH2M4zbRJZMH6iusyBQ;QdMjn91KAYQ;2022-12-09T14:47:40Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 3: Max Kuhn. Three new things in tidymodels
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=QdMjn91KAYQ"
+UCT2TrH2M4zbRJZMH6iusyBQ;T-JgmG2zQDo;2022-12-09T14:47:40Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 1: Neetu Sangari & Melvin Munsaka. Advanced Visual Analytics for Safety Review
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=T-JgmG2zQDo"
+UCT2TrH2M4zbRJZMH6iusyBQ;ThmrFxQy0Dk;2022-12-09T14:47:40Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 2: Maya Gans. Bundling JS for your Shiiny app
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=ThmrFxQy0Dk"
+UCT2TrH2M4zbRJZMH6iusyBQ;Vo2v_Krqd_w;2022-12-09T14:47:40Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 3: Shannon Pileggi. Introducing gtreg – An R package to produce regulatory tables
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=Vo2v_Krqd_w"
+UCT2TrH2M4zbRJZMH6iusyBQ;ZfZpypQ1jSM;2022-12-09T14:47:40Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 2: Coline Zeballos & Doug Kelkhoff. Roche’s approach to software validation
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=ZfZpypQ1jSM"
