@@ -7072,7 +7072,7 @@ UCLIphG_4eXZqf4C6VBg8pUw;sJTd1jP7OUY;2022-02-28T14:56:27Z;"📺 New #rstatsvideo
 🗣 🇷🇺
 #rstats #языкr #tibble
 🔗 https://www.youtube.com/watch?v=sJTd1jP7OUY"
-UCyHEww8_SCdxZvEnkCfi55w;"NABFOjnnRmU";2022-02-28T15:00:46Z;"📺 New #rstatsvideo: Extract List Elements Conditionally in R (Example) | Select, Subset & Return Items | Filter Function
+UCyHEww8_SCdxZvEnkCfi55w;NABFOjnnRmU;2022-02-28T15:00:46Z;"📺 New #rstatsvideo: Extract List Elements Conditionally in R (Example) | Select, Subset & Return Items | Filter Function
 ▶ Statistics Globe (@JoachimSchork)
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom
@@ -17466,3 +17466,148 @@ UCT2TrH2M4zbRJZMH6iusyBQ;ZfZpypQ1jSM;2022-12-09T14:47:40Z;"📺 New #rstatsvideo
 ▶ R in Pharma (@rinpharma)
 #rstats
 🔗 https://www.youtube.com/watch?v=ZfZpypQ1jSM"
+UCT2TrH2M4zbRJZMH6iusyBQ;_nToEBDkEX8;2022-12-09T14:47:40Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 2: Ning Leng & Hye Soo Cho. R pilot submissions to FDA
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=_nToEBDkEX8"
+UCT2TrH2M4zbRJZMH6iusyBQ;bkKe_kC83iQ;2022-12-09T14:47:40Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 2: Harvey Lieberman. Lessons in developing Shiny frameworks
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=bkKe_kC83iQ"
+UCT2TrH2M4zbRJZMH6iusyBQ;eJnN0MjF6q0;2022-12-09T14:47:40Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 1: Seth Green. MeRGe – Ecosystem of open-source packages for Pharmacometrics
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=eJnN0MjF6q0"
+UCT2TrH2M4zbRJZMH6iusyBQ;ldZhVtKu2V0;2022-12-09T14:47:40Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 2: Will Harris. Assuring SDTM data quality with the sdtmchecks package
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=ldZhVtKu2V0"
+UCT2TrH2M4zbRJZMH6iusyBQ;2xV67Upaidc;2022-12-09T14:47:41Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 3: Eric Pena & Farooq Sabir. RStudio on Amazon SageMaker.
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=2xV67Upaidc"
+UCT2TrH2M4zbRJZMH6iusyBQ;WA5hReaI0v4;2022-12-09T14:47:41Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 2: Charlie Wright. Analysis & Visualization of large-scale drug combos w/ Shiny
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=WA5hReaI0v4"
+UCT2TrH2M4zbRJZMH6iusyBQ;iwMLX6alGcA;2022-12-09T14:47:41Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 1: Jenna Reps. PatientLevelPrediction
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=iwMLX6alGcA"
+UCT2TrH2M4zbRJZMH6iusyBQ;QhnC7CAQXoA;2022-12-09T14:49:45Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 2: Xiao Ni & Mike Stackhouse. Out-of-box secure data backend w/ R, Python, Shiny
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=QhnC7CAQXoA"
+UCT2TrH2M4zbRJZMH6iusyBQ;gEg0hnC6nww;2022-12-09T14:49:45Z;"📺 New #rstatsvideo: R/Pharma 2022 Day 3: Claus Dethlefsen. Co-existence of R and SAS for multiple imputation
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=gEg0hnC6nww"
+UCT2TrH2M4zbRJZMH6iusyBQ;9eod8MLF5ys;2022-12-09T14:53:36Z;"📺 New #rstatsvideo: Clinical Reporting in R (Day 1)
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=9eod8MLF5ys"
+UCT2TrH2M4zbRJZMH6iusyBQ;DNS1H9xGGhE;2022-12-09T14:53:36Z;"📺 New #rstatsvideo: How to Use a Complete JavaScript Toolchain in Your Shiny Development
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=DNS1H9xGGhE"
+UCT2TrH2M4zbRJZMH6iusyBQ;OcNzurpCCpY;2022-12-09T14:53:36Z;"📺 New #rstatsvideo: An intro to CI/CD for R packages
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=OcNzurpCCpY"
+UCT2TrH2M4zbRJZMH6iusyBQ;Ok4ARePys_E;2022-12-09T14:53:36Z;"📺 New #rstatsvideo: Using R to Derive Robust Insights from Real-World Health Care Data
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=Ok4ARePys_E"
+UCT2TrH2M4zbRJZMH6iusyBQ;_zm2GuSrZ14;2022-12-09T14:53:36Z;"📺 New #rstatsvideo: Building Production-Quality Shiny Applications
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=_zm2GuSrZ14"
+UCT2TrH2M4zbRJZMH6iusyBQ;e8S414QgNos;2022-12-09T14:53:36Z;"📺 New #rstatsvideo: How to Build Shiny Testing Architecture
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=e8S414QgNos"
+UCT2TrH2M4zbRJZMH6iusyBQ;hgE_aWMvd1Y;2022-12-09T14:53:36Z;"📺 New #rstatsvideo: Introducing {gtreg} - An R Package to Produce Regulatory Tables for Clinical Research
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=hgE_aWMvd1Y"
+UCT2TrH2M4zbRJZMH6iusyBQ;rYflZhFDSZQ;2022-12-09T14:53:36Z;"📺 New #rstatsvideo: Clinical Reporting in R (Day 2)
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=rYflZhFDSZQ"
+UCT2TrH2M4zbRJZMH6iusyBQ;zBm_NZ0VtKs;2022-12-09T14:53:36Z;"📺 New #rstatsvideo: Creating Submission-Quality Clinical Trial Reporting Tables in R With {rtables}
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=zBm_NZ0VtKs"
+UCT2TrH2M4zbRJZMH6iusyBQ;STpBxos_IXY;2022-12-09T14:53:37Z;"📺 New #rstatsvideo: Introduction to {shinyValidator}
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=STpBxos_IXY"
+UCT2TrH2M4zbRJZMH6iusyBQ;hxkTbnIXI-o;2022-12-09T14:53:37Z;"📺 New #rstatsvideo: How to Use {pointblank} to Understand, Validate, and Document your Data
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=hxkTbnIXI-o"
+UCT2TrH2M4zbRJZMH6iusyBQ;sgaT7QSEgM0;2022-12-09T14:53:37Z;"📺 New #rstatsvideo: Drill Down Summary Tables in Shiny with {tplyr}
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=sgaT7QSEgM0"
+UCT2TrH2M4zbRJZMH6iusyBQ;2Ar1sCItTbk;2022-12-09T14:53:38Z;"📺 New #rstatsvideo: A Hands-on Introduction to Quarto
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=2Ar1sCItTbk"
+UCyHEww8_SCdxZvEnkCfi55w;aanvG5YaluM;2022-12-09T15:00:01Z;"📺 New #rstatsvideo: Combine Columns to Remove NA Values (2 Examples) | Base R & dplyr | cbind(), na.omit() & unlist()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=aanvG5YaluM"
+UCZ2KQdo1-FhNRtEBYxai5Aw;VT-gw_VVP1E;2022-12-09T18:37:45Z;"📺 New #rstatsvideo: Statistical Methods Series:  Structural Equation Modeling
+▶ Ecological Forecasting (@eco4cast)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VT-gw_VVP1E"
+UCCaChdLMTYMxyawR_Qf-kYA;HpVfRDtcuSg;2022-12-09T19:31:07Z;"📺 New #rstatsvideo: Comp Genomics: Predictive Modeling with Supervised Machine Learning Part 2 (comp_genom01 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=HpVfRDtcuSg"
+UCT2TrH2M4zbRJZMH6iusyBQ;DLtHluzoNS4;2022-12-09T20:28:00Z;"📺 New #rstatsvideo: Coding Typical Clinical Processes Using R for the Entry Level Programmer
+▶ R in Pharma (@rinpharma)
+#rstats
+🔗 https://www.youtube.com/watch?v=DLtHluzoNS4"
+UC4_hSKmvUG4w0w270AH5bXQ;ofCeY13Qq98;2022-12-10T08:34:21Z;"📺 New #rstatsvideo: Advent of Code 2022 Day 10 in R, for novices
+▶ Derek Sollberger (@DerekSollberger)
+#rstats
+🔗 https://www.youtube.com/watch?v=ofCeY13Qq98"
+UCyHEww8_SCdxZvEnkCfi55w;wZlPXRP1OYo;2022-12-10T15:00:35Z;"📺 New #rstatsvideo: Convert Radian to Degree & Vice Versa (Examples) | Change Unit | as_units() Function | units Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=wZlPXRP1OYo"
+UCCaChdLMTYMxyawR_Qf-kYA;iXW6CaCEm9g;2022-12-10T15:22:09Z;"📺 New #rstatsvideo: usethis docs: Cohort 1 Introduction (pkgdocs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=iXW6CaCEm9g"
+UCCaChdLMTYMxyawR_Qf-kYA;iJahyHlPz0I;2022-12-10T18:23:18Z;"📺 New #rstatsvideo: R Packages: Cohort 5 Introduction (rpkgs05 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=iJahyHlPz0I"
+UCCaChdLMTYMxyawR_Qf-kYA;oK8-jMZTEdM;2022-12-10T19:55:21Z;"📺 New #rstatsvideo: Geospatial health: Spatial modeling of geostatistical data. Malaria in The Gambia (geohealth01 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=oK8-jMZTEdM"
+UCP8l94xtoemCH_GxByvTuFQ;j78_7tF7HSE;2022-12-11T08:00:24Z;"📺 New #rstatsvideo: TidyX Episode 127 | Fuzzy Wuzzy Joiny Tools
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown #joins
+🔗 https://www.youtube.com/watch?v=j78_7tF7HSE"
+UCW-epmIvjBEhhVXw_F0Nqbw;RDtaZWg5AoQ;2022-12-11T13:56:52Z;"📺 New #rstatsvideo: [서울R미트업] 2022년 9월 R기반 데이터저널리즘: 텍스트마이닝의 활용
+▶ 한국 R 사용자회
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=RDtaZWg5AoQ"
+UCyHEww8_SCdxZvEnkCfi55w;R5hFB7KZQSY;2022-12-11T15:00:12Z;"📺 New #rstatsvideo: Get Function Parameters as List in R (Example) | Save Arguments & Input | environment() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=R5hFB7KZQSY"
