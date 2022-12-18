@@ -17611,3 +17611,43 @@ UCyHEww8_SCdxZvEnkCfi55w;R5hFB7KZQSY;2022-12-11T15:00:12Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=R5hFB7KZQSY"
+UCCaChdLMTYMxyawR_Qf-kYA;Obv2UoVmKtk;2022-12-11T15:41:46Z;"📺 New #rstatsvideo: R4DS Project Club: Automated Resumes with R  (proj01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Obv2UoVmKtk"
+UCCaChdLMTYMxyawR_Qf-kYA;b91ZvatZ1Ug;2022-12-11T21:18:44Z;"📺 New #rstatsvideo: R for Data Science: Data import (r4ds08 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=b91ZvatZ1Ug"
+UCYNVcihAKkRW-bhzIrguvVw;WzJhWZQfhfU;2022-12-12T00:00:53Z;"📺 New #rstatsvideo: Population Pyramid in R
+▶ math et al
+🗣 🇬🇧
+#rstats #populationpyramid #populationpyramids #butterflychart #mathetal #demographicdata #censusdata #rstudio #populationpyramidr #analysis #code #age #demography
+🔗 https://www.youtube.com/watch?v=WzJhWZQfhfU"
+UC6LqpR5qBfNlQp5mVIVsthA;h-U_d7ajkw0;2022-12-12T13:10:56Z;"📺 New #rstatsvideo: {EuropeanaR} - A Shiny App Demo Exploring Europeana's Art Database | André Veríssimo
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=h-U_d7ajkw0"
+UCyHEww8_SCdxZvEnkCfi55w;_nk-zQglcMU;2022-12-12T15:00:28Z;"📺 New #rstatsvideo: Jitter & Position Dodge Simultaneously in ggplot2 Plot in R (Example) | Apply position_jitterdodge()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=_nk-zQglcMU"
+UCCaChdLMTYMxyawR_Qf-kYA;wU-g5vaXgCU;2022-12-12T17:49:27Z;"📺 New #rstatsvideo: Methods for Network Analysis: Calculating Network Size & Density/Affiliation Data (mnetanal01 9 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wU-g5vaXgCU"
+UCyHEww8_SCdxZvEnkCfi55w;YIpizY3QsKk;2022-12-13T15:00:27Z;"📺 New #rstatsvideo: Sort Column Based On Other Variable in R (3 Examples) | Order Data Frame Rows | order() & arrange()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=YIpizY3QsKk"
+UC3xfbCMLCw1Hh4dWop3XtHg;3R2u9nzojzg;2022-12-13T18:01:22Z;"📺 New #rstatsvideo: Why I stopped worrying and learned to love the API | Posit Community Meetup
+▶ Posit PBC (@posit_pbc)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=3R2u9nzojzg"
