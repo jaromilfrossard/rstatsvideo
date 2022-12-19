@@ -17651,3 +17651,32 @@ UC3xfbCMLCw1Hh4dWop3XtHg;3R2u9nzojzg;2022-12-13T18:01:22Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=3R2u9nzojzg"
+UCCaChdLMTYMxyawR_Qf-kYA;W9CoQ15NlOc;2022-12-13T20:02:09Z;"📺 New #rstatsvideo: Advanced R: Subsetting Part 2 + Control flow (advr07 4 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=W9CoQ15NlOc"
+UCCaChdLMTYMxyawR_Qf-kYA;dR7HRUm3QHs;2022-12-13T21:01:16Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Case study: ER injuries (mshiny04 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=dR7HRUm3QHs"
+UCCaChdLMTYMxyawR_Qf-kYA;AzjHnGJRxLY;2022-12-13T21:35:28Z;"📺 New #rstatsvideo: Modelado Tidy con R - 16. Reducción de Dimensionalidad (tmwr_es01) - Parte 2
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=AzjHnGJRxLY"
+UCSoUNu8x-HblqqOK_EwdZGw;dxDeotwylr8;2022-12-13T22:10:08Z;"📺 New #rstatsvideo: Making high-quality tables in R with the gt package: a conversation with Tom Mock
+▶ R for the Rest of Us (@rfortherest)
+#rstats #descript
+🔗 https://www.youtube.com/watch?v=dxDeotwylr8"
+UCcGXGFClRdnrwXsPHi7P4ZA;Gtz8ca_4hVg;2022-12-14T13:51:02Z;"📺 New #rstatsvideo: Quantile Regression as The Most Useful Alternative for Ordinary Linear Regression
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #machinelearning #clearlyexplained #datascience #dataanalysis
+🔗 https://www.youtube.com/watch?v=Gtz8ca_4hVg"
+UCyHEww8_SCdxZvEnkCfi55w;2PY8bEb0Cm8;2022-12-14T15:00:01Z;"📺 New #rstatsvideo: Calculate Difference Between Consecutive Data Frame Rows in R (Example) | diff() Subsequent Lines
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=2PY8bEb0Cm8"
