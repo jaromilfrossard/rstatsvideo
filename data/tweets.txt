@@ -17680,3 +17680,57 @@ UCyHEww8_SCdxZvEnkCfi55w;2PY8bEb0Cm8;2022-12-14T15:00:01Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=2PY8bEb0Cm8"
+UCMdihazndR0f9XBoSXWqnYg;pKJQNSaBUtE;2022-12-14T19:22:17Z;"📺 New #rstatsvideo: R - Regression (9.2 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #linear #regression #rstudio #assumptions #hierarchical #simultaneous #outliers #open #education #stem #data #science
+🔗 https://www.youtube.com/watch?v=pKJQNSaBUtE"
+UCKMekE_4UfWvZDuBWenG8WA;EYpuUKsGqPQ;2022-12-14T22:50:36Z;"📺 New #rstatsvideo: Why You Should NOT use parallel::detectCores() in R
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#rstats #parallelization #detectcores #availablecores #henrikbengtsson #errorinmakepsockcluster #errorinsocketaccept
+🔗 https://www.youtube.com/watch?v=EYpuUKsGqPQ"
+UCyHEww8_SCdxZvEnkCfi55w;SqEi-9_VZGw;2022-12-15T15:00:22Z;"📺 New #rstatsvideo: Test if Vector is Empty in R (Example) | length Function | Logical Condition whether Length is Zero
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=SqEi-9_VZGw"
+UCCaChdLMTYMxyawR_Qf-kYA;jV_0_jRhr64;2022-12-15T15:12:24Z;"📺 New #rstatsvideo: Probabilty 4 Data Science: Probability (prob4ds01 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=jV_0_jRhr64"
+UCCaChdLMTYMxyawR_Qf-kYA;d_pzz_AsoRQ;2022-12-15T15:12:49Z;"📺 New #rstatsvideo: Advanced R: Measuring performance (advr06 23)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=d_pzz_AsoRQ"
+UCCaChdLMTYMxyawR_Qf-kYA;vlHK-D24wd0;2022-12-15T15:13:12Z;"📺 New #rstatsvideo: R Packages: Dependencies: Mindset and Background (rpkgs04 11 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vlHK-D24wd0"
+UCx1vXgGDXc7BH7bI1KC_o7Q;BWxCDkevjAw;2022-12-15T23:10:00Z;"📺 New #rstatsvideo: Como adicionar letras de post-hoc aos gráficos feitos no R (ggplot2)
+▶ Fernanda Peres
+🗣 🇵🇹
+#rstats #bioestatística #estatística #estatísticadescritiva #ggplot #ggplot2 #rstudio #gráficos #gráfico #graph
+🔗 https://www.youtube.com/watch?v=BWxCDkevjAw"
+UC8bO8eVpfEK8LbqH0oxyc3Q;ko9vCHYJD7Q;2022-12-15T23:35:10Z;"📺 New #rstatsvideo: Creating Publication-Ready Summary Tables with {gtsummary}
+▶ R User Group at Harvard Data Science Initiative (@RUGatHDSI)
+#rstats
+🔗 https://www.youtube.com/watch?v=ko9vCHYJD7Q"
+UCyHEww8_SCdxZvEnkCfi55w;vKqe_5Oga6I;2022-12-16T15:00:28Z;"📺 New #rstatsvideo: Add Empty Row to Data Frame in R (Example) | nrow() Function | How to Append NA Values in New Line
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=vKqe_5Oga6I"
+UCCaChdLMTYMxyawR_Qf-kYA;Ep24XcQoqi4;2022-12-16T15:45:52Z;"📺 New #rstatsvideo: Bayes Rules! Simple Normal Regression (bayes_rules03 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Ep24XcQoqi4"
+UCCaChdLMTYMxyawR_Qf-kYA;LxOsSswRBTs;2022-12-16T15:46:25Z;"📺 New #rstatsvideo: RWTF: Project-oriented workflow (rwtf01 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LxOsSswRBTs"
