@@ -17734,3 +17734,40 @@ UCCaChdLMTYMxyawR_Qf-kYA;LxOsSswRBTs;2022-12-16T15:46:25Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=LxOsSswRBTs"
+UCDHzgi5BGU5F-LXxQIIOyDw;8iF-483Pf8w;2022-12-11T01:56:42Z;"📺 New #rstatsvideo: 【増補版】tidyverse は与えるだけでよい。支配されるという特権をだ！ （2022/12/20）
+▶ yutannihilationのチャンネル (仮) (@yutannihilation)
+#rstats #rstatsj
+🔗 https://www.youtube.com/watch?v=8iF-483Pf8w"
+UCyHEww8_SCdxZvEnkCfi55w;CKIlQWJTVLI;2022-12-17T15:00:06Z;"📺 New #rstatsvideo: Extract Dates from Time Series (2 Examples) | zoo & lubridate Packages | as.yearmon & date_decimal
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #rprogramming
+🔗 https://www.youtube.com/watch?v=CKIlQWJTVLI"
+UCAu9zxmEgQdWYkl84BiziSQ;bzrP5bOIyYI;2022-12-17T16:33:43Z;"📺 New #rstatsvideo: {dplyr} ile Veri Manipülasyonu - LearnR @estuveribilimi7706 @mustafa__cavus
+▶ Eskisehir R User Group (@eskisehiR_users)
+#rstats
+🔗 https://www.youtube.com/watch?v=bzrP5bOIyYI"
+UCCaChdLMTYMxyawR_Qf-kYA;MDKRcnkVGWk;2022-12-17T16:43:12Z;"📺 New #rstatsvideo: Comp Genomics: Predictive Modeling with Supervised Machine Learning Part 2 (comp_genom01 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=MDKRcnkVGWk"
+UCCaChdLMTYMxyawR_Qf-kYA;Mcc4X-Q6k8U;2022-12-17T16:43:39Z;"📺 New #rstatsvideo: Forecasting: Principles and Practice: Time series graphics (fpp02 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Mcc4X-Q6k8U"
+UCCaChdLMTYMxyawR_Qf-kYA;sVZeY_hLI5o;2022-12-17T16:44:02Z;"📺 New #rstatsvideo: usethis docs: GitHub and Pull Requests (pkgdocs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=sVZeY_hLI5o"
+UCCaChdLMTYMxyawR_Qf-kYA;WNIUmfvc5ws;2022-12-17T16:44:28Z;"📺 New #rstatsvideo: R Packages: The whole game(rpkgs05 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=WNIUmfvc5ws"
+UCAu9zxmEgQdWYkl84BiziSQ;Syv397Tke5s;2022-12-17T16:44:29Z;"📺 New #rstatsvideo: R Programlamaya Giriş - LearnR @estuveribilimi7706  @mustafa__cavus
+▶ Eskisehir R User Group (@eskisehiR_users)
+#rstats
+🔗 https://www.youtube.com/watch?v=Syv397Tke5s"
