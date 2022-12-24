@@ -17771,3 +17771,67 @@ UCAu9zxmEgQdWYkl84BiziSQ;Syv397Tke5s;2022-12-17T16:44:29Z;"📺 New #rstatsvideo
 ▶ Eskisehir R User Group (@eskisehiR_users)
 #rstats
 🔗 https://www.youtube.com/watch?v=Syv397Tke5s"
+UCPfMGYxAOm39sO8nuEMB96Q;hVDnzCcoZQ4;2022-12-17T16:50:39Z;"📺 New #rstatsvideo: Cómo se hace una Regresión Simple Robusta en RStudio
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #cómosehaceunaregresiónsimplerobustaenrstudio #regresiónsimplerobustaenrstudio
+🔗 https://www.youtube.com/watch?v=hVDnzCcoZQ4"
+UCP8l94xtoemCH_GxByvTuFQ;_fANrxbe8rk;2022-12-18T08:00:13Z;"📺 New #rstatsvideo: TidyX Episode 128 | Data formats as Data - AOC Day 1
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=_fANrxbe8rk"
+UCyHEww8_SCdxZvEnkCfi55w;MSSvswADly8;2022-12-18T15:00:11Z;"📺 New #rstatsvideo: Use Data Frame Row Index as X-Variable in ggplot2 Plot in R (Example) | nrow() Function & : Operator
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=MSSvswADly8"
+UCCaChdLMTYMxyawR_Qf-kYA;Tf1wyQojaQk;2022-12-18T18:14:26Z;"📺 New #rstatsvideo: R for Data Science: Workflow: scripts and projects (r4ds08 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Tf1wyQojaQk"
+UCyHEww8_SCdxZvEnkCfi55w;qbW18H7Pias;2022-12-19T15:00:33Z;"📺 New #rstatsvideo: How to Combine Character String & Expressions in Plot Text in R (2 Examples) | Base R vs. ggplot2
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=qbW18H7Pias"
+UCjXQyxs1iyEg5v98fezgT0w;TKRBkBI8Rbc;2022-12-20T14:00:20Z;"📺 New #rstatsvideo: Robust Multilevel Model in R (robust linear mixed effects model)
+▶ Regorz Statistik
+🗣 🇬🇧
+#rstats #robustmultilevelmodel #robustmultilevelregression #robusthierarchicallinearmodel #robusthlm
+🔗 https://www.youtube.com/watch?v=TKRBkBI8Rbc"
+UCN-OX45aSM1VtXkzocx8Ppg;7R57lt2-7dw;2022-12-20T14:49:23Z;"📺 New #rstatsvideo: Attempting to Solve the Productivity Paradox with R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=7R57lt2-7dw"
+UCyHEww8_SCdxZvEnkCfi55w;yJpgZrZKeZY;2022-12-20T15:00:30Z;"📺 New #rstatsvideo: Extract First & Last Word of Character String in R (3 Examples) | Base R & stringr | sub() & word()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=yJpgZrZKeZY"
+UC2-hKemnrmVCH_29duyJ26A;2ZuBVZMBKS8;2022-12-20T16:40:15Z;"📺 New #rstatsvideo: Danya Murali - You R an Analytics Engineer!
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2ZuBVZMBKS8"
+UCg4rv97QEhN-2gvLhrGMgEw;Tlyczg3jLKc;2022-12-20T18:07:58Z;"📺 New #rstatsvideo: Copie tabelas do R para o Excel com APENAS UM COMANDO! (Pacote Clipr)
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=Tlyczg3jLKc"
+UCyHEww8_SCdxZvEnkCfi55w;6K1tvMgJ4LE;2022-12-21T15:00:06Z;"📺 New #rstatsvideo: R Error in solve.default() : Lapack routine dgesv: system is exactly singular | How to Handle & Fix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=6K1tvMgJ4LE"
+UCMdihazndR0f9XBoSXWqnYg;5oirgr4iY18;2022-12-21T16:42:16Z;"📺 New #rstatsvideo: R - Regression (9.3 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #data #science #rstudio #analytics #regression #linear #hierarchical #simultaneous #outliers #assumptions #categorical
+🔗 https://www.youtube.com/watch?v=5oirgr4iY18"
+UC_R5smHVXRYGhZYDJsnXTwg;elhaZQ_KlUw;2022-12-21T18:19:01Z;"📺 New #rstatsvideo: BugSigDB: Accelerating Human Microbiome Research
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=elhaZQ_KlUw"
