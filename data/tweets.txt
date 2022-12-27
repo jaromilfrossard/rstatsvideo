@@ -17835,3 +17835,90 @@ UC_R5smHVXRYGhZYDJsnXTwg;elhaZQ_KlUw;2022-12-21T18:19:01Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rconsortium
 🔗 https://www.youtube.com/watch?v=elhaZQ_KlUw"
+UCg6kociUghEgKz_hLRKQrMQ;po2iBPiahJU;2022-12-21T21:44:57Z;"📺 New #rstatsvideo: Graficos de densidad bivariados en R - ggdensity
+▶ R Data Science School
+🗣 🇪🇸
+#rstats #learnr #tutorialr #ggplot2 #ggplot #ggdensity #densityplot #bivariatedensity #graphics #datavisualization
+🔗 https://www.youtube.com/watch?v=po2iBPiahJU"
+UC2aSzSLSAKPhcYeBripRQJw;i_DRiLd2yeQ;2022-12-22T02:14:02Z;"📺 New #rstatsvideo: chatGPT模拟R虚拟机做回归
+▶ DataSense
+🗣 🇨🇳
+#rstats #数据分析
+🔗 https://www.youtube.com/watch?v=i_DRiLd2yeQ"
+UC5FvzLMVNrTMW-ycrW-4KyA;tSxqnURNdFs;2022-12-22T05:48:58Z;"📺 New #rstatsvideo: 구독자들 문제 못 푸는게 좋아 죽는 유튜버ㅋㅋㅋ
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=tSxqnURNdFs"
+UCdrnsZd2xWjDjHUlYsA6Kfw;guvtF2__BFw;2022-12-22T06:26:53Z;"📺 New #rstatsvideo: RTUTOR.AI uses AI to write R code for you
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters #rstudio
+🔗 https://www.youtube.com/watch?v=guvtF2__BFw"
+UCMwM-3tg_-Pbx8hKO78q5EA;zyLT7akvc8s;2022-12-22T11:59:41Z;"📺 New #rstatsvideo: December 2022 Webinar: The R Workflow – Dr Ryan Johnson from Posit
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=zyLT7akvc8s"
+UCyHEww8_SCdxZvEnkCfi55w;FhP7Lt7f400;2022-12-22T15:00:18Z;"📺 New #rstatsvideo: Add Color to Region Between Two Lines in ggplot2 Line Plot in R (2 Examples) | Adjust Shading Area
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=FhP7Lt7f400"
+UCTXuqtCYxPVEehq6fJY9GkA;wsN-w6dZmXY;2022-12-22T15:34:37Z;"📺 New #rstatsvideo: Comentando o purrr 1.0.0
+▶ Curso-R (@curso_r)
+#rstats #purrr #tidyverse
+🔗 https://www.youtube.com/watch?v=wsN-w6dZmXY"
+UCHITDNNHzEXfD8AzSFQOh9A;6f-4ZFNGyJM;2022-12-22T17:01:41Z;"📺 New #rstatsvideo: Creando Tablas con Rstudio - Parte 1
+▶ R-Ladies Barranquilla
+🗣 🇪🇸
+#rstats #rstudio #gt #rstat #reactable
+🔗 https://www.youtube.com/watch?v=6f-4ZFNGyJM"
+UCCaChdLMTYMxyawR_Qf-kYA;4iYZ046PANY;2022-12-22T17:09:30Z;"📺 New #rstatsvideo: Bayes Rules! Evaluating Regression Models (bayes_rules03 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=4iYZ046PANY"
+UCCaChdLMTYMxyawR_Qf-kYA;tz2z9l41IhU;2022-12-22T17:58:43Z;"📺 New #rstatsvideo: Advanced R: Functions (advr07 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=tz2z9l41IhU"
+UCCaChdLMTYMxyawR_Qf-kYA;16qIoee5zGc;2022-12-22T18:00:00Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Workflow (mshiny04 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=16qIoee5zGc"
+UCCaChdLMTYMxyawR_Qf-kYA;rK7NRXBN18A;2022-12-22T18:01:03Z;"📺 New #rstatsvideo: R Packages: Dependencies: In Practice (rpkgs04 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=rK7NRXBN18A"
+UCCaChdLMTYMxyawR_Qf-kYA;JABxQRPg2TQ;2022-12-22T21:55:05Z;"📺 New #rstatsvideo: R for Data Science: Numbers (r4ds07 15)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=JABxQRPg2TQ"
+UCCaChdLMTYMxyawR_Qf-kYA;0u9zFmdD_h4;2022-12-22T21:56:48Z;"📺 New #rstatsvideo: Probabilty 4 Data Science: Probability Exercises (prob4ds01 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=0u9zFmdD_h4"
+UCyHEww8_SCdxZvEnkCfi55w;_5UkfX9Gb-Y;2022-12-23T15:00:31Z;"📺 New #rstatsvideo: Count Elements that Satisfy a Logical Condition in R (2 Examples) | How Many Entries? | sum Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=_5UkfX9Gb-Y"
+UCfJyQ3P2k_SuqfxVdqIEQNw;PC9fmlQAA0s;2022-12-23T16:22:09Z;"📺 New #rstatsvideo: Error Bars using R programming
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=PC9fmlQAA0s"
+UCax5WxTJvQjtS9elybDivbA;BJy-UrgYUEU;2022-12-24T03:18:34Z;"📺 New #rstatsvideo: Dealing with Categorical Variables in R #rstats #rstudio #olakunle4impact
+▶ Olakunle4impact (@olakunle4impact)
+#rstats #rstudio #olakunle4impact #tagng #theachieversgathering #nigeria #tag #rtutorials
+🔗 https://www.youtube.com/watch?v=BJy-UrgYUEU"
+UC5FvzLMVNrTMW-ycrW-4KyA;EDGu-KGa9rg;2022-12-24T05:47:21Z;"📺 New #rstatsvideo: [23년 최신] 기초 R 프로그래밍 2강 - 라이브러리 설치 경로 조정, RStudio 테마와 폰트 설치
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=EDGu-KGa9rg"
