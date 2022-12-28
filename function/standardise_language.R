@@ -19,6 +19,7 @@ standardise_language <- function(x){
     c("tr"),"tr",
     c("vi"),"vi",
     c("yo"),"yo",
+    c("zh"),"zh",
     c("zh-CN"),"zh_cn",
     c("zxx"),NA_character_)
   
@@ -62,6 +63,7 @@ language2emoji <- function(x){
                 "tr","\U001F1F9\U001F1F7",
                 "vi","\U001F1FB\U001F1F3",
                 "yo","Yoruba",
+                "zh","\U001F1E8\U001F1F3",
                 "zh_cn","\U001F1E8\U001F1F3")
   
   unknown <- which(!(x%in%tb$lang)&(!is.na(x)))

@@ -58,7 +58,7 @@ tb_channel <- readr::read_delim("data/list_channel.txt", delim=";",
 
 
 validate_new_channels()
-#validate_channel("UClHxi-ei0TXjC-0A0QXwMpg")
+#validate_channel("UC7C-2wTDdq_AmNfWixCAY3Q")
 
 
 #update channels videos

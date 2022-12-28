@@ -33,6 +33,7 @@ UCKFp00-PRnuc1Dx4DaUmJBg;Chad C. Williams;WilliamsNeuro
 UClLZ3QYloyXINc9LkcKtFLQ;Curtis Murray;curtis_w_murray
 UC7C4YZ-9itQW7Nl4RVKDflg;Cleveland R User Group;
 UCBYwP7mrBxJSZbPg-U3uR-A;CodeR;
+UCx4-5Eq6RJg3Dx9nrss7CsA;Code2night Persian;
 UC-vtwz7ueU2dtnHk5e-WblA;Colin Quirk;ColinTQuirk
 UCHCdYfAXVzJIUkMoMSGiZMw;Community of Bioinformatics Software Developers;CDSBMexico
 UCb_qPFrtCiD-0apuOqPmODQ;Confused Postdoc;
@@ -76,6 +77,7 @@ UCKv0Y6QDe7M_bK3fFVnfCIw;Emi Tanaka;statsgen
 UCAu9zxmEgQdWYkl84BiziSQ;Eskisehir R User Group;eskisehiR_users
 UC5w9xVTs77__zlEeRRQILpw;Federica Gazzelloni;FGazzelloni
 UCx1vXgGDXc7BH7bI1KC_o7Q;Fernanda Peres;
+UCrSOXB0bD_FZAZrgCl-fKjA;Florida Data Science Academy;
 UCJamxO-DE27EEZtWrNG34mA;Futbol AnalysR;FutbolAnalysR
 UCXuX-kQ1TbKHWeB75NgmhlA;Genomics Boot Camp;GaborM_ABG
 UCWPCd6tPtoLJYzQQ681pe5Q;ggnot2;
@@ -100,6 +102,7 @@ UCE2WK5bvNtDblu4NO9PGtJA;Jesse Mostipak;kierisi
 UC3mcThQVORlwCY4k1vB0FmQ;Jim Hester;jimhester_
 UCaonzTNPMjkxcBRqhe3qHyQ;Joe Guinness;JoeGuinnesss
 UCglOScwuzibyL19xqvWc4Ew;Joel Alcedo;joelalcedo1
+UCK3XKF6JfYPL_LnzddiQ30g;Jonathan K. Christopher;
 UCsqrrplF84DQckpGQuTKTMg;Jonathan Marshall;jmarshallnz
 UCLgFrIEoBbAg9WfqTmbxweQ;John Coene;jdatap
 UCB_noR4lYmbKJozwJuPStbg;John Little;john_little
@@ -149,12 +152,14 @@ UCxrh1zXhO2rL0t3Y5rSzWSw;Pascal Schmidt;pascy28
 UCu3UVZ1mLOYdsrrrnjjs8Pg;Patrick Mensah;patmensa39
 UC3YGwtENLTykphX-S00P4Jw;paulfharrison;paulfharrison
 UCxQFEv8HNqM01DXzdQLCy6Q;pharmaverse;
+UCCtRoQ5QVXsf4OwRir3EI9Q;Ph.D DuriDuri;
 UC3quDkWY1BBFasaIzaJUBXA;Practical Propensity Score Analysis;WalterLLeite1
 UCBsXfUO__nzMnlaLLUx7DFQ;Probability!;
 UC1NEZyGbSpcgBxcosNAjojA;Quick R Tutorials;
 UCljumcPvitx5W0OEC_Thk2Q;Rania Ismail;
 UCg6kociUghEgKz_hLRKQrMQ;R Data Science School;
 UCKHWHHzf3H79h2T0QWdR1Tw;R en Baires;renbaires
+UC7C-2wTDdq_AmNfWixCAY3Q;Red Mexicana Bioinformatica;
 UCZcd0Fp8o_FQVqf6AAoZzqA;R for students | Dr. Fahad;
 UCjXQyxs1iyEg5v98fezgT0w;Regorz Statistik;
 UC1A-TUhyfNOpHcNM8da6tJQ;Renzo Caceres Rossi;ARenzoCaceresR
@@ -232,6 +237,7 @@ UCF4fux_L7cMhA4ojOx8B1HQ;RLadies San José CR;rladies_sjcr
 UCOFcXLjW9atcEuCa5kbOPSw;RLadies Santa Fe;RLadiesSantaFe
 UCU3ePTnZQurDkYgPK61DAOw;RLadies São Paulo;RLadiesSaoPaulo
 UCkrf5iL8ef1QHe--zstechA;RLadies Sydney;RLadiesSydney
+UCjNXtKLVdEpImICqNERE9cQ;R Para Todos;
 UCv3be7W260HXd2BoK9KihMQ;ronak shah;shahronak47
 UC3xfbCMLCw1Hh4dWop3XtHg;Posit PBC;posit_pbc
 UCISHpKq_20peU3G1xwtXjjQ;Samer Hijjazi;SamerHijjazi

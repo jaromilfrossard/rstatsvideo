@@ -17922,3 +17922,77 @@ UC5FvzLMVNrTMW-ycrW-4KyA;EDGu-KGa9rg;2022-12-24T05:47:21Z;"📺 New #rstatsvideo
 🗣 🇰🇷
 #rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
 🔗 https://www.youtube.com/watch?v=EDGu-KGa9rg"
+UCCtRoQ5QVXsf4OwRir3EI9Q;ZE4uKXFp6wg;2022-12-10T11:38:29Z;"📺 New #rstatsvideo: 기술통계분석
+▶ Ph.D DuriDuri
+🗣 🇨🇳
+#rstats
+🔗 https://www.youtube.com/watch?v=ZE4uKXFp6wg"
+UCjNXtKLVdEpImICqNERE9cQ;THlIiyK2PKI;2022-12-10T16:11:12Z;"📺 New #rstatsvideo: La forma fácil de centrar títulos de las gráficas en R con ggplot2
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #centrareltítulodelagráfica #centrartitulodegraficaenr #centrartitulo #centralizartitulo #tituloenmedio
+🔗 https://www.youtube.com/watch?v=THlIiyK2PKI"
+UCrSOXB0bD_FZAZrgCl-fKjA;uf_9QWlFcbw;2022-12-11T00:00:30Z;"📺 New #rstatsvideo: R - Intro to Data Science Class 1 (Pt.4)
+▶ Florida Data Science Academy
+#rstats #rstudio #datascience #analytics
+🔗 https://www.youtube.com/watch?v=uf_9QWlFcbw"
+UCCtRoQ5QVXsf4OwRir3EI9Q;OZ2Gt78ZkYY;2022-12-11T00:55:25Z;"📺 New #rstatsvideo: R을 활용한 데이터 분석, R 프로그래밍, R 통계, 상관관계분석, R Programming, R Statistics, correlation analysis
+▶ Ph.D DuriDuri
+🗣 🇨🇳
+#rstats
+🔗 https://www.youtube.com/watch?v=OZ2Gt78ZkYY"
+UCCtRoQ5QVXsf4OwRir3EI9Q;9C2nnuTkifs;2022-12-11T01:19:14Z;"📺 New #rstatsvideo: R을 활용한 데이터 분석, R 프로그래밍, R 통계, 평균비교, t 검정, R Programming, R Statistics, t-test
+▶ Ph.D DuriDuri
+🗣 🇨🇳
+#rstats
+🔗 https://www.youtube.com/watch?v=9C2nnuTkifs"
+UCjNXtKLVdEpImICqNERE9cQ;SB5FrG8DOVE;2022-12-13T14:00:09Z;"📺 New #rstatsvideo: Aclaro dudas sobre filtrar y recodificar datos en R
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #filtraryrecodificardatosenr #filtrarenr #filtrarr #filtrardatosr #filtrarfilasr #filtrarcolumnasr #trabajarconfechasenr
+🔗 https://www.youtube.com/watch?v=SB5FrG8DOVE"
+UCCtRoQ5QVXsf4OwRir3EI9Q;YX67wgmgf6o;2022-12-16T23:59:10Z;"📺 New #rstatsvideo: R을 활용한 데이터 분석, R 프로그래밍, R 통계, 데이터 정제, 결측치, R Programming, R Statistics, data cleaning, missing data
+▶ Ph.D DuriDuri
+🗣 🇨🇳
+#rstats
+🔗 https://www.youtube.com/watch?v=YX67wgmgf6o"
+UCCtRoQ5QVXsf4OwRir3EI9Q;GVlkWNgrZQo;2022-12-17T00:07:21Z;"📺 New #rstatsvideo: R을 활용한 데이터 분석, R 프로그래밍, R 통계, 데이터 정제, 이상치, R programming, R statistics, data cleaning, outliers
+▶ Ph.D DuriDuri
+🗣 🇨🇳
+#rstats
+🔗 https://www.youtube.com/watch?v=GVlkWNgrZQo"
+UCCtRoQ5QVXsf4OwRir3EI9Q;xeJv8Xptu5A;2022-12-17T15:29:42Z;"📺 New #rstatsvideo: R을 활용한 데이터 분석, R 프로그래밍, R 통계, 데이터 정제1, 데이터 전처리, R programming, R statistics, data cleaning part1
+▶ Ph.D DuriDuri
+🗣 🇨🇳
+#rstats
+🔗 https://www.youtube.com/watch?v=xeJv8Xptu5A"
+UCCtRoQ5QVXsf4OwRir3EI9Q;YixCZw7z4h4;2022-12-17T16:54:24Z;"📺 New #rstatsvideo: R을 활용한 데이터 분석, R 프로그래밍, R 통계, 데이터 정제2, 데이터 전처리2, R programming, R statistics, data cleaning part2
+▶ Ph.D DuriDuri
+🗣 🇨🇳
+#rstats
+🔗 https://www.youtube.com/watch?v=YixCZw7z4h4"
+UCrSOXB0bD_FZAZrgCl-fKjA;GzV4E0OQTEA;2022-12-17T17:00:16Z;"📺 New #rstatsvideo: R - Intro to Data Science Class 1 (Full)
+▶ Florida Data Science Academy
+#rstats #rstudio #datascience #analytics
+🔗 https://www.youtube.com/watch?v=GzV4E0OQTEA"
+UCK3XKF6JfYPL_LnzddiQ30g;kzTj4NQhcv8;2022-12-20T14:37:54Z;"📺 New #rstatsvideo: How to import FRED data in R (with an API)
+▶ Jonathan K. Christopher
+#rstats
+🔗 https://www.youtube.com/watch?v=kzTj4NQhcv8"
+UCjNXtKLVdEpImICqNERE9cQ;CIAbHnsfj4A;2022-12-20T20:00:03Z;"📺 New #rstatsvideo: Mejora en R con la ayuda de Inteligencia Artificial (ChatGPT AI)
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #mejorarenr #usarinteligenciaartificialenr #rconchatgpt #programandoconinteligenciaartificial
+🔗 https://www.youtube.com/watch?v=CIAbHnsfj4A"
+UCK3XKF6JfYPL_LnzddiQ30g;h8KOjnpZQhY;2022-12-21T14:48:22Z;"📺 New #rstatsvideo: How to Import Stock Prices in R (with quantmod)
+▶ Jonathan K. Christopher
+#rstats
+🔗 https://www.youtube.com/watch?v=h8KOjnpZQhY"
+UCK3XKF6JfYPL_LnzddiQ30g;pXUgQiWylwI;2022-12-21T14:50:28Z;"📺 New #rstatsvideo: Get %Change for Stock Prices in R
+▶ Jonathan K. Christopher
+#rstats
+🔗 https://www.youtube.com/watch?v=pXUgQiWylwI"
+UCK3XKF6JfYPL_LnzddiQ30g;ucZGLp6ec98;2022-12-21T14:51:13Z;"📺 New #rstatsvideo: Fama-French 3 Factor Regression in R
+▶ Jonathan K. Christopher
+#rstats
+🔗 https://www.youtube.com/watch?v=ucZGLp6ec98"
