@@ -17996,3 +17996,50 @@ UCK3XKF6JfYPL_LnzddiQ30g;ucZGLp6ec98;2022-12-21T14:51:13Z;"📺 New #rstatsvideo
 ▶ Jonathan K. Christopher
 #rstats
 🔗 https://www.youtube.com/watch?v=ucZGLp6ec98"
+UCP8l94xtoemCH_GxByvTuFQ;IX-FX9BczTw;2022-12-24T08:00:07Z;"📺 New #rstatsvideo: TidyX Episode 129 | Snowflake Generator
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=IX-FX9BczTw"
+UCyHEww8_SCdxZvEnkCfi55w;Zc1INlkcdHo;2022-12-24T15:00:31Z;"📺 New #rstatsvideo: Adjust binwidth of ggplot2 Histogram in R (2 Examples) | How to Increase & Decrease Width of Bars
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Zc1INlkcdHo"
+UCx4-5Eq6RJg3Dx9nrss7CsA;4zUFwGdAGLQ;2022-12-24T15:37:34Z;"📺 New #rstatsvideo: حل تمرین | دستورات شرطی و حلقه تکرار| برنامه نویسی آر | دوره آنلاین
+▶ Code2night Persian
+🗣 🇮🇷
+#rstats #برنامهنویسی #برنامهنویسیآر #برنامهنویسیr #زبانبرنامهنویسیr #آموزشبرنامهنویسی #برنامهنویسیآنلاین
+🔗 https://www.youtube.com/watch?v=4zUFwGdAGLQ"
+UCyHEww8_SCdxZvEnkCfi55w;pm_TK0CSoc0;2022-12-25T15:00:32Z;"📺 New #rstatsvideo: R merge Error in fix.by(by.y, y) : ‘by’ must specify a uniquely valid column | How to Avoid & Fix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=pm_TK0CSoc0"
+UCfJyQ3P2k_SuqfxVdqIEQNw;XoApM8QrPl8;2022-12-26T11:33:40Z;"📺 New #rstatsvideo: Group by and Summarise functions in R programming - use the tidyverse package to wrangle your data
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=XoApM8QrPl8"
+UCyHEww8_SCdxZvEnkCfi55w;84CHYtrl4Ac;2022-12-26T15:00:03Z;"📺 New #rstatsvideo: Add New Column to Front of Data Frame (2 Examples) | First Index | data.frame() vs. cbind() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=84CHYtrl4Ac"
+UCx4-5Eq6RJg3Dx9nrss7CsA;fHhA1L4kRlY;2022-12-27T10:07:41Z;"📺 New #rstatsvideo: ماتریس و دیتا فریم | برنامه نویسی آر | دوره آنلاین
+▶ Code2night Persian
+🗣 🇮🇷
+#rstats #برنامهنویسی #برنامهنویسیآر #برنامهنویسیr #زبانبرنامهنویسیr #آموزشبرنامهنویسی #برنامهنویسیآنلاین #آموزشبرنامهنویسیآر
+🔗 https://www.youtube.com/watch?v=fHhA1L4kRlY"
+UCyHEww8_SCdxZvEnkCfi55w;zJp9wVWYSY0;2022-12-27T15:00:26Z;"📺 New #rstatsvideo: Calculate Group Mean & Add as New Column to Data Frame (3 Examples) | dplyr & data.table Packages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=zJp9wVWYSY0"
+UCrSOXB0bD_FZAZrgCl-fKjA;m4t1ZV39Nj0;2022-12-27T15:00:59Z;"📺 New #rstatsvideo: R - Intro to Data Science Class 2 (Pt.1)
+▶ Florida Data Science Academy
+#rstats #rstudio #datascience #analytics
+🔗 https://www.youtube.com/watch?v=m4t1ZV39Nj0"
+UCjNXtKLVdEpImICqNERE9cQ;gWW0BoIjOEA;2022-12-27T20:00:21Z;"📺 New #rstatsvideo: Convierte tu código de Python a R o viceversa usando Inteligencia Artificial (ChatGPT AI)
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #códigodepythonar #pythonar #rapython #pythonarconinteligenciaartificial
+🔗 https://www.youtube.com/watch?v=gWW0BoIjOEA"
