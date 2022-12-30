@@ -18043,3 +18043,41 @@ UCjNXtKLVdEpImICqNERE9cQ;gWW0BoIjOEA;2022-12-27T20:00:21Z;"📺 New #rstatsvideo
 🗣 🇪🇸
 #rstats #códigodepythonar #pythonar #rapython #pythonarconinteligenciaartificial
 🔗 https://www.youtube.com/watch?v=gWW0BoIjOEA"
+UCyHEww8_SCdxZvEnkCfi55w;DlK52hgh3RY;2022-12-28T15:00:06Z;"📺 New #rstatsvideo: R Error : ‘names’ attribute must be the same length as the vector | Reproduce & Debug Error Message
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #rprogramming #statistics
+🔗 https://www.youtube.com/watch?v=DlK52hgh3RY"
+UCrSOXB0bD_FZAZrgCl-fKjA;bUKg9Eu7Z3o;2022-12-28T15:13:09Z;"📺 New #rstatsvideo: R - Intro to Data Science Class 2 (Pt.2)
+▶ Florida Data Science Academy
+#rstats #rstudio #datascience #analytics
+🔗 https://www.youtube.com/watch?v=bUKg9Eu7Z3o"
+UCjNXtKLVdEpImICqNERE9cQ;nPykik6cK1I;2022-12-28T20:00:15Z;"📺 New #rstatsvideo: Interpretar resultados de R con Inteligencia Artificial (ChatGPT)
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #resultadosderconinteligenciaartificial #mejorarenr #usarinteligenciaartificialenr #rconchatgpt
+🔗 https://www.youtube.com/watch?v=nPykik6cK1I"
+UC5FvzLMVNrTMW-ycrW-4KyA;BkIGFlaFqjs;2022-12-29T08:15:00Z;"📺 New #rstatsvideo: [23년 최신] 기초 R 프로그래밍 3강 - 코드 실행방법, 기본 연산자 이해, 기본 함수 사용법
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=BkIGFlaFqjs"
+UCdrnsZd2xWjDjHUlYsA6Kfw;QQfDTLExoNU;2022-12-29T09:24:44Z;"📺 New #rstatsvideo: Adding Chat GPT to RStudio with the GPT Studio add-in package
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle
+🔗 https://www.youtube.com/watch?v=QQfDTLExoNU"
+UCyHEww8_SCdxZvEnkCfi55w;cvVKxRYGIlg;2022-12-29T15:00:17Z;"📺 New #rstatsvideo: Specify Different Colors for Points that are Connected by Lines in a ggplot2 Plot in R (Example)
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=cvVKxRYGIlg"
+UCg6kociUghEgKz_hLRKQrMQ;Hk-M-uKFHJU;2022-12-29T15:06:51Z;"📺 New #rstatsvideo: Comparando Data sets como Detective en R! - Package tablecompare
+▶ R Data Science School
+#rstats #learnr #tutorialr #tablecompare #datatable #dataframe #dataquality #datawrangling
+🔗 https://www.youtube.com/watch?v=Hk-M-uKFHJU"
+UCyHEww8_SCdxZvEnkCfi55w;zRxRHW-jxYc;2022-12-30T15:00:39Z;"📺 New #rstatsvideo: Error in model.frame.default : ‘data’ must be a data.frame, environment, or list | How to Handle
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=zRxRHW-jxYc"
