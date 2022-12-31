@@ -18081,3 +18081,33 @@ UCyHEww8_SCdxZvEnkCfi55w;zRxRHW-jxYc;2022-12-30T15:00:39Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=zRxRHW-jxYc"
+UC2-hKemnrmVCH_29duyJ26A;ULm9BiTJDjI;2019-03-26T15:07:01Z;"📺 #rstatsvideo: Proximity Matching with Random Forests
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ULm9BiTJDjI"
+UCOOcd7f7eJTDNxKLde3lfOQ;9EpBSvI71wg;2020-09-05T00:05:42Z;"📺 #rstatsvideo: De Excel a R - un paso para incrementar eficacia y productividad
+▶ Data Latam (@datalatam)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=9EpBSvI71wg"
+UCyHEww8_SCdxZvEnkCfi55w;lDZKypo0Grk;2021-01-13T15:00:17Z;"📺 #rstatsvideo: Count Number of Characters in String in R (2 Examples) | Find Length of Strings | nchar & str_length
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=lDZKypo0Grk"
+UCcGXGFClRdnrwXsPHi7P4ZA;M7eNYbd4n1Y;2021-02-13T08:13:39Z;"📺 #rstatsvideo: R package reviews | dlookr | diagnose, explore and repair your data quick!
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #statistics #machinelearning #datascience #dataanalysis #forbeginners #artificialintelligence
+🔗 https://www.youtube.com/watch?v=M7eNYbd4n1Y"
+UCCaChdLMTYMxyawR_Qf-kYA;aniKrZrr4aU;2021-03-06T19:32:53Z;"📺 #rstatsvideo: Advanced R Book Club: Chapter 19: Quasiquotation (2021-02-22) (advr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=aniKrZrr4aU"
+UCx1vXgGDXc7BH7bI1KC_o7Q;OvfhgxMQoEc;2021-05-19T01:00:03Z;"📺 #rstatsvideo: Tamanhos de efeito para dois grupos pareados no R
+▶ Fernanda Peres
+🗣 🇵🇹
+#rstats #bioestatística #rstudio #estatística #estatísticaaplicada #testet #ddecohen #cohensd #gdehedges #hedgesg #deltadeglass #glassdelta
+🔗 https://www.youtube.com/watch?v=OvfhgxMQoEc"
