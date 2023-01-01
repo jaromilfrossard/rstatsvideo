@@ -18111,3 +18111,30 @@ UCx1vXgGDXc7BH7bI1KC_o7Q;OvfhgxMQoEc;2021-05-19T01:00:03Z;"📺 #rstatsvideo: Ta
 🗣 🇵🇹
 #rstats #bioestatística #rstudio #estatística #estatísticaaplicada #testet #ddecohen #cohensd #gdehedges #hedgesg #deltadeglass #glassdelta
 🔗 https://www.youtube.com/watch?v=OvfhgxMQoEc"
+UCIwS122xl4mjhw5TdK_K9Rw;LSUMqTTwVzk;2020-07-12T10:31:54Z;"📺 #rstatsvideo: Step 5: Vectorized Operation vs Loop Operation
+▶ R in Action (@Parag52659626)
+#rstats #datascience #machinelearning #rforbeginners #learnrstepbystep #vectorization #basicsofr
+🔗 https://www.youtube.com/watch?v=LSUMqTTwVzk"
+UCyHEww8_SCdxZvEnkCfi55w;OoKmsE6sQnc;2022-12-31T15:00:17Z;"📺 New #rstatsvideo: Replace NA Values by Row Mean in R (Example) | Exchange & Substitute Missings | rowMeans() & is.na()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=OoKmsE6sQnc"
+UCx4-5Eq6RJg3Dx9nrss7CsA;bkvs8YjTlb0;2023-01-01T05:30:06Z;"📺 New #rstatsvideo: حل تمرین | ماتریس و دیتا فریم | برنامه نویسی آر | دوره آنلاین
+▶ Code2night Persian
+🗣 🇮🇷
+#rstats #برنامهنویسی #برنامهنویسیآر #برنامهنویسیr #زبانبرنامهنویسیr #آموزشبرنامهنویسی #برنامهنویسیآنلاین
+🔗 https://www.youtube.com/watch?v=bkvs8YjTlb0"
+UCbck9jjLpwj7U6HHNps_9Gw;ulgaacnUQ8M;2018-05-22T08:41:29Z;"📺 #rstatsvideo: R Shiny Tutorial | shinydashboard package | add style to box in dashboard body (6)
+▶ Abhinav Agrawal (@abhiag30)
+#rstats #rshiny #rshinytutorial #shinydashboard #rshinydashboard #dashboardinshiny
+🔗 https://www.youtube.com/watch?v=ulgaacnUQ8M"
+UCfoktGmvJ6rnME7mSP_Ww2g;LeSSIEOGHuw;2020-07-27T18:10:47Z;"📺 #rstatsvideo: R-Ladies Tunis | Cristina Muschitiella : Parameterization and Generalization of R-Markdown documents
+▶ R-Ladies Tunis (@RLadiesTunis)
+#rstats
+🔗 https://www.youtube.com/watch?v=LeSSIEOGHuw"
+UCCaChdLMTYMxyawR_Qf-kYA;wSLqq89_utQ;2021-05-26T16:39:00Z;"📺 #rstatsvideo: Tidy Modeling with R Book Club: Chapter 8 (Feature engineering with recipes) (2021-05-24) (tmwr03)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wSLqq89_utQ"
