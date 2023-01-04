@@ -18138,3 +18138,64 @@ UCCaChdLMTYMxyawR_Qf-kYA;wSLqq89_utQ;2021-05-26T16:39:00Z;"📺 #rstatsvideo: Ti
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=wSLqq89_utQ"
+UCysnKC1GQycHyOSZ_7Ob9vw;aYRSd4LW39w;2023-01-01T12:52:15Z;"📺 New #rstatsvideo: How to connect to chatGPT with R
+▶ R for Ecologists (@lukanegoita)
+🗣 🇬🇧
+#rstats #learnr #rcode #rlanguage #rprogramming #rprogramminglanguage #rprogrammingtutorial #rstatistics #rtutorial #rstudio #simpler
+🔗 https://www.youtube.com/watch?v=aYRSd4LW39w"
+UCyHEww8_SCdxZvEnkCfi55w;g6A4_30CxnY;2023-01-01T15:00:16Z;"📺 New #rstatsvideo: Create Character String with Quotes in R (Examples) | Single & Double Quotation Marks | cat Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=g6A4_30CxnY"
+UCTXUFl30vDC32UrohjWB8kQ;rphrFDf00mk;2023-01-02T07:00:24Z;"📺 New #rstatsvideo: An introduction to Quarto!
+▶ Matthew Peterson (@ecomattp)
+#rstats
+🔗 https://www.youtube.com/watch?v=rphrFDf00mk"
+UCrSOXB0bD_FZAZrgCl-fKjA;qvOwRB01aQ4;2023-01-02T10:11:09Z;"📺 New #rstatsvideo: R - Intro to Data Science Class 2 (Pt.3)
+▶ Florida Data Science Academy
+#rstats #rstudio #datascience #analytics
+🔗 https://www.youtube.com/watch?v=qvOwRB01aQ4"
+UCyHEww8_SCdxZvEnkCfi55w;d_EWSjYEogk;2023-01-02T15:00:30Z;"📺 New #rstatsvideo: Set Color by Group in ggplot2 Plot in R | Modify Colors of Single & All Geoms | scale_color_manual()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=d_EWSjYEogk"
+UCjXQyxs1iyEg5v98fezgT0w;zmiusFslv-Y;2023-01-03T08:00:20Z;"📺 New #rstatsvideo: SEM lavaan 4: Faktorwerte
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #semlavaanfaktorwerte #semlavaanfactorscores #lavaanfaktorwerte #lavaanfactorscores
+🔗 https://www.youtube.com/watch?v=zmiusFslv-Y"
+UCrxjf_pqTZKMdAuU-WbkENA;OpdScvJKo4Y;2021-04-23T13:40:10Z;"📺 #rstatsvideo: LIVE: Learning Bayesian Cognitive Modeling | day 22
+▶ Kianté Fernandez
+#rstats
+🔗 https://www.youtube.com/watch?v=OpdScvJKo4Y"
+UCyHEww8_SCdxZvEnkCfi55w;Hzs47Mnk30g;2023-01-03T15:00:08Z;"📺 New #rstatsvideo: Add Line Segment & Curve to ggplot2 Plot in R (Examples) | geom_segment() & geom_curve() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Hzs47Mnk30g"
+UCCaChdLMTYMxyawR_Qf-kYA;AbdcI57vbcg;2023-01-03T21:30:36Z;"📺 New #rstatsvideo: Advanced R: Functions Part 2 (advr07 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=AbdcI57vbcg"
+UCyHEww8_SCdxZvEnkCfi55w;JpGPpsS0W5U;2023-01-04T15:00:11Z;"📺 New #rstatsvideo: How to Sum a List of Matrices in R (Example) | Add Values of Matrix Object | Apply Reduce() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=JpGPpsS0W5U"
+UCfJyQ3P2k_SuqfxVdqIEQNw;WfvBXMkm3as;2023-01-04T15:21:30Z;"📺 New #rstatsvideo: Separate and Unite - manipulate your data with R programming
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=WfvBXMkm3as"
+UC2-hKemnrmVCH_29duyJ26A;GnV9H0z5UzI;2023-01-04T16:22:37Z;"📺 New #rstatsvideo: Shirley Han - Using Quarto to Write and Update Reports
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GnV9H0z5UzI"
+UC2-hKemnrmVCH_29duyJ26A;Ear-MfqjANI;2023-01-04T16:22:46Z;"📺 New #rstatsvideo: Asmae Toumi - Using Data and R to Deliver Evidence-Based Care for the Opioid Crisis
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Ear-MfqjANI"
