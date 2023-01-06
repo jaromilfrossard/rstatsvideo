@@ -43,6 +43,7 @@ UCRj2c2p6aoUdbW4R7IBYHqw;Daniel Baller;danielpballer
 UC93s4srvbDK8B9sPskLErfw;Daniel Bonneau;
 UCMWyr3KjOVAjTxksGQIowuw;Daniel Quintana;dsquintana
 UCpChnrrdbK01nPipBvmD1pA;Daniel Sjoberg;statistishdan
+UCYWBlijAB6IOpHIwsb3cecA;Danny Arends;DannyArends
 UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
 UCeYbe13SKAaIyuXtO1_cbpA;DASA.VicUni;
 UC0dgTZhVua-2yvtWDfPA_nQ;Data Centric Inc.;

@@ -18199,3 +18199,156 @@ UC2-hKemnrmVCH_29duyJ26A;Ear-MfqjANI;2023-01-04T16:22:46Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=Ear-MfqjANI"
+UC2-hKemnrmVCH_29duyJ26A;AEl8O5HlcaI;2023-01-04T16:22:57Z;"📺 New #rstatsvideo: Marck Vaisman - Leaping from Your Workstation to Production
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=AEl8O5HlcaI"
+UC2-hKemnrmVCH_29duyJ26A;shADSWhoIoo;2023-01-04T16:23:03Z;"📺 New #rstatsvideo: Alex Gold - Avoid App Failures Through Code Promotion
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=shADSWhoIoo"
+UC2-hKemnrmVCH_29duyJ26A;rKit_jfNi1U;2023-01-04T16:23:09Z;"📺 New #rstatsvideo: Dusty Turner - ""Win"" Your Fantasy Football Auction Draft with Integer Programming and R
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=rKit_jfNi1U"
+UC2-hKemnrmVCH_29duyJ26A;QQBe5Q56H-c;2023-01-04T16:23:33Z;"📺 New #rstatsvideo: Kim Ky - Evaluating the Minneapolis 2040 Comprehensive Plan with Synthetic Control Method
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=QQBe5Q56H-c"
+UCxB1IGhLzlEOikTL-aDwqFg;XD_ZwgbxcCw;2020-10-16T00:49:21Z;"📺 #rstatsvideo: [2020-10-02] New Developments: RStudio & Bioconductor
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #rstudio14 #recount3 #megadepth
+🔗 https://www.youtube.com/watch?v=XD_ZwgbxcCw"
+UCyHEww8_SCdxZvEnkCfi55w;viTxxTOtLew;2021-06-11T14:00:31Z;"📺 #rstatsvideo: Catch Integer 0 in R | Identify Empty Data Object | Create Own Function | length, is.integer, ifelse
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=viTxxTOtLew"
+UC2-hKemnrmVCH_29duyJ26A;BZaVkSmy-Jo;2023-01-04T16:23:45Z;"📺 New #rstatsvideo: Maxine Drake - Working with Databases in the Army with the Help of Shiny Applications
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=BZaVkSmy-Jo"
+UC2-hKemnrmVCH_29duyJ26A;8NV5MxcaWR4;2023-01-04T16:23:48Z;"📺 New #rstatsvideo: Tyler Morgan-Wall - Building an Entire City in R: Interactive 3D Data Visualization with Rayrender
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=8NV5MxcaWR4"
+UCvoAaXbImj95zwgdguxbrPA;tiL-gZgN9Qk;2021-04-30T17:10:32Z;"📺 #rstatsvideo: How to extract data from images using the juicr package for R
+▶ LajeunesseLab (@LajeunesseLab)
+🗣 🇬🇧
+#rstats #plotdigitizer #extractdatafromimages #dataextractionfromplots #webplotdigitizer #juicr #rpackage
+🔗 https://www.youtube.com/watch?v=tiL-gZgN9Qk"
+UCTXuqtCYxPVEehq6fJY9GkA;IPkJGcE51LM;2021-09-23T12:50:24Z;"📺 #rstatsvideo: Unboxing de Pacotes do R
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=IPkJGcE51LM"
+UC3xfbCMLCw1Hh4dWop3XtHg;5bVVX7mzOk8;2023-01-04T19:45:00Z;"📺 New #rstatsvideo: Rich Iannone | What's new and exciting in gt 0.8.0 | Posit
+▶ Posit PBC (@posit_pbc)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=5bVVX7mzOk8"
+UCqQ_cxcNu1ekqHXDc-MbU_w;SsmtCNZVLv0;2023-01-05T11:30:06Z;"📺 New #rstatsvideo: Exploratory Data X-Ray Analysis (EDXA)
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=SsmtCNZVLv0"
+UCCaChdLMTYMxyawR_Qf-kYA;FVF_aDtsQ_U;2020-09-12T00:48:52Z;"📺 #rstatsvideo: R for Data Science Ch 8, 9 & 10: Projects/Wrangling/Tibbles (2020-09-11) (r4ds01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=FVF_aDtsQ_U"
+UCyHEww8_SCdxZvEnkCfi55w;-Qj2lF07fYU;2023-01-05T15:00:00Z;"📺 New #rstatsvideo: Plot Mean & Standard Deviation by Group in R (2 Examples) | Base R & ggplot2 | segments() & axis()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=-Qj2lF07fYU"
+UCCaChdLMTYMxyawR_Qf-kYA;2W0qac6FI-4;2023-01-05T15:57:35Z;"📺 New #rstatsvideo: Probabilty 4 Data Science: Discrete Random Variables (prob4ds01 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2W0qac6FI-4"
+UCCaChdLMTYMxyawR_Qf-kYA;iztgh1qYHN4;2023-01-05T17:55:50Z;"📺 New #rstatsvideo: R Packages: Testing basics (rpkgs04 14)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=iztgh1qYHN4"
+UCx4-5Eq6RJg3Dx9nrss7CsA;gRl1VEUEl08;2023-01-06T05:30:05Z;"📺 New #rstatsvideo: فکتور و لیست | برنامه نویسی آر | دوره آنلاین
+▶ Code2night Persian
+🗣 🇮🇷
+#rstats #دادهکتگوریالدرآر #factors #کارباماتریسهادرآر #آموزشآنلاین #فاکتوردرآر #فاکتورهادرآر #برنامهنویسی #برنامهنویسیآر #برنامهنویسیr
+🔗 https://www.youtube.com/watch?v=gRl1VEUEl08"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;XP3KfkEYpo8;2013-01-05T12:44:43Z;"📺 #rstatsvideo: R Tutorial : Extremes (Maximum and Minimum)
+▶ Dragonfly Statistics
+#rstats #dataanalysis #statistics #extreme
+🔗 https://www.youtube.com/watch?v=XP3KfkEYpo8"
+UCMdihazndR0f9XBoSXWqnYg;UxC_hYYdfPw;2016-06-01T19:33:10Z;"📺 #rstatsvideo: R - SEM - Data Screening Class Assignment
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rprogram #rstudio #datascreening #linearity #homogeneity #homoscedasticity #normality #additivity #outliers
+🔗 https://www.youtube.com/watch?v=UxC_hYYdfPw"
+UCYKBDZyqcB3a2ZAbL1vV37w;NUfbl7ijZ0Q;2020-05-03T23:45:56Z;"📺 #rstatsvideo: LASSO Regression in R (Part Two)
+▶ David Caughlin
+#rstats
+🔗 https://www.youtube.com/watch?v=NUfbl7ijZ0Q"
+UCt950nC6jlh2ELDRPigWOkg;uJXrXaRlkmI;2020-10-02T13:15:10Z;"📺 #rstatsvideo: Análise de sensibilidade usando R (Alejandra Tapia)
+▶ LatinR (@LatinR_Conf)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=uJXrXaRlkmI"
+UCT4HNZZfFzsvcs-kBNTLkzQ;FSaHujubZLk;2021-12-18T06:01:43Z;"📺 #rstatsvideo: Program : Factorial Of a Number | Learn R with Pallvi
+▶ Learn R with Pallvi
+🗣 🇮🇳
+#rstats #r #statistics #rinhindi #rtutorial #learnr #rprogramming #rfullcourse
+🔗 https://www.youtube.com/watch?v=FSaHujubZLk"
+UCMdihazndR0f9XBoSXWqnYg;Llnvitb-uFI;2017-06-05T20:13:04Z;"📺 #rstatsvideo: R - Mediation with Bootstrapping
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #mediation #process #hayes #rprogram #rstudio #rlanguage #howto
+🔗 https://www.youtube.com/watch?v=Llnvitb-uFI"
+UCB_noR4lYmbKJozwJuPStbg;M6NY8Z0JQsc;2021-02-08T04:42:09Z;"📺 #rstatsvideo: Flipped R (Visualization, join, pivot) part2 - the workshop recording
+▶ John Little (@john_little)
+🗣 🇬🇧
+#rstats #r #datascience #tidyverse #workshops #ggplot2 #leftjoin #pivotlonger
+🔗 https://www.youtube.com/watch?v=M6NY8Z0JQsc"
+UCyHEww8_SCdxZvEnkCfi55w;OvpoclOEtRs;2021-04-24T14:00:16Z;"📺 #rstatsvideo: Remove Rows with NA Using dplyr Package in R (3 Examples) | na.omit, filter, complete.cases Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=OvpoclOEtRs"
+UC0dgTZhVua-2yvtWDfPA_nQ;3jYXQDTAz1w;2021-10-05T20:46:45Z;"📺 #rstatsvideo: Code Decision Tree in R
+▶ Data Centric Inc.
+🗣 🇬🇧
+#rstats #decisiontreeinr #decisontreeinr #decisiontreealgorithminr #decisiontreeclassifier #decisiontreeusingrpart #decisiontreeinrstudio #decisiontreeanalysis
+🔗 https://www.youtube.com/watch?v=3jYXQDTAz1w"
+UClHxi-ei0TXjC-0A0QXwMpg;OKvlKFviatk;2022-01-14T21:38:54Z;"📺 #rstatsvideo: Stats 102A Lec 1 - 2022-01-14 - Week 2 Friday - Environments and Scoping Rules in R
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=OKvlKFviatk"
+UC_R5smHVXRYGhZYDJsnXTwg;IzRn-QnOhug;2018-07-20T10:21:44Z;"📺 #rstatsvideo: Code Smells and Feels
+▶ R Consortium (@RConsortium)
+#rstats
+🔗 https://www.youtube.com/watch?v=IzRn-QnOhug"
+UCQ7DcXWJm3es06U7lGmBDkw;319G1p-OR10;2020-09-25T13:42:30Z;"📺 #rstatsvideo: R- Ladies St. Louis: How to Take your Data from Messy to Tidy (Erin Grand)
+▶ R Ladies STL (@RLadiesSTL)
+#rstats
+🔗 https://www.youtube.com/watch?v=319G1p-OR10"
+UCfoktGmvJ6rnME7mSP_Ww2g;GcYBqm86Th8;2020-11-12T11:13:46Z;"📺 #rstatsvideo: R-Ladies Tunis (English) | Webinar : Data Vis for Machine Learning Practitionners | Julia Silge
+▶ R-Ladies Tunis (@RLadiesTunis)
+🗣 🇬🇧
+#rstats #rstudio #machinelearning #tidymodels #dataviz #datavisualization
+🔗 https://www.youtube.com/watch?v=GcYBqm86Th8"
+UCfJyQ3P2k_SuqfxVdqIEQNw;n_ACYLWUmos;2021-03-15T17:51:22Z;"📺 #rstatsvideo: Bar charts and Histograms using ggplot in R
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=n_ACYLWUmos"
+UC5FvzLMVNrTMW-ycrW-4KyA;EqWKrLPLjWs;2021-04-26T01:24:38Z;"📺 #rstatsvideo: Rstudio 필수기능 1편 - 특정 영역 안에서 검색하는 방법
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats
+🔗 https://www.youtube.com/watch?v=EqWKrLPLjWs"
