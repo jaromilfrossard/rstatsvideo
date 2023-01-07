@@ -18352,3 +18352,61 @@ UC5FvzLMVNrTMW-ycrW-4KyA;EqWKrLPLjWs;2021-04-26T01:24:38Z;"📺 #rstatsvideo: Rs
 🗣 🇰🇷
 #rstats
 🔗 https://www.youtube.com/watch?v=EqWKrLPLjWs"
+UC_R5smHVXRYGhZYDJsnXTwg;xtHOI4M2KXk;2020-07-08T07:51:11Z;"📺 #rstatsvideo: useR! 2020: How fastR can help R package developers (S. Sindelar), regular
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=xtHOI4M2KXk"
+UCXgpDUq8cVyEj3ZbZcKtkbA;qxbfVEDfi0o;2021-12-06T20:02:17Z;"📺 #rstatsvideo: R 1-6 The readr Package for Importing Delimited Data
+▶ Statistical Learning Group
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=qxbfVEDfi0o"
+UCyHEww8_SCdxZvEnkCfi55w;DDveQ-OAZTs;2023-01-06T15:00:05Z;"📺 New #rstatsvideo: Remove Time Component from Date-Time in R (3 Examples) | Extract & Delete | Keep Day, Month & Year
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=DDveQ-OAZTs"
+UCTXuqtCYxPVEehq6fJY9GkA;NP-y2q_R00c;2023-01-06T17:57:40Z;"📺 New #rstatsvideo: Explorando o pacote firebase
+▶ Curso-R (@curso_r)
+#rstats #games #twitch
+🔗 https://www.youtube.com/watch?v=NP-y2q_R00c"
+UCMdihazndR0f9XBoSXWqnYg;4fZ0Is7jQCI;2016-02-17T04:30:16Z;"📺 #rstatsvideo: R - Chapter 5: Sampling and Probability - Lecture Part 1
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rprogram #rstudio #sampling #probability #hypothesistesting
+🔗 https://www.youtube.com/watch?v=4fZ0Is7jQCI"
+UCxB1IGhLzlEOikTL-aDwqFg;B-ca3unkd6I;2021-01-15T01:34:35Z;"📺 #rstatsvideo: [2020-09-18] High Quality Graphics in R chapter
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #hiiragi2013 #dplyr #ggplot2 #mouse4302db #reshape2 #hmisc #ggbeeswarm #rcolorbrewer #ggthemes #magrittr
+🔗 https://www.youtube.com/watch?v=B-ca3unkd6I"
+UCMwM-3tg_-Pbx8hKO78q5EA;VLuzpaWt0ZE;2021-01-26T17:27:27Z;"📺 #rstatsvideo: NHS-R Workshop - An introduction to ggplot2
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VLuzpaWt0ZE"
+UC3xfbCMLCw1Hh4dWop3XtHg;haRPXmWX13c;2021-02-17T21:28:07Z;"📺 #rstatsvideo: Jesse Mostipak | R4DS online learning community: self-taught data science & DEI | RStudio (2019)
+▶ Posit PBC (@posit_pbc)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse
+🔗 https://www.youtube.com/watch?v=haRPXmWX13c"
+UClGaKSIiaYp8o2SB3D3aS_A;rEs-gN0DLas;2013-10-15T13:20:24Z;"📺 #rstatsvideo: R programming Week 3 Part 8 Using output as input and the linear regression function
+▶ InsiderMiner (@forcesofhabit)
+#rstats #datamining #rprogramming #probability #statistics #programming
+🔗 https://www.youtube.com/watch?v=rEs-gN0DLas"
+UCHN3yqJ_OTvz9TXwSyjJTjw;0QP_BOBbIII;2016-04-19T05:24:47Z;"📺 #rstatsvideo: Data Visualization and R, part 12, Big Data
+▶ librarianwomack
+🗣 🇬🇧
+#rstats #datavisualization #rprogramminglanguage #bigdata
+🔗 https://www.youtube.com/watch?v=0QP_BOBbIII"
+UCyHEww8_SCdxZvEnkCfi55w;JWEZ0kovbHs;2020-12-09T15:00:06Z;"📺 #rstatsvideo: Select Data Frame Rows based on Values in Vector in R | element, filter [dplyr] & setDT [data.table]
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=JWEZ0kovbHs"
+UCKFp00-PRnuc1Dx4DaUmJBg;TlpllSZJ6p4;2021-01-26T16:18:09Z;"📺 #rstatsvideo: Get R Done | R Stats Tutorials: Professional Effects Plot (w/ ggplot)
+▶ Chad C. Williams (@WilliamsNeuro)
+🗣 🇬🇧
+#rstats #rstudio #statistics #programming #data #dataanalysis #analysis #anova #stats #mean
+🔗 https://www.youtube.com/watch?v=TlpllSZJ6p4"
