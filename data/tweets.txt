@@ -18410,3 +18410,98 @@ UCKFp00-PRnuc1Dx4DaUmJBg;TlpllSZJ6p4;2021-01-26T16:18:09Z;"📺 #rstatsvideo: Ge
 🗣 🇬🇧
 #rstats #rstudio #statistics #programming #data #dataanalysis #analysis #anova #stats #mean
 🔗 https://www.youtube.com/watch?v=TlpllSZJ6p4"
+UCyHEww8_SCdxZvEnkCfi55w;iR1NmulOFy4;2023-01-07T15:00:30Z;"📺 New #rstatsvideo: Customize Legend of plotly Graph in R (Example) | Modify & Change | Title, Font Family, Size & Color
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=iR1NmulOFy4"
+UCCaChdLMTYMxyawR_Qf-kYA;kn8fyNzvcPo;2023-01-07T17:30:44Z;"📺 New #rstatsvideo: Regression and Other Stories: Generative models and statistical inference (ros02 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=kn8fyNzvcPo"
+UCCaChdLMTYMxyawR_Qf-kYA;LkRGSBjUy_o;2023-01-07T17:59:02Z;"📺 New #rstatsvideo: RWTF: Practice safe paths & How to name files (rwtf01 3 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LkRGSBjUy_o"
+UC_sejq_JJ49KiiK4qh5r-wg;O9xsmxxXapI;2023-01-07T20:07:15Z;"📺 New #rstatsvideo: How to Convert All Columns of Data Frame to Numeric in R
+▶ Universe of Data Science (@unidatascience)
+#rstats
+🔗 https://www.youtube.com/watch?v=O9xsmxxXapI"
+UCvoAaXbImj95zwgdguxbrPA;pVfIgiheRo0;2021-01-05T19:09:13Z;"📺 #rstatsvideo: Lecture 17 - fixed-effect meta-analysis & sampling error weights | Hard-Boiled Synthesis (Fall 2020)
+▶ LajeunesseLab (@LajeunesseLab)
+🗣 🇬🇧
+#rstats #randomeffects #excel #rprogramming #researchsynthesis
+🔗 https://www.youtube.com/watch?v=pVfIgiheRo0"
+UCCaChdLMTYMxyawR_Qf-kYA;edjAvUWg6qw;2023-01-07T23:13:56Z;"📺 New #rstatsvideo: usethis docs: Package setup (pkgdocs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=edjAvUWg6qw"
+UCCaChdLMTYMxyawR_Qf-kYA;ZaR89JCjD2M;2023-01-07T23:24:44Z;"📺 New #rstatsvideo: Geohealth: Spatio-temporal modeling of geostatistical data. Air pollution in Spain (geohealth01 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ZaR89JCjD2M"
+UCP8l94xtoemCH_GxByvTuFQ;hTgZBpRAimE;2023-01-08T08:00:13Z;"📺 New #rstatsvideo: TidyX Episode 130 | Independent Interactive Reports with Plotly
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown
+🔗 https://www.youtube.com/watch?v=hTgZBpRAimE"
+UClGaKSIiaYp8o2SB3D3aS_A;xrEZddi88W8;2014-01-07T01:00:39Z;"📺 #rstatsvideo: Modeling Techniques using R Chapter 7 Text Mining part 4  Exploring the tm package
+▶ InsiderMiner (@forcesofhabit)
+#rstats #datamining #rprogramming #probability #statistics #programming
+🔗 https://www.youtube.com/watch?v=xrEZddi88W8"
+UCqQ_cxcNu1ekqHXDc-MbU_w;uwEBqmhiWyI;2018-09-19T18:44:27Z;"📺 #rstatsvideo: Data Preprocessing Plan (recipes) | Week 4 | DS4B 201-R Course
+▶ Business Science (@bizScienc)
+#rstats #learnr #recipes #datascience #business #machinelearning #course
+🔗 https://www.youtube.com/watch?v=uwEBqmhiWyI"
+UCKFp00-PRnuc1Dx4DaUmJBg;bvg4xYz_Dgw;2021-03-02T16:47:49Z;"📺 #rstatsvideo: Get R Done | R Stats Tutorials: Professional Line Plot (w/ ggplot)
+▶ Chad C. Williams (@WilliamsNeuro)
+🗣 🇬🇧
+#rstats #rstudio #statistics #programming #data #dataanalysis #analysis #anova #stats #mean
+🔗 https://www.youtube.com/watch?v=bvg4xYz_Dgw"
+UCYWBlijAB6IOpHIwsb3cecA;VY9_r5AvoS0;2021-06-26T06:50:51Z;"📺 #rstatsvideo: Data analysis using R - Introduction to regression - Lecture 9 (Part 2)
+▶ Danny Arends (@DannyArends)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VY9_r5AvoS0"
+UCchB_GC3WYW8kuGPyllLE7Q;Oo_MtXwpi2Q;2020-07-06T19:58:58Z;"📺 #rstatsvideo: Strings with stringr
+▶ Kelly Bodwin (@KellyBodwin)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Oo_MtXwpi2Q"
+UCMwM-3tg_-Pbx8hKO78q5EA;y2rGTsGuzrU;2020-11-13T14:04:31Z;"📺 #rstatsvideo: Communicating statistics in the age of short attention spans by Federica Cocco and John Burn-Murdoch
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=y2rGTsGuzrU"
+UCY66vV1WTk_2lHg24cuJrtg;dypCGtCq-WQ;2021-03-17T20:48:39Z;"📺 #rstatsvideo: Analyzing US Wind Data in R - Tidy Tuesday Summary (TTS04)
+▶ The Data Digest (@DigestData)
+🗣 🇬🇧
+#rstats #rlanguage #tutorial #ggplot #facetwrap #tidytuesday #rprogramming #windturbines #mapping #us #unitedstates
+🔗 https://www.youtube.com/watch?v=dypCGtCq-WQ"
+UCyWGeP-J1I0Xasd62QumS3w;qMhbqThpBa8;2022-01-01T22:41:17Z;"📺 #rstatsvideo: R From the Ground Up - Lecture 1 - Navigating RStudio
+▶ Stephen Carden
+#rstats
+🔗 https://www.youtube.com/watch?v=qMhbqThpBa8"
+UCwLy_PYrnCEhCU-Ay2F5Drw;PbD_e5sz4P8;2021-01-07T19:59:33Z;"📺 #rstatsvideo: Why R? Webinar 028 - Christopher Maronga - Integrating Rshiny and REDCap
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstats #trials #whyr #rtutorial #redcap #rstatswebinar #shiny #christopher #maronga #clinical
+🔗 https://www.youtube.com/watch?v=PbD_e5sz4P8"
+UCCaChdLMTYMxyawR_Qf-kYA;GnNMkKxidl4;2021-03-10T19:10:03Z;"📺 #rstatsvideo: Tidy Modeling with R Book Club: Chapter 5 (Spending our data) (2021-03-07) (tmwr02)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GnNMkKxidl4"
+UCPfMGYxAOm39sO8nuEMB96Q;uo208xb36xQ;2021-06-24T14:15:24Z;"📺 #rstatsvideo: Cómo Realizar Correlación de Kendall en RStudio
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #cómorealizarcorrelacióndekendallenrstudio #cómorealizarcorrelacióndekendallenr
+🔗 https://www.youtube.com/watch?v=uo208xb36xQ"
+UClGaKSIiaYp8o2SB3D3aS_A;4U3-sQ1c2MY;2021-10-28T00:58:18Z;"📺 #rstatsvideo: Running Learnr tutorial from APU Students in RStudio Cloud
+▶ InsiderMiner (@forcesofhabit)
+🗣 🇬🇧
+#rstats #rprogramming #probability #statistics #programming #datascience #machinelearning
+🔗 https://www.youtube.com/watch?v=4U3-sQ1c2MY"
