@@ -18505,3 +18505,88 @@ UClGaKSIiaYp8o2SB3D3aS_A;4U3-sQ1c2MY;2021-10-28T00:58:18Z;"📺 #rstatsvideo: Ru
 🗣 🇬🇧
 #rstats #rprogramming #probability #statistics #programming #datascience #machinelearning
 🔗 https://www.youtube.com/watch?v=4U3-sQ1c2MY"
+UC1ZIcF31fEzBO6akL_HHkBg;EB6ODnkdG7A;2021-07-13T14:38:30Z;"📺 #rstatsvideo: Shiny: Basic reactivity
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio #dsincubator #shiny
+🔗 https://www.youtube.com/watch?v=EB6ODnkdG7A"
+UCyHEww8_SCdxZvEnkCfi55w;9YUihmMhGJE;2023-01-08T15:00:04Z;"📺 New #rstatsvideo: Create Named List in R (2 Examples) | Initialize New & Build from Vectors | setNames() & as.list()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=9YUihmMhGJE"
+UCdrnsZd2xWjDjHUlYsA6Kfw;4Qg57Z65P-g;2023-01-08T23:02:08Z;"📺 New #rstatsvideo: Beautiful Regression Assumption Plots in R with the Performance Package
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting
+🔗 https://www.youtube.com/watch?v=4Qg57Z65P-g"
+UCxB1IGhLzlEOikTL-aDwqFg;BnjCEf0FueE;2021-04-15T04:20:16Z;"📺 #rstatsvideo: [2021-04-02] Introduction to BayesSpace
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #bayesspace #bioconductor
+🔗 https://www.youtube.com/watch?v=BnjCEf0FueE"
+UCSoUNu8x-HblqqOK_EwdZGw;uR2m7rzRqYw;2021-10-14T19:13:48Z;"📺 #rstatsvideo: How to Make a Diverging Bar Chart in R
+▶ R for the Rest of Us (@rfortherest)
+#rstats
+🔗 https://www.youtube.com/watch?v=uR2m7rzRqYw"
+UCDhKY1sp29xXSOInddeF4-g;Fk4OcsizXVY;2022-04-23T12:00:06Z;"📺 #rstatsvideo: ShortCuts in R
+▶ Liquid Brain R (@Brandon_yeoph)
+#rstats
+🔗 https://www.youtube.com/watch?v=Fk4OcsizXVY"
+UCMwM-3tg_-Pbx8hKO78q5EA;Jr75a9FRawI;2020-11-11T14:52:27Z;"📺 #rstatsvideo: R Shiny in Transformation by Eleanor Barnes
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Jr75a9FRawI"
+UC1A-TUhyfNOpHcNM8da6tJQ;4DKUM70bYc8;2021-06-07T20:48:03Z;"📺 #rstatsvideo: Crear calendarios con el paquete calendR | Calendarios en R usando ggplot2 | calendarios en RStudio
+▶ Renzo Caceres Rossi (@ARenzoCaceresR)
+🗣 🇪🇸
+#rstats #crearcalendariosenrstudio #crearcalendariosconggplot2
+🔗 https://www.youtube.com/watch?v=4DKUM70bYc8"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;NrRbchbSqKs;2022-02-21T00:00:04Z;"📺 #rstatsvideo: Spearman Correlation Coefficient and Hypothesis Test with R
+▶ Dragonfly Statistics
+#rstats #python #pandas #pydata #pandasdatascience #pythondatascience #datawranglingwithpython #scikitlearn #sklearn
+🔗 https://www.youtube.com/watch?v=NrRbchbSqKs"
+UClHxi-ei0TXjC-0A0QXwMpg;kPxwCYOe11I;2021-01-30T03:29:24Z;"📺 #rstatsvideo: Stats 102A Lesson 4-3 Regular Expressions in R part 2 (Lecture 2)
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=kPxwCYOe11I"
+UCyHEww8_SCdxZvEnkCfi55w;eEhwtZWUoWk;2021-05-17T14:00:25Z;"📺 #rstatsvideo: Substitute Data Frame Row Names by Values in Vector & Column in R (2 Examples) | rownames() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=eEhwtZWUoWk"
+UCHCdYfAXVzJIUkMoMSGiZMw;UgFueyXigdA;2021-10-05T03:10:12Z;"📺 #rstatsvideo: CDSB2021: Git y GitHub con RStudio
+▶ Community of Bioinformatics Software Developers (@CDSBMexico)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=UgFueyXigdA"
+UCMdihazndR0f9XBoSXWqnYg;3RpN985-W00;2016-04-12T19:13:55Z;"📺 #rstatsvideo: R - Chapter 12: ANOVA - Lecture Part 1
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #rprogram #anova #assumptions #hypothesistesting #fdistribution
+🔗 https://www.youtube.com/watch?v=3RpN985-W00"
+UCDgj5-mFohWZ5irWSFMFcng;FuXvph0KOC4;2020-09-15T23:37:41Z;"📺 #rstatsvideo: R-Ladies Auckland (English) - Yi Xue - R a Tool for Big Data Visualisation
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=FuXvph0KOC4"
+UCx1vXgGDXc7BH7bI1KC_o7Q;tJ2f6gjBDY0;2020-09-17T01:30:02Z;"📺 #rstatsvideo: R Markdown: Gerando relatórios usando o R (Parte 3)
+▶ Fernanda Peres
+🗣 🇵🇹
+#rstats #bioestatística #estatística #rstudio #rmarkdown #relatórios #knit #estatísticaaplicada #fernandaperes
+🔗 https://www.youtube.com/watch?v=tJ2f6gjBDY0"
+UCfoktGmvJ6rnME7mSP_Ww2g;A_2BdELdttc;2020-07-07T23:59:00Z;"📺 #rstatsvideo: R-Ladies Tunis : Meetup about R Shiny animated by Kaelen Medeiros (Part 10/10)
+▶ R-Ladies Tunis (@RLadiesTunis)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=A_2BdELdttc"
+UC3xfbCMLCw1Hh4dWop3XtHg;e-wACDwvyvg;2020-11-29T08:00:14Z;"📺 #rstatsvideo: Javier Luraschi | Updates on Spark, MLflow, and the broader ML ecosystem | RStudio (2020)
+▶ Posit PBC (@posit_pbc)
+#rstats #rstudioconf2020 #javierluraschi #rstudio #datascience #machinelearning #python #stats
+🔗 https://www.youtube.com/watch?v=e-wACDwvyvg"
+UCqQ_cxcNu1ekqHXDc-MbU_w;0zP_nx3-k6E;2021-01-19T15:20:48Z;"📺 #rstatsvideo: dbplyr: write SQL from R.
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=0zP_nx3-k6E"
