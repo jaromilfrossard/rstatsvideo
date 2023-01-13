@@ -18898,3 +18898,139 @@ UCsqrrplF84DQckpGQuTKTMg;L89LC_pbodk;2022-03-22T22:00:07Z;"📺 #rstatsvideo: 22
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=L89LC_pbodk"
+UCcKPp7AI7ZTBf60WqXo3Bpg;jSERTNhdeMs;2017-12-07T20:09:24Z;"📺 #rstatsvideo: Debugging and Profiling
+▶ Salt Lake City R Users Group (@slcrug)
+#rstats #hangoutsonair #hoa
+🔗 https://www.youtube.com/watch?v=jSERTNhdeMs"
+UCWApflfx7nUcvvYMZ2SAbCQ;pXT88njNobw;2021-03-17T03:32:25Z;"📺 #rstatsvideo: Data Structures in R (Module #2)
+▶ BIG Bioinformatics
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=pXT88njNobw"
+UClGaKSIiaYp8o2SB3D3aS_A;Nf7kbUwMeqg;2021-06-24T12:39:20Z;"📺 #rstatsvideo: Modeling Techniques in Predictive Analytics Part 10 Taking a look at the code Part 6 Data Mining Par
+▶ InsiderMiner (@forcesofhabit)
+#rstats #datamining #rprogramming #probability #statistics #programming
+🔗 https://www.youtube.com/watch?v=Nf7kbUwMeqg"
+UC9Sm1qcdzyGVjQMgWsW4pcw;YjZHhN3s2nI;2021-07-13T00:22:52Z;"📺 #rstatsvideo: R Blogdown Tutorial: Experience Section
+▶ Jennifer Sloane (@jfsloane)
+#rstats #rblogdown #blogdowntutorial #rblogdowntutorial #rwebsitetutorial #blogdown #blogdownr #blogdownexperience #rblogdownexperience
+🔗 https://www.youtube.com/watch?v=YjZHhN3s2nI"
+UCIwS122xl4mjhw5TdK_K9Rw;OQGTnJroDEM;2022-07-13T13:47:30Z;"📺 #rstatsvideo: Step 28_1 : Get the sum of rows in a data frame
+▶ R in Action (@Parag52659626)
+🗣 🇬🇧
+#rstats #dplyr #rpubs #sumofrows
+🔗 https://www.youtube.com/watch?v=OQGTnJroDEM"
+UCyHEww8_SCdxZvEnkCfi55w;qCe--Ae-hYw;2023-01-12T15:00:25Z;"📺 New #rstatsvideo: Remove NA Values in Only One Column of Data Frame in R (Example) | Drop & Omit | is.na() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=qCe--Ae-hYw"
+UCCaChdLMTYMxyawR_Qf-kYA;UaXimKd3vg8;2023-01-12T17:32:50Z;"📺 New #rstatsvideo: Advanced R: Improving performance (advr06 24)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=UaXimKd3vg8"
+UCCaChdLMTYMxyawR_Qf-kYA;P_pIYc1UtSk;2023-01-12T17:33:13Z;"📺 New #rstatsvideo: R Packages: Designing your test suite (rpkgs04 15)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=P_pIYc1UtSk"
+UCAu9zxmEgQdWYkl84BiziSQ;uLpmMD_PJEM;2023-01-12T20:30:33Z;"📺 New #rstatsvideo: Shiny ile Arayüz Tasarımı - LearnR @estuveribilimi7706
+▶ Eskisehir R User Group (@eskisehiR_users)
+#rstats
+🔗 https://www.youtube.com/watch?v=uLpmMD_PJEM"
+UCAu9zxmEgQdWYkl84BiziSQ;QB8OXAzL8QE;2023-01-12T20:38:18Z;"📺 New #rstatsvideo: {ggplot2} ile Veri Görselleştirme - LearnR @estuveribilimi7706
+▶ Eskisehir R User Group (@eskisehiR_users)
+#rstats
+🔗 https://www.youtube.com/watch?v=QB8OXAzL8QE"
+UCyxpzGd_imyk0VD_Yv0JwNQ;2qjDmEdTx1U;2021-03-08T19:36:47Z;"📺 #rstatsvideo: Joining several data sets in R | Part 12: Data wrangling for linguists with tidyverse
+▶ rstats_aficionadas (@McconnellKyla)
+#rstats #tidyverse #linguistics #linguists #dataanalysis #datawrangling #datacleaning
+🔗 https://www.youtube.com/watch?v=2qjDmEdTx1U"
+UCHN3yqJ_OTvz9TXwSyjJTjw;woXe_mMHXoI;2021-04-12T00:33:58Z;"📺 #rstatsvideo: Machine Learning with R on Amarel, part 6 (caret modeling continued)
+▶ librarianwomack
+🗣 🇬🇧
+#rstats #rprogramming #rstudio #datascience #dataanalytics #datavisualization #datawrangling #hpc #amarel #caret
+🔗 https://www.youtube.com/watch?v=woXe_mMHXoI"
+UCpbWlHEqBSnJb6i4UemXQpA;cfFdG0LxgB4;2021-12-12T09:04:01Z;"📺 #rstatsvideo: R for Researchers: 11- Student's t.test in R programming (in Kurdish) | tutorial
+▶ Dr. Azad Rasul (@Azad77Rasul)
+🗣 Kurdish
+#rstats #rprogramming #datatypesinrprogramming #rprogrammingtutorial
+🔗 https://www.youtube.com/watch?v=cfFdG0LxgB4"
+UCx4-5Eq6RJg3Dx9nrss7CsA;LY-XzL8jA_g;2023-01-13T05:30:08Z;"📺 New #rstatsvideo: خواندن و نوشتن انواع فایل متنی | برنامه نویسی آر | دوره آنلاین
+▶ Code2night Persian
+🗣 🇮🇷
+#rstats #برنامهنویسی #برنامهنویسیآر #برنامهنویسیr #زبانبرنامهنویسیr #آموزشبرنامهنویسی #برنامهنویسیآنلاین
+🔗 https://www.youtube.com/watch?v=LY-XzL8jA_g"
+UCqQ_cxcNu1ekqHXDc-MbU_w;Pbk5P6fL_ik;2019-10-10T21:08:31Z;"📺 #rstatsvideo: Persistent Data Storage with Shiny | DS4B 202-R
+▶ Business Science (@bizScienc)
+#rstats #shiny #database #webapp
+🔗 https://www.youtube.com/watch?v=Pbk5P6fL_ik"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;Xtmn2pDw_Pw;2020-05-17T10:58:40Z;"📺 #rstatsvideo: Markov Chains with R - Dublin Taxi Example
+▶ Dragonfly Statistics
+#rstats #markovchain #markovchains #rmarkovchain #markovchainswithr #markov #markovprocesses #stochasticprocesses #or #transitionmatrix
+🔗 https://www.youtube.com/watch?v=Xtmn2pDw_Pw"
+UCqaMSQd_h-2EDGsU6WDiX0Q;EDe0e_VaENQ;2020-08-20T19:01:00Z;"📺 #rstatsvideo: Leonardo Collado Torres, Workshop 100: Human RNA seq data from recount2 and related packages
+▶ Bioconductor (@Bioconductor)
+#rstats #bioc2020
+🔗 https://www.youtube.com/watch?v=EDe0e_VaENQ"
+UC9ykygrgYWoUdwaMA3qhRaw;T0lcTbujsWw;2021-08-08T13:00:11Z;"📺 #rstatsvideo: XGBoost in R Part 3 - Regression Native Implementation - Machine Learning
+▶ Data Garden
+🗣 🇬🇧
+#rstats #rstudio #excel #dataanalysis #datascience #statistics #stats #learning #tutorial #deeplearning
+🔗 https://www.youtube.com/watch?v=T0lcTbujsWw"
+UCMdihazndR0f9XBoSXWqnYg;njLPwqRafXM;2016-02-03T20:29:39Z;"📺 #rstatsvideo: R - Data Screening Theory Lecture
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #rprogram #datascreening #linearity #normality #homogeneity #homoscedasticity #additivity #correlation #outliers #missing #rstudio
+🔗 https://www.youtube.com/watch?v=njLPwqRafXM"
+UCgdZkOZfmrAFHkDHYI5taVw;x3AIc4RgPbI;2019-10-21T15:01:22Z;"📺 #rstatsvideo: Day 12 - Web data and iterating over local files
+▶ Matthew Ross
+#rstats
+🔗 https://www.youtube.com/watch?v=x3AIc4RgPbI"
+UC1ZIcF31fEzBO6akL_HHkBg;_rML2QeEXq4;2020-01-21T16:14:06Z;"📺 #rstatsvideo: Debugging
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio #dsincubator #debugging
+🔗 https://www.youtube.com/watch?v=_rML2QeEXq4"
+UCdaVFEwp9vOvqUCpbCHY7cw;3x7iH7Hd4KI;2021-01-02T06:22:47Z;"📺 #rstatsvideo: 8th Meetup R Ladies Jkt | Intro to Twitter Mining in R & Visualization for Likert-Scale Survey Data
+▶ R-Ladies Jakarta (@RLadiesJakarta)
+#rstats #rladies #perempuan #statistics #empoweringwomen #girlsintech
+🔗 https://www.youtube.com/watch?v=3x7iH7Hd4KI"
+UCv3be7W260HXd2BoK9KihMQ;tKHr6YvrwDk;2019-11-19T14:23:36Z;"📺 #rstatsvideo: R quirks - Episode 1 - Why sum(1:10, na.rm = ""abc"") works but mean(1:10, na.rm = ""abc"") doesn't ?
+▶ ronak shah (@shahronak47)
+🗣 🇬🇧
+#rstats #programming
+🔗 https://www.youtube.com/watch?v=tKHr6YvrwDk"
+UCIwS122xl4mjhw5TdK_K9Rw;J2s6mPo24Rc;2020-08-09T05:40:59Z;"📺 #rstatsvideo: Step 11: Accessing different values in a Vector
+▶ R in Action (@Parag52659626)
+#rstats #machinelearning #datascience #basicsofr #rforbeginners #learnr #indexingvectors
+🔗 https://www.youtube.com/watch?v=J2s6mPo24Rc"
+UCKFp00-PRnuc1Dx4DaUmJBg;pBGNIBcl9-A;2020-09-30T04:29:32Z;"📺 #rstatsvideo: Get R Done | R Stats Tutorials: What Are Conditional Arguments?
+▶ Chad C. Williams (@WilliamsNeuro)
+🗣 🇬🇧
+#rstats #rstudio #statistics #programming #computer #computerscience #data #dataanalysis #analysis #anova
+🔗 https://www.youtube.com/watch?v=pBGNIBcl9-A"
+UCydYJplH_n0PvEzpxPe1AdA;WfNRZfd9z-Y;2020-12-09T23:12:22Z;"📺 #rstatsvideo: Chi-square pre-lab (tidy) video 1 of 1
+▶ Amelia McNamara (@AmeliaMN)
+#rstats
+🔗 https://www.youtube.com/watch?v=WfNRZfd9z-Y"
+UCeiiqmVK07qhY-wvg3IZiZQ;KE9ItC3doEU;2019-01-07T21:57:35Z;"📺 #rstatsvideo: Tidy Tuesday screencast: Analyzing #tidytuesday and #rstats tweets in R
+▶ David Robinson (@drob)
+#rstats #datascience
+🔗 https://www.youtube.com/watch?v=KE9ItC3doEU"
+UC_R5smHVXRYGhZYDJsnXTwg;DWVDMVTJRm4;2019-08-03T13:50:08Z;"📺 #rstatsvideo: useR! 2019 Toulouse - Talk Biostatistics & Epidemology 2 - Christian Ritz
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=DWVDMVTJRm4"
+UC5FvzLMVNrTMW-ycrW-4KyA;jKNEmYTEcKw;2020-03-28T21:16:14Z;"📺 #rstatsvideo: rstat101 week4 - R로 데이터의 최빈값(mode) 찾는 함수 만들기 (실습편)
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats
+🔗 https://www.youtube.com/watch?v=jKNEmYTEcKw"
+UC1ZIcF31fEzBO6akL_HHkBg;rirpOpTYVg4;2021-06-29T14:39:10Z;"📺 #rstatsvideo: Shiny: Basic reactivity
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio #dsincubator #shiny
+🔗 https://www.youtube.com/watch?v=rirpOpTYVg4"

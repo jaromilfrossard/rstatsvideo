@@ -68,7 +68,7 @@ walk(tb_channel$id_channel, update_channel_video)
 validate_new_videos()#6aJMGdCxbgA
 
 videos <- choose_videos(max_tweet = 5,n_default = 5)%>%
-  filter(!id_video%in%c("xrxoSupeZYo")) # 28 july
+  filter(!id_video%in%c("xrxoSupeZYo","6Y4Zff2lYMI")) # 28 july
 #videos <- videos%>%filter(new_video)
 
 # create txt
@@ -84,7 +84,7 @@ videos%>%
 
 
 
-###updating performance
+##updating performance
 tb_perf <- update_performance_oldest(100)
 tb_perf <- update_performance_ratio(100)
 
