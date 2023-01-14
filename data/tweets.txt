@@ -19034,3 +19034,114 @@ UC1ZIcF31fEzBO6akL_HHkBg;rirpOpTYVg4;2021-06-29T14:39:10Z;"📺 #rstatsvideo: Sh
 🗣 🇬🇧
 #rstats #rstudio #dsincubator #shiny
 🔗 https://www.youtube.com/watch?v=rirpOpTYVg4"
+UC_R5smHVXRYGhZYDJsnXTwg;uax2vMU5a4k;2019-08-03T13:50:08Z;"📺 #rstatsvideo: useR! 2019 Toulouse - Talk Application 2 - Sarah N  Musy
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=uax2vMU5a4k"
+UCMwM-3tg_-Pbx8hKO78q5EA;AD8k5CnrYnk;2020-11-11T14:06:26Z;"📺 #rstatsvideo: The Health Foundation: Supporting Better Analytics by Ellen Coughlan
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=AD8k5CnrYnk"
+UCKJFCIbcGs2a5RGt8RjdbFA;brw1dl5BUbc;2021-09-27T13:56:56Z;"📺 #rstatsvideo: Week 2.1: Project Management
+▶ Liza Wood (@wood__liza)
+#rstats
+🔗 https://www.youtube.com/watch?v=brw1dl5BUbc"
+UCv_a9ZGZOH588wUZHZl6T_g;USOjQuLk9GM;2022-08-01T03:00:10Z;"📺 #rstatsvideo: afrimapr Keynote   Wednesday
+▶ useR! Conference (@_useRconf)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=USOjQuLk9GM"
+UCCaChdLMTYMxyawR_Qf-kYA;o0-LfV6Tcjg;2023-01-13T13:51:03Z;"📺 New #rstatsvideo: RWTF: API for an analysis (rwtf01 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=o0-LfV6Tcjg"
+UCyHEww8_SCdxZvEnkCfi55w;FgPOTfU9iks;2023-01-13T15:00:10Z;"📺 New #rstatsvideo: Count Non-NA Values by Group in R (2 Examples) | Base R & dplyr | group_by() & summarize() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=FgPOTfU9iks"
+UCWTFKtW_ReLP9zmMTYjRqug;i6rajzMkpD0;2023-01-13T16:59:18Z;"📺 New #rstatsvideo: Quarto/RMarkdown - What's Different? by Ted Laderas | R-Ladies Paris
+▶ R-Ladies Paris (@RLadiesParis)
+🗣 🇬🇧
+#rstats #quarto #quartopub #rmarkdown #markdown #rladiesparis #rstudio #onlinemeetup #data
+🔗 https://www.youtube.com/watch?v=i6rajzMkpD0"
+UClHxi-ei0TXjC-0A0QXwMpg;ePMoe_RF70w;2023-01-13T19:20:58Z;"📺 New #rstatsvideo: 2023 01 13 Stats 102A 0
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ePMoe_RF70w"
+UCY66vV1WTk_2lHg24cuJrtg;onEumD5xUOE;2021-05-14T21:53:46Z;"📺 #rstatsvideo: Histograms in R with ggplot and geom_histogram() [R-Graph Gallery Tutorial]
+▶ The Data Digest (@DigestData)
+🗣 🇬🇧
+#rstats #ggplot #geomhistogram #hist #histogram #rprogramming #visualization #plotting #charts
+🔗 https://www.youtube.com/watch?v=onEumD5xUOE"
+UCCaChdLMTYMxyawR_Qf-kYA;-96oIKolKkw;2023-01-13T20:58:55Z;"📺 New #rstatsvideo: Regression and Other Stories: Simulation (ros02 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-96oIKolKkw"
+UCjNXtKLVdEpImICqNERE9cQ;Y1eUp2DszKI;2023-01-13T21:00:26Z;"📺 New #rstatsvideo: Cómo integrar ChatGPT  a RStudio
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #chatgptarstudio #rstudio #chatgpt #inteligenciaartificial #ai #air #airstudio #chatgptai #chatgptstudio #chatgptr #analisisconai
+🔗 https://www.youtube.com/watch?v=Y1eUp2DszKI"
+UCZ2KQdo1-FhNRtEBYxai5Aw;ISN9SE__QOU;2023-01-13T21:03:46Z;"📺 New #rstatsvideo: Statistical Methods Series: Zero-Inflated GLM and GLMM
+▶ Ecological Forecasting (@eco4cast)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ISN9SE__QOU"
+UC_R5smHVXRYGhZYDJsnXTwg;tWx1ooBSxFc;2019-08-03T13:50:50Z;"📺 #rstatsvideo: useR! 2019 Toulouse - Talk Operations Performance - Arun Srinivasan
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=tWx1ooBSxFc"
+UCeiiqmVK07qhY-wvg3IZiZQ;XEsNpxl5b1M;2020-03-31T03:26:42Z;"📺 #rstatsvideo: Riddler screencast: Simulating rolling a die and replacing the sides
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=XEsNpxl5b1M"
+UCEbPGn_boFJj7_sPh37mBfA;VPK8Zv7xPMw;2021-05-15T21:26:24Z;"📺 #rstatsvideo: STAB23: Week 1 - Lecture 2
+▶ Nnenna Asidianya (@asidianya)
+#rstats
+🔗 https://www.youtube.com/watch?v=VPK8Zv7xPMw"
+UCN5UEJ-D9X5neLYOGtRfJug;37DmyM_q-AA;2021-08-25T15:00:00Z;"📺 #rstatsvideo: Intro to R in RStudio. 18. Rounding, Floor and Ceiling
+▶ Herb Wilson
+#rstats #rstatistics
+🔗 https://www.youtube.com/watch?v=37DmyM_q-AA"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;wvA_k6zaU1k;2017-05-31T00:25:42Z;"📺 #rstatsvideo: Analysing the Groundwater Data Set with R :  Part 1
+▶ Dragonfly Statistics
+#rstats #opendatat
+🔗 https://www.youtube.com/watch?v=wvA_k6zaU1k"
+UC1A-TUhyfNOpHcNM8da6tJQ;MN5qeXIJHlM;2018-12-17T17:17:37Z;"📺 #rstatsvideo: Generar números aleatorios enteros y decimales en R | sample() runif() RStudio
+▶ Renzo Caceres Rossi (@ARenzoCaceresR)
+🗣 🇪🇸
+#rstats #generarnúmerosaleatoriosenrstudio #comogenerarnumerosaleatoriosenrstudio
+🔗 https://www.youtube.com/watch?v=MN5qeXIJHlM"
+UCDgj5-mFohWZ5irWSFMFcng;b8qrR-kJvjA;2020-09-17T06:06:42Z;"📺 #rstatsvideo: R-Ladies Auckland (English) - Charlotte Jones-Todd - Me, Myself, and R
+▶ R-Ladies Global (@RLadiesGlobal)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=b8qrR-kJvjA"
+UCt950nC6jlh2ELDRPigWOkg;TKhV3w467RI;2020-10-16T17:00:11Z;"📺 #rstatsvideo: ReproHack en #LatinR2020. Como escribir manuscritos reproducibles. Francisco Rodríguez-Sánchez
+▶ LatinR (@LatinR_Conf)
+#rstats
+🔗 https://www.youtube.com/watch?v=TKhV3w467RI"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;4LFszdBcV2s;2017-06-03T20:17:12Z;"📺 #rstatsvideo: Using ""tidyr"" for working with address data (Part 1)
+▶ Dragonfly Statistics
+#rstats #tidyverse #tidyr #addressdata #processingaddresses #tidyrunite #tidyseparate #datacleaning
+🔗 https://www.youtube.com/watch?v=4LFszdBcV2s"
+UCyZCfIET7753bs5WpmKI_qQ;ebU9ju4KjjY;2019-03-21T04:08:23Z;"📺 #rstatsvideo: Tutorial R | Gráficos no ggplot2 sem usar código
+▶ CARVALHO RIBEIRO
+🗣 🇵🇹
+#rstats #rstudio #instalaror
+🔗 https://www.youtube.com/watch?v=ebU9ju4KjjY"
+UCwLy_PYrnCEhCU-Ay2F5Drw;xD98Ba4qyo0;2020-10-22T19:13:24Z;"📺 #rstatsvideo: Why R? Webinar 019 - Faris Naji - Liberate the coder and empower the non coder
+▶ Why R? Foundation (@whyRconf)
+#rstats #programming #whyr #machinelearning #statistics #rdatascience #rstatswebinar #dataanalysis
+🔗 https://www.youtube.com/watch?v=xD98Ba4qyo0"
+UCeiiqmVK07qhY-wvg3IZiZQ;8jNQzce13SE;2021-01-05T23:09:33Z;"📺 #rstatsvideo: Tidy Tuesday live screencast: Analyzing transit costs in R
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=8jNQzce13SE"
