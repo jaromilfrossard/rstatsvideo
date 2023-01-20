@@ -19449,3 +19449,77 @@ UCx4-5Eq6RJg3Dx9nrss7CsA;3vu196mTbds;2022-08-18T22:21:47Z;"📺 #rstatsvideo: د
 🗣 🇮🇷
 #rstats #برنامهنویسی #برنامهنویسیآر #برنامهنویسیr #برنامهنویسیراازکجاشروعکنیم #زبانبرنامهنویسیr #آموزشبرنامهنویسی #برنامهنویسیآنلاین
 🔗 https://www.youtube.com/watch?v=3vu196mTbds"
+UCdrnsZd2xWjDjHUlYsA6Kfw;dInMXjZC2aw;2023-01-18T06:38:12Z;"📺 New #rstatsvideo: Examining distributions with Raincloud Plots in R
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters
+🔗 https://www.youtube.com/watch?v=dInMXjZC2aw"
+UC6LqpR5qBfNlQp5mVIVsthA;_Om68Yj5Sxc;2023-01-18T11:00:20Z;"📺 New #rstatsvideo: Getting Started with {Rhino} to Build Enterprise-Grade Shiny Apps
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=_Om68Yj5Sxc"
+UCXuX-kQ1TbKHWeB75NgmhlA;36fFIt9tRCE;2023-01-18T13:00:02Z;"📺 New #rstatsvideo: I have summarized 19K R packages in one picture
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #genetics #genomics #omics #rpackages #rlibraries #contributedrpackages #packagesoncran #cran
+🔗 https://www.youtube.com/watch?v=36fFIt9tRCE"
+UCMdihazndR0f9XBoSXWqnYg;B_ZJDQXo4fs;2023-01-18T14:54:04Z;"📺 New #rstatsvideo: R - Moderation (10.2 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #moderation #regression #interactions #data #science #analytics #open #education #stem #rstudio
+🔗 https://www.youtube.com/watch?v=B_ZJDQXo4fs"
+UCyHEww8_SCdxZvEnkCfi55w;-pQEjYIvTfw;2023-01-18T15:00:00Z;"📺 New #rstatsvideo: How to Convert Character String with AM & PM to Date & Time (R Example) | parse_date_time() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=-pQEjYIvTfw"
+UCMwM-3tg_-Pbx8hKO78q5EA;VcEZBYDBJwo;2023-01-18T15:35:40Z;"📺 New #rstatsvideo: NHS-R January 2023 Webinar:  Create reproducible and accessible spreadsheets with {a11ytables}
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VcEZBYDBJwo"
+UCCaChdLMTYMxyawR_Qf-kYA;Zq6z00X3jzM;2023-01-18T16:21:32Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Graphics (mshiny04 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Zq6z00X3jzM"
+UCTTBgWyJl2HrrhQOOc710kA;fzZ4mI-lb8w;2023-01-18T18:26:39Z;"📺 New #rstatsvideo: To downsample or not? Handling class imbalance in bird feeder observations
+▶ Julia Silge (@juliasilge)
+#rstats
+🔗 https://www.youtube.com/watch?v=fzZ4mI-lb8w"
+UCC0n35R84-ufqPstR1YtCxA;HOW5ul9WUhE;2017-04-29T23:37:29Z;"📺 #rstatsvideo: Monte Carlo Simulation using R
+▶ Stat Pharm
+#rstats #montecarlo #simulation #usingr #stochasticity #uncertainty #randomness
+🔗 https://www.youtube.com/watch?v=HOW5ul9WUhE"
+UCjNXtKLVdEpImICqNERE9cQ;zk_DwOZ6Fv0;2022-11-08T21:00:34Z;"📺 #rstatsvideo: Gráficas interactivas para tus aplicaciones en R
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #gráficasinteractivas #graficasinteractivas #rstudio #analisisdatos #rprincipiantes #manejodedatos #graficosinteractivos #graficasshiny
+🔗 https://www.youtube.com/watch?v=zk_DwOZ6Fv0"
+UClHxi-ei0TXjC-0A0QXwMpg;xTxUkdG2Dv4;2023-01-18T19:31:38Z;"📺 New #rstatsvideo: 2023 01 18 Stats 102A
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=xTxUkdG2Dv4"
+UCg6kociUghEgKz_hLRKQrMQ;-Dk9dZM4bW8;2023-01-18T21:54:22Z;"📺 New #rstatsvideo: Como convertir PDF a imagen en #R!
+▶ R Data Science School
+#rstats #rcommunity #rstudio #analytics #business #datascience #education #follow #learnr #learning #like #news #subscribe #subscriber #tbt
+🔗 https://www.youtube.com/watch?v=-Dk9dZM4bW8"
+UClGaKSIiaYp8o2SB3D3aS_A;1hBiDVrzZ6c;2013-05-26T05:58:45Z;"📺 #rstatsvideo: Data Mining Algae p5 Unknows 12 min
+▶ InsiderMiner (@forcesofhabit)
+#rstats #datamining #rprogramming #probability #statistics #programming
+🔗 https://www.youtube.com/watch?v=1hBiDVrzZ6c"
+UC7C4YZ-9itQW7Nl4RVKDflg;B_jHIehqGWs;2018-10-18T18:00:43Z;"📺 #rstatsvideo: GLMs by Bryan Lewis (10/17/2018)
+▶ Cleveland R User Group
+#rstats
+🔗 https://www.youtube.com/watch?v=B_jHIehqGWs"
+UC5FvzLMVNrTMW-ycrW-4KyA;J2u6GWpqzOM;2020-09-25T04:00:44Z;"📺 #rstatsvideo: 구글 코랩(colab)에서 R  프로그래밍 하기
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #구글코랩 #gpu #r프로그래밍
+🔗 https://www.youtube.com/watch?v=J2u6GWpqzOM"
+UC0dgTZhVua-2yvtWDfPA_nQ;4Jw4Y6XAQG4;2021-10-12T17:30:34Z;"📺 #rstatsvideo: Create k-means cluster analysis in r using cluster package
+▶ Data Centric Inc.
+#rstats #kmeansclusteranalysisinrusingclusterpackage #kmeansclusteranalysisinruseingclusterpackage #kmeansclusteranalyticsinr
+🔗 https://www.youtube.com/watch?v=4Jw4Y6XAQG4"
