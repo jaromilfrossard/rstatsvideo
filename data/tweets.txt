@@ -19750,3 +19750,196 @@ UCg4rv97QEhN-2gvLhrGMgEw;2A7S1zi_UUM;2021-11-05T18:54:52Z;"📺 #rstatsvideo: An
 🗣 🇵🇹
 #rstats #kaplanmeier #tempodesobrevida #modelodecox #analisedesobrevivência
 🔗 https://www.youtube.com/watch?v=2A7S1zi_UUM"
+UCyHEww8_SCdxZvEnkCfi55w;gt8fPRMkrhE;2020-05-27T14:00:18Z;"📺 #rstatsvideo: Create Color Range Between Two Colors in R (Example) | Gradient Scale of Hex Code | colorRampPalette
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=gt8fPRMkrhE"
+UCeTqWLMlko7MjRny-b_dNeA;2vA6qizYnM8;2020-10-19T21:59:21Z;"📺 #rstatsvideo: IDS - Week 04 - 07 - AE: Nobels & sales + Data import
+▶ Mine Çetinkaya-Rundel (@minebocek)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2vA6qizYnM8"
+UC3xfbCMLCw1Hh4dWop3XtHg;25b3-To41Yc;2020-11-03T08:00:01Z;"📺 #rstatsvideo: Lauren Chadwick | Meet You Where You R | RStudio (2020)
+▶ Posit PBC (@posit_pbc)
+#rstats #rstudioconf2020 #laurenchadwick #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization
+🔗 https://www.youtube.com/watch?v=25b3-To41Yc"
+UCx1vXgGDXc7BH7bI1KC_o7Q;TboqzL57YV0;2021-11-24T00:00:06Z;"📺 #rstatsvideo: Teste de McNemar no R
+▶ Fernanda Peres
+🗣 🇵🇹
+#rstats #bioestatística #estatística #quiquadrado #mcnemar #amostraspareadas #testedemcnemar #rstudio
+🔗 https://www.youtube.com/watch?v=TboqzL57YV0"
+UCyHEww8_SCdxZvEnkCfi55w;SEs-V0TjdOM;2023-01-23T15:00:23Z;"📺 New #rstatsvideo: Generate Random Values with Fixed Mean & Standard Deviation in R (2 Examples) | rnorm() & scale()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=SEs-V0TjdOM"
+UCKMekE_4UfWvZDuBWenG8WA;mGNW8jl7RMc;2023-01-23T15:32:52Z;"📺 New #rstatsvideo: R Markdown Users: Why you should switch to Quarto NOW
+▶ StatistikinDD (@StatistikInDD)
+🗣 🇬🇧
+#rstats #reporting #rmarkdown #markdown #quarto #packagedependencies #rstudio #knitr #xaringan #revealjs #yaml
+🔗 https://www.youtube.com/watch?v=mGNW8jl7RMc"
+UCo7yZB1Pz_V9infLSUnfjUg;j84hUixRS0E;2023-01-23T17:42:40Z;"📺 New #rstatsvideo: Working Directory in R
+▶ dataAnalysisR
+🗣 🇬🇧
+#rstats #workingdirectory #rsoftware #dataanalyis #rprogramming #trending #topclass #computerscience #programming #highclarity #basicsinr #introductiontor
+🔗 https://www.youtube.com/watch?v=j84hUixRS0E"
+UCCaChdLMTYMxyawR_Qf-kYA;KRqrjuYYcKQ;2023-01-23T18:04:56Z;"📺 New #rstatsvideo: Methods for Network Analysis: Transitivity, Structural Balance, and Hierarchy (mnetanal01 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=KRqrjuYYcKQ"
+UClHxi-ei0TXjC-0A0QXwMpg;suKBVbK_qMQ;2023-01-23T19:03:11Z;"📺 New #rstatsvideo: 2023 01 23 Stats 102A
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=suKBVbK_qMQ"
+UCjNXtKLVdEpImICqNERE9cQ;lUb6lHZVJvU;2023-01-23T21:00:18Z;"📺 New #rstatsvideo: Guía de cómo usar ChatGPT con R y RStudio
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #chatgptconr #chatgptyr #chatgptenrstudio #chatgptyrstudio #chatgpt #integracionchatgpt #gptstudio #rstudioychatgpt #rconchatgpt
+🔗 https://www.youtube.com/watch?v=lUb6lHZVJvU"
+UCCaChdLMTYMxyawR_Qf-kYA;fOA271r3MGo;2023-01-23T23:23:04Z;"📺 New #rstatsvideo: R for Data Science: Communication (r4ds07 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=fOA271r3MGo"
+UCSoUNu8x-HblqqOK_EwdZGw;1WoBs5jFY1M;2023-01-24T04:52:02Z;"📺 New #rstatsvideo: How to make your own color palettes in ggplot
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=1WoBs5jFY1M"
+UCjXQyxs1iyEg5v98fezgT0w;3eo_laLrQAA;2023-01-24T10:00:02Z;"📺 New #rstatsvideo: Statistik mit ChatGPT
+▶ Regorz Statistik
+🗣 🇩🇪
+#rstats #chatgptstatistik #chatgptstatistics #chatgptr #chatgptspss #chatgptsyntax #chatgptprogrammierung
+🔗 https://www.youtube.com/watch?v=3eo_laLrQAA"
+UCDHzgi5BGU5F-LXxQIIOyDw;JSlOqyc1Ysw;2023-01-24T13:23:22Z;"📺 New #rstatsvideo: lubridate 1.9.0のリリースノートを眺めてみる （2023/01/24）
+▶ yutannihilationのチャンネル (仮) (@yutannihilation)
+#rstats #rstatsj
+🔗 https://www.youtube.com/watch?v=JSlOqyc1Ysw"
+UCCaChdLMTYMxyawR_Qf-kYA;6xECnY4ro48;2023-01-24T13:48:27Z;"📺 New #rstatsvideo: Advanced R: Environments (advr07 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=6xECnY4ro48"
+UCyHEww8_SCdxZvEnkCfi55w;391_zUaW_88;2023-01-24T15:00:02Z;"📺 New #rstatsvideo: Count Non-NA Values in R (2 Examples) | Vector & Data Frame Columns / Rows | sum & is.na Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=391_zUaW_88"
+UCg4rv97QEhN-2gvLhrGMgEw;vwYS_KQQG_M;2023-01-24T15:13:43Z;"📺 New #rstatsvideo: Pacote ggbump NA PRÁTICA: Aplicação no Software R
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=vwYS_KQQG_M"
+UCCaChdLMTYMxyawR_Qf-kYA;hCl_gGVEyY0;2023-01-24T23:56:00Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: User feedback (mshiny04 8)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hCl_gGVEyY0"
+UCx4-5Eq6RJg3Dx9nrss7CsA;-Sa1gHZTKpM;2023-01-25T00:43:41Z;"📺 New #rstatsvideo: مرور بر آر | برنامه نویسی آر | دوره آنلاین
+▶ Code2night Persian
+🗣 🇮🇷
+#rstats #برنامهنویسی #برنامهنویسیآر #برنامهنویسیr #زبانبرنامهنویسیr #برنامهنویسیآنلاین #آموزشبرنامهنویسیr #آموزشزبانبرنامهنویسی
+🔗 https://www.youtube.com/watch?v=-Sa1gHZTKpM"
+UCQ7DcXWJm3es06U7lGmBDkw;BxvUYmYP-cw;2023-01-25T03:24:26Z;"📺 New #rstatsvideo: R-Ladies STL: Intro to Linear Optimization with Ralph Asher
+▶ R Ladies STL (@RLadiesSTL)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=BxvUYmYP-cw"
+UCXuX-kQ1TbKHWeB75NgmhlA;f7ZNTIf6NW4;2023-01-25T13:00:32Z;"📺 New #rstatsvideo: Fst matrix with confidence intervals (and nice visualization)
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #stampp #adegenet #howtocomputefst #computefstinr #fstconfidenceintervals #fstmatrix
+🔗 https://www.youtube.com/watch?v=f7ZNTIf6NW4"
+UCyHEww8_SCdxZvEnkCfi55w;ADfmjgsqiiA;2023-01-25T15:00:12Z;"📺 New #rstatsvideo: Add Subscript & Superscript to Labels of ggplot2 Facet Plot in R | labeller Argument in facet_wrap
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=ADfmjgsqiiA"
+UCMdihazndR0f9XBoSXWqnYg;Qo0CHm2V-lc;2023-01-25T18:59:55Z;"📺 New #rstatsvideo: R - Independent t-Test (11.1 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #ttest #independent #dependent #rstudio #data #analytics #science #open #education #stem #effectsize #power
+🔗 https://www.youtube.com/watch?v=Qo0CHm2V-lc"
+UClHxi-ei0TXjC-0A0QXwMpg;_ld4fTqiEdk;2023-01-25T19:12:31Z;"📺 New #rstatsvideo: 2023 01 25 Stats 102A 1
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=_ld4fTqiEdk"
+UCcGXGFClRdnrwXsPHi7P4ZA;_okuMw4JFfU;2023-01-25T22:48:37Z;"📺 New #rstatsvideo: {emmeans} Game-Changing R-package Squeezes Hidden Knowledge out of Models!
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #machinelearning #clearlyexplained #datascience #dataanalysis #forbeginners #stats
+🔗 https://www.youtube.com/watch?v=_okuMw4JFfU"
+UCcGXGFClRdnrwXsPHi7P4ZA;cqmMNR6x73g;2023-01-26T00:51:12Z;"📺 New #rstatsvideo: Don’t Ignore Interactions - Unleash the Full Power of Models with {emmeans} R-package
+▶ Yury Zablotski (@yuzaR___)
+🗣 🇬🇧
+#rstats #machinelearning #clearlyexplained #datascience #dataanalysis #forbeginners
+🔗 https://www.youtube.com/watch?v=cqmMNR6x73g"
+UCxrh1zXhO2rL0t3Y5rSzWSw;M0xjzwUBf4Y;2023-01-26T06:00:15Z;"📺 New #rstatsvideo: Time-Series Predictions With NBeats, XGBoost, Tidymodels, Modeltime, R and Shiny - Part 18
+▶ Pascal Schmidt (@pascy28)
+#rstats
+🔗 https://www.youtube.com/watch?v=M0xjzwUBf4Y"
+UCOdX7FBvpMPknrC6gtm0y_w;EKiAVzKicRA;2023-01-26T06:39:50Z;"📺 New #rstatsvideo: Building R Packages on Easy Mode
+▶ Southern California R Users Group (@oc_rug)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EKiAVzKicRA"
+UCMdihazndR0f9XBoSXWqnYg;uc24aW4JEOM;2016-06-02T16:49:30Z;"📺 #rstatsvideo: R - Path Analysis Example
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #rprogram #rstudio #statistics #lavaan #sem #structuralequationmodel #pathanalysis
+🔗 https://www.youtube.com/watch?v=uc24aW4JEOM"
+UC3wk--LSO6RkhoMXC6LM_9g;7z7U7ORFWQM;2020-10-06T21:09:43Z;"📺 #rstatsvideo: Text analysis in R. Demo 1: Corpus statistics
+▶ Kasper Welbers (@KasperWelbers)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=7z7U7ORFWQM"
+UCTXuqtCYxPVEehq6fJY9GkA;SsEwC5AAlLw;2021-09-09T01:40:51Z;"📺 #rstatsvideo: Web Scraping Qualquer Coisa
+▶ Curso-R (@curso_r)
+#rstats
+🔗 https://www.youtube.com/watch?v=SsEwC5AAlLw"
+UCt950nC6jlh2ELDRPigWOkg;jQRQ31jCi24;2021-11-07T15:19:13Z;"📺 #rstatsvideo: Preprocesamiento en la línea de comandos (Luis D. Verde)
+▶ LatinR (@LatinR_Conf)
+#rstats
+🔗 https://www.youtube.com/watch?v=jQRQ31jCi24"
+UClGaKSIiaYp8o2SB3D3aS_A;LtmESxymON4;2014-12-02T04:50:51Z;"📺 #rstatsvideo: R programming Chapter 5 part 12 Loops part 1
+▶ InsiderMiner (@forcesofhabit)
+#rstats #datamining #rprogramming #probability #statistics #programming
+🔗 https://www.youtube.com/watch?v=LtmESxymON4"
+UC7C4YZ-9itQW7Nl4RVKDflg;hfEdTDC4T4s;2017-09-03T19:57:37Z;"📺 #rstatsvideo: Docker and R by Thomas Rehman (8/30/2017)
+▶ Cleveland R User Group
+🗣 🇬🇧
+#rstats #docker
+🔗 https://www.youtube.com/watch?v=hfEdTDC4T4s"
+UCcCMO7sHb8O_TJUd34sQ_Ng;nqSjZuK3Wko;2020-07-07T11:05:29Z;"📺 #rstatsvideo: Loi normale dans R/ probabilite (Part 2) | Comment dans R?| Tutorial debutants| caps 31
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#rstats #loinormaldansr #apprendrer #probabilitedansr
+🔗 https://www.youtube.com/watch?v=nqSjZuK3Wko"
+UCrpq9hzMQSq0ldVcXlLgpvQ;1GE3GqjfROU;2021-05-29T12:00:01Z;"📺 #rstatsvideo: Build a Telegram Chat Bot in R | Simple RStudio Project Tutorial
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #automation #chatbot #relationshipadvice
+🔗 https://www.youtube.com/watch?v=1GE3GqjfROU"
+UC_R5smHVXRYGhZYDJsnXTwg;EXGhR-kyjRg;2018-07-12T06:04:01Z;"📺 #rstatsvideo: Extending R with C++: Motivation, Introduction and Examples - Part 1
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EXGhR-kyjRg"
+UCyHEww8_SCdxZvEnkCfi55w;zVlrmyKJOPY;2019-08-10T09:18:03Z;"📺 #rstatsvideo: Unload Package without Restarting R (Example) | Apply detach Function to Remove Packages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #unloadpackageinr #removerpackage #unloadpackagewithoutrestartingrstudio
+🔗 https://www.youtube.com/watch?v=zVlrmyKJOPY"
+UCC0n35R84-ufqPstR1YtCxA;tutoTRTI7Qc;2020-08-31T22:07:18Z;"📺 #rstatsvideo: Biostatistics Using R: lecture 1 (Introduction to R) _part1_
+▶ Stat Pharm
+#rstats
+🔗 https://www.youtube.com/watch?v=tutoTRTI7Qc"
+UCyHEww8_SCdxZvEnkCfi55w;T2fcDmGpyhY;2021-05-15T14:00:07Z;"📺 #rstatsvideo: R Replace NA Values by Column Mean (Example) | Missing Data Imputation | Substitute Variable Average
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=T2fcDmGpyhY"
