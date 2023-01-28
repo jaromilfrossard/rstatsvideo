@@ -19943,3 +19943,81 @@ UCyHEww8_SCdxZvEnkCfi55w;T2fcDmGpyhY;2021-05-15T14:00:07Z;"📺 #rstatsvideo: R 
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=T2fcDmGpyhY"
+UCNkd3Ws7oIkuJO0KO8wupOA;TyI7QsCqM9g;2021-03-26T03:20:51Z;"📺 #rstatsvideo: sorting data in R: arrange function in dplyr
+▶ dataFish
+🗣 🇬🇧
+#rstats #dplr #arrange #sortingdata #sortingdatainr #dataframe #sortdataframe #orderdata #inr #user #tidyverse
+🔗 https://www.youtube.com/watch?v=TyI7QsCqM9g"
+UCyHEww8_SCdxZvEnkCfi55w;gVL63ottV9s;2023-01-26T15:00:34Z;"📺 New #rstatsvideo: reorder() Function in R (Example) | Vector & Data Frame | Sort Boxplot by Median Values Decreasingly
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=gVL63ottV9s"
+UCCaChdLMTYMxyawR_Qf-kYA;jr-NEbNFjV0;2023-01-26T18:01:53Z;"📺 New #rstatsvideo: R Packages: Function documentation (rpkgs04 17)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=jr-NEbNFjV0"
+UCjNXtKLVdEpImICqNERE9cQ;hzHYcsbx8Rc;2023-01-26T20:49:33Z;"📺 New #rstatsvideo: Pasar de rownames a columna con una función
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #rownamesacolumna #rownamestocolumn #nombredefilaacolumna #nombresdefilaacolumna #rownamesr #rownamesenr #moverrownames
+🔗 https://www.youtube.com/watch?v=hzHYcsbx8Rc"
+UCrpq9hzMQSq0ldVcXlLgpvQ;L-v09eL3XoA;2020-01-11T12:00:05Z;"📺 #rstatsvideo: Word Embedding with Keras: A RStudio Tutorial
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rprogramming #keras #tensorflow #rstudio #wordembedding #machinelearning
+🔗 https://www.youtube.com/watch?v=L-v09eL3XoA"
+UCG1_1eqe_KvoVByZeFFFErQ;ljEEOQfabtI;2020-10-25T15:43:49Z;"📺 #rstatsvideo: 17. Alejandro Saavedra Nieves | R tools to link game theory and statistics by sampling
+▶ R Users Gal (@R_usersGal)
+🗣 Galician
+#rstats
+🔗 https://www.youtube.com/watch?v=ljEEOQfabtI"
+UC3xfbCMLCw1Hh4dWop3XtHg;_dW7QIjH3tc;2021-02-20T16:00:26Z;"📺 #rstatsvideo: John Helveston | Using formr to create R-powered surveys with individualized feedback | RStudio
+▶ Posit PBC (@posit_pbc)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse
+🔗 https://www.youtube.com/watch?v=_dW7QIjH3tc"
+UCU5ZiUm-OLbVGW7NP0e-eFQ;eLG-fFzP4Ns;2021-05-16T20:10:51Z;"📺 #rstatsvideo: R Programming Tutorial 4- Importing and Exporting Data in RStudio (Part-2)
+▶ Learn RStats
+🗣 🇬🇧
+#rstats #rprogramming #rtutorial #rprogrammingforbeginners #rprogrammingtutorial #rprogramminglanguage #importing
+🔗 https://www.youtube.com/watch?v=eLG-fFzP4Ns"
+UCydYJplH_n0PvEzpxPe1AdA;MNvJll40ras;2020-04-09T18:59:25Z;"📺 #rstatsvideo: Inference for a single sample pre-lab (formula) part 1/3
+▶ Amelia McNamara (@AmeliaMN)
+🗣 🇬🇧
+#rstats #inference #mosaic #ggformula
+🔗 https://www.youtube.com/watch?v=MNvJll40ras"
+UCGuktEl5InrcxPfCjmPWxsA;GmapTBd-H2Y;2021-01-12T17:00:05Z;"📺 #rstatsvideo: Inline R code in R Markdown documents to improve transparency in scientific manuscripts (CC062)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #asv #esv #otu #livecode #screencast #livecoding
+🔗 https://www.youtube.com/watch?v=GmapTBd-H2Y"
+UCyHEww8_SCdxZvEnkCfi55w;1QZcF8lw7lI;2021-07-25T14:00:00Z;"📺 #rstatsvideo: Export Plot to File Using grid.arrange Function in R (2 Examples) | Save Grid of Graphics | ggsave()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=1QZcF8lw7lI"
+UC9ykygrgYWoUdwaMA3qhRaw;XKeMWK0DJQY;2021-08-05T13:00:10Z;"📺 #rstatsvideo: XGBoost in R Part 2 -  Classification Native Implementation - Machine Learning
+▶ Data Garden
+#rstats
+🔗 https://www.youtube.com/watch?v=XKeMWK0DJQY"
+UC_R5smHVXRYGhZYDJsnXTwg;lakPlz8GJcA;2019-08-03T13:50:08Z;"📺 #rstatsvideo: useR! 2019 Toulouse - Talk  Model Deployment -  Savin Goyal
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=lakPlz8GJcA"
+UCyHEww8_SCdxZvEnkCfi55w;JcXuX3XyoKM;2019-10-24T06:04:48Z;"📺 #rstatsvideo: Capitalize First Letter of Each Word in a Character String in R (3 Examples) | gsub, stringi & tools
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #capitalizefirstletterofwordinr
+🔗 https://www.youtube.com/watch?v=JcXuX3XyoKM"
+UCMwM-3tg_-Pbx8hKO78q5EA;bsnSUMLAcxk;2020-11-10T16:00:17Z;"📺 #rstatsvideo: Strengthening data analytics in pursuit of better health care by Adam Steventon
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=bsnSUMLAcxk"
+UChDkZclaUz_a0ZqcI5u2u_w;y4FY0KNJ6nk;2021-02-05T00:54:11Z;"📺 #rstatsvideo: Logistic Regression with Variable Selection and Categorical Data Analysis in R
+▶ statsguidetree
+#rstats #categoricaldataanalysisinr #chisquareinr #fishersexacttestinr #logisticregressioninr #vifinr
+🔗 https://www.youtube.com/watch?v=y4FY0KNJ6nk"
