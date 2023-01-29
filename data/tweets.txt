@@ -20021,3 +20021,63 @@ UChDkZclaUz_a0ZqcI5u2u_w;y4FY0KNJ6nk;2021-02-05T00:54:11Z;"📺 #rstatsvideo: Lo
 ▶ statsguidetree
 #rstats #categoricaldataanalysisinr #chisquareinr #fishersexacttestinr #logisticregressioninr #vifinr
 🔗 https://www.youtube.com/watch?v=y4FY0KNJ6nk"
+UCjXQyxs1iyEg5v98fezgT0w;SfOJKyICIag;2023-01-27T12:00:26Z;"📺 New #rstatsvideo: Statistics with ChatGPT
+▶ Regorz Statistik
+🗣 🇬🇧
+#rstats #chatgptstatistics #chatgptr #chatgptspss #chatgptsyntax #chatgptcoding
+🔗 https://www.youtube.com/watch?v=SfOJKyICIag"
+UCyHEww8_SCdxZvEnkCfi55w;5oUg0TLDe6I;2023-01-27T15:00:07Z;"📺 New #rstatsvideo: Draw Heatmap-Like Plot of Categorical Variables in R (Example) | How to Use tidyr & ggplot2 Packages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=5oUg0TLDe6I"
+UClHxi-ei0TXjC-0A0QXwMpg;ln4n6y1IFnY;2023-01-27T19:06:44Z;"📺 New #rstatsvideo: 2023 01 27 Stats 102A 1
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ln4n6y1IFnY"
+UCCaChdLMTYMxyawR_Qf-kYA;mR7DV59-w4w;2023-01-27T20:19:14Z;"📺 New #rstatsvideo: Regression and Other Stories: Linear regression with a single predictor (ros02 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=mR7DV59-w4w"
+UCkrf5iL8ef1QHe--zstechA;uYhCZ5T5nVA;2019-04-17T11:20:09Z;"📺 #rstatsvideo: VizWhiz Lesson 1 Video 3 #RYouWithMe by R-Ladies Sydney
+▶ RLadies Sydney (@RLadiesSydney)
+#rstats #rladies #ryouwithme #vizwhiz
+🔗 https://www.youtube.com/watch?v=uYhCZ5T5nVA"
+UCo7yZB1Pz_V9infLSUnfjUg;CD4OVBuHu_0;2021-07-21T06:18:03Z;"📺 #rstatsvideo: Factor Analysis in R - PoliticalDemocracy Data with 3D Plotting
+▶ dataAnalysisR
+#rstats #factoranalysis #3d #3dplot #communality #uniqueness #eigenvalue
+🔗 https://www.youtube.com/watch?v=CD4OVBuHu_0"
+UCcCMO7sHb8O_TJUd34sQ_Ng;rO8vgpyxro4;2021-09-15T07:31:54Z;"📺 #rstatsvideo: Apprendre ggplot2 (basic 6): Barplot, fill et position.. |caps 100
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#rstats #apprendreggplot2basic6barplot #filletposition
+🔗 https://www.youtube.com/watch?v=rO8vgpyxro4"
+UCOFcXLjW9atcEuCa5kbOPSw;91RapOsUDpM;2018-08-10T20:32:03Z;"📺 #rstatsvideo: 2018 - Agosto - R: Usos y Desafíos
+▶ RLadies Santa Fe (@RLadiesSantaFe)
+#rstats #rprogramming #lenguajer #rladies #santafeargentina #programaciónr
+🔗 https://www.youtube.com/watch?v=91RapOsUDpM"
+UCxB1IGhLzlEOikTL-aDwqFg;FcatWWVPAJs;2021-01-15T01:39:08Z;"📺 #rstatsvideo: [2020-08-28] Introduction to interactive web applications using shiny
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #shiny
+🔗 https://www.youtube.com/watch?v=FcatWWVPAJs"
+UCrpq9hzMQSq0ldVcXlLgpvQ;5eYcLfs2L0g;2021-07-10T12:00:06Z;"📺 #rstatsvideo: Clustering and Markers Identification for ScRNA-Seq | Seurat Package Tutorial
+▶ Liquid Brain (@Brandon_yeoph)
+🗣 🇬🇧
+#rstats #rstudio #rstudiotutorial #bioinformatic #singlecellsequencing #ranalysispipeline
+🔗 https://www.youtube.com/watch?v=5eYcLfs2L0g"
+UCmxRvwPXXLdcv_lWkIqB1yA;TgQz2lBsnd0;2020-12-03T16:49:02Z;"📺 #rstatsvideo: Webinário do jaguaR: utilizando o R em estudos com a onça-pintada | Parte 2/4 | Thais Morcatty
+▶ RLadies Ribeirão Preto (@rladiesrp)
+🗣 🇵🇹
+#rstats #rladies
+🔗 https://www.youtube.com/watch?v=TgQz2lBsnd0"
+UCP8l94xtoemCH_GxByvTuFQ;i5DxFa-vThE;2021-09-05T19:04:36Z;"📺 #rstatsvideo: TidyX Episode 74 | Databases with R - Joins in SQL vs Local
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience
+🔗 https://www.youtube.com/watch?v=i5DxFa-vThE"
+UCGn6055dyd5pSmVtHTukQIg;RrEATY9yyD0;2021-12-16T11:00:26Z;"📺 #rstatsvideo: Advent of Code 2021: Day 8 in R
+▶ Alexander Rauhut
+#rstats
+🔗 https://www.youtube.com/watch?v=RrEATY9yyD0"
