@@ -144,6 +144,7 @@ UCID33pDULsQg2y4FVlv4CnQ;Mouna Belaid;mounaa_belaid
 UCei62Pt5vczohDZm45tiuvg;#NairobiR;
 UCU6vtQ59YrGqIrytnJ2CRug;Nasrin Fathollahzadeh Attar;NasrinAttar
 UCMwM-3tg_-Pbx8hKO78q5EA;NHSR Community;NHSrCommunity
+UCOOZl_qCfHlXutEIbCorIjg;Nicola Rennie;nrennie35
 UCEbPGn_boFJj7_sPh37mBfA;Nnenna Asidianya;asidianya
 UCbh2y2fylQmgbsfQfYyYI4A;Noam Ross;noamross
 UCax5WxTJvQjtS9elybDivbA;Olakunle4impact;olakunle4impact
@@ -193,6 +194,7 @@ UCPque9BaFV9p0hcgImrYBzg;R-Ladies Philly;RLadiesPhilly
 UCFZ-jFG9a9Tx0_4EIX-L7bA;R-Ladies Puebla;RLadiesPuebla
 UC71A3VDo0iIA9ryWTsbgmug;R-Ladies Rabat;RLadies_Rabat
 UCGwTYiK7vTePhPpDRgQAq_A;R-Ladies Rio;RLadiesRio
+UC_wQkMyfveB_06_AWqlHxAw;RLadiesRome;RLadiesRome
 UCiEloyxyXZluv7p46DGCqQQ;R-Ladies Teresina;RLadiesTeresina
 UCfoktGmvJ6rnME7mSP_Ww2g;R-Ladies Tunis;RLadiesTunis
 UCtuMKU3a96iqTe1b7JNfhDw;R-Ladies Urmia;RLadiesUrmia
