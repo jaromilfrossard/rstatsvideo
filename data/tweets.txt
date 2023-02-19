@@ -20649,3 +20649,135 @@ UCZ2KQdo1-FhNRtEBYxai5Aw;O_6kxHAIovo;2023-02-13T17:21:14Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=O_6kxHAIovo"
+UCjNXtKLVdEpImICqNERE9cQ;IA7HmCl1tPE;2023-02-13T17:32:34Z;"📺 New #rstatsvideo: Cómo escribir código en RStudio
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #escribircódigoenrstudio #escribircodigoenrstudio #escribircódigoenr #escribircodigoenr #códigoder #códigoenrstudio #escribircódigo #consolar
+🔗 https://www.youtube.com/watch?v=IA7HmCl1tPE"
+UCdrnsZd2xWjDjHUlYsA6Kfw;biSycJfRFCY;2023-02-13T22:55:16Z;"📺 New #rstatsvideo: Adding Themes to your ggplots in R
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters #ggplot #tidyverse
+🔗 https://www.youtube.com/watch?v=biSycJfRFCY"
+UCyHEww8_SCdxZvEnkCfi55w;QYMlahbwdR4;2023-02-14T15:00:28Z;"📺 New #rstatsvideo: Draw Border Around Plot (R Example) | Add Box to Plotting Area & Entire Figure | Color & Thickness
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=QYMlahbwdR4"
+UCN-OX45aSM1VtXkzocx8Ppg;Qrz2rUWM-uY;2023-02-09T14:57:37Z;"📺 New #rstatsvideo: Hello, Quarto: A World of Possibilities (for Reproducible Publishing)
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Qrz2rUWM-uY"
+UC_wQkMyfveB_06_AWqlHxAw;lV-vUI--Pv0;2023-02-13T21:02:30Z;"📺 New #rstatsvideo: R-Ladies Rome (English) - RLadies Quarto - Mine Çetinkaya-Rundel
+▶ RLadiesRome (@RLadiesRome)
+🗣 🇬🇧
+#rstats #datascience #scientists #quarto #presentations #websites #github #teamwork
+🔗 https://www.youtube.com/watch?v=lV-vUI--Pv0"
+UCCaChdLMTYMxyawR_Qf-kYA;gs_QPowod0U;2023-02-14T22:09:41Z;"📺 New #rstatsvideo: RWTF: Maintaining R (rwtf01 9 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=gs_QPowod0U"
+UCCaChdLMTYMxyawR_Qf-kYA;7GLyO3IntgE;2023-02-14T22:10:03Z;"📺 New #rstatsvideo: Advanced R: Function factories (advr07 10)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=7GLyO3IntgE"
+UCXuX-kQ1TbKHWeB75NgmhlA;fVxBYc3872Q;2023-02-15T13:30:13Z;"📺 New #rstatsvideo: Giveaway No.2 results  - Who won the ""Mendel in Vienna"" printed copies?
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #mendel #vienna #giveaway
+🔗 https://www.youtube.com/watch?v=fVxBYc3872Q"
+UCyHEww8_SCdxZvEnkCfi55w;kA6CG622rOY;2023-02-15T15:00:38Z;"📺 New #rstatsvideo: Display Large Numbers Separated with Comma in R (Example) | Apply prettyNum() & format() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=kA6CG622rOY"
+UCCaChdLMTYMxyawR_Qf-kYA;eabiEX8MNmQ;2023-02-15T18:40:14Z;"📺 New #rstatsvideo: ShinyUI: Shiny and the Web (shinyui01 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #rshiny
+🔗 https://www.youtube.com/watch?v=eabiEX8MNmQ"
+UCjNXtKLVdEpImICqNERE9cQ;d-9qSF_dJWw;2023-02-15T21:00:17Z;"📺 New #rstatsvideo: Cómo actualizar paquetes en R con RStudio
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #actualizarpaquetesder #actualizarpaquetes #actualizarpaquetesderconrstudio #rconrstudio #paquetesr #paquetesder #rstudio #analisisdatos
+🔗 https://www.youtube.com/watch?v=d-9qSF_dJWw"
+UCMdihazndR0f9XBoSXWqnYg;PJcIiUg9NgA;2023-02-15T22:35:02Z;"📺 New #rstatsvideo: R - ANOVA (12.2 Flip)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #open #education #data #science #analytics #rstudio #anova #posthoc #trendanalysis #effectsize
+🔗 https://www.youtube.com/watch?v=PJcIiUg9NgA"
+UCdrnsZd2xWjDjHUlYsA6Kfw;O2WJqxhT8sc;2023-02-16T09:28:58Z;"📺 New #rstatsvideo: How to change inline font colors and style in Quarto
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters
+🔗 https://www.youtube.com/watch?v=O2WJqxhT8sc"
+UCMwM-3tg_-Pbx8hKO78q5EA;FBq66XF0lRY;2023-02-16T11:09:29Z;"📺 New #rstatsvideo: NHS-R February 2023 Webinar: Introduction to Causal Inference and propensity modelling
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=FBq66XF0lRY"
+UCyHEww8_SCdxZvEnkCfi55w;KK_km03ZBhQ;2023-02-16T15:00:25Z;"📺 New #rstatsvideo: exp Function in R (4 Examples) | How to Compute & Plot Exponential Values | Use exp() & Draw Output
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=KK_km03ZBhQ"
+UCOOZl_qCfHlXutEIbCorIjg;VOFsRUnhUKs;2023-02-16T17:12:50Z;"📺 New #rstatsvideo: #TidyTuesday 2023 Week 7 - Hollywood Age Gaps
+▶ Nicola Rennie (@nrennie35)
+#rstats
+🔗 https://www.youtube.com/watch?v=VOFsRUnhUKs"
+UCCaChdLMTYMxyawR_Qf-kYA;hbh7SF_ffhM;2023-02-16T18:29:59Z;"📺 New #rstatsvideo: R Packages: Software development practices (rpkgs04 21)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hbh7SF_ffhM"
+UCjNXtKLVdEpImICqNERE9cQ;1CquFYWsfXw;2023-02-16T18:46:32Z;"📺 New #rstatsvideo: Cómo crear proyectos con RStudio
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #proyectosconrstudio #proyectosr #projectsrstudio #projectsr #proyectosenr #rstudio #crearproyectosrstudio #crearproyectosr
+🔗 https://www.youtube.com/watch?v=1CquFYWsfXw"
+UCCaChdLMTYMxyawR_Qf-kYA;s791Sh9qwgE;2023-02-17T14:54:25Z;"📺 New #rstatsvideo: tidyverse docs: Cohort 1 Introduction (tidyversedocs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #tidyverse
+🔗 https://www.youtube.com/watch?v=s791Sh9qwgE"
+UCyHEww8_SCdxZvEnkCfi55w;u_xwteemuvg;2023-02-17T15:00:50Z;"📺 New #rstatsvideo: drop Function in R (Example) | Delete Redundant Dimensions & Extent Information | Check Using dim()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=u_xwteemuvg"
+UCCaChdLMTYMxyawR_Qf-kYA;Nwp0yaY9yyk;2023-02-17T18:23:00Z;"📺 New #rstatsvideo: Regression and Other Stories: Prediction and Bayesian inference (ros02 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Nwp0yaY9yyk"
+UCYKBDZyqcB3a2ZAbL1vV37w;izVcbPmu0D0;2020-05-03T23:53:39Z;"📺 #rstatsvideo: Filtering Data in R
+▶ David Caughlin
+#rstats #rforhr #hrm #humanresourcemanagement #dataanlaytics #datascience #hranalytics #filter #subset #filtering #rstudio #select
+🔗 https://www.youtube.com/watch?v=izVcbPmu0D0"
+UC3xfbCMLCw1Hh4dWop3XtHg;n04FjueWmj0;2021-04-10T16:00:31Z;"📺 #rstatsvideo: Garrett Grolemund | Reproducibility in Production | RStudio (2019)
+▶ Posit PBC (@posit_pbc)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot
+🔗 https://www.youtube.com/watch?v=n04FjueWmj0"
+UCYTxHFYjftv-kxhogQuwXhA;zxfEF0fHQXk;2021-08-18T21:03:18Z;"📺 #rstatsvideo: Week 5: Summary Tables
+▶ Jasper Tjaden (@JasperTjaden)
+#rstats
+🔗 https://www.youtube.com/watch?v=zxfEF0fHQXk"
+UClHxi-ei0TXjC-0A0QXwMpg;nMsJcUDLIJs;2023-02-17T19:19:12Z;"📺 New #rstatsvideo: 2023 02 17 Stats 102A
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=nMsJcUDLIJs"
+UCFT7Tgi7UAzR-eyzjoxBzxA;RKvwuQCOH18;2023-02-18T01:12:38Z;"📺 New #rstatsvideo: Meetup Enero 2023: Introducción a la programación en R; Escritura de estructuras secuenciales
+▶ RLadies Cuernavaca (@RLadiesCuerna)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=RKvwuQCOH18"
+UCCaChdLMTYMxyawR_Qf-kYA;-o-MOguRj-E;2023-02-18T05:11:30Z;"📺 New #rstatsvideo: testthis docs: Introduction and Run tests (pkgcreationdocs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-o-MOguRj-E"
