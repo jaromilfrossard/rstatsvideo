@@ -21099,3 +21099,130 @@ UCqQ_cxcNu1ekqHXDc-MbU_w;MWyGnA5lUug;2021-06-10T11:32:51Z;"📺 #rstatsvideo: R 
 ▶ Business Science (@bizScienc)
 #rstats #python #rprogramming #businessscience #courses #course #roadmap #bsu
 🔗 https://www.youtube.com/watch?v=MWyGnA5lUug"
+UClHxi-ei0TXjC-0A0QXwMpg;j7Ox090HEtQ;2023-02-24T18:53:38Z;"📺 New #rstatsvideo: 2023 02 24 Stats 102A 1
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=j7Ox090HEtQ"
+UCx4-5Eq6RJg3Dx9nrss7CsA;MvmUxXNp3wg;2023-02-25T05:30:08Z;"📺 New #rstatsvideo: رسم نمودار حرفه ای و متحرک | برنامه نویسی آر | دوره آنلاین
+▶ Code2night Persian
+🗣 🇮🇷
+#rstats #برنامهنویسی #برنامهنویسیآر #برنامهنویسیr #زبانبرنامهنویسیr #برنامهنویسیآنلاین #آموزشبرنامهنویسیr
+🔗 https://www.youtube.com/watch?v=MvmUxXNp3wg"
+UCOdX7FBvpMPknrC6gtm0y_w;xZ0-Sm4MSjM;2023-02-25T06:12:48Z;"📺 New #rstatsvideo: The Purrrfect In Person Kickoff
+▶ Southern California R Users Group (@oc_rug)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=xZ0-Sm4MSjM"
+UCtuMKU3a96iqTe1b7JNfhDw;3-1PjlqYISs;2023-02-25T06:40:51Z;"📺 New #rstatsvideo: Remote Sensing in R- سنجش از دور در آر (in Persian)
+▶ R-Ladies Urmia (@RLadiesUrmia)
+🗣 🇮🇷
+#rstats #rstudio #remotesensing
+🔗 https://www.youtube.com/watch?v=3-1PjlqYISs"
+UCyHEww8_SCdxZvEnkCfi55w;83k4-izVnSE;2023-02-25T15:00:07Z;"📺 New #rstatsvideo: Extract  Standardized Regression Coefficients from Linear Model | Beta Weights | lm.beta Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #rprogramming #statistics
+🔗 https://www.youtube.com/watch?v=83k4-izVnSE"
+UCAu9zxmEgQdWYkl84BiziSQ;z6cqDbP6QAY;2020-03-05T19:44:24Z;"📺 #rstatsvideo: 6- Vektörlerde Bazı İşlemler - Temel R Programlama
+▶ Eskisehir R User Group (@eskisehiR_users)
+#rstats
+🔗 https://www.youtube.com/watch?v=z6cqDbP6QAY"
+UCb5aI-GwJm3ZxlwtCsLu78Q;V-EssPrGPHg;2020-06-24T05:08:39Z;"📺 #rstatsvideo: Discover 7 Hidden Gems in the R Package Ecosystem
+▶ Tom Henry - data science with R
+#rstats
+🔗 https://www.youtube.com/watch?v=V-EssPrGPHg"
+UCeTqWLMlko7MjRny-b_dNeA;99Hkmfb2i80;2020-10-26T13:53:52Z;"📺 #rstatsvideo: IDS - Week 06 - 02 - Web scraping
+▶ Mine Çetinkaya-Rundel (@minebocek)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=99Hkmfb2i80"
+UCxB1IGhLzlEOikTL-aDwqFg;YF5jw--Ky-g;2020-11-13T21:01:38Z;"📺 #rstatsvideo: [2020-11-11] DegNorm
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #degnorm #bioconductor
+🔗 https://www.youtube.com/watch?v=YF5jw--Ky-g"
+UCCaChdLMTYMxyawR_Qf-kYA;wouFWqMzAyA;2021-05-21T07:30:24Z;"📺 #rstatsvideo: R para Ciencia de Datos Club de Lectura: Capítulo 21: Iteración - Parte 1 (2021-05-18) (r4ds_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=wouFWqMzAyA"
+UCCaChdLMTYMxyawR_Qf-kYA;5EIV1ZccN3w;2023-02-25T18:10:46Z;"📺 New #rstatsvideo: testthis docs: Snapshot testing & Side effects (pkgcreationdocs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=5EIV1ZccN3w"
+UCCaChdLMTYMxyawR_Qf-kYA;gDqmMd9x2FA;2023-02-25T20:40:12Z;"📺 New #rstatsvideo: Forecasting: Principles and Practice: Judgmental forecasts (fpp02 6)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=gDqmMd9x2FA"
+UCCaChdLMTYMxyawR_Qf-kYA;pXA37t6Yvwo;2023-02-25T22:01:45Z;"📺 New #rstatsvideo: Econometrics with R: Probability Theory (econometrics01 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #econometrics
+🔗 https://www.youtube.com/watch?v=pXA37t6Yvwo"
+UC_sejq_JJ49KiiK4qh5r-wg;r_dezUYmlMw;2023-02-26T01:23:03Z;"📺 New #rstatsvideo: How to Convert Categorical Variables into Dummy Variables in R
+▶ Universe of Data Science (@unidatascience)
+#rstats
+🔗 https://www.youtube.com/watch?v=r_dezUYmlMw"
+UCP8l94xtoemCH_GxByvTuFQ;jc8VNmOT7Iw;2023-02-26T08:00:32Z;"📺 New #rstatsvideo: Fuzzy Joins on Dates | TidyX Episode 136
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=jc8VNmOT7Iw"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;VnjujO8z4OI;2015-04-29T00:46:55Z;"📺 #rstatsvideo: dplyr tutorial (Part 1)
+▶ Dragonfly Statistics
+#rstats #courserarquiz #datasciencespecialization #rvideos #courserdatasci #dplyr #dplyrrstats #dplyrtutorial #rdplyr #dplry #dplyrpipelineshadleywickham
+🔗 https://www.youtube.com/watch?v=VnjujO8z4OI"
+UCyHEww8_SCdxZvEnkCfi55w;UqVi3RsGiw4;2020-06-26T14:00:08Z;"📺 #rstatsvideo: Create Empty Plot in R (2 Examples) | How to Draw a Blank Graphic | plot.new & plot Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=UqVi3RsGiw4"
+UC3xfbCMLCw1Hh4dWop3XtHg;6TeySatiFx8;2021-04-12T17:00:05Z;"📺 #rstatsvideo: Tom Mock | RStudio Connect in Production
+▶ Posit PBC (@posit_pbc)
+🗣 🇬🇧
+#rstats #rstudio #datascience #machinelearning #python #stats #tidyverse #datavisualization #dataviz #ggplot #technology #coding #connect
+🔗 https://www.youtube.com/watch?v=6TeySatiFx8"
+UC-qm48zb2P7NVxk-tBa7MFg;PQB0VWvhvuo;2021-11-14T12:26:42Z;"📺 #rstatsvideo: Chapter 5:06: How to center or standardize variables
+▶ Statistics Lectures UNIL: Peter Hilpert
+#rstats
+🔗 https://www.youtube.com/watch?v=PQB0VWvhvuo"
+UClHxi-ei0TXjC-0A0QXwMpg;kQEPlIJAAhU;2022-10-12T18:28:42Z;"📺 #rstatsvideo: 2022 10 12 Stats 15
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=kQEPlIJAAhU"
+UC5RJIEerX3NnhKaBLM3oWZQ;kwKPW5yCvSs;2023-02-13T15:38:23Z;"📺 New #rstatsvideo: 2023 Feb 13 - Advanced PA - Yield monitor editor pt 3
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=kwKPW5yCvSs"
+UC_B9IFL3z8bB1Ml6GcVDavA;DH4EU3smLwk;2023-02-13T23:30:09Z;"📺 New #rstatsvideo: R Vectors — SWB open online statistics courses
+▶ Statistics without Borders (@SWBProbono)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=DH4EU3smLwk"
+UCI9VIkXnRWS_lSRurPdvUiA;byrz548-nvU;2023-02-16T01:50:01Z;"📺 New #rstatsvideo: Predicción de Especies con Tidymodels: Parte 3. Optimización e Interpretación del Modelo
+▶ R español
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=byrz548-nvU"
+UC5RJIEerX3NnhKaBLM3oWZQ;rGqkP1gIR7E;2023-02-16T16:43:23Z;"📺 New #rstatsvideo: 2023 Feb 15 - Advanced PA - Yield interpolation pt 1
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=rGqkP1gIR7E"
+UC5RJIEerX3NnhKaBLM3oWZQ;XFZ1OQa-lGY;2023-02-16T16:50:22Z;"📺 New #rstatsvideo: 2023 Feb 15 - Advanced PA - Yield interpolation pt 2
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=XFZ1OQa-lGY"
+UC0tQIuq-aFzYfYjnRB7k2tg;pLKBnO75z6I;2023-02-16T17:14:06Z;"📺 New #rstatsvideo: Plotting your bayesian model - rethinking (base plot)
+▶ Jeff Wesner
+#rstats
+🔗 https://www.youtube.com/watch?v=pLKBnO75z6I"
+UC0tQIuq-aFzYfYjnRB7k2tg;M51vikJBw58;2023-02-16T17:22:51Z;"📺 New #rstatsvideo: plotting your bayesian model - rethinking(ggplot)
+▶ Jeff Wesner
+#rstats
+🔗 https://www.youtube.com/watch?v=M51vikJBw58"

@@ -2,6 +2,7 @@ id_channel;name_channel;id_twitter
 UCpSo0ZG5FtMyKwGnHaGnvrA;Aaron Maxwell;
 UCbck9jjLpwj7U6HHNps_9Gw;Abhinav Agrawal;abhiag30
 UC_bfGqjzgx4-N8TEQlJTaNQ;Abuja R User Group;AbujaRUG
+UC5RJIEerX3NnhKaBLM3oWZQ;agRonomy;leoNitrogen
 UCYtwfTEnBj_xuSIuffr8-XQ;Ajay Koli;ajay_kolii
 UCGn6055dyd5pSmVtHTukQIg;Alexander Rauhut;
 UCQYM-t2ut2zXr4d7TIFya1A;Alison Hill;apreshill
@@ -92,12 +93,14 @@ UCN5UEJ-D9X5neLYOGtRfJug;Herb Wilson;
 UCfqX9h4wkDzXQIdfcrpLBMQ;Hertie School Data Science Lab;Hertie_DSLab
 UClGaKSIiaYp8o2SB3D3aS_A;InsiderMiner;forcesofhabit
 UCWFju94W4ecD4qNRWW4ztLQ;INWT Statistics;INWT_Statistics
+UCvO-Hjj-v8-ZBlloLwqTDzw;It's all about Data !!!;
 UC3wk--LSO6RkhoMXC6LM_9g;Kasper Welbers;KasperWelbers
 UC0cF_3ZXpYErsASTc29ftPg;Kelsey Gonzalez;KelseyEGonzalez
 UCchB_GC3WYW8kuGPyllLE7Q;Kelly Bodwin;KellyBodwin
 UCrxjf_pqTZKMdAuU-WbkENA;Kianté Fernandez;
 UCXKQBlJczU7YTyVu_wW7yHA;Japan.R;Japan_R_net
 UCYTxHFYjftv-kxhogQuwXhA;Jasper Tjaden;JasperTjaden
+UC0tQIuq-aFzYfYjnRB7k2tg;Jeff Wesner;
 UC9Sm1qcdzyGVjQMgWsW4pcw;Jennifer Sloane;jfsloane
 UCHe1BSq0GyFONcrc-iEnAOQ;Jenny Bryan;JennyBryan
 UCE2WK5bvNtDblu4NO9PGtJA;Jesse Mostipak;kierisi
@@ -163,6 +166,7 @@ UCljumcPvitx5W0OEC_Thk2Q;Rania Ismail;
 UCg6kociUghEgKz_hLRKQrMQ;R Data Science School;
 UCKHWHHzf3H79h2T0QWdR1Tw;R en Baires;renbaires
 UC7C-2wTDdq_AmNfWixCAY3Q;Red Mexicana Bioinformatica;
+UCI9VIkXnRWS_lSRurPdvUiA;R español;
 UCZcd0Fp8o_FQVqf6AAoZzqA;R for students | Dr. Fahad;
 UCjXQyxs1iyEg5v98fezgT0w;Regorz Statistik;
 UC1A-TUhyfNOpHcNM8da6tJQ;Renzo Caceres Rossi;ARenzoCaceresR
@@ -196,6 +200,7 @@ UCFZ-jFG9a9Tx0_4EIX-L7bA;R-Ladies Puebla;RLadiesPuebla
 UC71A3VDo0iIA9ryWTsbgmug;R-Ladies Rabat;RLadies_Rabat
 UCGwTYiK7vTePhPpDRgQAq_A;R-Ladies Rio;RLadiesRio
 UC_wQkMyfveB_06_AWqlHxAw;RLadiesRome;RLadiesRome
+UCbqr3MaTTqHcHsg4xZ1dDMg;R-Ladies Santa Barbara;RLadiesSB
 UCiEloyxyXZluv7p46DGCqQQ;R-Ladies Teresina;RLadiesTeresina
 UCfoktGmvJ6rnME7mSP_Ww2g;R-Ladies Tunis;RLadiesTunis
 UCtuMKU3a96iqTe1b7JNfhDw;R-Ladies Urmia;RLadiesUrmia
@@ -260,6 +265,7 @@ UCrB-uourf2vxGeBnGjQrA0w;STAT 545;STAT545
 UCC0n35R84-ufqPstR1YtCxA;Stat Pharm;
 UCg4rv97QEhN-2gvLhrGMgEw;Statplace;Statplace1
 UCfu2GCdjq50W-kL-cv3rcLw;Statistics & Theory;VahidAryadoust
+UC_B9IFL3z8bB1Ml6GcVDavA;Statistics without Borders;SWBProbono
 UCXgpDUq8cVyEj3ZbZcKtkbA;Statistical Learning Group;
 UCs7EU95YMjhvNozJKCD92xQ;Statistics for Sustainable Development (Stats4SD);Stats4SD
 UCyHEww8_SCdxZvEnkCfi55w;Statistics Globe;JoachimSchork
