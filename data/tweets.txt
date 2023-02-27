@@ -21226,3 +21226,79 @@ UC0tQIuq-aFzYfYjnRB7k2tg;M51vikJBw58;2023-02-16T17:22:51Z;"📺 New #rstatsvideo
 ▶ Jeff Wesner
 #rstats
 🔗 https://www.youtube.com/watch?v=M51vikJBw58"
+UC5RJIEerX3NnhKaBLM3oWZQ;A26Ob39xnRc;2023-02-17T17:21:53Z;"📺 New #rstatsvideo: 2023 Feb 17 - Advanced PA - Assignment 6, quiz 4
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=A26Ob39xnRc"
+UC5RJIEerX3NnhKaBLM3oWZQ;AK0QYSqqGtA;2023-02-20T16:11:53Z;"📺 New #rstatsvideo: 2023 Feb 20 - Advanced PA - Yield spatial stability
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=AK0QYSqqGtA"
+UC_B9IFL3z8bB1Ml6GcVDavA;vPh9btADAz8;2023-02-22T00:00:08Z;"📺 New #rstatsvideo: Introductory Statistical Computing for Biostatistics - SWB open online statistics courses
+▶ Statistics without Borders (@SWBProbono)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=vPh9btADAz8"
+UCvO-Hjj-v8-ZBlloLwqTDzw;2Pam8PAEgmM;2023-02-22T13:10:55Z;"📺 New #rstatsvideo: Multiclass Classification using Linear Regression
+▶ It's all about Data !!!
+🗣 🇬🇧
+#rstats #regression #classification #machinelearning
+🔗 https://www.youtube.com/watch?v=2Pam8PAEgmM"
+UCbqr3MaTTqHcHsg4xZ1dDMg;EpJVSJ3TsXE;2023-02-22T15:52:01Z;"📺 New #rstatsvideo: A Gentle Introduction to Parallel Processing in R with Danielle Ferraro (May 26, 2021)
+▶ R-Ladies Santa Barbara (@RLadiesSB)
+#rstats
+🔗 https://www.youtube.com/watch?v=EpJVSJ3TsXE"
+UCbqr3MaTTqHcHsg4xZ1dDMg;wIRDLHN2lSY;2023-02-22T15:53:25Z;"📺 New #rstatsvideo: Putting the FUN in functions (February 24, 2022)
+▶ R-Ladies Santa Barbara (@RLadiesSB)
+#rstats
+🔗 https://www.youtube.com/watch?v=wIRDLHN2lSY"
+UCbqr3MaTTqHcHsg4xZ1dDMg;7bvm2fa0J-8;2023-02-22T16:03:12Z;"📺 New #rstatsvideo: Basics of the gt (grammer of tables) package (November 19 2020)
+▶ R-Ladies Santa Barbara (@RLadiesSB)
+#rstats
+🔗 https://www.youtube.com/watch?v=7bvm2fa0J-8"
+UC5RJIEerX3NnhKaBLM3oWZQ;1HfnjDulKOk;2023-02-22T19:55:30Z;"📺 New #rstatsvideo: 2023 Feb 22 - Advanced PA - Yield spatiotemporal stability
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=1HfnjDulKOk"
+UC5RJIEerX3NnhKaBLM3oWZQ;3YujJM8bxqE;2023-02-22T20:46:54Z;"📺 New #rstatsvideo: 2023 Feb 22 - Advanced PA - Quiz 4 discussion
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=3YujJM8bxqE"
+UC0tQIuq-aFzYfYjnRB7k2tg;i57e9E50gXE;2023-02-22T21:06:38Z;"📺 New #rstatsvideo: plotting an interaction (triptych)
+▶ Jeff Wesner
+#rstats
+🔗 https://www.youtube.com/watch?v=i57e9E50gXE"
+UC5RJIEerX3NnhKaBLM3oWZQ;XZ4k3zA9dpc;2023-02-24T16:19:43Z;"📺 New #rstatsvideo: 2023 Feb 24 - Advanced PA - Terrain pt 1
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=XZ4k3zA9dpc"
+UCfJyQ3P2k_SuqfxVdqIEQNw;Ft3pDF8VJh8;2023-02-26T10:12:01Z;"📺 New #rstatsvideo: R programming for beginners: Select, filter and fill functions within the tidyverse
+▶ R Programming 101 (@101Programming)
+#rstats
+🔗 https://www.youtube.com/watch?v=Ft3pDF8VJh8"
+UC3f2tQEdmy7MBNUlEYcRgBw;qQmLGmUWLC4;2023-02-14T01:59:16Z;"📺 New #rstatsvideo: RStudio Tidying 2022 Detroit Tigers data
+▶ James Ham
+#rstats
+🔗 https://www.youtube.com/watch?v=qQmLGmUWLC4"
+UC4qGEuq0nCmWuAkfYkEV3Ew;NAWrkBETuhs;2023-02-21T13:08:41Z;"📺 New #rstatsvideo: Liniendiagramm in Excel erstellen
+▶ Datenanalyse für alle
+#rstats
+🔗 https://www.youtube.com/watch?v=NAWrkBETuhs"
+UC4qGEuq0nCmWuAkfYkEV3Ew;AGaLKVTm61c;2023-02-22T11:32:39Z;"📺 New #rstatsvideo: Wenn-Oder-Verknüpfung in Excel
+▶ Datenanalyse für alle
+#rstats
+🔗 https://www.youtube.com/watch?v=AGaLKVTm61c"
+UC3f2tQEdmy7MBNUlEYcRgBw;cWx39b0iFWU;2023-02-22T20:09:41Z;"📺 New #rstatsvideo: RStudio Relational Data (U.S. Death Penalty)
+▶ James Ham
+#rstats
+🔗 https://www.youtube.com/watch?v=cWx39b0iFWU"
+UCUQ-e1T5BFpr_Di5wnEI67g;beNvqGMySNE;2023-02-23T20:32:05Z;"📺 New #rstatsvideo: 2.10 Make a species level taxonomic bar plot
+▶ profbiot
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=beNvqGMySNE"

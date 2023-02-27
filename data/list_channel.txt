@@ -2,6 +2,7 @@ id_channel;name_channel;id_twitter
 UCpSo0ZG5FtMyKwGnHaGnvrA;Aaron Maxwell;
 UCbck9jjLpwj7U6HHNps_9Gw;Abhinav Agrawal;abhiag30
 UC_bfGqjzgx4-N8TEQlJTaNQ;Abuja R User Group;AbujaRUG
+UCYhbEPKhwomf62jIzSOEkCQ;Africa R Users;AfricaRUsers
 UC5RJIEerX3NnhKaBLM3oWZQ;agRonomy;leoNitrogen
 UCYtwfTEnBj_xuSIuffr8-XQ;Ajay Koli;ajay_kolii
 UCGn6055dyd5pSmVtHTukQIg;Alexander Rauhut;
@@ -47,6 +48,7 @@ UCpChnrrdbK01nPipBvmD1pA;Daniel Sjoberg;statistishdan
 UCYWBlijAB6IOpHIwsb3cecA;Danny Arends;DannyArends
 UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
 UCeYbe13SKAaIyuXtO1_cbpA;DASA.VicUni;
+UC4qGEuq0nCmWuAkfYkEV3Ew;Datenanalyse für alle;
 UC0dgTZhVua-2yvtWDfPA_nQ;Data Centric Inc.;
 UC9ykygrgYWoUdwaMA3qhRaw;Data Garden;
 UCOOcd7f7eJTDNxKLde3lfOQ;Data Latam;datalatam
@@ -98,6 +100,7 @@ UC3wk--LSO6RkhoMXC6LM_9g;Kasper Welbers;KasperWelbers
 UC0cF_3ZXpYErsASTc29ftPg;Kelsey Gonzalez;KelseyEGonzalez
 UCchB_GC3WYW8kuGPyllLE7Q;Kelly Bodwin;KellyBodwin
 UCrxjf_pqTZKMdAuU-WbkENA;Kianté Fernandez;
+UC3f2tQEdmy7MBNUlEYcRgBw;James Ham;
 UCXKQBlJczU7YTyVu_wW7yHA;Japan.R;Japan_R_net
 UCYTxHFYjftv-kxhogQuwXhA;Jasper Tjaden;JasperTjaden
 UC0tQIuq-aFzYfYjnRB7k2tg;Jeff Wesner;
@@ -161,6 +164,7 @@ UCxQFEv8HNqM01DXzdQLCy6Q;pharmaverse;
 UCCtRoQ5QVXsf4OwRir3EI9Q;Ph.D DuriDuri;
 UC3quDkWY1BBFasaIzaJUBXA;Practical Propensity Score Analysis;WalterLLeite1
 UCBsXfUO__nzMnlaLLUx7DFQ;Probability!;
+UCUQ-e1T5BFpr_Di5wnEI67g;profbiot;
 UC1NEZyGbSpcgBxcosNAjojA;Quick R Tutorials;
 UCljumcPvitx5W0OEC_Thk2Q;Rania Ismail;
 UCg6kociUghEgKz_hLRKQrMQ;R Data Science School;
