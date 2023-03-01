@@ -21383,3 +21383,77 @@ UCyHEww8_SCdxZvEnkCfi55w;zZBndTNhEuI;2023-02-28T15:00:43Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=zZBndTNhEuI"
+UCCaChdLMTYMxyawR_Qf-kYA;n71f3ka5vLw;2023-02-28T15:02:02Z;"📺 New #rstatsvideo: Modelado Tidy con R - 20. Conjuntos de Modelos (tmwr_es01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=n71f3ka5vLw"
+UCqaMSQd_h-2EDGsU6WDiX0Q;b9DcmQpuR2A;2023-02-28T15:40:42Z;"📺 New #rstatsvideo: Timecourse Analysis of Single Cell RNA Data Utilising Bioconductor Software
+▶ Bioconductor (@Bioconductor)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=b9DcmQpuR2A"
+UCqaMSQd_h-2EDGsU6WDiX0Q;8NSCdGJFsTg;2023-02-28T15:50:27Z;"📺 New #rstatsvideo: SpliceWiz - easy splicing analysis and visualization in R
+▶ Bioconductor (@Bioconductor)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=8NSCdGJFsTg"
+UCqaMSQd_h-2EDGsU6WDiX0Q;rDRt64tXtcU;2023-02-28T15:54:34Z;"📺 New #rstatsvideo: Benchmarking of Five Demultiplexing Tools
+▶ Bioconductor (@Bioconductor)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=rDRt64tXtcU"
+UCqaMSQd_h-2EDGsU6WDiX0Q;58no0LSw5iE;2023-02-28T16:22:42Z;"📺 New #rstatsvideo: catchSalmon and catchKallisto in edgeR for Modelling Transcript-Level Uncertainty
+▶ Bioconductor (@Bioconductor)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=58no0LSw5iE"
+UCqaMSQd_h-2EDGsU6WDiX0Q;HaU_BoawAJ4;2023-02-28T16:28:18Z;"📺 New #rstatsvideo: Using extraChIPs with GRAVI: Hot mess or slick analysis?
+▶ Bioconductor (@Bioconductor)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=HaU_BoawAJ4"
+UCqaMSQd_h-2EDGsU6WDiX0Q;TGhh9QM5O70;2023-02-28T16:33:12Z;"📺 New #rstatsvideo: scFeatures for Multi-view Data Generation
+▶ Bioconductor (@Bioconductor)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=TGhh9QM5O70"
+UCqaMSQd_h-2EDGsU6WDiX0Q;73FzXtsiKkA;2023-02-28T16:42:43Z;"📺 New #rstatsvideo: Extension of Data Modelling to Multi-view Data Sets in ClassifyR 3
+▶ Bioconductor (@Bioconductor)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=73FzXtsiKkA"
+UCqaMSQd_h-2EDGsU6WDiX0Q;pwAaJ_9ye5U;2023-02-28T17:05:06Z;"📺 New #rstatsvideo: FuseSOM, A New Correlation-based Clustering Algorithm for In-situ Multiplexed Cytometry Imaging
+▶ Bioconductor (@Bioconductor)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=pwAaJ_9ye5U"
+UCqaMSQd_h-2EDGsU6WDiX0Q;TXUXsvrOceU;2023-02-28T17:17:45Z;"📺 New #rstatsvideo: cellXY for Exploring Gender-specific Genes in Single Cell RNA-seq Data
+▶ Bioconductor (@Bioconductor)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=TXUXsvrOceU"
+UCqaMSQd_h-2EDGsU6WDiX0Q;Xb6sw1WUTbA;2023-02-28T17:23:30Z;"📺 New #rstatsvideo: Identifying Differentially Abundant Phosphoproteome Sites With ProteomeRiver
+▶ Bioconductor (@Bioconductor)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Xb6sw1WUTbA"
+UCCaChdLMTYMxyawR_Qf-kYA;lDl4pcanH-w;2023-02-28T19:31:35Z;"📺 New #rstatsvideo: Geocomputation w R: Introduction (geocompr01 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #geocomputation
+🔗 https://www.youtube.com/watch?v=lDl4pcanH-w"
+UCrSOXB0bD_FZAZrgCl-fKjA;lPKmgukI_gE;2023-02-28T20:48:10Z;"📺 New #rstatsvideo: R - Intro to Data Science Class 2 (Pt.6)
+▶ Florida Data Science Academy
+#rstats #rstudio #datascience #analytics
+🔗 https://www.youtube.com/watch?v=lPKmgukI_gE"
+UCCaChdLMTYMxyawR_Qf-kYA;mOpmvc9h_4M;2023-02-28T21:41:07Z;"📺 New #rstatsvideo: Advanced R: Base types (advr07 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=mOpmvc9h_4M"
+UCCaChdLMTYMxyawR_Qf-kYA;SiRytDtkZIo;2023-03-01T10:54:31Z;"📺 New #rstatsvideo: ShinyUI: Discover Shiny dependencies (shinyui01 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #rshiny
+🔗 https://www.youtube.com/watch?v=SiRytDtkZIo"
