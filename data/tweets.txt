@@ -21302,3 +21302,84 @@ UCUQ-e1T5BFpr_Di5wnEI67g;beNvqGMySNE;2023-02-23T20:32:05Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=beNvqGMySNE"
+UCyHEww8_SCdxZvEnkCfi55w;Q9CrsmhEeAY;2023-02-26T15:00:15Z;"📺 New #rstatsvideo: Draw Cumulative Histogram in R (2 Examples) | Base R & ggplot2 Package | Calculate Sum in Histogram
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=Q9CrsmhEeAY"
+UCCaChdLMTYMxyawR_Qf-kYA;YpMV971nuYI;2023-02-26T18:16:44Z;"📺 New #rstatsvideo: Bayes Rules! The Beta-Binomial Bayesian Model (bayes_rules04 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=YpMV971nuYI"
+UCCaChdLMTYMxyawR_Qf-kYA;BNPvXGGcQMI;2023-02-26T18:17:08Z;"📺 New #rstatsvideo: R for Data Science: Logical vectors (r4ds08 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=BNPvXGGcQMI"
+UCo0s7d_ZTrEIfjOhHC_aCGg;v_eQWioeZrw;2023-02-27T00:26:16Z;"📺 New #rstatsvideo: Modelo de Regresión con Datos de Panel | Luisa Ames
+▶ R-Ladies Lima (@RLadiesLima)
+🗣 🇪🇸
+#rstats #paneldata
+🔗 https://www.youtube.com/watch?v=v_eQWioeZrw"
+UC3f2tQEdmy7MBNUlEYcRgBw;yD9oGGPqlvo;2023-02-27T02:08:09Z;"📺 New #rstatsvideo: RStudio Factors & Strings -  Train Accidents in the US
+▶ James Ham
+#rstats
+🔗 https://www.youtube.com/watch?v=yD9oGGPqlvo"
+UCYhbEPKhwomf62jIzSOEkCQ;zyd0-eUZEkU;2023-02-27T10:02:53Z;"📺 New #rstatsvideo: Africa R Users community meetup: Exploratory Data Analysis with R
+▶ Africa R Users (@AfricaRUsers)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=zyd0-eUZEkU"
+UC4qGEuq0nCmWuAkfYkEV3Ew;HSFIIawOrIA;2023-02-27T13:41:52Z;"📺 New #rstatsvideo: Datenaufbereitung mit dem tidyverse-package in R
+▶ Datenanalyse für alle
+#rstats
+🔗 https://www.youtube.com/watch?v=HSFIIawOrIA"
+UCCaChdLMTYMxyawR_Qf-kYA;QE9Rjw11y7g;2023-02-27T14:28:12Z;"📺 New #rstatsvideo: ISLR: Classification Part 2 (islr05 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=QE9Rjw11y7g"
+UCyHEww8_SCdxZvEnkCfi55w;XL5UIA9LAyQ;2023-02-27T15:00:19Z;"📺 New #rstatsvideo: replicate() Function in R (2 Examples) | Repeated Evaluation of Expression | User-defined Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=XL5UIA9LAyQ"
+UC5RJIEerX3NnhKaBLM3oWZQ;o_1hPvSVtbY;2023-02-27T16:32:46Z;"📺 New #rstatsvideo: 2023 Feb 27 - Advanced PA - Terrain pt 2
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=o_1hPvSVtbY"
+UCI9VIkXnRWS_lSRurPdvUiA;QfWMfSCP19w;2023-02-27T18:04:52Z;"📺 New #rstatsvideo: Aprendizaje No Supervisado con #tidyclust un paquete asociada de #tidymodels
+▶ R español
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=QfWMfSCP19w"
+UClHxi-ei0TXjC-0A0QXwMpg;99kcWgjBHvw;2023-02-27T19:17:12Z;"📺 New #rstatsvideo: 2023 02 27 Stats 102A 0
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=99kcWgjBHvw"
+UCOOZl_qCfHlXutEIbCorIjg;TUaMflYc7CQ;2023-02-27T19:21:27Z;"📺 New #rstatsvideo: #TidyTuesday 2023 Week 9 - African Language Sentiment
+▶ Nicola Rennie (@nrennie35)
+#rstats
+🔗 https://www.youtube.com/watch?v=TUaMflYc7CQ"
+UCx1vXgGDXc7BH7bI1KC_o7Q;ufEhAbjlad8;2023-02-27T20:00:16Z;"📺 New #rstatsvideo: Codificando variáveis de múltiplas respostas no R
+▶ Fernanda Peres
+🗣 🇵🇹
+#rstats #bioestatística #estatística #múltiplasrespostas #rstudio #formuláriogoogle
+🔗 https://www.youtube.com/watch?v=ufEhAbjlad8"
+UC3f2tQEdmy7MBNUlEYcRgBw;kx9TIXeKJaQ;2023-02-27T21:47:23Z;"📺 New #rstatsvideo: RStudio: Wrangling Train Accident Data
+▶ James Ham
+#rstats
+🔗 https://www.youtube.com/watch?v=kx9TIXeKJaQ"
+UCCaChdLMTYMxyawR_Qf-kYA;Bo77D_7zXj4;2023-02-27T23:03:35Z;"📺 New #rstatsvideo: RWTF: Read the source & Reproduce the Problem (rwtf01 12 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #debugging
+🔗 https://www.youtube.com/watch?v=Bo77D_7zXj4"
+UCyHEww8_SCdxZvEnkCfi55w;zZBndTNhEuI;2023-02-28T15:00:43Z;"📺 New #rstatsvideo: Display Labels of ggplot2 Facet Plot in Bold or Italics in R (2 Examples) | Apply theme() Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=zZBndTNhEuI"
