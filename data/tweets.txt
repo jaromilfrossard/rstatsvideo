@@ -21457,3 +21457,198 @@ UCCaChdLMTYMxyawR_Qf-kYA;SiRytDtkZIo;2023-03-01T10:54:31Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rshiny
 🔗 https://www.youtube.com/watch?v=SiRytDtkZIo"
+UCyHEww8_SCdxZvEnkCfi55w;pdBWEqnhAkM;2023-03-01T15:00:26Z;"📺 New #rstatsvideo: date() Function in R (Example) | Get System Date | Weekday, Month, Day, Year, Hour, Minutes, Seconds
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=pdBWEqnhAkM"
+UCCaChdLMTYMxyawR_Qf-kYA;hzFruvsiJQs;2023-03-01T16:27:20Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Tidy evaluation (mshiny04 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #rshiny
+🔗 https://www.youtube.com/watch?v=hzFruvsiJQs"
+UC_R5smHVXRYGhZYDJsnXTwg;NtXT19EFhOE;2023-03-01T17:21:10Z;"📺 New #rstatsvideo: Teal: An R Shiny Framework to Unlock the Power of Interactive Data Exploration
+▶ R Consortium (@RConsortium)
+🗣 🇬🇧
+#rstats #rconsortium
+🔗 https://www.youtube.com/watch?v=NtXT19EFhOE"
+UClHxi-ei0TXjC-0A0QXwMpg;lUzmCO_FhI4;2023-03-01T18:53:48Z;"📺 New #rstatsvideo: 2023 03 01 Stats 102A 0
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=lUzmCO_FhI4"
+UCH15dz_euC9vs75L6jW9pUg;pWKvpoi4Cdg;2021-10-31T07:08:15Z;"📺 #rstatsvideo: Regression in R
+▶ Data Science Tutorials
+🗣 🇬🇧
+#rstats #datascience
+🔗 https://www.youtube.com/watch?v=pWKvpoi4Cdg"
+UC5RJIEerX3NnhKaBLM3oWZQ;AZfToteC30A;2023-03-01T19:53:33Z;"📺 New #rstatsvideo: 2023 Mar 1 - Advanced PA - Terrain pt 3, Soil ECa pt 1
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=AZfToteC30A"
+UCMdihazndR0f9XBoSXWqnYg;8G3e8oGxb-E;2023-03-01T20:16:10Z;"📺 New #rstatsvideo: R & Python - Introduction to Natural Language Processing (2022)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown
+🔗 https://www.youtube.com/watch?v=8G3e8oGxb-E"
+UCjNXtKLVdEpImICqNERE9cQ;8XpuaUt98oY;2023-03-01T21:31:33Z;"📺 New #rstatsvideo: Cómo calcular la desviación estándar y la varianza en R
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #desviaciónestándarenr #desviaciónestándarr #desviacionestandarenr #desviacionestandarr #varianzaenr #varianzar #dispersiónr
+🔗 https://www.youtube.com/watch?v=8XpuaUt98oY"
+UCqQ_cxcNu1ekqHXDc-MbU_w;F7aYV0RPyD0;2020-09-03T13:39:29Z;"📺 #rstatsvideo: Setup R Project from GitHub (Business Science R-Tips Newsletter) | R-Tip 000
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=F7aYV0RPyD0"
+UCTXuqtCYxPVEehq6fJY9GkA;kal7tpLc5U0;2023-02-23T23:46:28Z;"📺 New #rstatsvideo: Unboxing de pacotes do R #10
+▶ Curso-R (@curso_r)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=kal7tpLc5U0"
+UCsqrrplF84DQckpGQuTKTMg;6Pj7mbZomxY;2023-03-02T03:36:06Z;"📺 New #rstatsvideo: 161.324 Data Mining: Workshop 1b
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=6Pj7mbZomxY"
+UCyHEww8_SCdxZvEnkCfi55w;6luaGlMJ-4I;2023-03-02T15:00:04Z;"📺 New #rstatsvideo: Load Multiple Packages at Once in R (Example) | apply() & require() Functions | Importing Libraries
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=6luaGlMJ-4I"
+UCx1vXgGDXc7BH7bI1KC_o7Q;ru4WT9k1wx4;2023-03-02T23:30:18Z;"📺 New #rstatsvideo: Como lidar com acentos (no script ou no banco) no R
+▶ Fernanda Peres
+🗣 🇵🇹
+#rstats #bioestatística #rstudio #encoding #utf8 #latin1 #acentos
+🔗 https://www.youtube.com/watch?v=ru4WT9k1wx4"
+UCMdihazndR0f9XBoSXWqnYg;1fvYUMwMZPE;2016-02-29T04:15:02Z;"📺 #rstatsvideo: R - One Way Repeated Measures ANOVA Example
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #youtubeeditor #rstudio #rprogram #anova #repeatedmeasures #effectsize #posthoc #power #gpower #ggplot2 #graph
+🔗 https://www.youtube.com/watch?v=1fvYUMwMZPE"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;Pimjf2Z_V6g;2017-06-14T18:39:29Z;"📺 #rstatsvideo: ggplot2 - facetting your plots
+▶ Dragonfly Statistics
+#rstats #makinghistogramswithggplot2 #ggplot2 #rdataviz #rdatavisualization #ggplot #ggplot2rpackage #ggplot2histograms #ggplot2boxplots #ggplot2boxplot
+🔗 https://www.youtube.com/watch?v=Pimjf2Z_V6g"
+UCwLy_PYrnCEhCU-Ay2F5Drw;ke03DGvT8uU;2020-06-04T19:25:28Z;"📺 #rstatsvideo: Why R? Webinar 010 - Julia Silge - Understanding Word Embeddings
+▶ Why R? Foundation (@whyRconf)
+🗣 🇬🇧
+#rstats #whyr #datascience #machinelearning #computations #programming #rdatascience #dataanalysisinr
+🔗 https://www.youtube.com/watch?v=ke03DGvT8uU"
+UCKFp00-PRnuc1Dx4DaUmJBg;pKbnTRh05Js;2020-09-30T06:33:50Z;"📺 #rstatsvideo: Get R Done | R Stats Tutorials: How to Plot (Rough Plots to Check Data)
+▶ Chad C. Williams (@WilliamsNeuro)
+🗣 🇬🇧
+#rstats #rstudio #statistics #programming #computer #computerscience #data #dataanalysis #analysis
+🔗 https://www.youtube.com/watch?v=pKbnTRh05Js"
+UCqQ_cxcNu1ekqHXDc-MbU_w;6YdYMvclOV0;2020-10-08T19:56:46Z;"📺 #rstatsvideo: What is a Ensemble Model? (Stacking)
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=6YdYMvclOV0"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;izEFnLnX7b8;2015-05-15T13:30:16Z;"📺 #rstatsvideo: Simulating Random Outcomes with R
+▶ Dragonfly Statistics
+#rstats #courserarquiz #rvideos #simulatingrandomoutcomeswithr #rprogramminglanguage #statisticsfieldofstudy #floorandceilingfunction #mersennetwister
+🔗 https://www.youtube.com/watch?v=izEFnLnX7b8"
+UCC3CCtUrSSQoJkxodRKr89g;PgZvq7ZPvEE;2020-08-24T16:46:55Z;"📺 #rstatsvideo: Demonstration of dplyr functions
+▶ Lisa Lendway - Statistics & Data Science (@lisalendway)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=PgZvq7ZPvEE"
+UCqaMSQd_h-2EDGsU6WDiX0Q;RuH2bc7C_nE;2021-01-19T16:24:41Z;"📺 #rstatsvideo: Jianhong Ou, trackViewer: Lollipop/Dandelion Plots for Methylation Status and Mutation Data
+▶ Bioconductor (@Bioconductor)
+#rstats
+🔗 https://www.youtube.com/watch?v=RuH2bc7C_nE"
+UCHITDNNHzEXfD8AzSFQOh9A;yGP-I29EHvY;2021-11-02T00:54:26Z;"📺 #rstatsvideo: Club de lectura: ""R for Data Science"" - Sesión 13. Cap 27, 29 y 30 Rmarkdown y formatos
+▶ R-Ladies Barranquilla
+#rstats
+🔗 https://www.youtube.com/watch?v=yGP-I29EHvY"
+UCq45aK-qwWv1XAs1Si-_3Vg;b9Fe6-V2vQc;2021-12-10T18:15:53Z;"📺 #rstatsvideo: CSSS 508 - Week 10 Lecture
+▶ Breon Haskett
+#rstats
+🔗 https://www.youtube.com/watch?v=b9Fe6-V2vQc"
+UCqaMSQd_h-2EDGsU6WDiX0Q;HgbnSMiqlOg;2014-10-22T20:41:57Z;"📺 #rstatsvideo: Tour the Bioconductor Website
+▶ Bioconductor (@Bioconductor)
+#rstats
+🔗 https://www.youtube.com/watch?v=HgbnSMiqlOg"
+UCHN3yqJ_OTvz9TXwSyjJTjw;ZNmhxFhkPhE;2016-04-19T05:19:06Z;"📺 #rstatsvideo: Data Visualization and R, part 6, Visualizing Distributions of Data
+▶ librarianwomack
+🗣 🇬🇧
+#rstats #datavisualization #rprogramminglanguage
+🔗 https://www.youtube.com/watch?v=ZNmhxFhkPhE"
+UCkNvd1JigrH2A_YLKSgFnQQ;2emth5cwxnw;2019-10-04T12:08:07Z;"📺 #rstatsvideo: Harnessing the Open Source Community to Help Local Communities by David Baker
+▶ Mango Solutions (@MangoTheCat)
+#rstats #earl #conference #programming #datascience #rlanguange #dataanalytics
+🔗 https://www.youtube.com/watch?v=2emth5cwxnw"
+UCEbPGn_boFJj7_sPh37mBfA;lI_whl1Msws;2021-03-01T20:44:55Z;"📺 #rstatsvideo: STAC33 Tutorial 6-Version 2
+▶ Nnenna Asidianya (@asidianya)
+#rstats
+🔗 https://www.youtube.com/watch?v=lI_whl1Msws"
+UCysnKC1GQycHyOSZ_7Ob9vw;iOItuj6q6lg;2021-07-10T00:17:28Z;"📺 #rstatsvideo: Tutorial on how to do simple linear regression in R
+▶ R for Ecologists (@lukanegoita)
+🗣 🇬🇧
+#rstats #rstudio #dataviz #datavisualization #sciencewithr #datavis #ecology #rprogramming #datascience #rtutorial
+🔗 https://www.youtube.com/watch?v=iOItuj6q6lg"
+UCyHEww8_SCdxZvEnkCfi55w;LDBaLm7c0h8;2023-03-03T15:00:14Z;"📺 New #rstatsvideo: R Set Working Directory to Source File Location Automatically & Manually | getActiveDocumentContext
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=LDBaLm7c0h8"
+UC5RJIEerX3NnhKaBLM3oWZQ;P5HvImoIgOg;2023-03-03T16:46:51Z;"📺 New #rstatsvideo: 2023 Mar 3 - Advanced PA - Soil ECa pt 2
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=P5HvImoIgOg"
+UCCaChdLMTYMxyawR_Qf-kYA;mCiCMtVSoyY;2023-03-03T21:47:19Z;"📺 New #rstatsvideo: tidyverse docs: arrange, distinct, filter (tidyversedocs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #tidyverse
+🔗 https://www.youtube.com/watch?v=mCiCMtVSoyY"
+UCyHEww8_SCdxZvEnkCfi55w;dg2thlo7VGo;2023-03-04T15:00:26Z;"📺 New #rstatsvideo: uniroot() Function in R (Example) | Find One Dimensional Root of Curve | Get within Certain Interval
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=dg2thlo7VGo"
+UCCaChdLMTYMxyawR_Qf-kYA;X3oExz08gms;2023-03-04T16:07:57Z;"📺 New #rstatsvideo: Regression and Other Stories: Assumptions, diagnostics, and model evaluation Part 1 (ros02 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=X3oExz08gms"
+UChbD2MJjdPXn0qJx1Gu9MIA;jIU920azbzU;2023-02-28T20:43:02Z;"📺 New #rstatsvideo: Installing R & RStudio | Foundations of data analysis with R (lesson 1)
+▶ The GRAPH Courses
+#rstats
+🔗 https://www.youtube.com/watch?v=jIU920azbzU"
+UChbD2MJjdPXn0qJx1Gu9MIA;55qTKrKbj44;2023-02-28T20:45:50Z;"📺 New #rstatsvideo: How to use RStudio | Foundations of data analysis with R (lesson 2)
+▶ The GRAPH Courses
+#rstats
+🔗 https://www.youtube.com/watch?v=55qTKrKbj44"
+UChbD2MJjdPXn0qJx1Gu9MIA;njZOGDyr3AE;2023-02-28T20:46:33Z;"📺 New #rstatsvideo: R coding basics | Foundations of data analysis with R (lesson 3)
+▶ The GRAPH Courses
+#rstats
+🔗 https://www.youtube.com/watch?v=njZOGDyr3AE"
+UChbD2MJjdPXn0qJx1Gu9MIA;Qm9LB0v7F9s;2023-02-28T20:47:20Z;"📺 New #rstatsvideo: Data dive: Ebola in Sierra Leone | Foundations of data analysis with R (lesson 4)
+▶ The GRAPH Courses
+#rstats
+🔗 https://www.youtube.com/watch?v=Qm9LB0v7F9s"
+UChbD2MJjdPXn0qJx1Gu9MIA;apBKs9khoxk;2023-02-28T20:48:00Z;"📺 New #rstatsvideo: How to use RStudio Projects | Foundations of data analysis with R (lesson 5)
+▶ The GRAPH Courses
+#rstats
+🔗 https://www.youtube.com/watch?v=apBKs9khoxk"
+UChbD2MJjdPXn0qJx1Gu9MIA;vWGGlMHkhyY;2023-02-28T20:48:25Z;"📺 New #rstatsvideo: Introduction to R Markdown | Foundations of data analysis with R (lesson 6)
+▶ The GRAPH Courses (@theGRAPHnetwork)
+#rstats
+🔗 https://www.youtube.com/watch?v=vWGGlMHkhyY"
+UChbD2MJjdPXn0qJx1Gu9MIA;DvO0qg6vopE;2023-03-01T11:32:28Z;"📺 New #rstatsvideo: Selecting and renaming columns | Data untangled: transforming and cleaning data with R (lesson 1)
+▶ The GRAPH Courses (@theGRAPHnetwork)
+#rstats
+🔗 https://www.youtube.com/watch?v=DvO0qg6vopE"
+UChbD2MJjdPXn0qJx1Gu9MIA;YxZSEz8VD38;2023-03-01T11:32:52Z;"📺 New #rstatsvideo: Filtering rows | Data untangled: transforming and cleaning data with R (lesson 2)
+▶ The GRAPH Courses (@theGRAPHnetwork)
+#rstats
+🔗 https://www.youtube.com/watch?v=YxZSEz8VD38"
+UChbD2MJjdPXn0qJx1Gu9MIA;tme404DCh1w;2023-03-01T11:33:18Z;"📺 New #rstatsvideo: Mutating values | Data untangled: transforming and cleaning data with R (lesson 3)
+▶ The GRAPH Courses (@theGRAPHnetwork)
+#rstats
+🔗 https://www.youtube.com/watch?v=tme404DCh1w"
+UChbD2MJjdPXn0qJx1Gu9MIA;SYZvw3KcZqk;2023-03-01T11:34:29Z;"📺 New #rstatsvideo: Group_by and summarize | Data untangled: transforming and cleaning data with R (lesson 5)
+▶ The GRAPH Courses (@theGRAPHnetwork)
+#rstats
+🔗 https://www.youtube.com/watch?v=SYZvw3KcZqk"

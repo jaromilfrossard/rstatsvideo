@@ -134,7 +134,7 @@ UCKJFCIbcGs2a5RGt8RjdbFA;Liza Wood;wood__liza
 UCcCMO7sHb8O_TJUd34sQ_Ng;Lulus CommentdansR;
 UCOfk4nX5sx1UpnuXPVzXokw;Makerere Epidemiology and Statistical center;
 UCGicmkdbKCzYjBtijfPxHhQ;Malaysia R User Group;
-UCkNvd1JigrH2A_YLKSgFnQQ;Mango Solutions;MangoTheCat
+UCkNvd1JigrH2A_YLKSgFnQQ;Mango Solutions;
 UCTXUFl30vDC32UrohjWB8kQ;Matthew Peterson;ecomattp
 UCgdZkOZfmrAFHkDHYI5taVw;Matthew Ross;
 UCYNVcihAKkRW-bhzIrguvVw;math et al;
@@ -284,6 +284,7 @@ UChDkZclaUz_a0ZqcI5u2u_w;statsguidetree;
 UCyWGeP-J1I0Xasd62QumS3w;Stephen Carden;
 UC2M4LiU11tjZfL86yfufSKA;Sukaesi Marianti;
 UCY66vV1WTk_2lHg24cuJrtg;The Data Digest;DigestData
+UChbD2MJjdPXn0qJx1Gu9MIA;The GRAPH Courses;theGRAPHnetwork
 UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;thinkR_fr
 UCT9SgxpakGSH-yfRj_QhzIQ;Thomas Lin Pedersen;thomasp85
 UCvCEl2-_Q2gGxqisyYngXIA;Thomas Mock;thomas_mock
