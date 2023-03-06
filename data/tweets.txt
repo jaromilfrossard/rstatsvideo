@@ -21652,3 +21652,45 @@ UChbD2MJjdPXn0qJx1Gu9MIA;SYZvw3KcZqk;2023-03-01T11:34:29Z;"📺 New #rstatsvideo
 ▶ The GRAPH Courses (@theGRAPHnetwork)
 #rstats
 🔗 https://www.youtube.com/watch?v=SYZvw3KcZqk"
+UChbD2MJjdPXn0qJx1Gu9MIA;s-XXevmg78M;2023-03-01T11:35:40Z;"📺 New #rstatsvideo: Other grouped operations | Data untangled: transforming and cleaning datasets with R (lesson 6)
+▶ The GRAPH Courses (@theGRAPHnetwork)
+#rstats
+🔗 https://www.youtube.com/watch?v=s-XXevmg78M"
+UChbD2MJjdPXn0qJx1Gu9MIA;gno0ikCshDo;2023-03-01T11:56:37Z;"📺 New #rstatsvideo: Pivoting datasets | Data untangled: transforming and cleaning data with R (lesson 7)
+▶ The GRAPH Courses (@theGRAPHnetwork)
+#rstats
+🔗 https://www.youtube.com/watch?v=gno0ikCshDo"
+UChbD2MJjdPXn0qJx1Gu9MIA;bEhjiM8D7T0;2023-03-01T11:59:21Z;"📺 New #rstatsvideo: ggplot2 introduction | Data on display: visualizing data with ggplot2 in R (lesson 1)
+▶ The GRAPH Courses (@theGRAPHnetwork)
+#rstats
+🔗 https://www.youtube.com/watch?v=bEhjiM8D7T0"
+UChbD2MJjdPXn0qJx1Gu9MIA;oB40BjRSu9A;2023-03-01T12:00:11Z;"📺 New #rstatsvideo: Scatterplots and smoothing | Data on display: visualizing data with ggplot2 in R (lesson 2)
+▶ The GRAPH Courses (@theGRAPHnetwork)
+#rstats
+🔗 https://www.youtube.com/watch?v=oB40BjRSu9A"
+UChbD2MJjdPXn0qJx1Gu9MIA;c60zRV7t6CM;2023-03-01T12:01:19Z;"📺 New #rstatsvideo: Lines, scales and labels | Data on display: visualizing data with ggplot2 in R (lesson 3)
+▶ The GRAPH Courses (@theGRAPHnetwork)
+#rstats
+🔗 https://www.youtube.com/watch?v=c60zRV7t6CM"
+UChbD2MJjdPXn0qJx1Gu9MIA;iMKs9T7s7oY;2023-03-02T12:08:15Z;"📺 New #rstatsvideo: Snippet | How to use pipes
+▶ The GRAPH Courses (@theGRAPHnetwork)
+#rstats
+🔗 https://www.youtube.com/watch?v=iMKs9T7s7oY"
+UChbD2MJjdPXn0qJx1Gu9MIA;rrA9GOS8kJk;2023-03-02T13:57:18Z;"📺 New #rstatsvideo: Conditional mutating with case_when | Data untangled: transforming and cleaning data with R (part 4)
+▶ The GRAPH Courses (@theGRAPHnetwork)
+#rstats
+🔗 https://www.youtube.com/watch?v=rrA9GOS8kJk"
+UChbD2MJjdPXn0qJx1Gu9MIA;VRRPvzFxaDU;2023-03-02T21:39:23Z;"📺 New #rstatsvideo: R Basics and Beyond | R programming & data analysis for beginners | Full 9 hour compilation
+▶ The GRAPH Courses (@theGRAPHnetwork)
+#rstats
+🔗 https://www.youtube.com/watch?v=VRRPvzFxaDU"
+UCCaChdLMTYMxyawR_Qf-kYA;wMKDq49jLGQ;2023-03-04T16:08:31Z;"📺 New #rstatsvideo: testthis docs: Reporters, Parallel Tests, & testthat 3e (pkgcreationdocs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #testthat
+🔗 https://www.youtube.com/watch?v=wMKDq49jLGQ"
+UCCaChdLMTYMxyawR_Qf-kYA;-RghEM6seGU;2023-03-04T16:09:26Z;"📺 New #rstatsvideo: Forecasting: Principles and Practice: Time series regression models (fpp02 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-RghEM6seGU"
