@@ -63,7 +63,7 @@ validate_new_channels()
 
 #update channels videos
 walk(tb_channel$id_channel, update_channel_video)
-#which(tb_channel$id_channel=="UCG1_1eqe_KvoVByZeFFFErQ")
+#which(tb_channel$id_channel=="UCPfMGYxAOm39sO8nuEMB96Q")
 
 validate_new_videos()#6aJMGdCxbgA
 

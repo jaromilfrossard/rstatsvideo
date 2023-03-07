@@ -21694,3 +21694,51 @@ UCCaChdLMTYMxyawR_Qf-kYA;-RghEM6seGU;2023-03-04T16:09:26Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=-RghEM6seGU"
+UCCaChdLMTYMxyawR_Qf-kYA;JtzCcm8N_g8;2023-03-04T20:04:39Z;"📺 New #rstatsvideo: Econometrics with R: A Review of Statistics using R (econometrics01 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #econometrics
+🔗 https://www.youtube.com/watch?v=JtzCcm8N_g8"
+UCdrnsZd2xWjDjHUlYsA6Kfw;UZdD94p5SRQ;2023-03-05T01:31:42Z;"📺 New #rstatsvideo: Installing R Packages in RStudio & from Github
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting #journalarticle #masters
+🔗 https://www.youtube.com/watch?v=UZdD94p5SRQ"
+UC_sejq_JJ49KiiK4qh5r-wg;E8BstEkuuJc;2023-03-05T02:19:34Z;"📺 New #rstatsvideo: How to Create Dummy Variables Based on Variable Class in R Data Frame
+▶ Universe of Data Science (@unidatascience)
+#rstats
+🔗 https://www.youtube.com/watch?v=E8BstEkuuJc"
+UCP8l94xtoemCH_GxByvTuFQ;nZdFRNrthZ8;2023-03-05T08:00:21Z;"📺 New #rstatsvideo: Magically Multiplying Tabbed Reports | TidyX Episode 137
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=nZdFRNrthZ8"
+UCyHEww8_SCdxZvEnkCfi55w;Mzszsk7XsFw;2023-03-05T15:00:14Z;"📺 New #rstatsvideo: Use Function in Each Row of Data Frame in R (2 Examples) | apply(), by() & nrow() Functions | RowSum
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=Mzszsk7XsFw"
+UCCaChdLMTYMxyawR_Qf-kYA;KXTa8_58ITQ;2023-03-05T20:19:17Z;"📺 New #rstatsvideo: R for Data Science: Numbers (r4ds08 15)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=KXTa8_58ITQ"
+UCCaChdLMTYMxyawR_Qf-kYA;LonmgZxBDk8;2023-03-05T20:19:44Z;"📺 New #rstatsvideo: Bayes Rules! Balance and Sequentiality in Bayesian Analyses (bayes_rules04 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=LonmgZxBDk8"
+UC2-hKemnrmVCH_29duyJ26A;XQ4Negbmtk4;2023-03-06T05:05:31Z;"📺 New #rstatsvideo: David Smith - Copilot for R
+▶ Lander Analytics (@LanderAnalytics)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=XQ4Negbmtk4"
+UCyHEww8_SCdxZvEnkCfi55w;q07EMm6QIVs;2023-03-06T15:00:37Z;"📺 New #rstatsvideo: rev Function in R (3 Examples) | Reverse Vector, Data Frame by Column & Row | nrow & apply Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=q07EMm6QIVs"
+UCCaChdLMTYMxyawR_Qf-kYA;db2N1Bbv1Fc;2023-03-06T15:22:49Z;"📺 New #rstatsvideo: ISLR: Classification Part 3 (islr05 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=db2N1Bbv1Fc"
