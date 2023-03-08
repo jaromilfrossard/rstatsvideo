@@ -21742,3 +21742,51 @@ UCCaChdLMTYMxyawR_Qf-kYA;db2N1Bbv1Fc;2023-03-06T15:22:49Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=db2N1Bbv1Fc"
+UCCaChdLMTYMxyawR_Qf-kYA;UUp_iq9_ZKM;2023-03-06T18:40:00Z;"📺 New #rstatsvideo: Methods for Network Analysis: Homophily and Exponential Random Graphs (ERGM) (mnetanal01 15)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=UUp_iq9_ZKM"
+UClHxi-ei0TXjC-0A0QXwMpg;DnfQ3jjm8FA;2023-03-06T19:18:05Z;"📺 New #rstatsvideo: 2023 03 06 Stats 102A 0
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=DnfQ3jjm8FA"
+UCSoUNu8x-HblqqOK_EwdZGw;faeavbjCZ3g;2023-03-07T00:21:31Z;"📺 New #rstatsvideo: Alison Hill explains the basics of R Markdown
+▶ R for the Rest of Us (@rfortherest)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=faeavbjCZ3g"
+UCZ2KQdo1-FhNRtEBYxai5Aw;5IwBcplPcF0;2023-03-07T06:42:20Z;"📺 New #rstatsvideo: Statistical Methods Series: State-space Models and the Template Model Builder (TMB) R package
+▶ Ecological Forecasting (@eco4cast)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=5IwBcplPcF0"
+UCyHEww8_SCdxZvEnkCfi55w;wWH3WCMPW_Q;2023-03-07T15:00:45Z;"📺 New #rstatsvideo: Assign Fixed Colors to Categorical Variable in ggplot2 Plot in R (Example) | scale_fill_manual()
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=wWH3WCMPW_Q"
+UCMGDKvc8-06jmxRrhYLr1_g;eQ9hHDDJj0M;2023-02-22T14:00:21Z;"📺 New #rstatsvideo: Chi-squared testing for homogeneity in R
+▶ Equitable Equations (@equitableEqs)
+#rstats
+🔗 https://www.youtube.com/watch?v=eQ9hHDDJj0M"
+UCMGDKvc8-06jmxRrhYLr1_g;nd-Y8b22YaQ;2023-03-01T13:18:50Z;"📺 New #rstatsvideo: How to purrr
+▶ Equitable Equations (@equitableEqs)
+#rstats
+🔗 https://www.youtube.com/watch?v=nd-Y8b22YaQ"
+UCCaChdLMTYMxyawR_Qf-kYA;KUTSJFGy3kY;2023-03-08T02:49:04Z;"📺 New #rstatsvideo: R for Data Science: Factors (r4ds07 18)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=KUTSJFGy3kY"
+UCCaChdLMTYMxyawR_Qf-kYA;zNLx4q8TCKQ;2023-03-08T02:49:29Z;"📺 New #rstatsvideo: Advanced R: S3 (advr07 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=zNLx4q8TCKQ"
+UCCaChdLMTYMxyawR_Qf-kYA;k0jbuX6Y2qU;2023-03-08T02:51:21Z;"📺 New #rstatsvideo: Geocomputation w R: Geographic data in R (geocompr01 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #geocomputation
+🔗 https://www.youtube.com/watch?v=k0jbuX6Y2qU"

@@ -79,6 +79,7 @@ UCZ2KQdo1-FhNRtEBYxai5Aw;Ecological Forecasting;eco4cast
 UCfB2mPM4oU5pMgh9gbEqpWA;EdinbR;edinb_r
 UCkcMJvaf6rWOtizaSiUBj1Q;Elizabeth Marshallsay;
 UCKv0Y6QDe7M_bK3fFVnfCIw;Emi Tanaka;statsgen
+UCMGDKvc8-06jmxRrhYLr1_g;Equitable Equations;equitableEqs
 UCAu9zxmEgQdWYkl84BiziSQ;Eskisehir R User Group;eskisehiR_users
 UC5w9xVTs77__zlEeRRQILpw;Federica Gazzelloni;FGazzelloni
 UCx1vXgGDXc7BH7bI1KC_o7Q;Fernanda Peres;
@@ -116,7 +117,6 @@ UCLgFrIEoBbAg9WfqTmbxweQ;John Coene;jdatap
 UCB_noR4lYmbKJozwJuPStbg;John Little;john_little
 UCWI1xyk6Jb4t2OOyP2LS4DQ;John Muschelli;StrictlyStat
 UCPfMGYxAOm39sO8nuEMB96Q;José Antonio: Estadística Aplicada;
-UCCigEL4N49pgIGszAz_v7Uw;Julian Righ Sampedro;JRigh
 UCTTBgWyJl2HrrhQOOc710kA;Julia Silge;juliasilge
 UCPUL4sOelS0f3Q-u7Ld29Ew;Kyle Analytics;
 UCmBDds7HAhpG6ZUj9FC2s9Q;Lacey Maths & Stats Consultancy;seanwithafada
