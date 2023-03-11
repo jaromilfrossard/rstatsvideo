@@ -21790,3 +21790,160 @@ UCCaChdLMTYMxyawR_Qf-kYA;k0jbuX6Y2qU;2023-03-08T02:51:21Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #geocomputation
 🔗 https://www.youtube.com/watch?v=k0jbuX6Y2qU"
+UCCaChdLMTYMxyawR_Qf-kYA;febFD8H-uNU;2023-03-08T03:10:19Z;"📺 New #rstatsvideo: RWTF: {targets} (rwtf01 extra)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #debugging
+🔗 https://www.youtube.com/watch?v=febFD8H-uNU"
+UC5FvzLMVNrTMW-ycrW-4KyA;Bp0yvNErm_8;2023-03-08T03:43:55Z;"📺 New #rstatsvideo: [23년 최신] 기초 R 프로그래밍 4강 - 함수의 Namespace 개념잡기
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=Bp0yvNErm_8"
+UC5FvzLMVNrTMW-ycrW-4KyA;wzzENFAR5ww;2023-03-08T03:45:41Z;"📺 New #rstatsvideo: [23년 최신] 기초 R 프로그래밍 5강 - 벡터화코드와 재활용(recycling) 개념 이해
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=wzzENFAR5ww"
+UC5FvzLMVNrTMW-ycrW-4KyA;fDALgUCyc1I;2023-03-08T03:50:02Z;"📺 New #rstatsvideo: [23년 최신] 기초 R 프로그래밍 6강 - 프로젝트 폴더 개념과 워킹디렉토리 개념 잡기
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=fDALgUCyc1I"
+UCXuX-kQ1TbKHWeB75NgmhlA;mJdy_XkamPU;2023-03-08T13:00:37Z;"📺 New #rstatsvideo: PLINK2: text genotype files being retired!
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #plink #plink2 #pedfiles #binarypedfiles #errorfilehasbeenretired #pedmap
+🔗 https://www.youtube.com/watch?v=mJdy_XkamPU"
+UCTXuqtCYxPVEehq6fJY9GkA;u9YqkQQ_1C0;2023-02-23T23:51:45Z;"📺 New #rstatsvideo: 10 dicas para programar melhor em Shiny
+▶ Curso-R (@curso_r)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=u9YqkQQ_1C0"
+UCCaChdLMTYMxyawR_Qf-kYA;egmNwbddpm4;2023-03-08T13:21:30Z;"📺 New #rstatsvideo: Mastering Shiny Book Club: Why reactivity? (mshiny04 13)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #rshiny
+🔗 https://www.youtube.com/watch?v=egmNwbddpm4"
+UCyHEww8_SCdxZvEnkCfi55w;Oy-IKs_ThjU;2023-03-08T15:00:15Z;"📺 New #rstatsvideo: Convert Character String to Date Object in R (Example) | Year & Month | as.Date & paste Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=Oy-IKs_ThjU"
+UClHxi-ei0TXjC-0A0QXwMpg;3XDu7418VBk;2023-03-08T19:33:31Z;"📺 New #rstatsvideo: 2023 03 08 Stats 102A 1
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=3XDu7418VBk"
+UCMdihazndR0f9XBoSXWqnYg;0l_8aqGDnCM;2023-03-08T21:15:32Z;"📺 New #rstatsvideo: R & Python - Processing Raw Text Part 1 (2022)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown
+🔗 https://www.youtube.com/watch?v=0l_8aqGDnCM"
+UCsqrrplF84DQckpGQuTKTMg;pZn4gMS4GBg;2023-03-09T00:10:35Z;"📺 New #rstatsvideo: 161.324 Data Mining: Workshop 2
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=pZn4gMS4GBg"
+UCyHEww8_SCdxZvEnkCfi55w;vg7jS_1zYw4;2023-03-09T15:00:43Z;"📺 New #rstatsvideo: textxy() Function of calibrate Package in R (Example) | Add Text to Plot | Modify Font Size & Color
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=vg7jS_1zYw4"
+UCg4rv97QEhN-2gvLhrGMgEw;Lcw-nZyFj9U;2023-03-09T17:12:12Z;"📺 New #rstatsvideo: Crie TABELAS PERSONALIZADAS com o kableExtra!
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=Lcw-nZyFj9U"
+UCCaChdLMTYMxyawR_Qf-kYA;5bXAjaZAW1Y;2023-03-09T19:30:25Z;"📺 New #rstatsvideo: Probabilty for Data Science: Confidence and Hypothesis (prob4ds01 9)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #probability
+🔗 https://www.youtube.com/watch?v=5bXAjaZAW1Y"
+UCCaChdLMTYMxyawR_Qf-kYA;dmk4CG9ILvE;2023-03-09T19:30:59Z;"📺 New #rstatsvideo: R Packages: Appendix: R CMD Check  (rpkgs04 24)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=dmk4CG9ILvE"
+UCqQ_cxcNu1ekqHXDc-MbU_w;MlZ6Jc0pV7E;2023-03-10T11:00:18Z;"📺 New #rstatsvideo: Time Series Automation Project (Forecast Bitcoin With Modeltime And Prefect)
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=MlZ6Jc0pV7E"
+UCCaChdLMTYMxyawR_Qf-kYA;ssVGhNStSh4;2023-03-10T14:42:15Z;"📺 New #rstatsvideo: Regression and Other Stories: Assumptions, diagnostics, and model evaluation Part 2 (ros02 11)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=ssVGhNStSh4"
+UCCaChdLMTYMxyawR_Qf-kYA;2zxK6Cg8p1g;2023-03-10T14:42:37Z;"📺 New #rstatsvideo: tidyverse docs: slice_family, dplyr_by, dplyr_data_masking, filter .preserve (tidyversedocs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #tidyverse
+🔗 https://www.youtube.com/watch?v=2zxK6Cg8p1g"
+UCyHEww8_SCdxZvEnkCfi55w;54xJ24fUDSg;2023-03-10T15:00:05Z;"📺 New #rstatsvideo: str() Function in R (3 Examples) | Compactly Display Structure of Object | Data Frame, List & Vector
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=54xJ24fUDSg"
+UCOOcd7f7eJTDNxKLde3lfOQ;I6kOPapKdRo;2018-10-01T00:43:56Z;"📺 #rstatsvideo: Trucos para ser más eficiente en RStudio
+▶ Data Latam (@datalatam)
+🗣 🇪🇸
+#rstats #programaciónr #rstudio #reuniónusuariosr #entornodesarrollointegrado
+🔗 https://www.youtube.com/watch?v=I6kOPapKdRo"
+UCqQ_cxcNu1ekqHXDc-MbU_w;ksr_FQmJTig;2019-06-28T18:32:23Z;"📺 #rstatsvideo: Final Shiny Sales Dashboard w/ Forecast Mode & Dark Theme | DS4B 102-R
+▶ Business Science (@bizScienc)
+#rstats #shiny #web #application #datascience #machinelearning #timeseries
+🔗 https://www.youtube.com/watch?v=ksr_FQmJTig"
+UC3xfbCMLCw1Hh4dWop3XtHg;ylLLVo2VL50;2019-10-23T07:00:04Z;"📺 #rstatsvideo: Eric Nantz | Effective use of Shiny modules in application development | RStudio (2019)
+▶ Posit PBC (@posit_pbc)
+#rstats #ericnantz #rstudio #datascience #machinelearning #python #stats #tidyverse
+🔗 https://www.youtube.com/watch?v=ylLLVo2VL50"
+UC1A-TUhyfNOpHcNM8da6tJQ;a3ajyUde3Ok;2020-09-10T17:56:49Z;"📺 #rstatsvideo: Crear Diagrama de Sectores en RStudio | Gráfico Circular en R
+▶ Renzo Caceres Rossi (@ARenzoCaceresR)
+🗣 🇪🇸
+#rstats #creardiagramadesectoresenrstudio #creargraficocircularenrstudio
+🔗 https://www.youtube.com/watch?v=a3ajyUde3Ok"
+UCCaChdLMTYMxyawR_Qf-kYA;rVooJFdbePs;2020-12-21T17:27:27Z;"📺 #rstatsvideo: Advanced R Book Club: Chapter 11: Function Operators (2020-12-14) (advr04)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=rVooJFdbePs"
+UClHxi-ei0TXjC-0A0QXwMpg;hG5Eo_DmlmQ;2021-01-09T04:00:13Z;"📺 #rstatsvideo: Stats 102A Lesson 1-3 Subsetting in R
+▶ Miles Chen
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=hG5Eo_DmlmQ"
+UCT4HNZZfFzsvcs-kBNTLkzQ;PLTVrNVkpss;2021-09-11T03:34:09Z;"📺 #rstatsvideo: Vectors in R : Applying Math Functions on Vectors | Learn R with Pallvi
+▶ Learn R with Pallvi
+🗣 🇮🇳
+#rstats #r #statistics #rinhindi #rtutorial #learnr #rprogramming #rfullcourse #mathematicalfunctionsinr
+🔗 https://www.youtube.com/watch?v=PLTVrNVkpss"
+UCeoF_5Kw0YyWOqhAbQGrxJQ;vTWti3js8HE;2015-07-10T19:53:50Z;"📺 #rstatsvideo: The Exact Poisson Test in R - poisson.test
+▶ Dragonfly Statistics
+#rstats #coursera #courseradatascience #courserarquiz #rvideos #courserdatasci #rprogramminglanguage #statisticsfieldofstudy #poissontest
+🔗 https://www.youtube.com/watch?v=vTWti3js8HE"
+UCeiiqmVK07qhY-wvg3IZiZQ;pJPqAIb8MKA;2020-11-10T23:11:25Z;"📺 #rstatsvideo: Tidy Tuesday live screencast: Analyzing historical phones in R
+▶ David Robinson (@drob)
+#rstats
+🔗 https://www.youtube.com/watch?v=pJPqAIb8MKA"
+UCFX-MipGKF9jCEXaP-59BzQ;6e4TzWoM7GU;2021-02-22T23:33:00Z;"📺 #rstatsvideo: BIS 15L: Lab 12, Intro to Spatial Data
+▶ BIS15L: Data Science for Biologists
+#rstats
+🔗 https://www.youtube.com/watch?v=6e4TzWoM7GU"
+UCMwM-3tg_-Pbx8hKO78q5EA;MqCFHCbTORs;2021-04-21T14:29:43Z;"📺 #rstatsvideo: NHSDataDictionaRy: a new package for keeping NHS lookups up to date and easily accessible
+▶ NHSR Community (@NHSrCommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=MqCFHCbTORs"
+UCCaChdLMTYMxyawR_Qf-kYA;VYivNF3xL9c;2021-05-18T22:21:45Z;"📺 #rstatsvideo: Regression and Other Stories Book Club: Chapter 1: Overview (2021-05-18) (ros01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=VYivNF3xL9c"
+UCC0n35R84-ufqPstR1YtCxA;ahcA3-6yUvk;2021-06-16T09:00:51Z;"📺 #rstatsvideo: Sample Size for Survival Part 2 Convert Hazard Rate to Survival and Back
+▶ Stat Pharm
+#rstats
+🔗 https://www.youtube.com/watch?v=ahcA3-6yUvk"
+UCaEblc_jq-64PGroox6EALg;SRJ_oe68TpI;2021-08-02T17:52:12Z;"📺 #rstatsvideo: Criando função no R + gráfico de histograma com ggplot2
+▶ Rladies Natal (@RLadiesNatal)
+#rstats
+🔗 https://www.youtube.com/watch?v=SRJ_oe68TpI"
