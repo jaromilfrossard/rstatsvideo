@@ -22069,3 +22069,63 @@ UClHxi-ei0TXjC-0A0QXwMpg;x5OQHH1Y8KY;2023-03-13T17:51:01Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=x5OQHH1Y8KY"
+UC5RJIEerX3NnhKaBLM3oWZQ;3fDjjGolpzY;2023-03-13T18:35:13Z;"📺 New #rstatsvideo: 2023 Mar 13 - Advanced PA - Soil ECa script pt 1
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=3fDjjGolpzY"
+UCISHpKq_20peU3G1xwtXjjQ;0Slw_9GOy1E;2023-03-14T03:51:32Z;"📺 New #rstatsvideo: Excel Automation with R - Export Worksheets to Individual Workbooks
+▶ Samer Hijjazi (@SamerHijjazi)
+#rstats #excel #excelautomation #rprogramming #datascience #dataanalytics #rstudio #microsoftexcel
+🔗 https://www.youtube.com/watch?v=0Slw_9GOy1E"
+UCsqrrplF84DQckpGQuTKTMg;GAXmZstdJaQ;2023-03-14T07:42:25Z;"📺 New #rstatsvideo: 161.324 Data Mining: Workshop 3
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=GAXmZstdJaQ"
+UCdrnsZd2xWjDjHUlYsA6Kfw;0vlu57o42wQ;2023-03-14T09:31:52Z;"📺 New #rstatsvideo: DataMotto: An AI Assisted Coding Notebook for R, Python and Julia
+▶ Dr Lyndon Walker (@DrLyndonWalker)
+🗣 🇬🇧
+#rstats #research #phd #degree #thesis #dissertation #statistics #data #academicwriting
+🔗 https://www.youtube.com/watch?v=0vlu57o42wQ"
+UCyHEww8_SCdxZvEnkCfi55w;Sxjw1h50pTo;2023-03-14T15:00:17Z;"📺 New #rstatsvideo: Import & Merge Multiple CSV Files in R (Example) | dplyr, plyr & readr Packages | How to Load & Read
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=Sxjw1h50pTo"
+UC3xfbCMLCw1Hh4dWop3XtHg;tmHh89VTanw;2018-06-13T15:00:10Z;"📺 #rstatsvideo: Shiny and R to Build Dynamic Dashboards
+▶ Posit PBC (@posit_pbc)
+🗣 🇬🇧
+#rstats #shiny #dashboard #r #datascience
+🔗 https://www.youtube.com/watch?v=tmHh89VTanw"
+UCYgIy7zeC7v6iZhx0-NywBw;sBSHm2a8Llc;2019-04-16T07:43:23Z;"📺 #rstatsvideo: Keynote - Lifting the Curtain on Machine Learning - Norm Matloff - SatRday LA 2019
+▶ satRdays (@satRdays_org)
+#rstats #satrdayla #satrday #ucla
+🔗 https://www.youtube.com/watch?v=sBSHm2a8Llc"
+UCxB1IGhLzlEOikTL-aDwqFg;c0Ch_sXiGDQ;2021-01-12T21:41:28Z;"📺 #rstatsvideo: [2020-05-01] Bioconductor overview
+▶ Leonardo Collado Torres (@lcolladotor)
+🗣 🇬🇧
+#rstats #bioconductor #biocmanager
+🔗 https://www.youtube.com/watch?v=c0Ch_sXiGDQ"
+UCU3ePTnZQurDkYgPK61DAOw;4oxYvJNNHj0;2021-07-06T14:49:25Z;"📺 #rstatsvideo: Workflow: Basics | Grupo de estudos R-Ladies São Paulo - Livro R for Data Science
+▶ RLadies São Paulo (@RLadiesSaoPaulo)
+#rstats
+🔗 https://www.youtube.com/watch?v=4oxYvJNNHj0"
+UCDhKY1sp29xXSOInddeF4-g;7k0x_UTk4v4;2022-04-22T12:00:06Z;"📺 #rstatsvideo: Manage Work directory in R
+▶ Liquid Brain R (@Brandon_yeoph)
+#rstats
+🔗 https://www.youtube.com/watch?v=7k0x_UTk4v4"
+UC1ZIcF31fEzBO6akL_HHkBg;WQema9I6ckY;2020-08-06T16:33:47Z;"📺 #rstatsvideo: Remove the last commit with `git reset HEAD^` then `git checkout .`
+▶ Mauro Lepore (@mauro_lepore)
+🗣 🇬🇧
+#rstats #rstudio
+🔗 https://www.youtube.com/watch?v=WQema9I6ckY"
+UC3xfbCMLCw1Hh4dWop3XtHg;DskltmWKOVY;2020-08-21T11:00:05Z;"📺 #rstatsvideo: J.J. Allaire | Open Source Software for Data Science | RStudio (2020)
+▶ Posit PBC (@posit_pbc)
+🗣 🇬🇧
+#rstats #jjallaire #rstudioconf2020 #rstudio #datascience #machinelearning #python #stats #tidyverse
+🔗 https://www.youtube.com/watch?v=DskltmWKOVY"
+UC6LqpR5qBfNlQp5mVIVsthA;iI5L8qmmZaU;2021-08-23T13:23:30Z;"📺 #rstatsvideo: Scaling R Shiny App Infrastructure - Leverage Frontend, Extract Computations, & Use Database
+▶ Appsilon (@appsilon)
+#rstats
+🔗 https://www.youtube.com/watch?v=iI5L8qmmZaU"
