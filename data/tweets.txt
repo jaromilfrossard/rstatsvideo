@@ -22129,3 +22129,50 @@ UC6LqpR5qBfNlQp5mVIVsthA;iI5L8qmmZaU;2021-08-23T13:23:30Z;"📺 #rstatsvideo: Sc
 ▶ Appsilon (@appsilon)
 #rstats
 🔗 https://www.youtube.com/watch?v=iI5L8qmmZaU"
+UCOOZl_qCfHlXutEIbCorIjg;kXGmy3oHsNY;2023-03-14T18:28:50Z;"📺 New #rstatsvideo: #TidyTuesday 2023 Week 11 - European Drug Development
+▶ Nicola Rennie (@nrennie35)
+#rstats
+🔗 https://www.youtube.com/watch?v=kXGmy3oHsNY"
+UCjNXtKLVdEpImICqNERE9cQ;KqBPXjtjKZ4;2023-03-14T19:57:49Z;"📺 New #rstatsvideo: Creación de Histogramas en R con ggplot2: Guía para Principiantes
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #ggplot2 #histogramas #análisisdedatos #principiantes #tutorial #gráficos #estadísticas #visualizacióndedatos
+🔗 https://www.youtube.com/watch?v=KqBPXjtjKZ4"
+UC3f2tQEdmy7MBNUlEYcRgBw;kgCdL7YX3FA;2023-03-14T22:53:18Z;"📺 New #rstatsvideo: RStudio: Dates, Train Accidents, Traffic Tickets
+▶ James Ham
+#rstats
+🔗 https://www.youtube.com/watch?v=kgCdL7YX3FA"
+UCMGDKvc8-06jmxRrhYLr1_g;KdDyRt9XV_g;2023-03-15T13:00:24Z;"📺 New #rstatsvideo: Nested data frames and multiple models in R
+▶ Equitable Equations (@equitableEqs)
+#rstats
+🔗 https://www.youtube.com/watch?v=KdDyRt9XV_g"
+UCXuX-kQ1TbKHWeB75NgmhlA;goMrRsMwyA8;2023-03-15T13:00:36Z;"📺 New #rstatsvideo: Visually enhanced overlapping histogram and density plot in R
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #histograminr #densityplotinr #overlaidhistogramanddensityplot #transparentplotsr #palmerpenguins
+🔗 https://www.youtube.com/watch?v=goMrRsMwyA8"
+UCcCMO7sHb8O_TJUd34sQ_Ng;oSnG0DGmCVI;2020-05-27T16:06:53Z;"📺 #rstatsvideo: Calcul Matriciel dans R (Part 2) , Valeur Propres, Vecteurs Propres et plus| Comment dans R?| caps16
+▶ Lulus CommentdansR
+🗣 🇫🇷
+#rstats #calculmatrice #inversedunematricedansr #vecteurspropressousr
+🔗 https://www.youtube.com/watch?v=oSnG0DGmCVI"
+UCLIphG_4eXZqf4C6VBg8pUw;HBYIttMzCH8;2021-08-16T15:32:10Z;"📺 #rstatsvideo: Знакомство со средой разработки RStudio - Основы языка программирования R
+▶ Artem Golubnichy
+🗣 🇷🇺
+#rstats #языкr #rstudio
+🔗 https://www.youtube.com/watch?v=HBYIttMzCH8"
+UCYWBlijAB6IOpHIwsb3cecA;X2mTA4K4pGk;2022-01-30T06:39:41Z;"📺 #rstatsvideo: An R package in 15 minutes (Bioinformatics S13E2)
+▶ Danny Arends (@DannyArends)
+🗣 🇬🇧
+#rstats #rpackages #rbloggers #writingrextensions #example #tutorial #lecture #course #msc #phd #bioinformatics #programming
+🔗 https://www.youtube.com/watch?v=X2mTA4K4pGk"
+UCyHEww8_SCdxZvEnkCfi55w;IncmaJ9NFQk;2023-03-15T15:00:12Z;"📺 New #rstatsvideo: pretty() Function in R (Example) | Interval Sequence & Set Axis Labels of Plot | Modify X & Y Axes
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=IncmaJ9NFQk"
+UCMdihazndR0f9XBoSXWqnYg;xIRV6ZIZuuc;2023-03-15T18:44:46Z;"📺 New #rstatsvideo: R & Python - Processing Raw Text Part 2 (2022)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown
+🔗 https://www.youtube.com/watch?v=xIRV6ZIZuuc"
