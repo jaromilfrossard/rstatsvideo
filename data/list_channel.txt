@@ -283,6 +283,7 @@ UCf4yYuw5nkmixgA-KT3euHw;Stats For All;StatsForBios
 UChDkZclaUz_a0ZqcI5u2u_w;statsguidetree;
 UCyWGeP-J1I0Xasd62QumS3w;Stephen Carden;
 UC2M4LiU11tjZfL86yfufSKA;Sukaesi Marianti;
+UC6Xx8qlsXCJtmX1Lt_USQPA;The Craft of R Programming;
 UCY66vV1WTk_2lHg24cuJrtg;The Data Digest;DigestData
 UChbD2MJjdPXn0qJx1Gu9MIA;The GRAPH Courses;theGRAPHnetwork
 UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;thinkR_fr

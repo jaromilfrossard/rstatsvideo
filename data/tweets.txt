@@ -22176,3 +22176,109 @@ UCMdihazndR0f9XBoSXWqnYg;xIRV6ZIZuuc;2023-03-15T18:44:46Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown
 🔗 https://www.youtube.com/watch?v=xIRV6ZIZuuc"
+UCTXuqtCYxPVEehq6fJY9GkA;RZItEvySJ5k;2023-03-10T18:23:46Z;"📺 New #rstatsvideo: Web Scraping de qualquer coisa #9
+▶ Curso-R (@curso_r)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=RZItEvySJ5k"
+UCWPCd6tPtoLJYzQQ681pe5Q;B_Fbd_vxZyE;2023-03-15T23:35:00Z;"📺 New #rstatsvideo: How to talk to ChatGPT using R, for FREE!
+▶ ggnot2
+🗣 🇬🇧
+#rstats #chatgptinr #chatgptrtutorial #chatbottutorialr #chatgpt #chatgptplus #chatgptrstudio #gptstudio #gpt3 #gpt4 #openai #gptchatter #chatterauth
+🔗 https://www.youtube.com/watch?v=B_Fbd_vxZyE"
+UCktFo5XoX5QZMWb2Gb3KY2A;et6VJrVcPbY;2023-03-16T06:24:18Z;"📺 New #rstatsvideo: An Introduction to Spark with R by Edgar Ruiz, Software Engineer @PositPBC
+▶ R-Ladies Abuja (@RLadiesAbuja)
+#rstats
+🔗 https://www.youtube.com/watch?v=et6VJrVcPbY"
+UCPJZmlXMcBiKjoVQ4cpAMIg;yngUyoUcHlo;2023-03-16T11:45:05Z;"📺 New #rstatsvideo: How to create MULTIPLE GRAPHS by GROUP in RStudio using Facet Wrap & Facet Grid
+▶ Dean Chereden (@deanchereden)
+🗣 🇬🇧
+#rstats #analytics #datascience #howto #rprogramming #rstudio #dataanalytics
+🔗 https://www.youtube.com/watch?v=yngUyoUcHlo"
+UChbD2MJjdPXn0qJx1Gu9MIA;ceY4u9yIpyk;2023-03-16T12:40:33Z;"📺 New #rstatsvideo: Getting R Help from Stack Overflow and ChatGPT
+▶ The GRAPH Courses (@theGRAPHnetwork)
+#rstats
+🔗 https://www.youtube.com/watch?v=ceY4u9yIpyk"
+UCiJMr_spRePQShPGNCqj7ng;F6F4flddfAg;2023-03-16T13:00:09Z;"📺 New #rstatsvideo: Ep. 10 - Marketing Mix Modeling: Deploy and Train Facebook Robyn in Cloud
+▶ Cassandra
+🗣 🇬🇧
+#rstats #marketingmixmodeling #analytics #attribution #attributionmodeling #marketing #marketinganalytics
+🔗 https://www.youtube.com/watch?v=F6F4flddfAg"
+UC6Xx8qlsXCJtmX1Lt_USQPA;_ZXum6lcwd0;2023-03-12T23:47:47Z;"📺 New #rstatsvideo: Stop repeating your code (mean by group in R)
+▶ The Craft of R Programming
+#rstats
+🔗 https://www.youtube.com/watch?v=_ZXum6lcwd0"
+UC6Xx8qlsXCJtmX1Lt_USQPA;moDTdel-L7o;2023-03-13T00:30:03Z;"📺 New #rstatsvideo: Using pipes in R without dplyr
+▶ The Craft of R Programming
+🗣 🇬🇧
+#rstats #shorts #programming #stats #statistics #rprogramming
+🔗 https://www.youtube.com/watch?v=moDTdel-L7o"
+UC6Xx8qlsXCJtmX1Lt_USQPA;4L0of_P9MSo;2023-03-13T16:10:46Z;"📺 New #rstatsvideo: Using formula interface for running t tests in R
+▶ The Craft of R Programming
+🗣 🇬🇧
+#rstats #shorts #programming #stats #statistics #rprogramming
+🔗 https://www.youtube.com/watch?v=4L0of_P9MSo"
+UCyHEww8_SCdxZvEnkCfi55w;PqS_-h8zMho;2023-03-16T15:00:28Z;"📺 New #rstatsvideo: Execution Pause for X Seconds in R (Example) | How to Measure Time of for-Loop | Sys.sleep Function
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=PqS_-h8zMho"
+UCN-OX45aSM1VtXkzocx8Ppg;EaJgIW3J15Q;2023-03-16T16:34:22Z;"📺 New #rstatsvideo: Binding Rows and Columns Using Dplyr in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=EaJgIW3J15Q"
+UCN-OX45aSM1VtXkzocx8Ppg;6sS72c-UqJo;2023-03-16T16:37:07Z;"📺 New #rstatsvideo: Representing Categorical Variables Using Factors in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=6sS72c-UqJo"
+UCN-OX45aSM1VtXkzocx8Ppg;IDajQqPJFbI;2023-03-16T16:38:41Z;"📺 New #rstatsvideo: Handling Factors Using Forcats in R
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=IDajQqPJFbI"
+UCN-OX45aSM1VtXkzocx8Ppg;_j8cLX1Hsi4;2023-03-16T16:49:33Z;"📺 New #rstatsvideo: Practicing Your Tidyverse Skills: Advanced Exploratory Data Analysis
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=_j8cLX1Hsi4"
+UCN-OX45aSM1VtXkzocx8Ppg;w5veSzXK1jw;2023-03-16T16:53:11Z;"📺 New #rstatsvideo: Practicing your Tidyverse Skills: Advanced Filters with Dplyr
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=w5veSzXK1jw"
+UCN-OX45aSM1VtXkzocx8Ppg;22KMfxZgCqE;2023-03-16T16:55:51Z;"📺 New #rstatsvideo: Practicing your Tidyverse Skills: case_when() Functions with Dplyr
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=22KMfxZgCqE"
+UCN-OX45aSM1VtXkzocx8Ppg;st-MQY6pWeY;2023-03-16T16:58:08Z;"📺 New #rstatsvideo: Practicing Your Tidyverse Skills: Combining Data Frames
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=st-MQY6pWeY"
+UCN-OX45aSM1VtXkzocx8Ppg;-j5Hbwua0fE;2023-03-16T17:00:05Z;"📺 New #rstatsvideo: Practicing Your Tidyverse Skills: if_else() Functions with Dplyr
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=-j5Hbwua0fE"
+UCN-OX45aSM1VtXkzocx8Ppg;cpSbJmTywzg;2023-03-16T17:01:20Z;"📺 New #rstatsvideo: Practicing Your Tidyverse Skills: Reshaping Data Frames
+▶ Duke Center for Computational Thinking (@duke_cct)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=cpSbJmTywzg"
+UCg4rv97QEhN-2gvLhrGMgEw;CvqbNsw5Yug;2023-03-16T17:36:56Z;"📺 New #rstatsvideo: Aplicação de GRAFOS no Software R
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=CvqbNsw5Yug"
+UC8bO8eVpfEK8LbqH0oxyc3Q;ZIIH8WBHlLc;2023-03-17T14:30:03Z;"📺 New #rstatsvideo: Towards the Next Generation of Shiny UI with Carson Sievert
+▶ R User Group at Harvard Data Science Initiative (@RUGatHDSI)
+#rstats
+🔗 https://www.youtube.com/watch?v=ZIIH8WBHlLc"
+UCyHEww8_SCdxZvEnkCfi55w;2CnC9yYVe30;2023-03-17T15:00:01Z;"📺 New #rstatsvideo: Return Multiple Objects from User-Defined Function in R (Example) | Create List of Output Values
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=2CnC9yYVe30"
