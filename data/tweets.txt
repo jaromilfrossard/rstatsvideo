@@ -22282,3 +22282,76 @@ UCyHEww8_SCdxZvEnkCfi55w;2CnC9yYVe30;2023-03-17T15:00:01Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
 🔗 https://www.youtube.com/watch?v=2CnC9yYVe30"
+UC5FvzLMVNrTMW-ycrW-4KyA;iy-Y0VEb9QU;2023-03-18T02:22:51Z;"📺 New #rstatsvideo: SQL를 공부하고 있다면 꼭 보세요! :)
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=iy-Y0VEb9QU"
+UCyHEww8_SCdxZvEnkCfi55w;sl1mvzQaObk;2023-03-18T15:00:40Z;"📺 New #rstatsvideo: data.frame Function in R (Example) | Change Row Names | Character to Factor | How to Convert Matrix
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=sl1mvzQaObk"
+UCrSOXB0bD_FZAZrgCl-fKjA;FTyKOpDGgss;2023-03-18T19:00:06Z;"📺 New #rstatsvideo: R - Intro to Data Science Class 3 (Pt.1)
+▶ Florida Data Science Academy
+#rstats #rstudio #datascience #analytics
+🔗 https://www.youtube.com/watch?v=FTyKOpDGgss"
+UCP8l94xtoemCH_GxByvTuFQ;fSve6zQqtGU;2023-03-19T07:00:14Z;"📺 New #rstatsvideo: Interactive Magically Multiplying Tabbed Reports | TidyX Episode 138
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown
+🔗 https://www.youtube.com/watch?v=fSve6zQqtGU"
+UCJV7u9gZdSLRAyxEp5AkhNw;ipcWW6h7tcE;2023-03-05T19:30:27Z;"📺 New #rstatsvideo: How to do Data Analysis with R Programming. 5-14 Box Plots using ggplot2 #datascience #rstudio
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=ipcWW6h7tcE"
+UCJV7u9gZdSLRAyxEp5AkhNw;rr4V0hMm4ww;2023-03-05T23:41:58Z;"📺 New #rstatsvideo: How to do Data Analysis with R Programming. 5-15  Kernel Density Plots using ggplot2 #datascience
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=rr4V0hMm4ww"
+UCJV7u9gZdSLRAyxEp5AkhNw;gSVFGf2DJKI;2023-03-06T13:33:20Z;"📺 New #rstatsvideo: How to do Data Analysis with R Programming. 5-16  Violin Plots using ggplot2 #datascience #howto
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=gSVFGf2DJKI"
+UCJV7u9gZdSLRAyxEp5AkhNw;x4b80MLMblg;2023-03-06T16:09:15Z;"📺 New #rstatsvideo: How to do Data Analysis with R Programming. 5-17  Scatter Plots using ggplot2 #datascience #howto
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=x4b80MLMblg"
+UClbmBihy3qulBFxV7MOxsnQ;FBYcVThIuFc;2023-03-07T07:00:10Z;"📺 New #rstatsvideo: Wissenschaftliche Arbeit mit Quarto Markdown - eine Anleitung
+▶ Dr. Benjamin Schlegel (@benjaminschlege)
+🗣 🇩🇪
+#rstats #statistik #drbenjaminschlegel #quartomarkdown #zitierenquartomarkdown
+🔗 https://www.youtube.com/watch?v=FBYcVThIuFc"
+UCJV7u9gZdSLRAyxEp5AkhNw;nwPDUH54W8U;2023-03-07T12:58:49Z;"📺 New #rstatsvideo: How to do Data Analysis with R Programming. 5-18 Dot Plots in R and using ggplot2 #statistics #howto
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=nwPDUH54W8U"
+UCJV7u9gZdSLRAyxEp5AkhNw;alAuQlobT40;2023-03-08T11:26:40Z;"📺 New #rstatsvideo: How to do Data Analysis with R Programming. 5-19  Stem and Leaf Plots in R #statistics #rstudio
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=alAuQlobT40"
+UCJV7u9gZdSLRAyxEp5AkhNw;AaIgfiyVJvY;2023-03-09T21:44:03Z;"📺 New #rstatsvideo: How to do Data Analysis with R Programming. apply(), lapply(), sapply(), and tapply() #statistics
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=AaIgfiyVJvY"
+UCJV7u9gZdSLRAyxEp5AkhNw;At-0Voh_J8M;2023-03-12T14:42:04Z;"📺 New #rstatsvideo: How to do Data Analysis with R Programming.R tutorials in full video #rstudio #rtutorial #statistics
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=At-0Voh_J8M"
+UClbmBihy3qulBFxV7MOxsnQ;N9PALE-LVt0;2023-03-14T07:00:08Z;"📺 New #rstatsvideo: Grafiken mit ggplot2 erstellen
+▶ Dr. Benjamin Schlegel (@benjaminschlege)
+🗣 🇩🇪
+#rstats #statistik #drbenjaminschlegel #grafikenr #ggplotr #ggplot2r #grafikentidyverse #säulendiagrammr #balkendiagrammr
+🔗 https://www.youtube.com/watch?v=N9PALE-LVt0"
+UCyHEww8_SCdxZvEnkCfi55w;V40EOZyGgi4;2023-03-19T15:00:22Z;"📺 New #rstatsvideo: Print Entire tibble to R Console (Example) | dplyr Package | print(), nrow() & as_tibble() Functions
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=V40EOZyGgi4"
