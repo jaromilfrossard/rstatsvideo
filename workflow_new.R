@@ -68,7 +68,7 @@ walk(tb_channel$id_channel, update_channel_video)
 validate_new_videos()#6aJMGdCxbgA
 
 videos <- choose_videos(max_tweet = 7,n_default = 7)%>%
-  filter(!id_video%in%c("YMGZQmMK2C8","_IYv2pdu-0g","6VAqqGlvT3o")) # 28 july
+  filter(!id_video%in%c("YMGZQmMK2C8","_IYv2pdu-0g","6VAqqGlvT3o","tNVU45scuw4")) # 28 july
 #videos <- videos%>%filter(new_video)
 
 # create txt
