@@ -22387,3 +22387,44 @@ UCcKPp7AI7ZTBf60WqXo3Bpg;Oc91QfAb1k0;2023-03-20T18:05:27Z;"📺 New #rstatsvideo
 ▶ Salt Lake City R Users Group (@slcrug)
 #rstats
 🔗 https://www.youtube.com/watch?v=Oc91QfAb1k0"
+UCsqrrplF84DQckpGQuTKTMg;fp_5ok67Ln8;2023-03-20T22:59:27Z;"📺 New #rstatsvideo: 161.324 Data Mining: Workshop 4
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=fp_5ok67Ln8"
+UClbmBihy3qulBFxV7MOxsnQ;-uRO8mfaKPQ;2023-03-21T07:00:00Z;"📺 New #rstatsvideo: R und R Studio installieren und updaten
+▶ Dr. Benjamin Schlegel (@benjaminschlege)
+🗣 🇩🇪
+#rstats #statistik #drbenjaminschlegel #rstudiotutorial #rstudioinstallieren #rinstallieren #rinstallierenmac
+🔗 https://www.youtube.com/watch?v=-uRO8mfaKPQ"
+UC5FvzLMVNrTMW-ycrW-4KyA;ZObknzto5Y8;2023-03-21T13:56:09Z;"📺 New #rstatsvideo: R로 배우는 기초통계 1강. RStudio의 기본 사용법과 기본 연산자들 공부하기
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=ZObknzto5Y8"
+UCCaChdLMTYMxyawR_Qf-kYA;QzctSsk2ok0;2021-03-06T20:09:35Z;"📺 #rstatsvideo: Data Science in Education Using R Book Club: Chapter 5 and 6 (2021-03-03) (dsieur01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=QzctSsk2ok0"
+UCyHEww8_SCdxZvEnkCfi55w;UAAVqxFymew;2023-03-21T15:00:30Z;"📺 New #rstatsvideo: Cumulative Maxima & Minima in R (4 Examples) | cummax & cummin Functions | tidyr & ggplot2 Packages
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=UAAVqxFymew"
+UCdFC653IaBVC5kwj7CGo2sQ;BufC0agHnzw;2023-03-21T15:36:33Z;"📺 New #rstatsvideo: Shiny Modules in 100 Seconds
+▶ RappA (@rappa753)
+#rstats
+🔗 https://www.youtube.com/watch?v=BufC0agHnzw"
+UC_R5smHVXRYGhZYDJsnXTwg;GomiUnL2ags;2018-07-15T04:51:48Z;"📺 #rstatsvideo: Strategic Capability Analysis for CANSOFCOM
+▶ R Consortium (@RConsortium)
+#rstats
+🔗 https://www.youtube.com/watch?v=GomiUnL2ags"
+UCrT2YmRak5iRXI_-RyXtEuA;A2tuYmijnD8;2021-03-19T23:48:45Z;"📺 #rstatsvideo: Experimento conductual y optogenética: Análisis estadístico básico en R
+▶ RLadies Querétaro (@RLadies_Qro)
+#rstats
+🔗 https://www.youtube.com/watch?v=A2tuYmijnD8"
+UClGaKSIiaYp8o2SB3D3aS_A;Amc6ow4Xsx0;2021-06-24T12:53:43Z;"📺 #rstatsvideo: R part 10 read table exploration part 1
+▶ InsiderMiner (@forcesofhabit)
+#rstats #datamining #rprogramming #probability #statistics #programming
+🔗 https://www.youtube.com/watch?v=Amc6ow4Xsx0"
