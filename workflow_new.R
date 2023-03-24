@@ -63,12 +63,12 @@ validate_new_channels()
 
 #update channels videos
 walk(tb_channel$id_channel, update_channel_video)
-#which(tb_channel$id_channel=="UCPfMGYxAOm39sO8nuEMB96Q")
+#which(tb_channel$id_channel=="UCfu2GCdjq50W-kL-cv3rcLw")
 
 validate_new_videos()#6aJMGdCxbgA
 
 videos <- choose_videos(max_tweet = 7,n_default = 7)%>%
-  filter(!id_video%in%c("YMGZQmMK2C8","_IYv2pdu-0g","6VAqqGlvT3o","tNVU45scuw4")) # 28 july
+  filter(!id_video%in%c("_IYv2pdu-0g","tNVU45scuw4")) # 28 july
 #videos <- videos%>%filter(new_video)
 
 # create txt

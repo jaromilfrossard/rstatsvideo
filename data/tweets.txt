@@ -22428,3 +22428,73 @@ UClGaKSIiaYp8o2SB3D3aS_A;Amc6ow4Xsx0;2021-06-24T12:53:43Z;"📺 #rstatsvideo: R 
 ▶ InsiderMiner (@forcesofhabit)
 #rstats #datamining #rprogramming #probability #statistics #programming
 🔗 https://www.youtube.com/watch?v=Amc6ow4Xsx0"
+UC3f2tQEdmy7MBNUlEYcRgBw;JuVmqykyL_s;2023-03-21T23:10:25Z;"📺 New #rstatsvideo: RStudio: Functions
+▶ James Ham
+#rstats
+🔗 https://www.youtube.com/watch?v=JuVmqykyL_s"
+UCOOZl_qCfHlXutEIbCorIjg;jhs8JMtr7VY;2023-03-22T00:09:42Z;"📺 New #rstatsvideo: #TidyTuesday 2023 Week 12 - Programming Languages
+▶ Nicola Rennie (@nrennie35)
+#rstats
+🔗 https://www.youtube.com/watch?v=jhs8JMtr7VY"
+UCQ7DcXWJm3es06U7lGmBDkw;0XowehpLkAI;2023-03-22T01:45:11Z;"📺 New #rstatsvideo: R Ladies STL: Reproducible Reports with Alex Knitter (Mar 21 2023)
+▶ R Ladies STL (@RLadiesSTL)
+#rstats
+🔗 https://www.youtube.com/watch?v=0XowehpLkAI"
+UCXuX-kQ1TbKHWeB75NgmhlA;rPF914X5Bzg;2023-03-22T13:00:41Z;"📺 New #rstatsvideo: Genomics exercise part 2 of 2 | PCA | Practical genomics
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #genomics #pca #principalcomponentanalysis #genomicsexcercise #genomicsexercise #plink #pcainplink
+🔗 https://www.youtube.com/watch?v=rPF914X5Bzg"
+UCyHEww8_SCdxZvEnkCfi55w;Vk-njwQs0U0;2023-03-22T15:00:16Z;"📺 New #rstatsvideo: Extract Default Color Palette of ggplot2 in R (Example) | How to Identify Hex Codes | scales Package
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=Vk-njwQs0U0"
+UC5RJIEerX3NnhKaBLM3oWZQ;iLqZ_OXzioo;2023-03-22T15:50:12Z;"📺 New #rstatsvideo: 2023 Mar 17 - Advanced PA - Soil ECa script pt 2
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=iLqZ_OXzioo"
+UCTXuqtCYxPVEehq6fJY9GkA;YMGZQmMK2C8;2023-03-10T18:25:25Z;"📺 New #rstatsvideo: 10 dicas para programar melhor em RMarkdown/Quarto
+▶ Curso-R (@curso_r)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=YMGZQmMK2C8"
+UCMGDKvc8-06jmxRrhYLr1_g;6VAqqGlvT3o;2023-03-16T19:32:50Z;"📺 New #rstatsvideo: Tidy Tuesday analysis: Ravelry yarn
+▶ Equitable Equations (@equitableEqs)
+#rstats #ravelryyarn #tidytuesdayyarn #yarndata
+🔗 https://www.youtube.com/watch?v=6VAqqGlvT3o"
+UC5RJIEerX3NnhKaBLM3oWZQ;Q5L3V2y1Qmg;2023-03-22T16:04:17Z;"📺 New #rstatsvideo: 2023 Mar 20 - Advanced PA - Soil ECa script pt 3
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Q5L3V2y1Qmg"
+UCjNXtKLVdEpImICqNERE9cQ;cNGH0zGdvlE;2023-03-22T16:34:11Z;"📺 New #rstatsvideo: Cómo encontrar la ayuda que necesitas en RStudio
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #rstudio #programación #ayuda #tutorial #solucióndeproblemas #documentación #comunidaddeusuarios #atajos #herramientasdeayuda
+🔗 https://www.youtube.com/watch?v=cNGH0zGdvlE"
+UC5RJIEerX3NnhKaBLM3oWZQ;uth0Xkiu5G0;2023-03-22T17:00:49Z;"📺 New #rstatsvideo: 2023 Mar 22 - Advanced PA - Yield stability validation pt 1
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=uth0Xkiu5G0"
+UCMdihazndR0f9XBoSXWqnYg;L9I0gTuaQjc;2023-03-23T02:26:46Z;"📺 New #rstatsvideo: R & Python - Part of Speech Tagging Part 1 (2022)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown
+🔗 https://www.youtube.com/watch?v=L9I0gTuaQjc"
+UCxQFEv8HNqM01DXzdQLCy6Q;p3M0FauCs6I;2023-03-23T11:03:39Z;"📺 New #rstatsvideo: {admiral} ADAE demo - CLOSED CAPTIONS
+▶ pharmaverse
+#rstats
+🔗 https://www.youtube.com/watch?v=p3M0FauCs6I"
+UCCaChdLMTYMxyawR_Qf-kYA;fuFjAj1_Xq0;2023-03-23T14:00:28Z;"📺 New #rstatsvideo: R Packages: Q&A with Jenny Bryan  (rpkgs04 extra)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=fuFjAj1_Xq0"
+UCg4rv97QEhN-2gvLhrGMgEw;xKQf5HW8354;2023-03-23T14:11:57Z;"📺 New #rstatsvideo: O que é o Controle de Qualidade? (aplicação no R)
+▶ Statplace (@Statplace1)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=xKQf5HW8354"
