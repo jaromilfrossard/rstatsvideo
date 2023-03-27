@@ -91,6 +91,7 @@ UCJamxO-DE27EEZtWrNG34mA;Futbol AnalysR;FutbolAnalysR
 UCXuX-kQ1TbKHWeB75NgmhlA;Genomics Boot Camp;GaborM_ABG
 UCWPCd6tPtoLJYzQQ681pe5Q;ggnot2;
 UCJ04koR_DOtHh9SywevkEWg;ggplot2tor;ChBurkhart
+UCGW9rlyw-HqmVn1sQ87E6_g;Ghost Statistician;
 UCHIlDVeRUk3BAh4XEphxVFA;gisela soledispa lucas;
 UCxOhDvtaoXDAB336AolWs3A;Hadley Wickham;hadleywickham
 UCPVGs5EBtrhK5gENc1GACOA;Hansel Ochoa Montero;
@@ -148,6 +149,7 @@ UCU2_ZKzs__wKRtsvc-MS3GQ;Max Kuhn;topepos
 UCulCmsf4ClxMibkBpD-JYmg;Michael Hahsler;
 UCWOMdzXlQgRu6f-plf9DTcg;Miguel Bustos;
 UClHxi-ei0TXjC-0A0QXwMpg;Miles Chen;
+UCKcJk2P3gUVETzyXMRKNHpA;Milos Makes Maps;milos_agathon
 UCeTqWLMlko7MjRny-b_dNeA;Mine Çetinkaya-Rundel;minebocek
 UCf1ZNSUNLDFy5y3X6qoZGCg;Mirai Solutions;MiraiSolutions
 UClspbw7f-6Wk0BUiI6H05OQ;MMID Coding Workshop;
@@ -287,9 +289,11 @@ UCf4yYuw5nkmixgA-KT3euHw;Stats For All;StatsForBios
 UChDkZclaUz_a0ZqcI5u2u_w;statsguidetree;
 UCyWGeP-J1I0Xasd62QumS3w;Stephen Carden;
 UC2M4LiU11tjZfL86yfufSKA;Sukaesi Marianti;
+UColncDCZ8SmTAHYr92QFclQ;TheCoatlessProfessor;axiomsofxyz
 UC6Xx8qlsXCJtmX1Lt_USQPA;The Craft of R Programming;
 UCY66vV1WTk_2lHg24cuJrtg;The Data Digest;DigestData
 UChbD2MJjdPXn0qJx1Gu9MIA;The GRAPH Courses;theGRAPHnetwork
+UC-9heLBUaK2IQfAdisiIW1Q;The R Programming Hub;
 UCE3OyQLmrQ5tnKc9qDIZbtw;ThinkR Rstats;thinkR_fr
 UCT9SgxpakGSH-yfRj_QhzIQ;Thomas Lin Pedersen;thomasp85
 UCvCEl2-_Q2gGxqisyYngXIA;Thomas Mock;thomas_mock
@@ -310,4 +314,5 @@ UCDHzgi5BGU5F-LXxQIIOyDw;yutannihilationのチャンネル (仮);yutannihilation
 UCF9ymC7Dpjwr0lge2QR_A5Q;webin-R;
 UCwLy_PYrnCEhCU-Ay2F5Drw;Why R? Foundation;whyRconf
 UCr8qT7gK9WQZjCNz7Agi7sA;Why R? Turkey;WhyRTurkey
+UC6CGjeirR3cgUVAmmez3glw;Zongzhang Li;
 UCW-epmIvjBEhhVXw_F0Nqbw;한국 R 사용자회;

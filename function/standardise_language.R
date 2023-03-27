@@ -7,7 +7,7 @@ standardise_language <- function(x){
     c("ar"),"ar",
     c("de","de-CH"),"de",
     c("en","en-US","en-GB","en-CA","en-IN"),"en",
-    c("es","es-419","es-MX"),"es",
+    c("es","es-419","es-MX","es-ES"),"es",
     c("fa","fa-IR"),"fa",
     c("fr","fr-FR"), "fr",
     c("gl"),"gl",
@@ -22,6 +22,7 @@ standardise_language <- function(x){
     c("yo"),"yo",
     c("zh"),"zh",
     c("zh-CN"),"zh_cn",
+    c("zh-SG"),"zh_sg",
     c("zxx"),NA_character_)
   
   
@@ -66,7 +67,8 @@ language2emoji <- function(x){
                 "vi","\U001F1FB\U001F1F3",
                 "yo","Yoruba",
                 "zh","\U001F1E8\U001F1F3",
-                "zh_cn","\U001F1E8\U001F1F3")
+                "zh_cn","\U001F1E8\U001F1F3",
+                "zh_sg","\U001F1F8\U001F1EC")
   
   unknown <- which(!(x%in%tb$lang)&(!is.na(x)))
   if(length(unknown)>0){
