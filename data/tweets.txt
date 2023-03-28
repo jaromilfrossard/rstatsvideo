@@ -22714,3 +22714,77 @@ UCCaChdLMTYMxyawR_Qf-kYA;MkdSnkMncCU;2023-03-27T15:54:39Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats
 🔗 https://www.youtube.com/watch?v=MkdSnkMncCU"
+UCCaChdLMTYMxyawR_Qf-kYA;PQ62v8j8rRM;2023-03-27T15:55:00Z;"📺 New #rstatsvideo: Data Visualization with R: Introduction & Data Preparation (datavisr01 1)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #datavis #dataviz #datavisualization
+🔗 https://www.youtube.com/watch?v=PQ62v8j8rRM"
+UCOdX7FBvpMPknrC6gtm0y_w;lNn4beRxnbk;2023-03-27T16:46:35Z;"📺 New #rstatsvideo: Build a Shiny App Demo as a Cover Letter Accessory
+▶ Southern California R Users Group (@oc_rug)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=lNn4beRxnbk"
+UC5RJIEerX3NnhKaBLM3oWZQ;1sVINK0KmTk;2023-03-27T18:34:45Z;"📺 New #rstatsvideo: 2023 Mar 27 - Advanced PA - Yield stability validation pt 2
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=1sVINK0KmTk"
+UC5FvzLMVNrTMW-ycrW-4KyA;EEseYxWjJhw;2023-03-27T18:50:56Z;"📺 New #rstatsvideo: 교재 1장 연습문제 풀이 2 - 벡터와 행렬의 곱셈
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=EEseYxWjJhw"
+UCJV7u9gZdSLRAyxEp5AkhNw;BcRapJEjy8M;2023-03-27T22:20:23Z;"📺 New #rstatsvideo: How to use rename function of Dplyr in R #statistics #rstudio #rstats
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto #machinelearning #deeplearning
+🔗 https://www.youtube.com/watch?v=BcRapJEjy8M"
+UC6CGjeirR3cgUVAmmez3glw;v1gRdgYB_ww;2023-03-28T01:52:57Z;"📺 New #rstatsvideo: ggplot2 如何在直方图上标注频数？
+▶ Zongzhang Li
+🗣 🇸🇬
+#rstats
+🔗 https://www.youtube.com/watch?v=v1gRdgYB_ww"
+UCsqrrplF84DQckpGQuTKTMg;2-tDfoaxU_o;2023-03-28T02:59:30Z;"📺 New #rstatsvideo: 161.324 Data Mining: Workshop 5
+▶ Jonathan Marshall (@jmarshallnz)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2-tDfoaxU_o"
+UClbmBihy3qulBFxV7MOxsnQ;nZ1Kt3A5WgI;2023-03-28T06:00:29Z;"📺 New #rstatsvideo: Variablen aufbereiten in R - Anleitung mit Beispielen
+▶ Dr. Benjamin Schlegel (@benjaminschlege)
+🗣 🇩🇪
+#rstats #statistik #drbenjaminschlegel #variablenrekodieren #variablenrecodieren #datenaufbereiten
+🔗 https://www.youtube.com/watch?v=nZ1Kt3A5WgI"
+UCyHEww8_SCdxZvEnkCfi55w;jFR8dppAN7w;2023-03-28T14:00:22Z;"📺 New #rstatsvideo: Calculate Min & Max by Group in R (Example) | Base R, dplyr & data.table | How to Add as New Column
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=jFR8dppAN7w"
+UC4qGEuq0nCmWuAkfYkEV3Ew;STkipuQKkAI;2023-03-28T14:26:28Z;"📺 New #rstatsvideo: Die Normalverteilung in R
+▶ Datenanalyse für alle
+#rstats
+🔗 https://www.youtube.com/watch?v=STkipuQKkAI"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;8FyzB_BBhAI;2023-03-27T02:00:04Z;"📺 New #rstatsvideo: ESMARConf2023: {metamedian} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=8FyzB_BBhAI"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;H92HhwziGwk;2023-03-27T02:00:04Z;"📺 New #rstatsvideo: ESMARConf2023: {rema} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=H92HhwziGwk"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;c_etk-0FM6U;2023-03-27T02:00:09Z;"📺 New #rstatsvideo: ESMARConf2023: {gmeta} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=c_etk-0FM6U"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;eHs0E5QNOzE;2023-03-27T02:00:11Z;"📺 New #rstatsvideo: ESMARConf2023: {dosresmeta} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=eHs0E5QNOzE"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;j6ZOvdOXmKE;2023-03-27T02:00:12Z;"📺 New #rstatsvideo: ESMARConf2023: {CopulaDTA} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=j6ZOvdOXmKE"
