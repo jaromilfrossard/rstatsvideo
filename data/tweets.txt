@@ -22938,3 +22938,256 @@ UCZy7G3R6bk6AE6Vbfgc0Qhg;8rFC_ZQzm14;2023-03-29T02:00:05Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
 🔗 https://www.youtube.com/watch?v=8rFC_ZQzm14"
+UCTXuqtCYxPVEehq6fJY9GkA;tNVU45scuw4;2023-03-20T15:40:44Z;"📺 New #rstatsvideo: Unboxing de Pacotes do R #11
+▶ Curso-R (@curso_r)
+🗣 🇵🇹
+#rstats
+🔗 https://www.youtube.com/watch?v=tNVU45scuw4"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;ZfrU3OpEE5A;2023-03-29T02:00:20Z;"📺 New #rstatsvideo: ESMARConf2023: {rnmamod} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=ZfrU3OpEE5A"
+UC3f2tQEdmy7MBNUlEYcRgBw;h9ClEIF38_o;2023-03-29T02:28:41Z;"📺 New #rstatsvideo: RStudio -  For loops & Functions - Music Lyrics
+▶ James Ham
+#rstats
+🔗 https://www.youtube.com/watch?v=h9ClEIF38_o"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;589nU_9WO1o;2023-03-29T07:00:02Z;"📺 New #rstatsvideo: ESMARConf2023: Location-scale models for meta-analysis using the metafor package
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis
+🔗 https://www.youtube.com/watch?v=589nU_9WO1o"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;FllJA9Jub44;2023-03-29T07:00:04Z;"📺 New #rstatsvideo: ESMARConf2023: Multilevel multivariate meta-analysis in R: pre-eclampsia & offspring blood pressure
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis
+🔗 https://www.youtube.com/watch?v=FllJA9Jub44"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;RB5EWNSb6qg;2023-03-29T07:00:19Z;"📺 New #rstatsvideo: ESMARConf2023: Multilevel modelling in preclinical meta-analyses
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=RB5EWNSb6qg"
+UCPfMGYxAOm39sO8nuEMB96Q;7KYrTF9iEps;2023-03-29T11:00:06Z;"📺 New #rstatsvideo: Modelos de Ecuaciones Estructurales | Clase #16: Curso Estadística Inferencial Aplicada
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats
+🔗 https://www.youtube.com/watch?v=7KYrTF9iEps"
+UCXuX-kQ1TbKHWeB75NgmhlA;yXkolVmgQcQ;2023-03-29T12:00:48Z;"📺 New #rstatsvideo: My 3 favorite R functions
+▶ Genomics Boot Camp (@GaborM_ABG)
+🗣 🇬🇧
+#rstats #favoriterfunctions #pivotwider #pivotlonger #manhattanplot #manhattanplotinr #howtodomanhattanplotandqqplotinr #qqplot #ggsave
+🔗 https://www.youtube.com/watch?v=yXkolVmgQcQ"
+UCCaChdLMTYMxyawR_Qf-kYA;pGbCWFB4Rz4;2023-03-29T12:09:32Z;"📺 New #rstatsvideo: R for Data Science: Dates and times (r4ds07 19)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=pGbCWFB4Rz4"
+UCCaChdLMTYMxyawR_Qf-kYA;BdQMvsIN6Pg;2023-03-29T12:11:20Z;"📺 New #rstatsvideo: ShinyUI: Handle HTML dependencies with {htmltools} (shinyui01 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #rshiny
+🔗 https://www.youtube.com/watch?v=BdQMvsIN6Pg"
+UCMGDKvc8-06jmxRrhYLr1_g;NQYtY9ckKWw;2023-03-29T13:00:13Z;"📺 New #rstatsvideo: Correlation testing in R
+▶ Equitable Equations (@equitableEqs)
+#rstats #correlationtesting #cortest #correlationtestinr
+🔗 https://www.youtube.com/watch?v=NQYtY9ckKWw"
+UCJV7u9gZdSLRAyxEp5AkhNw;h0EgSJMt-Zk;2023-03-29T13:24:29Z;"📺 New #rstatsvideo: How to use mutate function of Dplyr to create variables in R #statistics #rstudio #rstats
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=h0EgSJMt-Zk"
+UCyHEww8_SCdxZvEnkCfi55w;5rkSELwzXhw;2023-03-29T14:00:03Z;"📺 New #rstatsvideo: R Error in lm.fit(x, y, offset, singular.ok, …) : NA/NaN/Inf in ‘x’ (2 Examples) | Fix & Avoid Error
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #rprogramming
+🔗 https://www.youtube.com/watch?v=5rkSELwzXhw"
+UCMdihazndR0f9XBoSXWqnYg;upJ1Icl4AMw;2023-03-29T16:37:44Z;"📺 New #rstatsvideo: R & Python - Part of Speech Tagging Part 1.1 (2022)
+▶ Statistics of DOOM (@aggieerin)
+🗣 🇬🇧
+#rstats #statistics #rstudio #open #education #data #science #analytics #python #coding #markdown
+🔗 https://www.youtube.com/watch?v=upJ1Icl4AMw"
+UCCaChdLMTYMxyawR_Qf-kYA;knKVzIh4lug;2023-03-29T19:43:39Z;"📺 New #rstatsvideo: Geocomputation w R: Attribute data operations (geocompr01 3)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #geocomputation
+🔗 https://www.youtube.com/watch?v=knKVzIh4lug"
+UCCaChdLMTYMxyawR_Qf-kYA;Q4FA0BB_PeY;2023-03-29T19:46:44Z;"📺 New #rstatsvideo: Advanced R: R6 (advr07 14)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=Q4FA0BB_PeY"
+UCOOZl_qCfHlXutEIbCorIjg;qUPUeyv9aZs;2023-03-29T20:19:18Z;"📺 New #rstatsvideo: #TidyTuesday 2023 Week 13 - Time Zones
+▶ Nicola Rennie (@nrennie35)
+#rstats
+🔗 https://www.youtube.com/watch?v=qUPUeyv9aZs"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;ITH6cvrUVAM;2023-03-29T21:00:13Z;"📺 New #rstatsvideo: ESMARConf2023: {metagam} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=ITH6cvrUVAM"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;VQlsop6t1NQ;2023-03-29T21:00:13Z;"📺 New #rstatsvideo: ESMARConf2023: {BayesCombo} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=VQlsop6t1NQ"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;b9KvRsO8SPY;2023-03-29T21:00:16Z;"📺 New #rstatsvideo: ESMARConf2023: {shinyDigitise} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=b9KvRsO8SPY"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;ldCbJtiTMsg;2023-03-29T21:00:21Z;"📺 New #rstatsvideo: ESMARConf2023: {meta} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=ldCbJtiTMsg"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;5qobRJ4Xca0;2023-03-30T02:00:01Z;"📺 New #rstatsvideo: ESMARConf2023: {puniform} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=5qobRJ4Xca0"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;C9Vngd1sjLs;2023-03-30T02:00:03Z;"📺 New #rstatsvideo: ESMARConf2023: {wildmeta} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=C9Vngd1sjLs"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;ZmDxTfMWtoY;2023-03-30T02:00:17Z;"📺 New #rstatsvideo: ESMARConf2023: {metasens} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=ZmDxTfMWtoY"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;tjX7F5q73XE;2023-03-30T06:07:32Z;"📺 New #rstatsvideo: ESMARConf2023: Workshop 7 - Introduction to GitHub
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=tjX7F5q73XE"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;9DraJD6QDVs;2023-03-30T07:00:03Z;"📺 New #rstatsvideo: ESMARConf2023: Clustered bootstrapping for selective reporting models in MA with dependent effects
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis
+🔗 https://www.youtube.com/watch?v=9DraJD6QDVs"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;DcsRnRgY_co;2023-03-30T07:00:04Z;"📺 New #rstatsvideo: ESMARConf2023: metaBMA: Bayesian Model Averaging for Meta-Analysis in R
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=DcsRnRgY_co"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;2mcjWh3ZYS4;2023-03-30T09:00:30Z;"📺 New #rstatsvideo: ESMARConf2023: Workshop 9 - Introduction to R Shiny
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2mcjWh3ZYS4"
+UCPJZmlXMcBiKjoVQ4cpAMIg;ZWWWs9PqF5k;2023-03-30T10:45:02Z;"📺 New #rstatsvideo: Unlock Infinite API Data Requests - Leverage RStudio's Secret For Loop!
+▶ Dean Chereden (@deanchereden)
+🗣 🇬🇧
+#rstats #analytics #datascience #howto #rprogramming #rstudio #dataanalytics #datasciencetraining
+🔗 https://www.youtube.com/watch?v=ZWWWs9PqF5k"
+UCyHEww8_SCdxZvEnkCfi55w;Ki9YrvEC1P0;2023-03-30T14:00:16Z;"📺 New #rstatsvideo: R Error in setwd() : cannot change working directory (2 Examples) | How to Reproduce & Fix in R
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #rprogramming #statistics
+🔗 https://www.youtube.com/watch?v=Ki9YrvEC1P0"
+UCJV7u9gZdSLRAyxEp5AkhNw;TWe11j_t0rk;2023-03-30T14:02:21Z;"📺 New #rstatsvideo: How to use select function of Dplyr to select variables in R #statistics #rstudio #datascience
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=TWe11j_t0rk"
+UCVkj__s6Atxd1s2BwEY3kVA;mVSJjJKnYYw;2023-03-30T15:30:21Z;"📺 New #rstatsvideo: How to Write Mean Median Mode Functions in R
+▶ Arman Hossain Chowdhury
+#rstats #howtowritefunctioninr #writingfunctionsinr #rfunctions #functionsinr #meanfunctioninr #medianfunctioninr #modefunctioninr
+🔗 https://www.youtube.com/watch?v=mVSJjJKnYYw"
+UCU6vtQ59YrGqIrytnJ2CRug;s6_lmHp2IiU;2023-03-30T19:25:13Z;"📺 New #rstatsvideo: Remote sensing (with application in R) (Journal club part 6) (In Persian) سنجش از راه دور
+▶ Nasrin Fathollahzadeh Attar (@NasrinAttar)
+#rstats
+🔗 https://www.youtube.com/watch?v=s6_lmHp2IiU"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;-2x2a3JDOlM;2023-03-30T21:00:00Z;"📺 New #rstatsvideo: ESMARConf2023: {netmeta} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=-2x2a3JDOlM"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;BIyJntjXwmM;2023-03-30T21:00:06Z;"📺 New #rstatsvideo: ESMARConf2023: {metameta} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=BIyJntjXwmM"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;W9QulF-M9Do;2023-03-30T21:00:11Z;"📺 New #rstatsvideo: ESMARConf2023: {CRTSize} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=W9QulF-M9Do"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;E1BbKjnZ5IQ;2023-03-30T21:00:13Z;"📺 New #rstatsvideo: ESMARConf2023: {EvidenceSynthesis} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=E1BbKjnZ5IQ"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;mbkoUDTDA8c;2023-03-30T21:00:21Z;"📺 New #rstatsvideo: ESMARConf2023: {estmeansd} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=mbkoUDTDA8c"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;wYIT7ae_50o;2023-03-30T21:00:27Z;"📺 New #rstatsvideo: ESMARConf2023: {estimraw} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=wYIT7ae_50o"
+UC5RJIEerX3NnhKaBLM3oWZQ;93ZMysooHvw;2023-03-30T21:16:36Z;"📺 New #rstatsvideo: 2023 Mar 29 - Advanced PA - Mid-term follow up, management zone creation
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=93ZMysooHvw"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;00un7YTfKIA;2023-03-31T02:00:00Z;"📺 New #rstatsvideo: ESMARConf2023: {preregr} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=00un7YTfKIA"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;F4gB4V2Rpfc;2023-03-31T02:00:04Z;"📺 New #rstatsvideo: ESMARConf2023: {screenmedR} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=F4gB4V2Rpfc"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;O6RSRLDOmmc;2023-03-31T02:00:06Z;"📺 New #rstatsvideo: ESMARConf2023: {PublicationBias, phacking, and multibiasmeta} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=O6RSRLDOmmc"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;dO0ia1Vzhrg;2023-03-31T02:00:10Z;"📺 New #rstatsvideo: ESMARConf2023: {viscomp} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=dO0ia1Vzhrg"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;e68YX1VTe_A;2023-03-31T02:00:19Z;"📺 New #rstatsvideo: ESMARConf2023: {metaBMA} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=e68YX1VTe_A"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;iaTMFzWfCe0;2023-03-31T02:00:20Z;"📺 New #rstatsvideo: ESMARConf2023: {metaUI} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=iaTMFzWfCe0"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;fc9c7hiqnXE;2023-03-31T02:00:23Z;"📺 New #rstatsvideo: ESMARConf2023: {MetaPipeX} tutorial
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=fc9c7hiqnXE"
+UC5FvzLMVNrTMW-ycrW-4KyA;YA8OsIzJ-sA;2023-03-31T06:43:46Z;"📺 New #rstatsvideo: 도구로써의 선형대수학 3강 - 전치행렬의 성질과 1벡터를 이용한 평균 벡터 계산 표현하기
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=YA8OsIzJ-sA"
+UC5FvzLMVNrTMW-ycrW-4KyA;n_L9ecDlzy0;2023-03-31T06:47:39Z;"📺 New #rstatsvideo: 도구로써의 선형대수학 4강 - J행렬과 중심화 행렬, 공분산 행렬 표현하기
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #데이터사이언스 #데이터분석 #통계강의 #기초통계 #r프로그래밍 #빅데이터
+🔗 https://www.youtube.com/watch?v=n_L9ecDlzy0"
+UCax5WxTJvQjtS9elybDivbA;Id1rJGt_n5Y;2023-03-31T11:04:55Z;"📺 New #rstatsvideo: Basic Statistics in R (Lecture Series)
+▶ Olakunle4impact (@olakunle4impact)
+#rstats #basicstatisticsinr #rprogramming #rstudio #learnstatistics #freervideos #tagng #olakunle4impact #italy #funaab #futa
+🔗 https://www.youtube.com/watch?v=Id1rJGt_n5Y"
+UC-9heLBUaK2IQfAdisiIW1Q;Qv7qMkwAMBU;2023-03-31T12:00:31Z;"📺 New #rstatsvideo: 2 - R Shiny Input Functions || R Shiny For Absolute Beginners
+▶ The R Programming Hub
+#rstats #shiny #rstudio #datascience #shinypokemon #shinyandkoi #koiandshiny #rshiny #shinydashboard #rshinydashboard
+🔗 https://www.youtube.com/watch?v=Qv7qMkwAMBU"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;NqL11El8kwM;2023-03-31T13:00:16Z;"📺 New #rstatsvideo: ESMARConf2023: orchaRd plots in meta-analysis
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
+🔗 https://www.youtube.com/watch?v=NqL11El8kwM"
