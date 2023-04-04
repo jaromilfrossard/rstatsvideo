@@ -23191,3 +23191,147 @@ UCZy7G3R6bk6AE6Vbfgc0Qhg;NqL11El8kwM;2023-03-31T13:00:16Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis #evidencesynthesishackathon
 🔗 https://www.youtube.com/watch?v=NqL11El8kwM"
+UCZy7G3R6bk6AE6Vbfgc0Qhg;yRmjBBiE2Io;2023-03-31T13:00:52Z;"📺 New #rstatsvideo: ESMARConf2023: Creating interactive ShinyApps for Meta-Analyses with metaUI
+▶ ESMARConf (@eshackathon)
+🗣 🇬🇧
+#rstats #evidencesynthesis #esmarconf2023 #systematicreview #metaanalysis
+🔗 https://www.youtube.com/watch?v=yRmjBBiE2Io"
+UCyHEww8_SCdxZvEnkCfi55w;ccS0vTc3Fks;2023-03-31T14:00:32Z;"📺 New #rstatsvideo: R Error: incorrect number of dimensions (2 Examples) | Two Dimensions from One-Dimensional Object
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=ccS0vTc3Fks"
+UCjNXtKLVdEpImICqNERE9cQ;_kNN3NvtDM4;2023-03-31T16:04:51Z;"📺 New #rstatsvideo: Tutorial de gráficos de dispersión en R con ggplot2 (Scatter Plot)
+▶ R Para Todos
+🗣 🇪🇸
+#rstats #ggplot2 #gráficosdedispersión #scatterplot #tutorial #visualizacióndedatos #datascience #programación
+🔗 https://www.youtube.com/watch?v=_kNN3NvtDM4"
+UCax5WxTJvQjtS9elybDivbA;TSGB_9OpEN4;2023-03-31T16:42:27Z;"📺 New #rstatsvideo: Calculating mean, median and mode of a dataset in R #rstats #rstudio #olakunle4impact
+▶ Olakunle4impact (@olakunle4impact)
+#rstats #basicstatisticsinr #rstudio #tagng #olakunle4impact #calculatingmean
+🔗 https://www.youtube.com/watch?v=TSGB_9OpEN4"
+UCCaChdLMTYMxyawR_Qf-kYA;dpuChfar4EQ;2023-03-31T18:22:34Z;"📺 New #rstatsvideo: tidyverse docs: Data frame verbs: columns (tidyversedocs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #tidyverse
+🔗 https://www.youtube.com/watch?v=dpuChfar4EQ"
+UCCaChdLMTYMxyawR_Qf-kYA;upYZQgnDU1U;2023-03-31T19:17:26Z;"📺 New #rstatsvideo: Regression and Other Stories: Transformations (ros02 12)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=upYZQgnDU1U"
+UC5RJIEerX3NnhKaBLM3oWZQ;njECX4Q5kok;2023-03-31T21:17:09Z;"📺 New #rstatsvideo: 2023 Mar 31 - Advanced PA - management zone creation pt 2
+▶ agRonomy (@leoNitrogen)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=njECX4Q5kok"
+UCJV7u9gZdSLRAyxEp5AkhNw;p88aqFOcffI;2023-04-01T13:46:36Z;"📺 New #rstatsvideo: How to use join() function of Dplyr to join datasets in R #statistics #rstudio #datascience
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=p88aqFOcffI"
+UCyHEww8_SCdxZvEnkCfi55w;8MggYK1qFKc;2023-04-01T14:00:05Z;"📺 New #rstatsvideo: R ggplot2 Warning Message: Removed rows containing non-finite values (2 Examples) | Fix & Avoid
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=8MggYK1qFKc"
+UCJV7u9gZdSLRAyxEp5AkhNw;ExcS-yArUDg;2023-04-01T15:01:41Z;"📺 New #rstatsvideo: How to use slice() of Dplyr to choose rows in R #statistics #rstudio #datascience
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto #machinelearning
+🔗 https://www.youtube.com/watch?v=ExcS-yArUDg"
+UCJV7u9gZdSLRAyxEp5AkhNw;U1lKABPwzc4;2023-04-01T18:05:09Z;"📺 New #rstatsvideo: How to use summarise() of Dplyr to get summary Information in R #statistics #rstudio #datascience
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=U1lKABPwzc4"
+UCCaChdLMTYMxyawR_Qf-kYA;U-FLKwWMaPw;2023-04-01T18:06:22Z;"📺 New #rstatsvideo: testthat docs: Test fixtures, withr, and Custom expectations (pkgcreationdocs01)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #testthat
+🔗 https://www.youtube.com/watch?v=U-FLKwWMaPw"
+UClbmBihy3qulBFxV7MOxsnQ;vcx36Ylk9hQ;2021-09-01T06:51:49Z;"📺 #rstatsvideo: R Markdown - Literaturverzeichnis, Inhaltsverzeichnis, Tabellenverzeichnis, Abbildungsverzeichnis
+▶ Dr. Benjamin Schlegel (@benjaminschlege)
+🗣 🇩🇪
+#rstats #rmarkdown #wiezitiereichinrmarkdown #literaturverzeichnis
+🔗 https://www.youtube.com/watch?v=vcx36Ylk9hQ"
+UCrSOXB0bD_FZAZrgCl-fKjA;R0VHJpEvlNM;2023-04-01T19:00:09Z;"📺 New #rstatsvideo: R - Intro to Data Science Class 3 (Pt.2)
+▶ Florida Data Science Academy
+#rstats #rstudio #datascience #analytics
+🔗 https://www.youtube.com/watch?v=R0VHJpEvlNM"
+UCCaChdLMTYMxyawR_Qf-kYA;WiZEdxfJ6sY;2023-04-01T19:13:03Z;"📺 New #rstatsvideo: Econometrics with R: Linear Regression with One Regressor (econometrics01 4)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #econometrics
+🔗 https://www.youtube.com/watch?v=WiZEdxfJ6sY"
+UCCaChdLMTYMxyawR_Qf-kYA;rPXM4VhXLoM;2023-04-01T19:47:55Z;"📺 New #rstatsvideo: Forecasting: Principles and Practice: Time series regression models Continued (fpp02 7)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=rPXM4VhXLoM"
+UCJV7u9gZdSLRAyxEp5AkhNw;gnHA7uPqs5M;2023-04-01T21:00:43Z;"📺 New #rstatsvideo: How to use gather() of dplyr in R to convert multiple columns into one #statistics #datascience
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=gnHA7uPqs5M"
+UCP8l94xtoemCH_GxByvTuFQ;cwAwPyecbxE;2023-04-02T07:00:12Z;"📺 New #rstatsvideo: Data Restructuring via Splits | TidyX Episode 140
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #ggplot #ggplot2 #dataviz #datavis #rprogramming #datascience #rmarkdown #markdown
+🔗 https://www.youtube.com/watch?v=cwAwPyecbxE"
+UCqQ_cxcNu1ekqHXDc-MbU_w;tZOC09KXdOw;2023-04-02T10:00:40Z;"📺 New #rstatsvideo: ChatGPT: How I Made An R Shiny App In Under 10 Minutes
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=tZOC09KXdOw"
+UCJV7u9gZdSLRAyxEp5AkhNw;e1knN2GX_GE;2023-04-02T12:08:57Z;"📺 New #rstatsvideo: How to use spread() of Dplyr in R to spread a key-value pair across multiple columns. #datascience
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=e1knN2GX_GE"
+UCJV7u9gZdSLRAyxEp5AkhNw;10RSoN6LnB4;2023-04-02T12:31:44Z;"📺 New #rstatsvideo: How to use separate() of Dplyr in R to divide a Single Column into Multiple Columns. #datascience
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=10RSoN6LnB4"
+UCKcJk2P3gUVETzyXMRKNHpA;8kunLjakT0c;2023-04-02T13:01:42Z;"📺 New #rstatsvideo: Let's animate maps with R
+▶ Milos Makes Maps (@milos_agathon)
+#rstats
+🔗 https://www.youtube.com/watch?v=8kunLjakT0c"
+UCyHEww8_SCdxZvEnkCfi55w;PV05D7YOGLE;2023-04-02T14:00:12Z;"📺 New #rstatsvideo: dplyr Info: `summarise()` has grouped output by ‘X’. You can override using the `.groups` argument.
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=PV05D7YOGLE"
+UCJV7u9gZdSLRAyxEp5AkhNw;WeBhMpbT1mc;2023-04-02T14:11:46Z;"📺 New #rstatsvideo: How to use n(), nth, n_distinct() of dplyr for counting in R. #datascience #rstudio #statistics
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=WeBhMpbT1mc"
+UC_B9IFL3z8bB1Ml6GcVDavA;wcmRe-BY3mI;2023-04-02T16:19:02Z;"📺 New #rstatsvideo: R Markdown
+▶ Statistics without Borders (@SWBProbono)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wcmRe-BY3mI"
+UCJV7u9gZdSLRAyxEp5AkhNw;d8CjDLQTQ0M;2023-04-02T16:19:32Z;"📺 New #rstatsvideo: How to use na_if() and coalesce() of dplyr to deal with NA values in R. #datascience #rstudio
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #statistics #howto
+🔗 https://www.youtube.com/watch?v=d8CjDLQTQ0M"
+UCCaChdLMTYMxyawR_Qf-kYA;wDVJ1zWGTzA;2023-04-02T17:26:42Z;"📺 New #rstatsvideo: R for Data Science: Regular expressions (r4ds08 16)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=wDVJ1zWGTzA"
+UCMzxf1PB54mTnWJVE8xdGlw;b1qhl2yZloQ;2023-04-02T19:35:03Z;"📺 New #rstatsvideo: CreatingYourDataSciencePortfolio  #rstats #datascience #career #openscience #portfolio #botswana
+▶ R-ladies Gaborone (@RLadiesGaborone)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=b1qhl2yZloQ"
+UCxQFEv8HNqM01DXzdQLCy6Q;YcDxBmlpykw;2023-04-03T10:06:10Z;"📺 New #rstatsvideo: admiral contributor onboarding
+▶ pharmaverse
+#rstats
+🔗 https://www.youtube.com/watch?v=YcDxBmlpykw"
+UCCaChdLMTYMxyawR_Qf-kYA;pDdDjnYmHAs;2023-04-03T13:38:22Z;"📺 New #rstatsvideo: Data Visualization with R: Introduction to ggplot2 (datavisr01 2)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #datavis #dataviz #datavisualization
+🔗 https://www.youtube.com/watch?v=pDdDjnYmHAs"
