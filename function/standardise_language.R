@@ -9,7 +9,7 @@ standardise_language <- function(x){
     c("en","en-US","en-GB","en-CA","en-IN"),"en",
     c("es","es-419","es-MX","es-ES"),"es",
     c("fa","fa-IR"),"fa",
-    c("fr","fr-FR"), "fr",
+    c("fr","fr-FR","fr-CH"), "fr",
     c("gl"),"gl",
     c("hi"),"hi",
     c("it"),"it",

@@ -9,7 +9,9 @@ UCGn6055dyd5pSmVtHTukQIg;Alexander Rauhut;
 UCQYM-t2ut2zXr4d7TIFya1A;Alison Hill;apreshill
 UCydYJplH_n0PvEzpxPe1AdA;Amelia McNamara;AmeliaMN
 UCnwYO3Sz_emBTC1sTZ6TlsQ;Andrew Couch;Andr3wCouch
+UCSQWOh39SlfjmHWUTAVP9Og;Animal Sciences;AnimalSciences4
 UCiGbx61Bed35EZXL_Hk_qpA;Anna Skrzydlo;
+UC3onxUHZQw9jlIzdZ0mwTEw;Apply R in Statistics;
 UC6LqpR5qBfNlQp5mVIVsthA;Appsilon;appsilon
 UChEWb0dYC8v7wZNWHca9b_A;ArabR;
 UCVkj__s6Atxd1s2BwEY3kVA;Arman Hossain Chowdhury;
@@ -50,11 +52,13 @@ UCYWBlijAB6IOpHIwsb3cecA;Danny Arends;DannyArends
 UCGk3So1d0HaPva5FpG9NAfQ;Darren Dahly;statsepi
 UCeYbe13SKAaIyuXtO1_cbpA;DASA.VicUni;
 UC4qGEuq0nCmWuAkfYkEV3Ew;Datenanalyse für alle;
+UCoVISopFg2dKPW0f563l07g;DataAnalysisExplained;
 UC0dgTZhVua-2yvtWDfPA_nQ;Data Centric Inc.;
 UC9ykygrgYWoUdwaMA3qhRaw;Data Garden;
 UCOOcd7f7eJTDNxKLde3lfOQ;Data Latam;datalatam
 UCH15dz_euC9vs75L6jW9pUg;Data Science Tutorials;
 UC2aSzSLSAKPhcYeBripRQJw;DataSense;
+UC4JRDwrS2QC4XNZnSex0Udw;David Dalpiaz;
 UCH0p67s0WM4-mkMI5l7JSiQ;David Keyes;dgkeyes
 UCdrnsZd2xWjDjHUlYsA6Kfw;Dr Lyndon Walker;DrLyndonWalker
 UCu4Y_H5Hlfivx31yM5FcLeQ;Dimitris Rizopoulos;drizopoulos
@@ -130,6 +134,7 @@ UCvoAaXbImj95zwgdguxbrPA;LajeunesseLab;LajeunesseLab
 UC2-hKemnrmVCH_29duyJ26A;Lander Analytics;LanderAnalytics
 UCt950nC6jlh2ELDRPigWOkg;LatinR;LatinR_Conf
 UCU5ZiUm-OLbVGW7NP0e-eFQ;Learn RStats;
+UCxx-CvAE0O8oDC6MMVCuh_Q;Learn R Programming Language;
 UCT4HNZZfFzsvcs-kBNTLkzQ;Learn R with Pallvi;
 UCxB1IGhLzlEOikTL-aDwqFg;Leonardo Collado Torres;lcolladotor
 UCHN3yqJ_OTvz9TXwSyjJTjw;librarianwomack;
@@ -313,7 +318,9 @@ UCPzO5TjnYnBzfUVj6fI3pdw;Vivian Codes;
 UCcGXGFClRdnrwXsPHi7P4ZA;Yury Zablotski;yuzaR___
 UCDHzgi5BGU5F-LXxQIIOyDw;yutannihilationのチャンネル (仮);yutannihilation
 UCF9ymC7Dpjwr0lge2QR_A5Q;webin-R;
+UCGktdbvbc_H-JEkYYTvwRVw;WeData;
 UCwLy_PYrnCEhCU-Ay2F5Drw;Why R? Foundation;whyRconf
 UCr8qT7gK9WQZjCNz7Agi7sA;Why R? Turkey;WhyRTurkey
 UC6CGjeirR3cgUVAmmez3glw;Zongzhang Li;
 UCW-epmIvjBEhhVXw_F0Nqbw;한국 R 사용자회;
+UC2bYkgsEdEsY0eshZpps2aQ;곽기영;
