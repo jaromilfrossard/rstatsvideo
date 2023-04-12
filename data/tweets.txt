@@ -23875,3 +23875,119 @@ UC3xfbCMLCw1Hh4dWop3XtHg;EGAs7zuRutY;2023-04-11T16:05:30Z;"📺 New #rstatsvideo
 🗣 🇬🇧
 #rstats #rstudio #datascience #machinelearning #python #stats #tidyverse
 🔗 https://www.youtube.com/watch?v=EGAs7zuRutY"
+UC6LqpR5qBfNlQp5mVIVsthA;CHkriKBlNws;2023-04-11T12:32:25Z;"📺 New #rstatsvideo: Keynote, Filip Stachura: Transforming Business with Open Source: Insights from the Pharma Industry
+▶ Appsilon (@appsilon)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=CHkriKBlNws"
+UC6CGjeirR3cgUVAmmez3glw;fBX6iju9M8g;2023-04-11T18:15:43Z;"📺 New #rstatsvideo: R描述统计输出结果的表格话及导出到word文档 1 2X
+▶ Zongzhang Li
+🗣 🇸🇬
+#rstats
+🔗 https://www.youtube.com/watch?v=fBX6iju9M8g"
+UCCaChdLMTYMxyawR_Qf-kYA;2vxnzqWp-OU;2023-04-11T19:39:15Z;"📺 New #rstatsvideo: Advanced R: OOP Trade-offs (advr07 16)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=2vxnzqWp-OU"
+UC3xfbCMLCw1Hh4dWop3XtHg;q7yCapEdzhk;2023-04-11T21:30:41Z;"📺 New #rstatsvideo: Leveraging Pins with Posit Connect
+▶ Posit PBC (@posit_pbc)
+🗣 🇬🇧
+#rstats
+🔗 https://www.youtube.com/watch?v=q7yCapEdzhk"
+UC6CGjeirR3cgUVAmmez3glw;fD84Eu5oYi4;2023-04-12T04:00:24Z;"📺 New #rstatsvideo: R中相关系数的计算与可视化呈现
+▶ Zongzhang Li
+🗣 🇸🇬
+#rstats
+🔗 https://www.youtube.com/watch?v=fD84Eu5oYi4"
+UC6CGjeirR3cgUVAmmez3glw;l0Kmf2SVloI;2023-04-12T04:00:31Z;"📺 New #rstatsvideo: ggplot函数绘制散点图
+▶ Zongzhang Li
+🗣 🇸🇬
+#rstats
+🔗 https://www.youtube.com/watch?v=l0Kmf2SVloI"
+UC6CGjeirR3cgUVAmmez3glw;igh5TCzdHL8;2023-04-12T12:00:36Z;"📺 New #rstatsvideo: R 分组数据的描述性统计量的计算psych::describeBy()
+▶ Zongzhang Li
+🗣 🇸🇬
+#rstats
+🔗 https://www.youtube.com/watch?v=igh5TCzdHL8"
+UCCaChdLMTYMxyawR_Qf-kYA;zM4X1TS_EyU;2023-04-12T13:03:34Z;"📺 New #rstatsvideo: Geocomputation w R: Geometry operations (geocompr01 5)
+▶ R4DS Online Learning Community (@R4DScommunity)
+🗣 🇬🇧
+#rstats #geocomputation
+🔗 https://www.youtube.com/watch?v=zM4X1TS_EyU"
+UCyHEww8_SCdxZvEnkCfi55w;r3Z-_coo5XU;2023-04-12T14:00:29Z;"📺 New #rstatsvideo: na.omit Function in R (Example) | Listwise Deletion | Data Frame & Vector | Remove Incomplete Cases
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom
+🔗 https://www.youtube.com/watch?v=r3Z-_coo5XU"
+UCHN3yqJ_OTvz9TXwSyjJTjw;Gy7IlQu5AXs;2013-10-18T00:59:42Z;"📺 #rstatsvideo: Time Series in R Session 1.4 (Stochastic Models)
+▶ librarianwomack
+#rstats #rprogramminglanguage #rutgersuniversitycollegeuniversity #timeseries
+🔗 https://www.youtube.com/watch?v=Gy7IlQu5AXs"
+UCP8l94xtoemCH_GxByvTuFQ;IttKxG1wgCw;2020-05-25T02:22:31Z;"📺 #rstatsvideo: TidyX Episode 11 | Times Series and Bayes
+▶ TidyX (@tidy_explained)
+#rstats #programming #tidytuesday #bayestheorem #bayes #statistics #rprogramming #ggplot #ggplot2 #beachvolleyball #volleyball
+🔗 https://www.youtube.com/watch?v=IttKxG1wgCw"
+UCGuktEl5InrcxPfCjmPWxsA;DEEnkviDWoM;2020-11-19T17:00:08Z;"📺 #rstatsvideo: Named and anonymous functions in R: Fun fun functions! (CC049)
+▶ Riffomonas Project (@PatSchloss)
+🗣 🇬🇧
+#rstats #asv #esv #codeclub #livecode #screencast #livecoding #githubflow #gitflow #terminal #atom #bash
+🔗 https://www.youtube.com/watch?v=DEEnkviDWoM"
+UCqQ_cxcNu1ekqHXDc-MbU_w;M3h11elq34E;2021-04-13T12:19:18Z;"📺 #rstatsvideo: datapasta: copy-and-paste tables into R.
+▶ Business Science (@bizScienc)
+#rstats
+🔗 https://www.youtube.com/watch?v=M3h11elq34E"
+UCrxjf_pqTZKMdAuU-WbkENA;misT4eNgmhM;2021-04-14T07:34:31Z;"📺 #rstatsvideo: LIVE: Learning Bayesian Cognitive Modeling | day 13
+▶ Kianté Fernandez
+#rstats
+🔗 https://www.youtube.com/watch?v=misT4eNgmhM"
+UClGaKSIiaYp8o2SB3D3aS_A;DpgFnT7uxY8;2021-06-24T12:49:38Z;"📺 #rstatsvideo: Week 6 Part 6 working with the axes of a graph
+▶ InsiderMiner (@forcesofhabit)
+#rstats #datamining #rprogramming #probability #statistics #programming
+🔗 https://www.youtube.com/watch?v=DpgFnT7uxY8"
+UC7C4YZ-9itQW7Nl4RVKDflg;DXuW_cUNPaI;2021-08-26T14:10:17Z;"📺 #rstatsvideo: Take a Sad Chart and Make It Better by Trang Le (8/25/2021)
+▶ Cleveland R User Group
+#rstats
+🔗 https://www.youtube.com/watch?v=DXuW_cUNPaI"
+UCOEuOH6cY8yisodud25hb7w;BSGGuBbexXY;2022-02-16T17:29:05Z;"📺 #rstatsvideo: HARUG! Harper Adams R Users Group #81 Web file download automation in R
+▶ Data Science Garage
+#rstats
+🔗 https://www.youtube.com/watch?v=BSGGuBbexXY"
+UC6CGjeirR3cgUVAmmez3glw;JZR2Y3xYMBI;2023-04-12T16:00:20Z;"📺 New #rstatsvideo: R的关系运算符 Relational Operators
+▶ Zongzhang Li
+🗣 🇸🇬
+#rstats
+🔗 https://www.youtube.com/watch?v=JZR2Y3xYMBI"
+UC_R5smHVXRYGhZYDJsnXTwg;aIxQz2wH-vk;2018-07-14T22:18:11Z;"📺 #rstatsvideo: New Features in the car and effects Packages
+▶ R Consortium (@RConsortium)
+#rstats
+🔗 https://www.youtube.com/watch?v=aIxQz2wH-vk"
+UCyHEww8_SCdxZvEnkCfi55w;fdpCcl0uZU8;2020-08-03T14:00:08Z;"📺 #rstatsvideo: R Select Rows with Partial String Match (2 Examples) | Extract Character Pattern | str_detect & like
+▶ Statistics Globe (@JoachimSchork)
+🗣 🇬🇧
+#rstats #statisticsglobe #statisticsglobecom #statisticalprogramming
+🔗 https://www.youtube.com/watch?v=fdpCcl0uZU8"
+UC5FvzLMVNrTMW-ycrW-4KyA;x_S70Q13Zqo;2020-10-12T05:05:59Z;"📺 #rstatsvideo: Rstudio에서 파이썬 사용하기 - reticulate 패키지를 이용한 R과 Python 연동
+▶ Statistics Playbook
+🗣 🇰🇷
+#rstats #파이썬 #pythonide #r에서파이썬사용하기 #reticulate
+🔗 https://www.youtube.com/watch?v=x_S70Q13Zqo"
+UCPfMGYxAOm39sO8nuEMB96Q;Ohu5P89WJj4;2021-07-11T14:15:11Z;"📺 #rstatsvideo: Correlación Parcial en RStudio
+▶ José Antonio: Estadística Aplicada
+🗣 🇪🇸
+#rstats #correlaciónparcialenrstudio #partialcorrelationinrstudio #correlaciónparcialenr #partialcorrelationinr #correlaciónparcial
+🔗 https://www.youtube.com/watch?v=Ohu5P89WJj4"
+UCqaMSQd_h-2EDGsU6WDiX0Q;in7VC5p2u8c;2021-11-30T18:37:20Z;"📺 #rstatsvideo: Rを用いたメタボロームデータ解析: Metabolome data analysis using R
+▶ Bioconductor (@Bioconductor)
+#rstats
+🔗 https://www.youtube.com/watch?v=in7VC5p2u8c"
+UC2aSzSLSAKPhcYeBripRQJw;MdKKZuysx74;2022-08-15T16:00:19Z;"📺 #rstatsvideo: R语言快速入门06 tidyverse包的安装和加载
+▶ DataSense
+🗣 🇨🇳
+#rstats #数据分析
+🔗 https://www.youtube.com/watch?v=MdKKZuysx74"
+UCJV7u9gZdSLRAyxEp5AkhNw;46tuQ6JZCtQ;2022-12-09T10:26:14Z;"📺 #rstatsvideo: How to do Data Analysis with R programming.4-11,12 Aggregating data & Descriptive statistics #howto
+▶ EasyDataScience (@weizhang2508)
+🗣 🇬🇧
+#rstats #rprogramming #dataanalysis #datascience #howto #data #statistics
+🔗 https://www.youtube.com/watch?v=46tuQ6JZCtQ"
